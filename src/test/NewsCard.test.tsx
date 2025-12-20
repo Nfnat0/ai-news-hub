@@ -8,7 +8,7 @@ const mockNews: NewsItem = {
     link: 'https://example.com/news',
     pubDate: new Date().toISOString(),
     description: 'Test description',
-    thumbnail: 'https://picsum.photos/seed/test/800/450',
+    thumbnail: 'https://placekitten.com/400/225',
 };
 
 const oldNews: NewsItem = {
@@ -16,7 +16,7 @@ const oldNews: NewsItem = {
     link: 'https://example.com/old-news',
     pubDate: new Date(Date.now() - 48 * 60 * 60 * 1000).toISOString(), // 48 hours ago
     description: 'Old description',
-    thumbnail: 'https://picsum.photos/seed/old/800/450',
+    thumbnail: 'https://placedog.net/400/225?id=1',
 };
 
 describe('NewsCard', () => {
@@ -51,7 +51,8 @@ describe('NewsCard', () => {
         render(<NewsCard news={newsWithoutThumbnail} index={5} />);
 
         const image = screen.getByTestId('news-card-image');
-        expect(image).toHaveAttribute('src', 'https://picsum.photos/seed/card-5/800/450');
+        // index 5 は奇数なので犬の画像
+        expect(image).toHaveAttribute('src', 'https://placedog.net/400/225?id=5');
     });
 
     it('switches to fallback image on error', () => {
@@ -62,7 +63,8 @@ describe('NewsCard', () => {
 
         fireEvent.error(image);
 
-        expect(image).toHaveAttribute('src', 'https://picsum.photos/seed/card-3/800/450');
+        // index 3 は奇数なので犬の画像
+        expect(image).toHaveAttribute('src', 'https://placedog.net/400/225?id=3');
     });
 
     it('shows NEW badge for recent articles (within 24 hours)', () => {

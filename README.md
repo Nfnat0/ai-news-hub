@@ -108,9 +108,9 @@ npm run test:watch
 - Limit: 10,000 requests/day (free tier)
 
 ### Unsplash Source API (Fallback Images)
-- URL: `https://source.unsplash.com/{width}x{height}/?{animal},cute,animal`
+- PlaceKitten: `https://placekitten.com/{width}/{height}` - Cute cat images
+- PlaceDog: `https://placedog.net/{width}/{height}?id={number}` - Cute dog images
 - Purpose: Beautiful animal images when news thumbnails are unavailable
-- Features: Random cute animal photos (dogs, cats, puppies, kittens, rabbits, pandas, etc.)
 
 ## Deployment
 

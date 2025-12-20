@@ -68,13 +68,17 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
 
     const currentNews = topNews[currentIndex];
 
-    // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
-    const animals = [
-        'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten',
-        'dog', 'cat', 'puppy', 'kitten',
-        'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala',
-        'otter', 'penguin', 'seal', 'red-panda'
-    ];
+    // 確実に動物画像を表示するAPI（犬猫の割合を高く）
+    const getAnimalImage = (idx: number, width: number, height: number) => {
+        const isCat = idx % 2 === 0; // 偶数は猫、奇数は犬
+        if (isCat) {
+            const w = width + (idx % 5) * 10;
+            const h = height + (idx % 3) * 5;
+            return `https://placekitten.com/${w}/${h}`;
+        } else {
+            return `https://placedog.net/${width}/${height}?id=${idx}`;
+        }
+    };
 
     const isNew = isNewArticle(currentNews.pubDate);
 
@@ -98,10 +102,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
                 {topNews.map((news, index) => {
-                    const animalIndex = index % animals.length;
-                    const animal = animals[animalIndex];
-                    // Unsplash Source APIを使用（より確実に動物画像が表示される）
-                    const heroFallback = `https://source.unsplash.com/1920x1080/?${animal},cute,animal`;
+                    const heroFallback = getAnimalImage(index, 1200, 675);
 
                     return (
                         <img

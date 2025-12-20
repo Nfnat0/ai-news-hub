@@ -13,17 +13,23 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     const [imgError, setImgError] = useState(false);
     const isNew = isNewArticle(news.pubDate);
 
-    // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
-    const animals = [
-        'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten',
-        'dog', 'cat', 'puppy', 'kitten',
-        'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala',
-        'otter', 'penguin', 'seal', 'red-panda'
-    ];
-    const animalIndex = index % animals.length;
-    const animal = animals[animalIndex];
-    // Unsplash Source APIを使用（より確実に動物画像が表示される）
-    const fallbackImage = `https://source.unsplash.com/800x450/?${animal},cute,animal`;
+    // 確実に動物画像を表示するAPI（犬猫の割合を高く）
+    // PlaceKitten: https://placekitten.com/{width}/{height}
+    // PlaceDog: https://placedog.net/{width}/{height}?id={number}
+    const getAnimalImage = (idx: number) => {
+        const isCat = idx % 2 === 0; // 偶数は猫、奇数は犬
+        if (isCat) {
+            // PlaceKittenは同じサイズでも異なる画像を返す
+            const width = 400 + (idx % 5) * 10;
+            const height = 225 + (idx % 3) * 5;
+            return `https://placekitten.com/${width}/${height}`;
+        } else {
+            // PlaceDogはidで異なる画像を指定
+            return `https://placedog.net/400/225?id=${idx}`;
+        }
+    };
+
+    const fallbackImage = getAnimalImage(index);
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);

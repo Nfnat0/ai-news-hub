@@ -34,20 +34,17 @@ const extractImageFromDescription = (description) => {
 };
 
 const getFallbackImage = (keyword, index) => {
-  // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
-  const animals = [
-    'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten', // 犬猫を2回追加
-    'dog', 'cat', 'puppy', 'kitten', // さらに追加して割合を高く
-    'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala', 
-    'otter', 'penguin', 'seal', 'red-panda'
-  ];
-  
-  // キーワードとインデックスからランダムな動物を選択
-  const animalIndex = (keyword.length + index) % animals.length;
-  const animal = animals[animalIndex];
-  
-  // Unsplash Source APIを使用（より確実に動物画像が表示される）
-  return `https://source.unsplash.com/800x450/?${animal},cute,animal`;
+  // 確実に動物画像を表示するAPI（犬猫の割合を高く）
+  // PlaceKitten: https://placekitten.com/{width}/{height}
+  // PlaceDog: https://placedog.net/{width}/{height}?id={number}
+  const isCat = index % 2 === 0; // 偶数は猫、奇数は犬
+  if (isCat) {
+    const width = 400 + (index % 5) * 10;
+    const height = 225 + (index % 3) * 5;
+    return `https://placekitten.com/${width}/${height}`;
+  } else {
+    return `https://placedog.net/400/225?id=${index}`;
+  }
 };
 
 const fetchNewsForTerm = async (term, locale) => {
