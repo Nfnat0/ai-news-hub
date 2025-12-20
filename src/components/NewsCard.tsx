@@ -13,23 +13,9 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     const [imgError, setImgError] = useState(false);
     const isNew = isNewArticle(news.pubDate);
 
-    // 確実に動物画像を表示するAPI（犬猫の割合を高く）
-    // PlaceKitten: https://placekitten.com/{width}/{height}
-    // PlaceDog: https://placedog.net/{width}/{height}?id={number}
-    const getAnimalImage = (idx: number) => {
-        const isCat = idx % 2 === 0; // 偶数は猫、奇数は犬
-        if (isCat) {
-            // PlaceKittenは同じサイズでも異なる画像を返す
-            const width = 400 + (idx % 5) * 10;
-            const height = 225 + (idx % 3) * 5;
-            return `https://placekitten.com/${width}/${height}`;
-        } else {
-            // PlaceDogはidで異なる画像を指定
-            return `https://placedog.net/400/225?id=${idx}`;
-        }
-    };
-
-    const fallbackImage = getAnimalImage(index);
+    // 犬の画像のみを表示（乱数で異なる画像を取得）
+    const randomSeed = Math.floor(Math.random() * 1000);
+    const fallbackImage = `https://placedog.net/400/225?random&id=${index}-${randomSeed}`;
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);
@@ -49,7 +35,7 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
             href={news.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="group relative flex-shrink-0 w-[286px] hover:w-[372px] bg-gray-900/40 backdrop-blur-sm rounded-xl overflow-hidden transition-all duration-300 ease-out hover:z-20 hover:shadow-2xl border border-white/5 hover:border-white/20"
+            className="group relative flex-shrink-0 w-[316px] hover:w-[372px] bg-gray-900/40 backdrop-blur-sm rounded-xl overflow-hidden transition-all duration-300 ease-out hover:z-20 hover:shadow-2xl border border-white/5 hover:border-white/20"
             style={{ '--brand-color': brandColor } as React.CSSProperties}
         >
             <div className="relative h-28 overflow-hidden">

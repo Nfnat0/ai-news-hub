@@ -34,17 +34,9 @@ const extractImageFromDescription = (description) => {
 };
 
 const getFallbackImage = (keyword, index) => {
-  // 確実に動物画像を表示するAPI（犬猫の割合を高く）
-  // PlaceKitten: https://placekitten.com/{width}/{height}
-  // PlaceDog: https://placedog.net/{width}/{height}?id={number}
-  const isCat = index % 2 === 0; // 偶数は猫、奇数は犬
-  if (isCat) {
-    const width = 400 + (index % 5) * 10;
-    const height = 225 + (index % 3) * 5;
-    return `https://placekitten.com/${width}/${height}`;
-  } else {
-    return `https://placedog.net/400/225?id=${index}`;
-  }
+  // 犬の画像のみを表示（乱数で異なる画像を取得）
+  const randomSeed = Math.floor(Math.random() * 1000);
+  return `https://placedog.net/400/225?random&id=${index}-${randomSeed}`;
 };
 
 const fetchNewsForTerm = async (term, locale) => {
@@ -96,7 +88,7 @@ const fetchNewsForCompany = async (company, locale) => {
     await delay(10000); // 10 seconds delay between requests
   }
 
-  return allNews.slice(0, 7); // Limit to top 15 combined
+  return allNews.slice(0, 5); // Limit to top 5 combined
 };
 
 const fetchNewsForLocale = async (locale) => {

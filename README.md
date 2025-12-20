@@ -107,10 +107,9 @@ npm run test:watch
 - Purpose: Convert Google News RSS to JSON
 - Limit: 10,000 requests/day (free tier)
 
-### Unsplash Source API (Fallback Images)
-- PlaceKitten: `https://placekitten.com/{width}/{height}` - Cute cat images
-- PlaceDog: `https://placedog.net/{width}/{height}?id={number}` - Cute dog images
-- Purpose: Beautiful animal images when news thumbnails are unavailable
+### PlaceDog API (Fallback Images)
+- URL: `https://placedog.net/{width}/{height}?random&id={unique-id}`
+- Purpose: Cute dog images when news thumbnails are unavailable
 
 ## Deployment
 

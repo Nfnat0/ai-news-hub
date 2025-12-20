@@ -24,15 +24,13 @@ const testNewsData = (newsData: typeof newsDataEn, locale: string) => {
             });
         });
 
-        it('fallback images use valid animal image URLs', () => {
-            const placekittenPattern = /^https:\/\/placekitten\.com\/\d+\/\d+$/;
-            const placedogPattern = /^https:\/\/placedog\.net\/\d+\/\d+\?id=\d+$/;
+        it('fallback images use valid dog image URLs', () => {
+            const placedogPattern = /^https:\/\/placedog\.net\/\d+\/\d+/;
 
             newsData.companies.forEach((company) => {
                 company.news.forEach((news) => {
-                    if (news.thumbnail.includes('placekitten.com') || news.thumbnail.includes('placedog.net')) {
-                        const isValidUrl = placekittenPattern.test(news.thumbnail) || placedogPattern.test(news.thumbnail);
-                        expect(isValidUrl).toBe(true);
+                    if (news.thumbnail.includes('placedog.net')) {
+                        expect(news.thumbnail).toMatch(placedogPattern);
                     }
                 });
             });

@@ -68,16 +68,10 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
 
     const currentNews = topNews[currentIndex];
 
-    // 確実に動物画像を表示するAPI（犬猫の割合を高く）
-    const getAnimalImage = (idx: number, width: number, height: number) => {
-        const isCat = idx % 2 === 0; // 偶数は猫、奇数は犬
-        if (isCat) {
-            const w = width + (idx % 5) * 10;
-            const h = height + (idx % 3) * 5;
-            return `https://placekitten.com/${w}/${h}`;
-        } else {
-            return `https://placedog.net/${width}/${height}?id=${idx}`;
-        }
+    // 犬の画像のみを表示（乱数で異なる画像を取得）
+    const getAnimalImage = (idx: number) => {
+        const randomSeed = Math.floor(Math.random() * 1000);
+        return `https://placedog.net/1200/675?random&id=${idx}-${randomSeed}`;
     };
 
     const isNew = isNewArticle(currentNews.pubDate);
@@ -102,7 +96,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
                 {topNews.map((news, index) => {
-                    const heroFallback = getAnimalImage(index, 1200, 675);
+                    const heroFallback = getAnimalImage(index);
 
                     return (
                         <img
