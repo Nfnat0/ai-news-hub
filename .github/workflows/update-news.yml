@@ -45,6 +45,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add src/data/news_*.json
           git diff --staged --quiet || git commit -m "chore: update news data [skip ci]"
+          git pull --rebase origin main
           git push
 
       # 6. プロジェクトをビルド
