@@ -100,7 +100,8 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                 {topNews.map((news, index) => {
                     const animalIndex = index % animals.length;
                     const animal = animals[animalIndex];
-                    const heroFallback = `https://picsum.photos/seed/cute-${animal}-hero-${index}/1920/1080`;
+                    // Unsplash Source APIを使用（より確実に動物画像が表示される）
+                    const heroFallback = `https://source.unsplash.com/1920x1080/?${animal},cute,animal`;
 
                     return (
                         <img
@@ -177,7 +178,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                         href={currentNews.link}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all hover:scale-105 shadow-lg"
+                        className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all hover:scale-105 shadow-lg hover:shadow-xl"
                     >
                         Read Article
                         <ExternalLink size={18} />

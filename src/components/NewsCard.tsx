@@ -22,7 +22,8 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     ];
     const animalIndex = index % animals.length;
     const animal = animals[animalIndex];
-    const fallbackImage = `https://picsum.photos/seed/cute-${animal}-card-${index}/800/450`;
+    // Unsplash Source APIを使用（より確実に動物画像が表示される）
+    const fallbackImage = `https://source.unsplash.com/800x450/?${animal},cute,animal`;
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);
@@ -31,10 +32,10 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
         const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
         const diffDays = Math.floor(diffHours / 24);
 
-        if (diffHours < 1) return 'Less than 1 hour ago';
-        if (diffHours < 24) return `${diffHours} hours ago`;
-        if (diffDays < 7) return `${diffDays} days ago`;
-        return date.toLocaleDateString('en-US');
+        if (diffHours < 1) return '1時間以内';
+        if (diffHours < 24) return `${diffHours}時間前`;
+        if (diffDays < 7) return `${diffDays}日前`;
+        return date.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
     };
 
     return (

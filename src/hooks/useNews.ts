@@ -55,12 +55,12 @@ export const useNews = () => {
 };
 
 export const useTopNews = (companyNews: CompanyNews[]): NewsItem[] => {
-    const allNews = companyNews
-        .flatMap((cn) => cn.news)
-        .filter((n) => n.pubDate)
-        .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+    // 各社の最新ニュースを1つずつ取得
+    const topNewsPerCompany = companyNews
+        .map((cn) => cn.news[0]) // 各社の先頭（最新）ニュースを取得
+        .filter((n) => n && n.pubDate); // 存在するニュースのみフィルタ
 
-    return allNews.slice(0, 5);
+    return topNewsPerCompany;
 };
 
 export const isNewArticle = (pubDate: string): boolean => {

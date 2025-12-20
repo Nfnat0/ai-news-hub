@@ -9,12 +9,14 @@ Displays news from Google AI, OpenAI, Microsoft AI, Anthropic, xAI, and Anyspher
 ## Features
 
 - **Multi-language Support**: Toggle between English (EN) and Japanese (JP) news
-- **Hero Carousel**: Auto-sliding (5s interval) with manual navigation, pauses on hover
-- **Company News Rows**: Horizontally scrollable cards with brand-colored titles (newest on left)
-- **Brand Colors**: Each company row title uses their official brand color
+- **Hero Carousel**: Auto-sliding (5s interval) with manual navigation, pauses on hover - displays top news from each company
+- **Company News Rows**: Horizontally scrollable cards with gradient brand-colored titles (newest on left)
+- **Gradient Brand Colors**: Each company row title uses beautiful gradient design based on their official brand colors
 - **NEW Badge**: Articles within 24 hours display a glowing "NEW" badge
+- **Cute Animal Fallback Images**: When news thumbnails are unavailable, displays random cute animal images (dogs, cats, and more)
 - **Official Links**: Separate tab with direct links to company websites
 - **Seamless Design**: Deep black (#141414) background throughout for Netflix-style experience
+- **Japanese Date Format**: Dates displayed in Japanese format (年月日)
 
 ## Tech Stack
 
@@ -55,10 +57,22 @@ npm run fetch-news
 This runs `scripts/fetch-news.js` which:
 1. Fetches news from Google News RSS for both EN and JP locales
 2. Sorts all articles by date (newest first)
-3. Assigns fallback images for missing thumbnails
+3. Assigns cute animal fallback images for missing thumbnails (dogs, cats, rabbits, etc.)
 4. Saves to `news_en.json` and `news_jp.json`
 
 **Recommended**: Run this script periodically (e.g., via cron or CI/CD) to keep news fresh.
+
+## Automated Updates with GitHub Actions
+
+The project includes a GitHub Actions workflow that automatically:
+- Fetches latest news every 6 hours (UTC: 0, 6, 12, 18)
+- Commits updated news data
+- Builds and deploys to GitHub Pages
+
+To enable:
+1. Go to repository Settings → Pages
+2. Set Source to "GitHub Actions"
+3. The workflow will run automatically on schedule or can be triggered manually
 
 ## Running Tests
 
@@ -93,11 +107,18 @@ npm run test:watch
 - Purpose: Convert Google News RSS to JSON
 - Limit: 10,000 requests/day (free tier)
 
-### Picsum Photos (Fallback Images)
-- URL: `https://picsum.photos/seed/{keyword}/800/450`
-- Purpose: Reliable placeholder images when news thumbnails are unavailable
+### Unsplash Source API (Fallback Images)
+- URL: `https://source.unsplash.com/{width}x{height}/?{animal},cute,animal`
+- Purpose: Beautiful animal images when news thumbnails are unavailable
+- Features: Random cute animal photos (dogs, cats, puppies, kittens, rabbits, pandas, etc.)
 
 ## Deployment
+
+### GitHub Pages (Recommended)
+Automated deployment via GitHub Actions:
+1. Push code to GitHub
+2. Enable GitHub Pages in repository settings (Source: GitHub Actions)
+3. Workflow automatically deploys on push and updates news every 6 hours
 
 ### Vercel
 ```bash

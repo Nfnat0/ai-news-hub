@@ -45,9 +45,9 @@ const getFallbackImage = (keyword, index) => {
   // キーワードとインデックスからランダムな動物を選択
   const animalIndex = (keyword.length + index) % animals.length;
   const animal = animals[animalIndex];
-  const seed = `cute-${animal}-${keyword}-${index}`.replace(/\s/g, '-');
   
-  return `https://picsum.photos/seed/${seed}/800/450`;
+  // Unsplash Source APIを使用（より確実に動物画像が表示される）
+  return `https://source.unsplash.com/800x450/?${animal},cute,animal`;
 };
 
 const fetchNewsForTerm = async (term, locale) => {
@@ -99,7 +99,7 @@ const fetchNewsForCompany = async (company, locale) => {
     await delay(10000); // 10 seconds delay between requests
   }
 
-  return allNews.slice(0, 5); // Limit to top 15 combined
+  return allNews.slice(0, 7); // Limit to top 15 combined
 };
 
 const fetchNewsForLocale = async (locale) => {
