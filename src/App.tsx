@@ -7,7 +7,7 @@ import { LanguageProvider } from './context/LanguageContext';
 function App() {
   return (
     <LanguageProvider>
-      <BrowserRouter basename="/ai-news-hub">
+      <BrowserRouter>
         <div className="min-h-screen bg-[#141414]">
           <Header />
           <Routes>

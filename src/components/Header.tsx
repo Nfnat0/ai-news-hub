@@ -10,7 +10,7 @@ export const Header = () => {
             <div className="flex items-center justify-between max-w-7xl mx-auto">
                 <Link to="/" className="flex items-center gap-2">
                     <span className="text-3xl font-extrabold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 hover:opacity-80 transition-opacity">
-                        AI News Hub
+                        AI DogDock
                     </span>
                 </Link>
                 <div className="flex items-center gap-6">

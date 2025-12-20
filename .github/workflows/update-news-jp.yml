@@ -2,7 +2,7 @@ name: Update Japanese News and Deploy
 
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'  # UTC: 0, 6, 12, 18時 = 日本時間: 9, 15, 21, 3時
+    - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -11,8 +11,6 @@ concurrency:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   update-and-deploy:
@@ -44,8 +42,10 @@ jobs:
           fi
 
       - run: npm run build
-      - uses: actions/configure-pages@v4
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
         with:
-          path: dist
-      - uses: actions/deploy-pages@v4
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=ai-dogdock
