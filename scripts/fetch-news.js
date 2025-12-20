@@ -34,9 +34,9 @@ const extractImageFromDescription = (description) => {
 };
 
 const getFallbackImage = (keyword, index) => {
-  // 犬の画像のみを表示（乱数で異なる画像を取得）
-  const randomSeed = Math.floor(Math.random() * 1000);
-  return `https://placedog.net/400/225?random&id=${index}-${randomSeed}`;
+  // Picsum Photosでランダム画像を表示
+  const seed = `${keyword}-${index}`.replace(/\s/g, '-');
+  return `https://picsum.photos/seed/${seed}/400/225`;
 };
 
 const fetchNewsForTerm = async (term, locale) => {

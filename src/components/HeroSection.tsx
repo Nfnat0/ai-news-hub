@@ -23,7 +23,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
         setCurrentIndex((prev) => (prev === topNews.length - 1 ? 0 : prev + 1));
     }, [topNews.length]);
 
-    // Auto-slide effect
     useEffect(() => {
         if (topNews.length <= 1 || isPaused) return;
 
@@ -34,7 +33,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
         return () => clearInterval(interval);
     }, [topNews.length, isPaused]);
 
-    // Reset index when news changes
     useEffect(() => {
         setCurrentIndex(0);
         setImgErrors({});
@@ -68,23 +66,23 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
 
     const currentNews = topNews[currentIndex];
 
-    // 犬の画像のみを表示（乱数で異なる画像を取得）
-    const getAnimalImage = (idx: number) => {
-        const randomSeed = Math.floor(Math.random() * 1000);
-        return `https://placedog.net/1200/675?random&id=${idx}-${randomSeed}`;
-    };
+    // 犬の画像を高解像度で取得（静的URL）
+    const staticDogImages = [
+        'https://images.dog.ceo/breeds/shiba/shiba-8.jpg',
+        'https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg',
+        'https://images.dog.ceo/breeds/husky/n02110185_10047.jpg',
+        'https://images.dog.ceo/breeds/corgi-cardigan/n02113186_10475.jpg',
+        'https://images.dog.ceo/breeds/samoyed/n02111889_10206.jpg',
+    ];
 
     const isNew = isNewArticle(currentNews.pubDate);
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);
-        return date.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit',
-        });
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        return `${year}-${month}-${day}`;
     };
 
     return (
@@ -96,14 +94,14 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
                 {topNews.map((news, index) => {
-                    const heroFallback = getAnimalImage(index);
+                    const heroFallback = staticDogImages[index % staticDogImages.length];
 
                     return (
                         <img
                             key={index}
                             src={imgErrors[index] ? heroFallback : news.thumbnail || heroFallback}
                             alt={news.title}
-                            className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
+                            className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 brightness-50 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
                                 }`}
                             onError={() => handleImageError(index)}
                         />
@@ -111,9 +109,12 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                 })}
             </div>
 
+            {/* Dark overlay for better text readability */}
+            <div className="absolute inset-0 bg-black/40" />
+
             {/* Gradient overlays for seamless blend */}
-            <div className="absolute inset-0 bg-gradient-to-t from-[#141414] via-[#141414]/60 to-transparent" />
-            <div className="absolute inset-0 bg-gradient-to-r from-[#141414]/90 via-transparent to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#141414] via-[#141414]/70 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-r from-[#141414]/95 via-transparent to-transparent" />
 
             {/* Navigation Buttons */}
             <button
@@ -160,7 +161,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                             </div>
                         )}
                     </div>
-                    <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight drop-shadow-lg">
+                    <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 leading-tight drop-shadow-lg">
                         {currentNews.title}
                     </h1>
                     <div className="flex items-center gap-4 text-gray-300/80 mb-6">

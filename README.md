@@ -107,17 +107,34 @@ npm run test:watch
 - Purpose: Convert Google News RSS to JSON
 - Limit: 10,000 requests/day (free tier)
 
-### PlaceDog API (Fallback Images)
-- URL: `https://placedog.net/{width}/{height}?random&id={unique-id}`
-- Purpose: Cute dog images when news thumbnails are unavailable
+### Fallback Images
+- Hero Section: PlaceDog API (`https://placedog.net/{width}/{height}`) - Cute dog images
+- News Cards: Picsum Photos (`https://picsum.photos/seed/{keyword}/400/225`) - Random images
 
 ## Deployment
 
 ### GitHub Pages (Recommended)
-Automated deployment via GitHub Actions:
-1. Push code to GitHub
-2. Enable GitHub Pages in repository settings (Source: GitHub Actions)
-3. Workflow automatically deploys on push and updates news every 6 hours
+
+**自動デプロイ設定済み** - このプロジェクトはGitHub Actionsで自動デプロイされます。
+
+#### 初回セットアップ
+
+1. **GitHub Pagesを有効化**
+   - リポジトリの **Settings** → **Pages**
+   - **Source** を **GitHub Actions** に設定
+
+2. **デプロイ実行**
+   - コードをプッシュすると自動デプロイ
+   - または **Actions** タブから手動実行
+
+3. **公開URL**
+   - `https://あなたのユーザー名.github.io/ai-news-hub/`
+
+#### 自動更新
+- 6時間ごとにニュースを自動取得してデプロイ
+- UTC 0, 6, 12, 18時に実行
+
+詳細は [DEPLOYMENT.md](./DEPLOYMENT.md) を参照してください。
 
 ### Vercel
 ```bash

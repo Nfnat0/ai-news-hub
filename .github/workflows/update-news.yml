@@ -1,35 +1,44 @@
 name: Update News and Deploy
 
+# このワークフローは以下のタイミングで実行されます:
+# 1. 6時間ごとに自動実行（UTC: 0, 6, 12, 18時 = 日本時間: 9, 15, 21, 3時）
+# 2. 手動実行（Actions タブから "Run workflow" をクリック）
 on:
   schedule:
     # 6時間ごとに実行 (UTC: 0, 6, 12, 18時)
     - cron: '0 */6 * * *'
   workflow_dispatch: # 手動実行も可能
 
+# GitHub Pagesへのデプロイに必要な権限
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write  # ニュースデータをコミットするため
+  pages: write     # GitHub Pagesにデプロイするため
+  id-token: write  # GitHub Pagesの認証のため
 
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
+      # 1. リポジトリをチェックアウト
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 2. Node.js 20をセットアップ
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      # 3. 依存関係をインストール
       - name: Install dependencies
         run: npm ci
 
+      # 4. 最新のニュースを取得
       - name: Fetch latest news
         run: node scripts/fetch-news.js
 
+      # 5. 更新されたニュースデータをコミット＆プッシュ
       - name: Commit updated news data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -38,17 +47,22 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update news data [skip ci]"
           git push
 
+      # 6. プロジェクトをビルド
       - name: Build
         run: npm run build
 
+      # 7. GitHub Pagesの設定
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      # 8. ビルド成果物をアップロード
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
+      # 9. GitHub Pagesにデプロイ
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+

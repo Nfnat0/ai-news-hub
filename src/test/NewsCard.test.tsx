@@ -8,7 +8,7 @@ const mockNews: NewsItem = {
     link: 'https://example.com/news',
     pubDate: new Date().toISOString(),
     description: 'Test description',
-    thumbnail: 'https://placedog.net/400/225?random&id=0-123',
+    thumbnail: 'https://picsum.photos/seed/test/400/225',
 };
 
 const oldNews: NewsItem = {
@@ -16,7 +16,7 @@ const oldNews: NewsItem = {
     link: 'https://example.com/old-news',
     pubDate: new Date(Date.now() - 48 * 60 * 60 * 1000).toISOString(), // 48 hours ago
     description: 'Old description',
-    thumbnail: 'https://placedog.net/400/225?random&id=1-456',
+    thumbnail: 'https://picsum.photos/seed/old/400/225',
 };
 
 describe('NewsCard', () => {
@@ -51,8 +51,7 @@ describe('NewsCard', () => {
         render(<NewsCard news={newsWithoutThumbnail} index={5} />);
 
         const image = screen.getByTestId('news-card-image');
-        // 犬の画像URLパターンを確認
-        expect(image.getAttribute('src')).toMatch(/^https:\/\/placedog\.net\/400\/225\?random&id=5-\d+$/);
+        expect(image).toHaveAttribute('src', 'https://picsum.photos/seed/card-5/400/225');
     });
 
     it('switches to fallback image on error', () => {
@@ -63,8 +62,7 @@ describe('NewsCard', () => {
 
         fireEvent.error(image);
 
-        // 犬の画像URLパターンを確認
-        expect(image.getAttribute('src')).toMatch(/^https:\/\/placedog\.net\/400\/225\?random&id=3-\d+$/);
+        expect(image).toHaveAttribute('src', 'https://picsum.photos/seed/card-3/400/225');
     });
 
     it('shows NEW badge for recent articles (within 24 hours)', () => {
@@ -77,5 +75,16 @@ describe('NewsCard', () => {
         render(<NewsCard news={oldNews} index={0} />);
 
         expect(screen.queryByText('New')).not.toBeInTheDocument();
+    });
+
+    it('displays date in YYYY-MM-DD format', () => {
+        const newsWithDate: NewsItem = {
+            ...mockNews,
+            pubDate: '2024-12-15T10:30:00Z',
+        };
+
+        render(<NewsCard news={newsWithDate} index={0} />);
+
+        expect(screen.getByText('2024-12-15')).toBeInTheDocument();
     });
 });

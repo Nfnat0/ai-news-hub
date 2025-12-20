@@ -24,11 +24,15 @@ const testNewsData = (newsData: typeof newsDataEn, locale: string) => {
             });
         });
 
-        it('fallback images use valid dog image URLs', () => {
+        it('fallback images use valid URLs', () => {
+            const picsumPattern = /^https:\/\/picsum\.photos\/seed\/[\w-]+\/\d+\/\d+$/;
             const placedogPattern = /^https:\/\/placedog\.net\/\d+\/\d+/;
 
             newsData.companies.forEach((company) => {
                 company.news.forEach((news) => {
+                    if (news.thumbnail.includes('picsum.photos')) {
+                        expect(news.thumbnail).toMatch(picsumPattern);
+                    }
                     if (news.thumbnail.includes('placedog.net')) {
                         expect(news.thumbnail).toMatch(placedogPattern);
                     }

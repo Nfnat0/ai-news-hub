@@ -13,21 +13,15 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     const [imgError, setImgError] = useState(false);
     const isNew = isNewArticle(news.pubDate);
 
-    // 犬の画像のみを表示（乱数で異なる画像を取得）
-    const randomSeed = Math.floor(Math.random() * 1000);
-    const fallbackImage = `https://placedog.net/400/225?random&id=${index}-${randomSeed}`;
+    // Picsum Photosでランダム画像を表示
+    const fallbackImage = `https://picsum.photos/seed/card-${index}/400/225`;
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);
-        const now = new Date();
-        const diffMs = now.getTime() - date.getTime();
-        const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
-        const diffDays = Math.floor(diffHours / 24);
-
-        if (diffHours < 1) return '1時間以内';
-        if (diffHours < 24) return `${diffHours}時間前`;
-        if (diffDays < 7) return `${diffDays}日前`;
-        return date.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric' });
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        return `${year}-${month}-${day}`;
     };
 
     return (
@@ -35,18 +29,18 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
             href={news.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="group relative flex-shrink-0 w-[316px] hover:w-[372px] bg-gray-900/40 backdrop-blur-sm rounded-xl overflow-hidden transition-all duration-300 ease-out hover:z-20 hover:shadow-2xl border border-white/5 hover:border-white/20"
+            className="group relative flex-shrink-0 w-[316px] hover:w-[400px] hover:-mx-2 bg-gray-900/40 backdrop-blur-sm overflow-hidden transition-all duration-300 ease-out hover:z-20 hover:shadow-2xl border border-transparent rounded-xl"
             style={{ '--brand-color': brandColor } as React.CSSProperties}
         >
-            <div className="relative h-28 overflow-hidden">
+            <div className="relative h-40 overflow-hidden">
                 <img
                     src={imgError ? fallbackImage : news.thumbnail || fallbackImage}
                     alt={news.title}
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                    className="w-full h-full object-cover transition-all duration-500 group-hover:scale-110 brightness-75 group-hover:brightness-50"
                     onError={() => setImgError(true)}
                     data-testid="news-card-image"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent opacity-60" />
+                <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40 to-transparent opacity-80" />
 
                 {/* NEW Badge */}
                 {isNew && (
@@ -67,8 +61,8 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
                     </div>
                 </div>
             </div>
-            <div className="p-3 h-36 flex flex-col justify-between">
-                <h3 className="text-gray-100 font-bold text-base line-clamp-4 leading-snug transition-colors duration-300 group-hover:text-[var(--brand-color)]">
+            <div className="p-3 h-34 flex flex-col justify-between">
+                <h3 className="text-gray-100 font-bold text-lg line-clamp-4 leading-snug transition-colors duration-300 group-hover:text-[var(--brand-color)]">
                     {news.title}
                 </h3>
                 <p className="text-gray-500 text-xs font-medium">{formatDate(news.pubDate)}</p>
