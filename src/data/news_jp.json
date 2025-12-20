@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-20T17:32:24.604Z",
+  "fetchedAt": "2025-12-20T17:56:43.018Z",
   "locale": "jp",
   "companies": [
     {
@@ -171,39 +171,39 @@
       "displayName": "Amazon",
       "news": [
         {
+          "title": "AWS は、Kiro、Security、DevOps という 3 つの最先端エージェントをリリースし、AI をツールから「チームの自律的なメンバー」へと変革します。 - Mashdigi",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaVNTTHhUSFhxTjJKR2hGMFF0d2g1NXZ2bTByWmxITU1Wa1FjTEpsb1d6dFJrY2I3dWtNYmlTWW9NQzlDY2ZlQnpuZFhEUUM3MHVVSWNrRzg5RGk5czNvdVNvc2R2THNON1NCTWpPcjhaSDlLNmFOYm1Pa3VERzZGTlp4RGx1WjNYLUUtRUJzLXJiSFRBVHFJSXhhbVk5REFUZ3E4eURVTUNPbVd2ZmpBdWUwS1FfX0lPX0xGamN6SG5OMTZGNVFQaUk5N2ZlUWt0WjdiZUpYNEtkVUFGc2t0eTVZYzhkeGZkZHV2eG9mOExKMUFITEpsMVpuZw?oc=5",
+          "pubDate": "2025-12-20 11:25:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaVNTTHhUSFhxTjJKR2hGMFF0d2g1NXZ2bTByWmxITU1Wa1FjTEpsb1d6dFJrY2I3dWtNYmlTWW9NQzlDY2ZlQnpuZFhEUUM3MHVVSWNrRzg5RGk5czNvdVNvc2R2THNON1NCTWpPcjhaSDlLNmFOYm1Pa3VERzZGTlp4RGx1WjNYLUUtRUJzLXJiSFRBVHFJSXhhbVk5REFUZ3E4eURVTUNPbVd2ZmpBdWUwS1FfX0lPX0xGamN6SG5OMTZGNVFQaUk5N2ZlUWt0WjdiZUpYNEtkVUFGc2t0eTVZYzhkeGZkZHV2eG9mOExKMUFITEpsMVpuZw?oc=5\" target=\"_blank\">AWS は、Kiro、Security、DevOps という 3 つの最先端エージェントをリリースし、AI をツールから「チームの自律的なメンバー」へと変革します。</a>  Mashdigi",
+          "thumbnail": "https://picsum.photos/seed/Kiro-0/400/225"
+        },
+        {
           "title": "HashiCorp、AWSのAI搭載IDE「Kiro」向けに「HashiCorp Terraform Power」提供 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01anN2cWlIN0w1SkZUMGtSbENYR1JJWG9TdGRjV0pUOU9GM0lKN0dHaHN2Y1hhVVlvVnR6X2cwUlZiSlRzdHVEY1JjYkxndw?oc=5",
           "pubDate": "2025-12-15 09:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE01anN2cWlIN0w1SkZUMGtSbENYR1JJWG9TdGRjV0pUOU9GM0lKN0dHaHN2Y1hhVVlvVnR6X2cwUlZiSlRzdHVEY1JjYkxndw?oc=5\" target=\"_blank\">HashiCorp、AWSのAI搭載IDE「Kiro」向けに「HashiCorp Terraform Power」提供</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/Kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/Kiro-2/400/225"
         },
         {
           "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
           "pubDate": "2025-12-05 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/Kiro-0/400/225"
-        },
-        {
-          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/Kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/Kiro-1/400/225"
         },
         {
           "title": "AWS、VS Codeベース開発環境「Kiro」の一般提供開始 数千テストケースを自動生成、検証する仕組みとは - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wR3BkUnFCTHEzUTdZTDBaT2ZVdzExM01waVVwQy1oTmJmb2tRVlhPU2xWaEtNUVBEQXE5UWVqQWtid2hGell3QWszSUgtTEl3TklZaG5mdmR1bkM1VGtxMXZNbXg1OWhCX29sVTl5NEFzdw?oc=5",
           "pubDate": "2025-12-03 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0wR3BkUnFCTHEzUTdZTDBaT2ZVdzExM01waVVwQy1oTmJmb2tRVlhPU2xWaEtNUVBEQXE5UWVqQWtid2hGell3QWszSUgtTEl3TklZaG5mdmR1bkM1VGtxMXZNbXg1OWhCX29sVTl5NEFzdw?oc=5\" target=\"_blank\">AWS、VS Codeベース開発環境「Kiro」の一般提供開始 数千テストケースを自動生成、検証する仕組みとは</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/Kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/Kiro-4/400/225"
         },
         {
           "title": "AWS、「Kiro」を一般提供──仕様駆動のAIコーディングをIDEとターミナルで一元化 - Ledge.ai",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSXVxWjJ5aXVucktvQUQ0ZTRjV0xVcXItSWN0UjFIMk9YaDk5SkpxYmNyMGk1T2lndnI2ejRTSHZxOW84dFJNM2hldy16WU0tOTRGT25IVzFqcGxWQkxOR09IOXZFUQ?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSXVxWjJ5aXVucktvQUQ0ZTRjV0xVcXItSWN0UjFIMk9YaDk5SkpxYmNyMGk1T2lndnI2ejRTSHZxOW84dFJNM2hldy16WU0tOTRGT25IVzFqcGxWQkxOR09IOXZFUQ?oc=5\" target=\"_blank\">AWS、「Kiro」を一般提供──仕様駆動のAIコーディングをIDEとターミナルで一元化</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/Kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/Kiro-3/400/225"
         }
       ]
     },
