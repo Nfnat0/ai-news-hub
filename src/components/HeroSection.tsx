@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
 import { ExternalLink, Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { NewsItem } from '../types';
 import { isNewArticle } from '../hooks/useNews';
@@ -12,8 +12,15 @@ const AUTO_SLIDE_INTERVAL = 5000;
 
 export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     const [currentIndex, setCurrentIndex] = useState(0);
-    const [imgErrors, setImgErrors] = useState<Record<number, boolean>>({});
     const [isPaused, setIsPaused] = useState(false);
+
+    // PlaceDogで犬の画像URLを生成（topNewsが変わるまで固定）
+    const dogImages = useMemo(() => {
+        return topNews.map((_, idx) => {
+            const randomSeed = Math.floor(Math.random() * 1000);
+            return `https://placedog.net/960/540?random&id=${idx}-${randomSeed}`;
+        });
+    }, [topNews]);
 
     const handlePrev = useCallback(() => {
         setCurrentIndex((prev) => (prev === 0 ? topNews.length - 1 : prev - 1));
@@ -35,12 +42,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
 
     useEffect(() => {
         setCurrentIndex(0);
-        setImgErrors({});
     }, [topNews]);
-
-    const handleImageError = (index: number) => {
-        setImgErrors((prev) => ({ ...prev, [index]: true }));
-    };
 
     if (loading) {
         return (
@@ -66,15 +68,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
 
     const currentNews = topNews[currentIndex];
 
-    // 犬の画像を高解像度で取得（静的URL）
-    const staticDogImages = [
-        'https://images.dog.ceo/breeds/shiba/shiba-8.jpg',
-        'https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg',
-        'https://images.dog.ceo/breeds/husky/n02110185_10047.jpg',
-        'https://images.dog.ceo/breeds/corgi-cardigan/n02113186_10475.jpg',
-        'https://images.dog.ceo/breeds/samoyed/n02111889_10206.jpg',
-    ];
-
     const isNew = isNewArticle(currentNews.pubDate);
 
     const formatDate = (dateStr: string) => {
@@ -93,20 +86,15 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
         >
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
-                {topNews.map((news, index) => {
-                    const heroFallback = staticDogImages[index % staticDogImages.length];
-
-                    return (
-                        <img
-                            key={index}
-                            src={imgErrors[index] ? heroFallback : news.thumbnail || heroFallback}
-                            alt={news.title}
-                            className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 brightness-50 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
-                                }`}
-                            onError={() => handleImageError(index)}
-                        />
-                    );
-                })}
+                {topNews.map((news, index) => (
+                    <img
+                        key={index}
+                        src={dogImages[index]}
+                        alt={news.title}
+                        className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 brightness-120 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
+                            }`}
+                    />
+                ))}
             </div>
 
             {/* Dark overlay for better text readability */}
