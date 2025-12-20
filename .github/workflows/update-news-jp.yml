@@ -1,0 +1,51 @@
+name: Update Japanese News and Deploy
+
+on:
+  schedule:
+    - cron: '0 0,6,12,18 * * *'  # UTC: 0, 6, 12, 18時 = 日本時間: 9, 15, 21, 3時
+  workflow_dispatch:
+
+concurrency:
+  group: update-news-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci
+
+      - name: Fetch Japanese news
+        run: node scripts/fetch-news.js --locale=jp
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/news_*.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update JP news [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break || sleep 10
+            done
+          fi
+
+      - run: npm run build
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

@@ -1,0 +1,51 @@
+name: Update English News and Deploy
+
+on:
+  schedule:
+    - cron: '0 3,9,15,21 * * *'  # UTC: 3, 9, 15, 21時（日本語版から3時間ずらし）
+  workflow_dispatch:
+
+concurrency:
+  group: update-news-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci
+
+      - name: Fetch English news
+        run: node scripts/fetch-news.js --locale=en
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/news_*.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update EN news [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break || sleep 10
+            done
+          fi
+
+      - run: npm run build
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

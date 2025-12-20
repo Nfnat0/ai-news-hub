@@ -23,10 +23,19 @@ const companies = [
   { key: 'anysphere', displayName: 'Anysphere', searchTerm: ['Cursor'] },
 ];
 
-const locales = [
-  // { code: 'en', hl: 'en', gl: 'US', ceid: 'US:en', filename: 'news_en.json' }, // 暫定的に無効化
+const allLocales = [
+  { code: 'en', hl: 'en', gl: 'US', ceid: 'US:en', filename: 'news_en.json' },
   { code: 'jp', hl: 'ja', gl: 'JP', ceid: 'JP:ja', filename: 'news_jp.json' },
 ];
+
+// コマンドライン引数で言語を指定可能（例: node fetch-news.js --locale=jp）
+const args = process.argv.slice(2);
+const localeArg = args.find(arg => arg.startsWith('--locale='));
+const targetLocale = localeArg ? localeArg.split('=')[1] : null;
+
+const locales = targetLocale
+  ? allLocales.filter(l => l.code === targetLocale)
+  : allLocales;
 
 const extractImageFromDescription = (description) => {
   const imgMatch = description.match(/<img[^>]+src="([^">]+)"/);
