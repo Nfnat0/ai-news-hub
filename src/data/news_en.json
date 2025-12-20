@@ -1,0 +1,395 @@
+{
+  "fetchedAt": "2025-12-20T10:01:02.341Z",
+  "locale": "en",
+  "companies": [
+    {
+      "company": "google",
+      "displayName": "Google",
+      "news": [
+        {
+          "title": "NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtemZDVERqeGlPZFhLWG5KSVpXZlVVVzMwVndLeUN5NDkxcmF6S1VjZ0NvLVpjRXlaRHZmTkJTb3ZBVVExRjFxNVpZVENqVlc5WGh5eGpHOUNDV210Z0ZBX0UyUl9nOWEyUFFrWUxmSTFHelRB?oc=5",
+          "pubDate": "2025-12-19 23:02:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAtemZDVERqeGlPZFhLWG5KSVpXZlVVVzMwVndLeUN5NDkxcmF6S1VjZ0NvLVpjRXlaRHZmTkJTb3ZBVVExRjFxNVpZVENqVlc5WGh5eGpHOUNDV210Z0ZBX0UyUl9nOWEyUFFrWUxmSTFHelRB?oc=5\" target=\"_blank\">NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output</a>  9to5Google",
+          "thumbnail": "https://picsum.photos/seed/Gemini-3/800/450"
+        },
+        {
+          "title": "Gemini isn’t replacing Google Assistant on Android just yet - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yZ2J2aUZuOHRCNEM5ZTlfQ21lWFNobVlnRDNhSHlXcVdneFhMdWx2Tlk5cWFjWkxEM3NjZWtObmlNMmpoNkV0V1BYSGZ6dFdEVmRHdjVjM2VjWVBYdjhLNTVVYThnd0ppckIzbFk5RlZfZDdwUXd4dW80eTR2UQ?oc=5",
+          "pubDate": "2025-12-19 22:39:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9yZ2J2aUZuOHRCNEM5ZTlfQ21lWFNobVlnRDNhSHlXcVdneFhMdWx2Tlk5cWFjWkxEM3NjZWtObmlNMmpoNkV0V1BYSGZ6dFdEVmRHdjVjM2VjWVBYdjhLNTVVYThnd0ppckIzbFk5RlZfZDdwUXd4dW80eTR2UQ?oc=5\" target=\"_blank\">Gemini isn’t replacing Google Assistant on Android just yet</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/Gemini-2/800/450"
+        },
+        {
+          "title": "Google.ai predicts its own enshittification timeline - Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlNiejBycmVJV2N1a1EyeGU0M3REVWt1RFBET1BBQVdVSXhzOUhUcG5qTWxqQU1WTlR0VkgwMkNMNm1ucGItVTRWX21VX1d1RnFKbXFrR0pDS3BZb2paNHRqRFhYWF9kYklXTmJnTVpHcUo1bXpwTVdOZE9nRDdjRDNWVVhNMDNvbmlwTXR3TlZxQUxFMUHSAZsBQVVfeXFMTzJQc0tTcDJqZDBmVnZsTlBhdk1qSzFaeDVUSWFZVTJwWUg1cFdzVm1EdUlvbGhFOUtWS1JYM3JZSUQzaUVLU3Fxenk0RHY4eURUQVFEdDluU0xNNF9PeVc3LVI1ek1rYmlXMTFwMjhIb1pfZUowNTVZY1ZPeVRaWjBlQ0FEVkdTYWtjcmh6QnZiWUQxQTY0bHRHbjA?oc=5",
+          "pubDate": "2025-12-19 19:52:56",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlNiejBycmVJV2N1a1EyeGU0M3REVWt1RFBET1BBQVdVSXhzOUhUcG5qTWxqQU1WTlR0VkgwMkNMNm1ucGItVTRWX21VX1d1RnFKbXFrR0pDS3BZb2paNHRqRFhYWF9kYklXTmJnTVpHcUo1bXpwTVdOZE9nRDdjRDNWVVhNMDNvbmlwTXR3TlZxQUxFMUHSAZsBQVVfeXFMTzJQc0tTcDJqZDBmVnZsTlBhdk1qSzFaeDVUSWFZVTJwWUg1cFdzVm1EdUlvbGhFOUtWS1JYM3JZSUQzaUVLU3Fxenk0RHY4eURUQVFEdDluU0xNNF9PeVc3LVI1ek1rYmlXMTFwMjhIb1pfZUowNTVZY1ZPeVRaWjBlQ0FEVkdTYWtjcmh6QnZiWUQxQTY0bHRHbjA?oc=5\" target=\"_blank\">Google.ai predicts its own enshittification timeline</a>  Boing Boing",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-4/800/450"
+        },
+        {
+          "title": "Google’s AI Summaries Are Destroying the Lives of Recipe Developers - Futurism",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVMTzZWUmE2ek90c1g2dmVzQ2tMbFVzZ2RyRHRYRXhmWm9WMjhVMjdLVzlLR21WNGZ3Wm9RcVVmMTE3RHV1ZFdkQ3poTTdweERPdVN4VEtTMU5NaWJLQ0xpWW5vN3c3bm5NTVQ1d1ZCazhkX2JCY2xGRGdDdDNqdDcyZUdrMnVEWnB3OVktTVA5aHRfOUZMbQ?oc=5",
+          "pubDate": "2025-12-19 17:06:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVMTzZWUmE2ek90c1g2dmVzQ2tMbFVzZ2RyRHRYRXhmWm9WMjhVMjdLVzlLR21WNGZ3Wm9RcVVmMTE3RHV1ZFdkQ3poTTdweERPdVN4VEtTMU5NaWJLQ0xpWW5vN3c3bm5NTVQ1d1ZCazhkX2JCY2xGRGdDdDNqdDcyZUdrMnVEWnB3OVktTVA5aHRfOUZMbQ?oc=5\" target=\"_blank\">Google’s AI Summaries Are Destroying the Lives of Recipe Developers</a>  Futurism",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-3/800/450"
+        },
+        {
+          "title": "Real-World Agent Examples with Gemini 3 - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQzRPaFlhcGtvOFozMmxBbUFubFdXeUlqM3lJRTZwcWhtalV4TFN5LVRpMU5yaWM5VnFlQWlJVDJ3cVZ2YjNGMmlBRWo5ODJRYnNyYW5qSE1MMjYwZEFtbkJtTnNpUkdaQkczM0NzU2d4UUF2VEhDbDF0c0N4eFU?oc=5",
+          "pubDate": "2025-12-19 17:05:26",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQzRPaFlhcGtvOFozMmxBbUFubFdXeUlqM3lJRTZwcWhtalV4TFN5LVRpMU5yaWM5VnFlQWlJVDJ3cVZ2YjNGMmlBRWo5ODJRYnNyYW5qSE1MMjYwZEFtbkJtTnNpUkdaQkczM0NzU2d4UUF2VEhDbDF0c0N4eFU?oc=5\" target=\"_blank\">Real-World Agent Examples with Gemini 3</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/Gemini-1/800/450"
+        },
+        {
+          "title": "Apple-Google potential AI partnership, tech stocks gaining, among Wedbush's top 10 tech predictions for 2026 - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMG9OSmVsOERDVkR5ancwa3VoS1g1UGZ4NkwyZml5YUYwOHU5U3RXakNlczBPVXpFWTFUUmJTS29qWmJ0aUc2aEdMVW5jMWs5MnRUV3A4TU54a0t2NFJYc0QxWVMteWFmbk90SG43THVDNkUteHNlcW1Za2RnSVZEWG1iZ2IxQmFUbXZoeUtmOEJaZ0ZRU2lvYktXQTVFMndTMnV2N2ZWWEM1YURrMm1vTlVEMWozZXJ6UlVxdmNVZTlyZS1rcnBqTFFnN3FhR19tU0xEc1pHZExBN28?oc=5",
+          "pubDate": "2025-12-19 11:47:32",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMG9OSmVsOERDVkR5ancwa3VoS1g1UGZ4NkwyZml5YUYwOHU5U3RXakNlczBPVXpFWTFUUmJTS29qWmJ0aUc2aEdMVW5jMWs5MnRUV3A4TU54a0t2NFJYc0QxWVMteWFmbk90SG43THVDNkUteHNlcW1Za2RnSVZEWG1iZ2IxQmFUbXZoeUtmOEJaZ0ZRU2lvYktXQTVFMndTMnV2N2ZWWEM1YURrMm1vTlVEMWozZXJ6UlVxdmNVZTlyZS1rcnBqTFFnN3FhR19tU0xEc1pHZExBN28?oc=5\" target=\"_blank\">Apple-Google potential AI partnership, tech stocks gaining, among Wedbush's top 10 tech predictions for 2026</a>  Seeking Alpha",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-7/800/450"
+        },
+        {
+          "title": "Gemini for Home takes its first step outside the US - Android Police",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWhYWWhmMWlRQVQzSm56ZDFONFBSRWtvZXVUTnZSdk9wQnZNdkk3NmZqYjIzeTJqNUd4QkZCc3hlaURlQWtrLV9PSkx4QVJGdEFoVkZfd0Q5bmxvR3F3cVVKZTNNRm5DbEdSUmVsUjRwaGtucDdjZ1pQNlo1Q0kwSW1zX1Z4emR4UkE?oc=5",
+          "pubDate": "2025-12-19 11:26:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWhYWWhmMWlRQVQzSm56ZDFONFBSRWtvZXVUTnZSdk9wQnZNdkk3NmZqYjIzeTJqNUd4QkZCc3hlaURlQWtrLV9PSkx4QVJGdEFoVkZfd0Q5bmxvR3F3cVVKZTNNRm5DbEdSUmVsUjRwaGtucDdjZ1pQNlo1Q0kwSW1zX1Z4emR4UkE?oc=5\" target=\"_blank\">Gemini for Home takes its first step outside the US</a>  Android Police",
+          "thumbnail": "https://picsum.photos/seed/Gemini-4/800/450"
+        },
+        {
+          "title": "Google's new invite-only AI tool emails you morning briefings based on your Gmail, Calendar, and Drive. I tried it. - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXRjVl94emJBQnhmZ3gtZU95bU1YZTBxb1ptMGh1cHJ2VlFWcDdQekdDMk9wOFIxUHh0bFVNVUd5cGJvWVpWeVdOM1dLUFVwaDl2dmk4ZFV3b0FpMzJrTF9fV3ZfR2d3c1VWY1J2RnJkQnl4VlBsNnpodmVDa3VZSm02SDNxT1Q1LVdOaUdMMmFma0pYejNJSEFmMkluMzJhdkE?oc=5",
+          "pubDate": "2025-12-19 10:18:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXRjVl94emJBQnhmZ3gtZU95bU1YZTBxb1ptMGh1cHJ2VlFWcDdQekdDMk9wOFIxUHh0bFVNVUd5cGJvWVpWeVdOM1dLUFVwaDl2dmk4ZFV3b0FpMzJrTF9fV3ZfR2d3c1VWY1J2RnJkQnl4VlBsNnpodmVDa3VZSm02SDNxT1Q1LVdOaUdMMmFma0pYejNJSEFmMkluMzJhdkE?oc=5\" target=\"_blank\">Google's new invite-only AI tool emails you morning briefings based on your Gmail, Calendar, and Drive. I tried it.</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-8/800/450"
+        },
+        {
+          "title": "Google co-founder Larry Page’s prediction 25-years ago is now company’s reality: What he said about AI in - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOd25PNkRHZDhreVBLY1JyNzN0Y05Kd3lWa1FoaVRRREhmZDVYLWs4WWhrU0ZFRmdPOGtJMU9ZeDE4UXBYN3hKT2pZdE5EbS0wWktreFpCSEszTV9uamVYSkdqMWY2UzZwRGtTYVp4V2RUQkpIRXlpUVNYRVJDTVJFczFUT0pRZ19ieElPTllXQnpVbHY1RFBVelFPRjVqZzBEMjAteV9hTDFhRkkzNU9lQUpVamtLU1N0ajM2ZkF4RHN3LVhLMmhhZUtaWVhsVGNNTl94WWxuRXVfcXltN05xYXZqQ0ZtSjRwZWRMR3dKcmpJeDdWaTg2QUR3RjNPcmtlSzN3YXZ1NHZEOWdOUzB0Ql9hV0RJWFF3ZVdaU3Jjc0NDZHF1SEHSAasCQVVfeXFMTjNNR0thWTgyd2pKQ2JyRlo2bGFQRlViMnYwaWRFaHdxQW1xRjNCZXVsUWxVcWo2Y3ViaUVDTVBWcmd5Y0FhRVBJWnI2ZlZsWktIU1p2YXg0dHA0YzVBa1huX18tVUJWeU5jTDIxNl9TQ056WkNHVlk0ZTNrMmdxNGtISEdMZlFiYkt5X19Wb1NWN2JCV0hFZ2V3ZFFOQjFPOE15QW5UMU9fYU9MQ0tMMGR5akNTV3JKSmFTX1FxcE1SSy05NnNBTnVZZmNCVnl3M2Fld3J1RUhwVHZOaml2WWtLb3hxSzlldnN3Wm9HTmpGWW9sZVViNHI5VDYtd0wtRFc3UVZvaFBKWnZEa3NVOUhpU1RXcmIxVkkzNFRrc01GS0VhSXNBOFhSeUU?oc=5",
+          "pubDate": "2025-12-19 09:24:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOd25PNkRHZDhreVBLY1JyNzN0Y05Kd3lWa1FoaVRRREhmZDVYLWs4WWhrU0ZFRmdPOGtJMU9ZeDE4UXBYN3hKT2pZdE5EbS0wWktreFpCSEszTV9uamVYSkdqMWY2UzZwRGtTYVp4V2RUQkpIRXlpUVNYRVJDTVJFczFUT0pRZ19ieElPTllXQnpVbHY1RFBVelFPRjVqZzBEMjAteV9hTDFhRkkzNU9lQUpVamtLU1N0ajM2ZkF4RHN3LVhLMmhhZUtaWVhsVGNNTl94WWxuRXVfcXltN05xYXZqQ0ZtSjRwZWRMR3dKcmpJeDdWaTg2QUR3RjNPcmtlSzN3YXZ1NHZEOWdOUzB0Ql9hV0RJWFF3ZVdaU3Jjc0NDZHF1SEHSAasCQVVfeXFMTjNNR0thWTgyd2pKQ2JyRlo2bGFQRlViMnYwaWRFaHdxQW1xRjNCZXVsUWxVcWo2Y3ViaUVDTVBWcmd5Y0FhRVBJWnI2ZlZsWktIU1p2YXg0dHA0YzVBa1huX18tVUJWeU5jTDIxNl9TQ056WkNHVlk0ZTNrMmdxNGtISEdMZlFiYkt5X19Wb1NWN2JCV0hFZ2V3ZFFOQjFPOE15QW5UMU9fYU9MQ0tMMGR5akNTV3JKSmFTX1FxcE1SSy05NnNBTnVZZmNCVnl3M2Fld3J1RUhwVHZOaml2WWtLb3hxSzlldnN3Wm9HTmpGWW9sZVViNHI5VDYtd0wtRFc3UVZvaFBKWnZEa3NVOUhpU1RXcmIxVkkzNFRrc01GS0VhSXNBOFhSeUU?oc=5\" target=\"_blank\">Google co-founder Larry Page’s prediction 25-years ago is now company’s reality: What he said about AI in</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-9/800/450"
+        },
+        {
+          "title": "Ross Lovegrove co-creates chair with Google AI trained to emulate his style - Dezeen",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVNqUWZzLXBtN2NscG5WZm5XQTN0WEZXNEhlX3RaUnJDYWxNQVQ0aWNWWEdQMFhSSnFMVU9tRzJacHFSMVM0c2dNWmdNcXFXTlRyZmdCMWpSa1JUX3psV0lyMXJ4blNQQXBkd1ZJSXJZQldMb2Y4ZkVQRTB5NzVJTXQ1Y2MwUVll?oc=5",
+          "pubDate": "2025-12-19 09:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVNqUWZzLXBtN2NscG5WZm5XQTN0WEZXNEhlX3RaUnJDYWxNQVQ0aWNWWEdQMFhSSnFMVU9tRzJacHFSMVM0c2dNWmdNcXFXTlRyZmdCMWpSa1JUX3psV0lyMXJ4blNQQXBkd1ZJSXJZQldMb2Y4ZkVQRTB5NzVJTXQ1Y2MwUVll?oc=5\" target=\"_blank\">Ross Lovegrove co-creates chair with Google AI trained to emulate his style</a>  Dezeen",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-6/800/450"
+        },
+        {
+          "title": "Why Google’s AI Weakness Turned Out to Be a Strength - The Information",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORndxUDd3cU52RmJKUzdYam5EemVVS0llbXB1bEZ3cHZZcVF2T0dIeXMzSW95TTNhUUJ6TU83eng4bEs4d3Mtb1k4bEM0UFNBUmgxVWVyMFd4VVFLaFd2d2dYemR3VlJKaTlfYzNIV01xNmhTd2tNODUxUmUzZ1hjLQ?oc=5",
+          "pubDate": "2025-12-19 01:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxORndxUDd3cU52RmJKUzdYam5EemVVS0llbXB1bEZ3cHZZcVF2T0dIeXMzSW95TTNhUUJ6TU83eng4bEs4d3Mtb1k4bEM0UFNBUmgxVWVyMFd4VVFLaFd2d2dYemR3VlJKaTlfYzNIV01xNmhTd2tNODUxUmUzZ1hjLQ?oc=5\" target=\"_blank\">Why Google’s AI Weakness Turned Out to Be a Strength</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-2/800/450"
+        },
+        {
+          "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkdpT1ZzTmhSb1NoVFp4Z19mX1hQdVJUZTBCYm9Dc1VlS2NjcWlVSEFHRzdnRXhaUWVMak51dVJid0pJUWRfTHVpQmVpRDFHZ0hNN3kteGV6SWFJRzRYWW8tNHVwaDE4cmphNEd3ZmNGSGNTMGQzYWNDWjFWMkZEMXl3ajFQc0FiTmM4?oc=5",
+          "pubDate": "2025-12-18 20:31:22",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkdpT1ZzTmhSb1NoVFp4Z19mX1hQdVJUZTBCYm9Dc1VlS2NjcWlVSEFHRzdnRXhaUWVMak51dVJid0pJUWRfTHVpQmVpRDFHZ0hNN3kteGV6SWFJRzRYWW8tNHVwaDE4cmphNEd3ZmNGSGNTMGQzYWNDWjFWMkZEMXl3ajFQc0FiTmM4?oc=5\" target=\"_blank\">Google’s Gemini app can check videos to see if they were made with Google AI</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-1/800/450"
+        },
+        {
+          "title": "DOE Partner on Genesis: AI for Science - Google DeepMind",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlNYY3RGYjBlekk2RllVeXd1ZzRGUGNScVVMNEtfbFQ4Y2tkNWhuT3IyQWl5N1ltMUZ5NnVVZVA5UlZydk5Ea0hVYWZUc3VGYXVIbXdKRWs4dFpfdTlVZVdDLTNVbnlrQTdISDhYVUpXZHFGX2RJdGRZaDR6ckw3WGpiaHZWcW8zUmxWQVlWLUZ1Tjg?oc=5",
+          "pubDate": "2025-12-18 19:21:39",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlNYY3RGYjBlekk2RllVeXd1ZzRGUGNScVVMNEtfbFQ4Y2tkNWhuT3IyQWl5N1ltMUZ5NnVVZVA5UlZydk5Ea0hVYWZUc3VGYXVIbXdKRWs4dFpfdTlVZVdDLTNVbnlrQTdISDhYVUpXZHFGX2RJdGRZaDR6ckw3WGpiaHZWcW8zUmxWQVlWLUZ1Tjg?oc=5\" target=\"_blank\">DOE Partner on Genesis: AI for Science</a>  Google DeepMind",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-5/800/450"
+        },
+        {
+          "title": "You can now verify Google AI-generated videos in the Gemini app. - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzQ5TzN6WlQxZUl6VFZUN3puSFlTOFlvNkxFZHNIeDROOHl1T2NwUW5kc0VWMkRBM1RNRGw0SFQyZGhvOFhTMFFxX1FMdjhZV01vek5zVm9wYkE3Z3BjV2NGLW5DTUx5QmdXVWdzRDZWSGRCMllncg?oc=5",
+          "pubDate": "2025-12-18 17:08:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzQ5TzN6WlQxZUl6VFZUN3puSFlTOFlvNkxFZHNIeDROOHl1T2NwUW5kc0VWMkRBM1RNRGw0SFQyZGhvOFhTMFFxX1FMdjhZV01vek5zVm9wYkE3Z3BjV2NGLW5DTUx5QmdXVWdzRDZWSGRCMllncg?oc=5\" target=\"_blank\">You can now verify Google AI-generated videos in the Gemini app.</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-0/800/450"
+        },
+        {
+          "title": "Gemini 3 Flash: frontier intelligence built for speed - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIck45S3dzU0h2Uk9SOXNaeDlMaW9LYWNCX21BelAwNXIybm9JOWtVX3RZazlNSFZJTThlTUlXZnlLaFM4Q1ByZG9PXzZzVUFFTFpzdEs4RmQyR1FUYXZldw?oc=5",
+          "pubDate": "2025-12-17 16:03:23",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIck45S3dzU0h2Uk9SOXNaeDlMaW9LYWNCX21BelAwNXIybm9JOWtVX3RZazlNSFZJTThlTUlXZnlLaFM4Q1ByZG9PXzZzVUFFTFpzdEs4RmQyR1FUYXZldw?oc=5\" target=\"_blank\">Gemini 3 Flash: frontier intelligence built for speed</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/Gemini-0/800/450"
+        }
+      ]
+    },
+    {
+      "company": "openai",
+      "displayName": "OpenAI",
+      "news": [
+        {
+          "title": "How Investors May Respond To DoorDash (DASH) Embedding Grocery Ordering Into ChatGPT With OpenAI - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3pnODYtc0NIaVJ3LWpNQ3dPRTVoRkNnc19QYkNEblNjV3lMbENwVWFObERwb3NpTkxsNlhiWkZzRzEtQWlDYllYbGhIVE0wUWR1eVRndnBWSWFMeWJfU2ZCak9XQVNFbVM0QWNXY256SUd0ZkZVUVk4X1BRSkNRYnpTT2F1Rzgw?oc=5",
+          "pubDate": "2025-12-20 05:13:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3pnODYtc0NIaVJ3LWpNQ3dPRTVoRkNnc19QYkNEblNjV3lMbENwVWFObERwb3NpTkxsNlhiWkZzRzEtQWlDYllYbGhIVE0wUWR1eVRndnBWSWFMeWJfU2ZCak9XQVNFbVM0QWNXY256SUd0ZkZVUVk4X1BRSkNRYnpTT2F1Rzgw?oc=5\" target=\"_blank\">How Investors May Respond To DoorDash (DASH) Embedding Grocery Ordering Into ChatGPT With OpenAI</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-6/800/450"
+        },
+        {
+          "title": "Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5",
+          "pubDate": "2025-12-20 00:06:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5\" target=\"_blank\">Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say</a>  Reuters",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-8/800/450"
+        },
+        {
+          "title": "Data center stocks can get on track if OpenAI raises money, Jim Cramer says - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5",
+          "pubDate": "2025-12-19 23:53:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5\" target=\"_blank\">Data center stocks can get on track if OpenAI raises money, Jim Cramer says</a>  CNBC",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-3/800/450"
+        },
+        {
+          "title": "Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5",
+          "pubDate": "2025-12-19 22:53:12",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5\" target=\"_blank\">Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast</a>  Bloomberg.com",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-7/800/450"
+        },
+        {
+          "title": "Fight not over for rural residents after DTE power contracts for OpenAI data center get green light - MLive.com",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXBFdGQ1aFgxSG5kRWpBMElRRUg5cy1OQ0t2VE0tcWk2UWdNWlN5Vkxhd2NDaWdYSzc4Vlh2YjJtLURRQTJ5eElhVlJLdGZGYW91OFBQclBCZS1VdTl2ekZNSS1OT2RmT3U0aUhJYUx3RzRxXzk5b1NZUWpEcnZSMklaQjE0ZXZqU2tuMHlPdTY5U3ZqbmRkamJOU3piOUV3clZJSFZfbFJKc1BYR2N3LUdzNXY5MnZqSE4wT3c2TmlQckkxbW92VTY1cXRjY3B2dkZ0VzBlTnh1RncwMUc2QU1yc9IB9wFBVV95cUxPX3EzUHgxVjJvalJRMVl6Mko1c2U5eUtPTEdtRjF4d1RMcm1qcUVKbHVEVEJleC1oa2NvdkRheWRVd1dBSUpBa2VMY2tuTVhfR3liNTQyZzQtZTlyVzlWVFdGZ1NwSy1Sd2ZncmZiZ0RQOVJFLVpDb1ZRZlZKbVVDOHBmeGwyaDFhZ3djaDBmWDZob1V3ZGF0TTFHZ2p1SUozR1JSZnJsOWJ3Z18ybG1UMk83ZHFBNE93a3g1SHpucGVramVqdTNDSl9xeDhSb24waFljZDhGSHl5MHNDdE9HeXZSWHhWZDJLVlVLZmtEb3ljUVlpRlh3?oc=5",
+          "pubDate": "2025-12-19 21:57:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXBFdGQ1aFgxSG5kRWpBMElRRUg5cy1OQ0t2VE0tcWk2UWdNWlN5Vkxhd2NDaWdYSzc4Vlh2YjJtLURRQTJ5eElhVlJLdGZGYW91OFBQclBCZS1VdTl2ekZNSS1OT2RmT3U0aUhJYUx3RzRxXzk5b1NZUWpEcnZSMklaQjE0ZXZqU2tuMHlPdTY5U3ZqbmRkamJOU3piOUV3clZJSFZfbFJKc1BYR2N3LUdzNXY5MnZqSE4wT3c2TmlQckkxbW92VTY1cXRjY3B2dkZ0VzBlTnh1RncwMUc2QU1yc9IB9wFBVV95cUxPX3EzUHgxVjJvalJRMVl6Mko1c2U5eUtPTEdtRjF4d1RMcm1qcUVKbHVEVEJleC1oa2NvdkRheWRVd1dBSUpBa2VMY2tuTVhfR3liNTQyZzQtZTlyVzlWVFdGZ1NwSy1Sd2ZncmZiZ0RQOVJFLVpDb1ZRZlZKbVVDOHBmeGwyaDFhZ3djaDBmWDZob1V3ZGF0TTFHZ2p1SUozR1JSZnJsOWJ3Z18ybG1UMk83ZHFBNE93a3g1SHpucGVramVqdTNDSl9xeDhSb24waFljZDhGSHl5MHNDdE9HeXZSWHhWZDJLVlVLZmtEb3ljUVlpRlh3?oc=5\" target=\"_blank\">Fight not over for rural residents after DTE power contracts for OpenAI data center get green light</a>  MLive.com",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-5/800/450"
+        },
+        {
+          "title": "You’ll soon lose access to ChatGPT’s Voice feature on macOS - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91a0l0VmZ0ajVJbVZ6NzhEQ1pkTmpGRlZvV183a2Z1NzhTZzBZRU1fQWdtWVFVckxrMVJJaVVoSXc1TDh1WTFuc1kzakdrVXhra1pFcHNlZVljNGlHUms0cUg3Yy0xNG14cElrTjdGLUdrTTJweDdpdnRGRlo?oc=5",
+          "pubDate": "2025-12-19 20:13:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE91a0l0VmZ0ajVJbVZ6NzhEQ1pkTmpGRlZvV183a2Z1NzhTZzBZRU1fQWdtWVFVckxrMVJJaVVoSXc1TDh1WTFuc1kzakdrVXhra1pFcHNlZVljNGlHUms0cUg3Yy0xNG14cElrTjdGLUdrTTJweDdpdnRGRlo?oc=5\" target=\"_blank\">You’ll soon lose access to ChatGPT’s Voice feature on macOS</a>  9to5Mac",
+          "thumbnail": "https://picsum.photos/seed/ChatGPT-5/800/450"
+        },
+        {
+          "title": "ChatGPT launches Apps beta: 8 big apps you can try right away - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KZkktdnhWSkUwU25GNmRiTGxtRFFaVnVlMUJNcjVjLWtQWlFhLW5JWWJBZGNjRUxIQjBtZGZUOUprdmxNNDBoY01QMDBXSGlqckI2ODRqVWxtcGd6M2dZOTc0ZUl6MHNBSUE?oc=5",
+          "pubDate": "2025-12-19 18:56:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9KZkktdnhWSkUwU25GNmRiTGxtRFFaVnVlMUJNcjVjLWtQWlFhLW5JWWJBZGNjRUxIQjBtZGZUOUprdmxNNDBoY01QMDBXSGlqckI2ODRqVWxtcGd6M2dZOTc0ZUl6MHNBSUE?oc=5\" target=\"_blank\">ChatGPT launches Apps beta: 8 big apps you can try right away</a>  Mashable",
+          "thumbnail": "https://picsum.photos/seed/ChatGPT-0/800/450"
+        },
+        {
+          "title": "Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5",
+          "pubDate": "2025-12-19 17:38:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-0/800/450"
+        },
+        {
+          "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV25EQkZQRG0zX3BGQ0FsU0FUYlh4YlVlQy1fMWotZmtNQkFSNUpnM3puY3o2a0FpaDhPNm9HaTRMSDJYbGxJY1hfOHZsVUJtTlVkRU8xd3ZrbVBQdklTUkdNOWJUNlRfSy1tYjVtVk42NDdEVmxfMklhS0VjWS03a2hxRGdXU0tF?oc=5",
+          "pubDate": "2025-12-19 13:32:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV25EQkZQRG0zX3BGQ0FsU0FUYlh4YlVlQy1fMWotZmtNQkFSNUpnM3puY3o2a0FpaDhPNm9HaTRMSDJYbGxJY1hfOHZsVUJtTlVkRU8xd3ZrbVBQdklTUkdNOWJUNlRfSy1tYjVtVk42NDdEVmxfMklhS0VjWS03a2hxRGdXU0tF?oc=5\" target=\"_blank\">OpenAI is reportedly trying to raise $100B at an $830B valuation</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-9/800/450"
+        },
+        {
+          "title": "Sam Altman says OpenAI has gone 'code red' multiple times — and they'll do it again - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXFTZ1NNVW91cmotc2g4MmRqQnRfcHFFLTUydXlKNHZ5aExVZUVVcWJBUlk5UmJFTzhrclRsUDBzQWZJQW8xZHE1MTcwZFlURkJ4QVN1XzVUWGc4QmhXX1dGSnlQT2hMLXlvSEVYUzFUQ1lkUUJGc09VcWE0SjVla0VudUNkLUJlTXBMLTBWSmpUd19NRjVtalpMVQ?oc=5",
+          "pubDate": "2025-12-19 04:04:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXFTZ1NNVW91cmotc2g4MmRqQnRfcHFFLTUydXlKNHZ5aExVZUVVcWJBUlk5UmJFTzhrclRsUDBzQWZJQW8xZHE1MTcwZFlURkJ4QVN1XzVUWGc4QmhXX1dGSnlQT2hMLXlvSEVYUzFUQ1lkUUJGc09VcWE0SjVla0VudUNkLUJlTXBMLTBWSmpUd19NRjVtalpMVQ?oc=5\" target=\"_blank\">Sam Altman says OpenAI has gone 'code red' multiple times — and they'll do it again</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-1/800/450"
+        },
+        {
+          "title": "OpenAI Launches ChatGPT App Store - PYMNTS.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlYwcFV3a2o2OThhdldPbXBobVFnSzg2SVIwVkpmZG5yWHZ2NXlaZlBaVzZGbThxakpuNGFDM3dOTzR2cFFIZHRqRHZNNGhKS2dpRnVVTmNuamh5UGNyeXpfTFVYaUJULWhGWVVwX1pYakhMbkt2TzAxdGlaVm9rZ0V4OW1ac3NQTnVvZEhfeDh3WS1HeFE?oc=5",
+          "pubDate": "2025-12-19 00:45:06",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlYwcFV3a2o2OThhdldPbXBobVFnSzg2SVIwVkpmZG5yWHZ2NXlaZlBaVzZGbThxakpuNGFDM3dOTzR2cFFIZHRqRHZNNGhKS2dpRnVVTmNuamh5UGNyeXpfTFVYaUJULWhGWVVwX1pYakhMbkt2TzAxdGlaVm9rZ0V4OW1ac3NQTnVvZEhfeDh3WS1HeFE?oc=5\" target=\"_blank\">OpenAI Launches ChatGPT App Store</a>  PYMNTS.com",
+          "thumbnail": "https://picsum.photos/seed/ChatGPT-2/800/450"
+        },
+        {
+          "title": "How OpenAI’s Organizational Problems Hurt ChatGPT - The Information",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5",
+          "pubDate": "2025-12-18 14:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5\" target=\"_blank\">How OpenAI’s Organizational Problems Hurt ChatGPT</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-2/800/450"
+        },
+        {
+          "title": "Woman marries ChatGPT character | CNN Business - CNN",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUxiYzN6emtrNWlteWM0NHdpZVJUV0Z2RlRTNFlXaGk5OHhWeHZXZGRQOF81NmtYNk5hZGRQaEpOZzlPR3RmNjd1Q2dzQ0c5ZWdYdVlGNW1NQWxQaEN5VG0wYWxMdHJLc3o0NFJJbWdlMlNpNkloSzJ5YnZLWjVSV1NqMFN4UEVvcjZGRFphanBjX3BiTGktcUtJZGxwRTdJcUFiMWdIa0tscndLbHhMdFV1dF80OThXZnhzbTFMbVJmQ0tnWHc?oc=5",
+          "pubDate": "2025-12-18 05:39:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUxiYzN6emtrNWlteWM0NHdpZVJUV0Z2RlRTNFlXaGk5OHhWeHZXZGRQOF81NmtYNk5hZGRQaEpOZzlPR3RmNjd1Q2dzQ0c5ZWdYdVlGNW1NQWxQaEN5VG0wYWxMdHJLc3o0NFJJbWdlMlNpNkloSzJ5YnZLWjVSV1NqMFN4UEVvcjZGRFphanBjX3BiTGktcUtJZGxwRTdJcUFiMWdIa0tscndLbHhMdFV1dF80OThXZnhzbTFMbVJmQ0tnWHc?oc=5\" target=\"_blank\">Woman marries ChatGPT character | CNN Business</a>  CNN",
+          "thumbnail": "https://picsum.photos/seed/ChatGPT-4/800/450"
+        },
+        {
+          "title": "The ChatGPT app store is here - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzJ3N1hjQnRWd3pIN184ZnB3YU54bEh5eTRNd0EzSk9DWFF0cEk5dm4zZFlFQTY4YVFsX3lmUWdjM1ozblY5Q295QTMteHJmczBDQmhhODVrRDJHcUhGdFBwNmlTVXkteWlBQU5qaWgwOFBGY2pkTGMyYURLTEFpcA?oc=5",
+          "pubDate": "2025-12-18 04:27:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzJ3N1hjQnRWd3pIN184ZnB3YU54bEh5eTRNd0EzSk9DWFF0cEk5dm4zZFlFQTY4YVFsX3lmUWdjM1ozblY5Q295QTMteHJmczBDQmhhODVrRDJHcUhGdFBwNmlTVXkteWlBQU5qaWgwOFBGY2pkTGMyYURLTEFpcA?oc=5\" target=\"_blank\">The ChatGPT app store is here</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/ChatGPT-1/800/450"
+        },
+        {
+          "title": "OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies - The Information",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBBNXpNOXJTX1lBRkJ3N21lZmZnZXAzTmFnWHkwNy1OVVpiN2xxS2VTZGxrSkFGTmg3Zk1GQnRHbV90c1F0Z0tVcC1KdU9qUnV0Wkd5c204UzlVVGhlekRzak1oc2NNSEFLcUc0OWNrczRNWDRjNHlQUTBlX25aZ09yWVhlVjhpdFVfQ0dWQTVBVVpuS1JIZQ?oc=5",
+          "pubDate": "2025-12-17 14:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBBNXpNOXJTX1lBRkJ3N21lZmZnZXAzTmFnWHkwNy1OVVpiN2xxS2VTZGxrSkFGTmg3Zk1GQnRHbV90c1F0Z0tVcC1KdU9qUnV0Wkd5c204UzlVVGhlekRzak1oc2NNSEFLcUc0OWNrczRNWDRjNHlQUTBlX25aZ09yWVhlVjhpdFVfQ0dWQTVBVVpuS1JIZQ?oc=5\" target=\"_blank\">OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-4/800/450"
+        }
+      ]
+    },
+    {
+      "company": "microsoft",
+      "displayName": "Microsoft",
+      "news": [
+        {
+          "title": "Microsoft and NASA create AI agents that can help scientists anticipate floods and other water woes - GeekWire",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vdGxiR2RnSHNleEhhR1JDVUV2ejFES1owbVpHYnFJSUdpRlNIc18zSjNzbVhqbmQxZFpkdmhSdlk2cHNRX01XcW5oTTNjWFNPUEFfUGxxdWtleEJDaWJxQ24zYjduNGFvN3pvOWdsT3d1VERiVWJBR1BaVE5Cdw?oc=5",
+          "pubDate": "2025-12-19 18:46:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9vdGxiR2RnSHNleEhhR1JDVUV2ejFES1owbVpHYnFJSUdpRlNIc18zSjNzbVhqbmQxZFpkdmhSdlk2cHNRX01XcW5oTTNjWFNPUEFfUGxxdWtleEJDaWJxQ24zYjduNGFvN3pvOWdsT3d1VERiVWJBR1BaVE5Cdw?oc=5\" target=\"_blank\">Microsoft and NASA create AI agents that can help scientists anticipate floods and other water woes</a>  GeekWire",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-6/800/450"
+        },
+        {
+          "title": "Microsoft Stock News Today (MSFT): AI Spending Debate, OpenAI Fundraising Headlines, and Analyst Targets in Focus on Dec. 19, 2025 - ts2.tech",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEMyR1VGRzRTTmlSd01Sc2I5eGpqN1M5d2taVkdxRnRuZ1NwenFBdkpkaGMzM0RHb0JUMncwbzB3U0tPUHNKdWlvU1QyVFRORkJjR0doMGNPSzAta0lVN3NidEFfZGRnb1NmRnYyNU9ROGJmSGU5a1B4djI2QkNDTFpPTlNmY2JHR3ppdjFiSlo1Zm80ZDBSU0ZlYU9Ua1VMZ2xCbTFLU1QzRGRTemlxaFYtM29GYlBPWW00VGdrRkdkN0NjSHUxXzdnMDk4ZFQ2bnFxb2ZTTWtJZ09n?oc=5",
+          "pubDate": "2025-12-19 15:35:19",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEMyR1VGRzRTTmlSd01Sc2I5eGpqN1M5d2taVkdxRnRuZ1NwenFBdkpkaGMzM0RHb0JUMncwbzB3U0tPUHNKdWlvU1QyVFRORkJjR0doMGNPSzAta0lVN3NidEFfZGRnb1NmRnYyNU9ROGJmSGU5a1B4djI2QkNDTFpPTlNmY2JHR3ppdjFiSlo1Zm80ZDBSU0ZlYU9Ua1VMZ2xCbTFLU1QzRGRTemlxaFYtM29GYlBPWW00VGdrRkdkN0NjSHUxXzdnMDk4ZFQ2bnFxb2ZTTWtJZ09n?oc=5\" target=\"_blank\">Microsoft Stock News Today (MSFT): AI Spending Debate, OpenAI Fundraising Headlines, and Analyst Targets in Focus on Dec. 19, 2025</a>  ts2.tech",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-5/800/450"
+        },
+        {
+          "title": "Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do' - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5",
+          "pubDate": "2025-12-19 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5\" target=\"_blank\">Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do'</a>  TechRadar",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-9/800/450"
+        },
+        {
+          "title": "Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to … - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5",
+          "pubDate": "2025-12-19 02:54:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5\" target=\"_blank\">Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to …</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-3/800/450"
+        },
+        {
+          "title": "Microsoft, Google rule AI vendor market for enterprises - CIO Dive",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTV1NVA5WGptalBpTTNRX2ZnNmJiRlpYOVRxNGVBZTdnQW92bjZ2TWVFREtNMVdLX0tWZDRCU2xLS2lNRTVoUkNDUWh4T1YxZzdfMGFJTWtDMUVxSWU2bTNGNXhJX2Y5Z0JZWGlCMGxrT3RjZXFUT1FxWnU2MkZSS1N0MjN6M0k?oc=5",
+          "pubDate": "2025-12-18 20:43:20",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTV1NVA5WGptalBpTTNRX2ZnNmJiRlpYOVRxNGVBZTdnQW92bjZ2TWVFREtNMVdLX0tWZDRCU2xLS2lNRTVoUkNDUWh4T1YxZzdfMGFJTWtDMUVxSWU2bTNGNXhJX2Y5Z0JZWGlCMGxrT3RjZXFUT1FxWnU2MkZSS1N0MjN6M0k?oc=5\" target=\"_blank\">Microsoft, Google rule AI vendor market for enterprises</a>  CIO Dive",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-8/800/450"
+        },
+        {
+          "title": "Microsoft, Google Among 24 Firms Joining US AI ‘Genesis Mission’ - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2dwX19BdmdCSnAyZy1kZ2MyM21aYlVRaHgtVl9aRFM0QnlVWkhoZ1cteFNyNkVMb3NwMkdHdVFham1NVmJ3UFh4Q3FMOVVraVQ1YWJiemd2OVVQYUdvNThQd1BLanI4SlZscC04Xy1MY1RMWHhWZTV1RGhManRkaDl1SW1kRi1OWVU1SVhIMnlkcHI3Qld0VEppbk1UTHNuX3FBYWVac3pyQVpuTTNCcWZR?oc=5",
+          "pubDate": "2025-12-18 18:02:48",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2dwX19BdmdCSnAyZy1kZ2MyM21aYlVRaHgtVl9aRFM0QnlVWkhoZ1cteFNyNkVMb3NwMkdHdVFham1NVmJ3UFh4Q3FMOVVraVQ1YWJiemd2OVVQYUdvNThQd1BLanI4SlZscC04Xy1MY1RMWHhWZTV1RGhManRkaDl1SW1kRi1OWVU1SVhIMnlkcHI3Qld0VEppbk1UTHNuX3FBYWVac3pyQVpuTTNCcWZR?oc=5\" target=\"_blank\">Microsoft, Google Among 24 Firms Joining US AI ‘Genesis Mission’</a>  Bloomberg.com",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-7/800/450"
+        },
+        {
+          "title": "Microsoft Looks Like a “Table Pounder” After Dipping on AI Worries - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGNJVTZlUGVLQ3VBQ01SSzhxOU52ckdYSWlsemJ2aW44dWJNZ1ZsdHYzc1hiVWdVMUJib2VEQ25kcVlZUFZLSmhIZU1Jd2ZXN2JaTHVfSVQtaEZTbTFnMmh0b2VZX0lQeGdjX3pyVlE2ODZOTExpVVRzQ3VVTjBzMVlZYXFIZUl5c0ZN?oc=5",
+          "pubDate": "2025-12-18 14:10:26",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGNJVTZlUGVLQ3VBQ01SSzhxOU52ckdYSWlsemJ2aW44dWJNZ1ZsdHYzc1hiVWdVMUJib2VEQ25kcVlZUFZLSmhIZU1Jd2ZXN2JaTHVfSVQtaEZTbTFnMmh0b2VZX0lQeGdjX3pyVlE2ODZOTExpVVRzQ3VVTjBzMVlZYXFIZUl5c0ZN?oc=5\" target=\"_blank\">Microsoft Looks Like a “Table Pounder” After Dipping on AI Worries</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-2/800/450"
+        },
+        {
+          "title": "Satya Nadella tells his Microsoft execs to embrace AI - Windows Central",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc19wZ2NSSm1YNjFTSTRHWTdHSVpIbmM2SlVfbnk2bWVCTW5DZjd0U29RVHVWR2dTSkkya1RRdG5CMUNFTTFJeU5wdFRHWkhpamtEdWYtS1k3WmtlODZhSU93dV9yY080MzBpUzR0WXdNVk5VZDlRTGprX3lqQ2F4aHl6cGhLbTdIQ3R6ZGVFMnRRSkdwV1F0MHNNbTlacGZDbVBLWlNfbEZ4SDhvTUZxaFhkZjlPRTVNWW5iVDl1YkFhMmZyczZFVWVkNmt1YjIzTmJV?oc=5",
+          "pubDate": "2025-12-18 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc19wZ2NSSm1YNjFTSTRHWTdHSVpIbmM2SlVfbnk2bWVCTW5DZjd0U29RVHVWR2dTSkkya1RRdG5CMUNFTTFJeU5wdFRHWkhpamtEdWYtS1k3WmtlODZhSU93dV9yY080MzBpUzR0WXdNVk5VZDlRTGprX3lqQ2F4aHl6cGhLbTdIQ3R6ZGVFMnRRSkdwV1F0MHNNbTlacGZDbVBLWlNfbEZ4SDhvTUZxaFhkZjlPRTVNWW5iVDl1YkFhMmZyczZFVWVkNmt1YjIzTmJV?oc=5\" target=\"_blank\">Satya Nadella tells his Microsoft execs to embrace AI</a>  Windows Central",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-4/800/450"
+        },
+        {
+          "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
+          "pubDate": "2025-12-17 19:56:08",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-1/800/450"
+        },
+        {
+          "title": "Nadella's message to Microsoft execs: Get on board with the AI grind or get out - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5",
+          "pubDate": "2025-12-17 10:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5\" target=\"_blank\">Nadella's message to Microsoft execs: Get on board with the AI grind or get out</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-AI-0/800/450"
+        }
+      ]
+    },
+    {
+      "company": "anthropic",
+      "displayName": "Anthropic",
+      "news": [
+        {
+          "title": "Anthropic makes agent Skills an open standard - SiliconANGLE",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThZQllscnMwbV8ycFgtU1V0MUxwWFQ5aGExWF9hdE5pNUdEMGFIWl9XUG1idl9EOFlISU5qbG5Xc3hUTko0WFJLRGZ4NndVdWU5c2pTYlNVRDNLR1NDRW4xN1F4bkVneDNZOG1QTHE2dHRWVS11LUlMYU4zUTdzbWVFWHlNQQ?oc=5",
+          "pubDate": "2025-12-18 23:29:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThZQllscnMwbV8ycFgtU1V0MUxwWFQ5aGExWF9hdE5pNUdEMGFIWl9XUG1idl9EOFlISU5qbG5Xc3hUTko0WFJLRGZ4NndVdWU5c2pTYlNVRDNLR1NDRW4xN1F4bkVneDNZOG1QTHE2dHRWVS11LUlMYU4zUTdzbWVFWHlNQQ?oc=5\" target=\"_blank\">Anthropic makes agent Skills an open standard</a>  SiliconANGLE",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-7/800/450"
+        },
+        {
+          "title": "OpenAI and Anthropic will start predicting when users are underage - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRKUk0wSWp6ZUFOVW52U2N5M0J3dl8wS0t4S0J6aHFmbjNBUVhDTVJGUzFCWUhoYktyNkRkNktCY0lOc2ltQnNneEF6SXJHUllwa1NBZlRiMTFheER4TTNBNXhteGNaTThsRnN6dEEwMVdqUlJsTnRzZTV0ZExvZDVsZGZkVms?oc=5",
+          "pubDate": "2025-12-18 21:55:59",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRKUk0wSWp6ZUFOVW52U2N5M0J3dl8wS0t4S0J6aHFmbjNBUVhDTVJGUzFCWUhoYktyNkRkNktCY0lOc2ltQnNneEF6SXJHUllwa1NBZlRiMTFheER4TTNBNXhteGNaTThsRnN6dEEwMVdqUlJsTnRzZTV0ZExvZDVsZGZkVms?oc=5\" target=\"_blank\">OpenAI and Anthropic will start predicting when users are underage</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-3/800/450"
+        },
+        {
+          "title": "This AI Vending Machine Was Tricked Into Giving Away Everything - Kottke.org",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5",
+          "pubDate": "2025-12-18 19:14:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5\" target=\"_blank\">This AI Vending Machine Was Tricked Into Giving Away Everything</a>  Kottke.org",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-2/800/450"
+        },
+        {
+          "title": "Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal. - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5",
+          "pubDate": "2025-12-18 17:09:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5\" target=\"_blank\">Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal.</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-1/800/450"
+        },
+        {
+          "title": "Agent Skills: Anthropic’s Next Bid to Define AI Standards - The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzllamk1T3hBdU93ZldRR2sxWkY2cDY1aVQtLVhFZTJjNFFZNldzOUhvTnEzSW80am5GeUFXN3R4SDExdjBKUXg0VWNtalhKY3lITkpCd2ZPanlyZnJ0T2dlUllOX1dwQjI3ZUVBMzhQZEdhR0NuVHJHeW5vRGxrV0pBVlRCdw?oc=5",
+          "pubDate": "2025-12-18 17:03:56",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzllamk1T3hBdU93ZldRR2sxWkY2cDY1aVQtLVhFZTJjNFFZNldzOUhvTnEzSW80am5GeUFXN3R4SDExdjBKUXg0VWNtalhKY3lITkpCd2ZPanlyZnJ0T2dlUllOX1dwQjI3ZUVBMzhQZEdhR0NuVHJHeW5vRGxrV0pBVlRCdw?oc=5\" target=\"_blank\">Agent Skills: Anthropic’s Next Bid to Define AI Standards</a>  The New Stack",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-9/800/450"
+        },
+        {
+          "title": "Anthropic wants to tame workplace AI - Axios",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMDF4VUdzdXdGS0pQREtvQzh3bE1lNW5IMzVWTVFscWx4VTFHT2h1UTR1Mk0wc240VTZfZlVBeWtKRG9mLTlWVGo0cnhIVC11RUVIeXp4eHdMbmstcGltUmlxSUZsV2VtX3l1TmdJN0dkLWVYNzRwYkNiVG9QaDQ?oc=5",
+          "pubDate": "2025-12-18 17:01:40",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMDF4VUdzdXdGS0pQREtvQzh3bE1lNW5IMzVWTVFscWx4VTFHT2h1UTR1Mk0wc240VTZfZlVBeWtKRG9mLTlWVGo0cnhIVC11RUVIeXp4eHdMbmstcGltUmlxSUZsV2VtX3l1TmdJN0dkLWVYNzRwYkNiVG9QaDQ?oc=5\" target=\"_blank\">Anthropic wants to tame workplace AI</a>  Axios",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-5/800/450"
+        },
+        {
+          "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI - VentureBeat",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0FyU0F1dEt1Tzh1TjRnZF9Hd3RLSkR5S2hxQlVFMWx1MDFmRWpzLUdXVVF0V2ZHX1Jyb25HcVliQnBuTVg4dVBxczJWdjk0UDVpek4xZGd0UWplLWhyaFFEWjdhTThGM0NYNnIyVEEwME0tbXZoWjFVczViZ1EwejloUkRTeERWSGdSdzdfUktFcmc1SGZF?oc=5",
+          "pubDate": "2025-12-18 17:00:40",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0FyU0F1dEt1Tzh1TjRnZF9Hd3RLSkR5S2hxQlVFMWx1MDFmRWpzLUdXVVF0V2ZHX1Jyb25HcVliQnBuTVg4dVBxczJWdjk0UDVpek4xZGd0UWplLWhyaFFEWjdhTThGM0NYNnIyVEEwME0tbXZoWjFVczViZ1EwejloUkRTeERWSGdSdzdfUktFcmc1SGZF?oc=5\" target=\"_blank\">Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI</a>  VentureBeat",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-8/800/450"
+        },
+        {
+          "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNdWstb25MZHprMV9vMXdfNnpMb1cyRmYwWWJlYmxNYzFEQ0pNVDNaWDdkV1Z4V21LQVFWdnlyNmY0X0FqZXYxTHRFczJ3UFdkZ3kzdGVlVTA2RzhuMHNCcERhLVQ5c3dRVXBHZlZYRXRkendvbUFnYWNyTmpmVkd4S2o2aUplc2t1UHNlX1dkX01rcF9rUVZrVkxVcjRGLUJSRkJCYW5EUlpFUG10d1MyVDdZV0o5S3F1Mmd1ZGNpR2ttV3VQYm50R0NtSk1NVlFabkhROUpHZWdJejNSMk8tVXZjUzl1TXFuTGtZYVVoVHZDUzZCcDBNYmhFZ1h2R0NCdHdrbTRXSUQ5S0JUQmpXM2g0M1FYenc0WWhsZEgzbm1uRVZMVk00ckRtYURsVVZnRGJOVHZiZ2RHVHVqZm1TS2hicDZ4ZUx5TndOMFJHRXU2MDBDS1JzRk5aMmQwamVjUDdoQXIwOFhKc1hJc2djbVQ1ci1wQ2lZZ0s0NE5EQWNEcERSaUN6VXJ3?oc=5",
+          "pubDate": "2025-12-18 10:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxNdWstb25MZHprMV9vMXdfNnpMb1cyRmYwWWJlYmxNYzFEQ0pNVDNaWDdkV1Z4V21LQVFWdnlyNmY0X0FqZXYxTHRFczJ3UFdkZ3kzdGVlVTA2RzhuMHNCcERhLVQ5c3dRVXBHZlZYRXRkendvbUFnYWNyTmpmVkd4S2o2aUplc2t1UHNlX1dkX01rcF9rUVZrVkxVcjRGLUJSRkJCYW5EUlpFUG10d1MyVDdZV0o5S3F1Mmd1ZGNpR2ttV3VQYm50R0NtSk1NVlFabkhROUpHZWdJejNSMk8tVXZjUzl1TXFuTGtZYVVoVHZDUzZCcDBNYmhFZ1h2R0NCdHdrbTRXSUQ5S0JUQmpXM2g0M1FYenc0WWhsZEgzbm1uRVZMVk00ckRtYURsVVZnRGJOVHZiZ2RHVHVqZm1TS2hicDZ4ZUx5TndOMFJHRXU2MDBDS1JzRk5aMmQwamVjUDdoQXIwOFhKc1hJc2djbVQ1ci1wQ2lZZ0s0NE5EQWNEcERSaUN6VXJ3?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-0/800/450"
+        },
+        {
+          "title": "The creator of Anthropic's Claude Code likes to hire engineers who do 'side quests' like making kombucha - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGp5bE51ckVKYWFUOEM2ZEpBbE1xYkpTbk1rSFM3OHhnbUdUU3Z5SHM0Q0w4dlpBWkhpSGwxNXZyRlgzU19mY3FQOEJMNG5OY1ZOTTlJRlRmNDF5WXgzTEY2bTc3cjN0MEFQRjRyWTgyOERzTjQ4SjRWbzduM1c3V0ZJUmRYR0s4R1duN3JLbVlLZnNFT1NVZmx2eTdvYmlwYXBfNDg4c2JiRnNrNVlFMnJXbFo?oc=5",
+          "pubDate": "2025-12-17 16:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGp5bE51ckVKYWFUOEM2ZEpBbE1xYkpTbk1rSFM3OHhnbUdUU3Z5SHM0Q0w4dlpBWkhpSGwxNXZyRlgzU19mY3FQOEJMNG5OY1ZOTTlJRlRmNDF5WXgzTEY2bTc3cjN0MEFQRjRyWTgyOERzTjQ4SjRWbzduM1c3V0ZJUmRYR0s4R1duN3JLbVlLZnNFT1NVZmx2eTdvYmlwYXBfNDg4c2JiRnNrNVlFMnJXbFo?oc=5\" target=\"_blank\">The creator of Anthropic's Claude Code likes to hire engineers who do 'side quests' like making kombucha</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-6/800/450"
+        },
+        {
+          "title": "OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies - The Information",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBBNXpNOXJTX1lBRkJ3N21lZmZnZXAzTmFnWHkwNy1OVVpiN2xxS2VTZGxrSkFGTmg3Zk1GQnRHbV90c1F0Z0tVcC1KdU9qUnV0Wkd5c204UzlVVGhlekRzak1oc2NNSEFLcUc0OWNrczRNWDRjNHlQUTBlX25aZ09yWVhlVjhpdFVfQ0dWQTVBVVpuS1JIZQ?oc=5",
+          "pubDate": "2025-12-17 14:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBBNXpNOXJTX1lBRkJ3N21lZmZnZXAzTmFnWHkwNy1OVVpiN2xxS2VTZGxrSkFGTmg3Zk1GQnRHbV90c1F0Z0tVcC1KdU9qUnV0Wkd5c204UzlVVGhlekRzak1oc2NNSEFLcUc0OWNrczRNWDRjNHlQUTBlX25aZ09yWVhlVjhpdFVfQ0dWQTVBVVpuS1JIZQ?oc=5\" target=\"_blank\">OpenAI, Anthropic Discuss Data Deals With Biotech and Other Companies</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-4/800/450"
+        }
+      ]
+    },
+    {
+      "company": "amazon",
+      "displayName": "Amazon",
+      "news": []
+    },
+    {
+      "company": "xai",
+      "displayName": "xAI",
+      "news": []
+    },
+    {
+      "company": "anysphere",
+      "displayName": "Anysphere",
+      "news": []
+    }
+  ]
+}

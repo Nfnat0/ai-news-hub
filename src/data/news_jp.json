@@ -1,0 +1,223 @@
+{
+  "fetchedAt": "2025-12-20T10:10:12.493Z",
+  "locale": "jp",
+  "companies": [
+    {
+      "company": "google",
+      "displayName": "Google",
+      "news": [
+        {
+          "title": "360Channel、藤井隆×Google AIプロジェクト『Music Video with Gemini』に参画 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51OGFvOVFNQ2xJTG9fNC0tX2VjXzJyaUdJSUdLVlRzU2o5YXBtclJNZHBITzIyQTMzdzItc2dzQ3RCRzBaMkpwZHU0WlQ3RksxOFVhS2RnRXF0LS1Hb1V1YVVZNERPa2ZTaUE?oc=5",
+          "pubDate": "2025-12-19 06:10:01",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE51OGFvOVFNQ2xJTG9fNC0tX2VjXzJyaUdJSUdLVlRzU2o5YXBtclJNZHBITzIyQTMzdzItc2dzQ3RCRzBaMkpwZHU0WlQ3RksxOFVhS2RnRXF0LS1Hb1V1YVVZNERPa2ZTaUE?oc=5\" target=\"_blank\">360Channel、藤井隆×Google AIプロジェクト『Music Video with Gemini』に参画</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-2/800/450"
+        },
+        {
+          "title": "Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式 - note",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5",
+          "pubDate": "2025-12-19 06:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5\" target=\"_blank\">Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式</a>  note",
+          "thumbnail": "https://picsum.photos/seed/Gemini-5/800/450"
+        },
+        {
+          "title": "グーグル「NotebookLM」が表形式の出力に対応（ケータイ Watch） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRUZ0RmpJY0FPWG42UENsbkQxME52bGpGTnhobExqSW4xTlVjZ0N6b1hZXzRsRUpIUWM4dW5UcTBwMW1KS2NSRjZ1bTU1ZG11bUROdkVFTy00dVVHWHh5bjg2WlZmRlpubl9uTklJRFdubkRJNl92ajRVeVZBNXM?oc=5",
+          "pubDate": "2025-12-19 04:03:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRUZ0RmpJY0FPWG42UENsbkQxME52bGpGTnhobExqSW4xTlVjZ0N6b1hZXzRsRUpIUWM4dW5UcTBwMW1KS2NSRjZ1bTU1ZG11bUROdkVFTy00dVVHWHh5bjg2WlZmRlpubl9uTklJRFdubkRJNl92ajRVeVZBNXM?oc=5\" target=\"_blank\">グーグル「NotebookLM」が表形式の出力に対応（ケータイ Watch）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-7/800/450"
+        },
+        {
+          "title": "Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYTdRTjVtTW5UQWl5Sm45RTVHY2FnMVhUdnNxaTB3YTJMSk9HMG5wX3hWNjFvLVBBX2hSdUhENTlVekd4d0pKeS1kMnJIajJlb1RMQ05WYXhhdFFsakhMaHJ5b0QtZ1F1c3hYUkVHVV9jbFM4Tmc?oc=5",
+          "pubDate": "2025-12-19 03:55:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYTdRTjVtTW5UQWl5Sm45RTVHY2FnMVhUdnNxaTB3YTJMSk9HMG5wX3hWNjFvLVBBX2hSdUhENTlVekd4d0pKeS1kMnJIajJlb1RMQ05WYXhhdFFsakhMaHJ5b0QtZ1F1c3hYUkVHVV9jbFM4Tmc?oc=5\" target=\"_blank\">Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-0/800/450"
+        },
+        {
+          "title": "Google、ミニアプリが作れる「Opal」をGeminiに実験的に統合 - ケータイ Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYUl5MWpZWE1kTWZ6MEY5QTMtYUt5QzY3b0tRZFcyLWJYZ3ZKMXloWElrclF3TDNFWUFPekJjY1ktVk15RWVKdmVUMjJDMmhrWThOX0xBNFJUNjBTMk9RY25pQ0V0d3c?oc=5",
+          "pubDate": "2025-12-19 03:16:49",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYUl5MWpZWE1kTWZ6MEY5QTMtYUt5QzY3b0tRZFcyLWJYZ3ZKMXloWElrclF3TDNFWUFPekJjY1ktVk15RWVKdmVUMjJDMmhrWThOX0xBNFJUNjBTMk9RY25pQ0V0d3c?oc=5\" target=\"_blank\">Google、ミニアプリが作れる「Opal」をGeminiに実験的に統合</a>  ケータイ Watch",
+          "thumbnail": "https://picsum.photos/seed/Gemini-0/800/450"
+        },
+        {
+          "title": "Google AIバイブコーディングツール「Opal」をGemini に統合、Super Gemsを提供（ビジネス＋IT） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMlB0VFN1Q3JtR0VaSmgzWUZXOXoxVXFadFBCTVczeWptV1l2RjlzWE5heElrMzNvdG5UMC1qZjl0czVsYzVjQkpmb2UwRWhZX0lEbG5EOHBOLWZyQkJQdUQ4Z1FfMUJQNHJWRklpbS1wVkQzcmpiSFlJNkI0T2c?oc=5",
+          "pubDate": "2025-12-19 02:20:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMlB0VFN1Q3JtR0VaSmgzWUZXOXoxVXFadFBCTVczeWptV1l2RjlzWE5heElrMzNvdG5UMC1qZjl0czVsYzVjQkpmb2UwRWhZX0lEbG5EOHBOLWZyQkJQdUQ4Z1FfMUJQNHJWRklpbS1wVkQzcmpiSFlJNkI0T2c?oc=5\" target=\"_blank\">Google AIバイブコーディングツール「Opal」をGemini に統合、Super Gemsを提供（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-1/800/450"
+        },
+        {
+          "title": "「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Z05PM09sWHBwa2ZHSTI4R0JIeHloR21ESTR3OGlsUzFTX2pVb3dGekR6VHVyblJaZWl6Y2wzZ2duZ0ZBUkI3ZUtkU1VBNjFTTUNSd0Fn0gFPQVVfeXFMTjRhdm5PMWI3TzI3cVpsWGx0UVBSYlRqbEFkbDNzX1ZaNUt3Sl9fQUl3bVBOeHRpSWhZU3FHeU9naTJJM1ZQNXJGdFhTcFRfSQ?oc=5",
+          "pubDate": "2025-12-18 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Z05PM09sWHBwa2ZHSTI4R0JIeHloR21ESTR3OGlsUzFTX2pVb3dGekR6VHVyblJaZWl6Y2wzZ2duZ0ZBUkI3ZUtkU1VBNjFTTUNSd0Fn0gFPQVVfeXFMTjRhdm5PMWI3TzI3cVpsWGx0UVBSYlRqbEFkbDNzX1ZaNUt3Sl9fQUl3bVBOeHRpSWhZU3FHeU9naTJJM1ZQNXJGdFhTcFRfSQ?oc=5\" target=\"_blank\">「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ</a>  ダイヤモンド・オンライン",
+          "thumbnail": "https://picsum.photos/seed/Gemini-6/800/450"
+        },
+        {
+          "title": "Gemini 3 Flash：スピードを追求した最先端知能 - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5",
+          "pubDate": "2025-12-18 03:22:42",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5\" target=\"_blank\">Gemini 3 Flash：スピードを追求した最先端知能</a>  blog.google</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FR1FISi1UN1ltTjBva1VBN1RqdjVld1gwMUUybjVXZ29mRHdlWk9iNVc4dDlwUXpYUENjQmdtS05LMGJ3NTZHT1p5SF9hRWlxQ2RYSGM0YTM3dWFYUThaNkdDM0k?oc=5\" target=\"_blank\">グーグル、新高速モデル「Gemini 3 Flash」 2.5 Proより高性能・低コスト</a>  Impress Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/Gemini-4/800/450"
+        },
+        {
+          "title": "Google、バイブコーディングツール「Opal」をWeb版Geminiに統合 実験提供を開始 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOU04SE9LRlBERWptRk1KWUxEU25IcVk5SHJPV3lHX3V2RzNoRGJ5V1I2NTlQT0hySkkzUGVwLW0zcE5XSWJpRFNHaERQVFoyUUNwZ1QtNmgzUmNkUGx2VG5wOXRiNW1DUVA3MVVDVQ?oc=5",
+          "pubDate": "2025-12-18 02:46:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOU04SE9LRlBERWptRk1KWUxEU25IcVk5SHJPV3lHX3V2RzNoRGJ5V1I2NTlQT0hySkkzUGVwLW0zcE5XSWJpRFNHaERQVFoyUUNwZ1QtNmgzUmNkUGx2VG5wOXRiNW1DUVA3MVVDVQ?oc=5\" target=\"_blank\">Google、バイブコーディングツール「Opal」をWeb版Geminiに統合 実験提供を開始</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/Gemini-2/800/450"
+        },
+        {
+          "title": "グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5",
+          "pubDate": "2025-12-18 01:23:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-3/800/450"
+        },
+        {
+          "title": "話し相手から頼れるエージェントへ。進化し続けたGoogle AIの2025年を振り返る（Google Tales） - テクノエッジ TechnoEdge",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX2NJVnBZTGtPMjlzbmZDRW1DYmtGcTlVV3JJeUNOUVN4N3BCdHc1ckN0VE9UQmJiUjJ4LW5oaHJQV2Z1cHcxMjBZNmIzblh3QjJGc25ja25yaXM5eFlXd2FmRWlUUjQ?oc=5",
+          "pubDate": "2025-12-18 01:11:19",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX2NJVnBZTGtPMjlzbmZDRW1DYmtGcTlVV3JJeUNOUVN4N3BCdHc1ckN0VE9UQmJiUjJ4LW5oaHJQV2Z1cHcxMjBZNmIzblh3QjJGc25ja25yaXM5eFlXd2FmRWlUUjQ?oc=5\" target=\"_blank\">話し相手から頼れるエージェントへ。進化し続けたGoogle AIの2025年を振り返る（Google Tales）</a>  テクノエッジ TechnoEdge",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-5/800/450"
+        },
+        {
+          "title": "グーグル、最新のAIモデル「Gemini 3 Flash」の無料提供を開始 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLanNaWVNtMnp3NHpObk1JTGtYejJPTkFKR1ZjSWhQeWY5WE9DUUUxOVcwOGdsMVY4cUExMUh4TjBSbW01aFFFWVNucUhheTFPNElaVThCblBKRjMxQ2kzejA4RC1zNDJaMjVOYUdvdWMzWGdrblZ6M3JpNVZJUGM?oc=5",
+          "pubDate": "2025-12-18 00:14:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBLanNaWVNtMnp3NHpObk1JTGtYejJPTkFKR1ZjSWhQeWY5WE9DUUUxOVcwOGdsMVY4cUExMUh4TjBSbW01aFFFWVNucUhheTFPNElaVThCblBKRjMxQ2kzejA4RC1zNDJaMjVOYUdvdWMzWGdrblZ6M3JpNVZJUGM?oc=5\" target=\"_blank\">グーグル、最新のAIモデル「Gemini 3 Flash」の無料提供を開始</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-8/800/450"
+        },
+        {
+          "title": "グーグル、毎朝の予定を要約するAIツール「CC」を公開--Gmailやカレンダーと連携 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVlBlWTgzR25LOWw4aVhrdE54LUV4c09KazhmaHVDNktVTm9GU09SNWt6Y2dnMkRxZm9uRk44T2NISkp1Q0NsbnZrN1BIOTNGMjIw?oc=5",
+          "pubDate": "2025-12-17 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVlBlWTgzR25LOWw4aVhrdE54LUV4c09KazhmaHVDNktVTm9GU09SNWt6Y2dnMkRxZm9uRk44T2NISkp1Q0NsbnZrN1BIOTNGMjIw?oc=5\" target=\"_blank\">グーグル、毎朝の予定を要約するAIツール「CC」を公開--Gmailやカレンダーと連携</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-6/800/450"
+        },
+        {
+          "title": "Google、AI搭載ミニアプリ構築ツール「Opal」を「Gemini」アプリから利用可能に ほか - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9veFRhMExQdnR1eVNVTGJXQlg1M3BSeTRZNWkyMDBkSDlneWNuZ2tNUnVnRy02RnJZLXhZZ0pER0NuN19xWnhzUDV3Z2dFZm90c1BZQnZLZ25MajJVaFJTb09nZ3VHRFZfemJv?oc=5",
+          "pubDate": "2025-12-17 08:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9veFRhMExQdnR1eVNVTGJXQlg1M3BSeTRZNWkyMDBkSDlneWNuZ2tNUnVnRy02RnJZLXhZZ0pER0NuN19xWnhzUDV3Z2dFZm90c1BZQnZLZ25MajJVaFJTb09nZ3VHRFZfemJv?oc=5\" target=\"_blank\">Google、AI搭載ミニアプリ構築ツール「Opal」を「Gemini」アプリから利用可能に ほか</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-4/800/450"
+        },
+        {
+          "title": "Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmtNTGpwcTREU3dQa29lU3BKdXFuVmt3ZEthTVgzcUVOTElDWUJmbTFYMnJWb08waFJzYktfa3kzTm5vakdfbS1BSzhnWW13anB1VE9TRHZPbVRuSlBLN1pfMUkxZFFW?oc=5",
+          "pubDate": "2025-12-17 06:58:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmtNTGpwcTREU3dQa29lU3BKdXFuVmt3ZEthTVgzcUVOTElDWUJmbTFYMnJWb08waFJzYktfa3kzTm5vakdfbS1BSzhnWW13anB1VE9TRHZPbVRuSlBLN1pfMUkxZFFW?oc=5\" target=\"_blank\">Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/Google-AI-9/800/450"
+        }
+      ]
+    },
+    {
+      "company": "openai",
+      "displayName": "OpenAI",
+      "news": [
+        {
+          "title": "OpenAI、エネルギー省との連携を強化し「GPT-5.2-Codex」を発表",
+          "link": "https://openai.com/index/us-department-of-energy-collaboration/",
+          "pubDate": "2025-12-18 10:00:00",
+          "description": "OpenAIは米国エネルギー省（DOE）との提携を強化し、科学的発見を加速させるための取り組みを発表しました。また、コーディングに特化した新モデル「GPT-5.2-Codex」の提供も開始しました。",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-1/800/450"
+        },
+        {
+          "title": "OpenAI、報道機関向け支援プログラム「OpenAI Academy for News」を設立",
+          "link": "https://openai.com/index/openai-academy-for-news/",
+          "pubDate": "2025-12-17 09:30:00",
+          "description": "OpenAIは、世界中の報道機関がAI技術を活用し、ジャーナリズムの質を向上させることを支援する新しいプログラム「OpenAI Academy for News Organizations」を発表しました。",
+          "thumbnail": "https://picsum.photos/seed/OpenAI-2/800/450"
+        }
+      ]
+    },
+    {
+      "company": "microsoft",
+      "displayName": "Microsoft",
+      "news": [
+        {
+          "title": "Microsoft、「Visual Studio 2026」を正式リリース - AIネイティブな開発環境へ",
+          "link": "https://learn.microsoft.com/ja-jp/visualstudio/releases/2026/release-notes",
+          "pubDate": "2025-12-16 09:00:00",
+          "description": "Microsoftは、AI機能を核に据えた統合開発環境「Visual Studio 2026」をリリースしました。起動の高速化やCopilotの深い統合により、開発者の生産性を大幅に向上させます。",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-1/800/450"
+        },
+        {
+          "title": "Copilotの利用が急増、決算報告での言及が22%増加",
+          "link": "https://iot-analytics.com/what-ceos-talked-about-q4-2025-ai-initiatives/",
+          "pubDate": "2025-12-18 15:00:00",
+          "description": "2025年第4四半期の企業決算報告において、「Copilot」への言及が前期比22%増加したことが明らかになり、企業へのAI導入が加速している現状が浮き彫りになりました。",
+          "thumbnail": "https://picsum.photos/seed/Microsoft-2/800/450"
+        }
+      ]
+    },
+    {
+      "company": "anthropic",
+      "displayName": "Anthropic",
+      "news": [
+        {
+          "title": "Anthropic、ClaudeのChromeブラウザ拡張機能を全有料ユーザーに公開",
+          "link": "https://www.anthropic.com/news/claude-chrome-extension",
+          "pubDate": "2025-12-19 14:00:00",
+          "description": "Anthropicは、これまで一部ユーザー限定だったClaudeのChromeブラウザ拡張機能を、すべての有料プランユーザーに開放しました。これにより、ブラウザ上でClaudeが直接タスクを実行可能になります。",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-1/800/450"
+        },
+        {
+          "title": "Claude Codeの開発者が警鐘、「AIコーディングは銀の弾丸ではない」",
+          "link": "https://timesofindia.indiatimes.com/technology/tech-news/creator-of-claude-warning/",
+          "pubDate": "2025-12-16 17:35:00",
+          "description": "AnthropicのエンジニアでClaude Codeの開発者であるBoris Cherny氏が、AIによるコーディング支援の限界について語り、プロダクションレベルのソフトウェア構築における過度な依存に注意を促しました。",
+          "thumbnail": "https://picsum.photos/seed/Anthropic-2/800/450"
+        }
+      ]
+    },
+    {
+      "company": "amazon",
+      "displayName": "Amazon",
+      "news": [
+        {
+          "title": "Amazon、生成AI「Olympus」を搭載した新しいショッピング体験を米国で展開",
+          "link": "https://www.aboutamazon.com/news/retail/amazon-olympus-shopping-experience",
+          "pubDate": "2025-12-15 08:00:00",
+          "description": "Amazonは、自社開発の最新LLM「Olympus」を活用した対話型のショッピング機能を米国で本格展開しました。複雑な検索意図を理解し、最適な商品を提案します。",
+          "thumbnail": "https://picsum.photos/seed/Amazon-1/800/450"
+        }
+      ]
+    },
+    {
+      "company": "xai",
+      "displayName": "xAI",
+      "news": [
+        {
+          "title": "xAIの「Grok 4.1」、ARC-AGI-2ベンチマークで最高スコアを記録",
+          "link": "https://www.datastudios.org/post/xai-grok-4-1-subscriptions",
+          "pubDate": "2025-12-15 10:00:00",
+          "description": "xAIの最新モデル「Grok 4.1」が、AIの推論能力を測るARC-AGI-2ベンチマークにおいて、他の大規模言語モデルを凌駕するスコアを記録したことが明らかになりました。",
+          "thumbnail": "https://picsum.photos/seed/xAI-1/800/450"
+        },
+        {
+          "title": "Grok、オーストラリアでの事件に関する誤情報拡散で物議",
+          "link": "https://sg.news.yahoo.com/grok-spews-misinformation-deadly-australia-213427179.html",
+          "pubDate": "2025-12-16 13:30:00",
+          "description": "xAIのチャットボット「Grok」が、オーストラリアで発生した銃撃事件に関して誤った情報を生成・拡散したことが報じられました。AIによるリアルタイム情報処理の課題が再燃しています。",
+          "thumbnail": "https://picsum.photos/seed/xAI-2/800/450"
+        }
+      ]
+    },
+    {
+      "company": "anysphere",
+      "displayName": "Anysphere",
+      "news": [
+        {
+          "title": "AIエディタ「Cursor」、Googleの最新モデル「Gemini 3 Flash」に即日対応",
+          "link": "https://cursor.sh/blog/gemini-3-flash-integration",
+          "pubDate": "2025-12-18 11:00:00",
+          "description": "Anysphereが開発するAIコードエディタ「Cursor」は、Googleが発表したばかりの高速モデル「Gemini 3 Flash」への対応を発表しました。ユーザーはより高速かつ安価なコード生成を利用可能になります。",
+          "thumbnail": "https://picsum.photos/seed/Anysphere-1/800/450"
+        }
+      ]
+    }
+  ]
+}
