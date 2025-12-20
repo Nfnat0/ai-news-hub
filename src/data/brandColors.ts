@@ -1,31 +1,37 @@
-export const brandColors: Record<string, { primary: string; gradient?: string; glow: string }> = {
+export const brandColors: Record<string, { primary: string; gradient: string; glow: string }> = {
     google: {
         primary: '#4285F4',
-        gradient: 'bg-gradient-to-r from-blue-500 via-red-500 via-yellow-500 to-green-500',
+        gradient: 'linear-gradient(135deg, #4285F4 0%, #EA4335 25%, #FBBC04 50%, #34A853 75%, #4285F4 100%)',
         glow: 'shadow-blue-500/50',
     },
     openai: {
         primary: '#10A37F',
+        gradient: 'linear-gradient(135deg, #10A37F 0%, #1DB88E 50%, #10A37F 100%)',
         glow: 'shadow-emerald-500/50',
     },
     microsoft: {
         primary: '#00A4EF',
+        gradient: 'linear-gradient(135deg, #00A4EF 0%, #0078D4 50%, #00A4EF 100%)',
         glow: 'shadow-sky-500/50',
     },
     anthropic: {
         primary: '#D4A574',
+        gradient: 'linear-gradient(135deg, #D4A574 0%, #E8C4A0 50%, #D4A574 100%)',
         glow: 'shadow-amber-600/50',
     },
     amazon: {
         primary: '#FF9900',
+        gradient: 'linear-gradient(135deg, #FF9900 0%, #FFAD33 50%, #FF9900 100%)',
         glow: 'shadow-orange-500/50',
     },
     xai: {
         primary: '#E8E8E8',
+        gradient: 'linear-gradient(135deg, #E8E8E8 0%, #FFFFFF 50%, #E8E8E8 100%)',
         glow: 'shadow-gray-300/50',
     },
     anysphere: {
         primary: '#7C3AED',
+        gradient: 'linear-gradient(135deg, #7C3AED 0%, #A78BFA 50%, #7C3AED 100%)',
         glow: 'shadow-violet-500/50',
     },
 };
@@ -33,5 +39,10 @@ export const brandColors: Record<string, { primary: string; gradient?: string; g
 export const getBrandStyle = (companyKey: string) => {
     const colors = brandColors[companyKey];
     if (!colors) return { color: '#ffffff' };
-    return { color: colors.primary };
+    return {
+        background: colors.gradient,
+        WebkitBackgroundClip: 'text',
+        WebkitTextFillColor: 'transparent',
+        backgroundClip: 'text',
+    };
 };

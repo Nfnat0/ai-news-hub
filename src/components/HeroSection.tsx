@@ -67,7 +67,15 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     }
 
     const currentNews = topNews[currentIndex];
-    const fallbackImage = `https://picsum.photos/seed/hero-${currentIndex}/1920/1080`;
+
+    // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
+    const animals = [
+        'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten',
+        'dog', 'cat', 'puppy', 'kitten',
+        'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala',
+        'otter', 'penguin', 'seal', 'red-panda'
+    ];
+
     const isNew = isNewArticle(currentNews.pubDate);
 
     const formatDate = (dateStr: string) => {
@@ -89,16 +97,22 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
         >
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
-                {topNews.map((news, index) => (
-                    <img
-                        key={index}
-                        src={imgErrors[index] ? `https://picsum.photos/seed/hero-${index}/1920/1080` : news.thumbnail || fallbackImage}
-                        alt={news.title}
-                        className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
-                            }`}
-                        onError={() => handleImageError(index)}
-                    />
-                ))}
+                {topNews.map((news, index) => {
+                    const animalIndex = index % animals.length;
+                    const animal = animals[animalIndex];
+                    const heroFallback = `https://picsum.photos/seed/cute-${animal}-hero-${index}/1920/1080`;
+
+                    return (
+                        <img
+                            key={index}
+                            src={imgErrors[index] ? heroFallback : news.thumbnail || heroFallback}
+                            alt={news.title}
+                            className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
+                                }`}
+                            onError={() => handleImageError(index)}
+                        />
+                    );
+                })}
             </div>
 
             {/* Gradient overlays for seamless blend */}
@@ -138,11 +152,16 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             <div className="absolute bottom-0 left-0 right-0 p-12">
                 <div className="max-w-4xl">
                     <div className="flex items-center gap-3 mb-4">
-
                         {isNew && (
-                            <span className="inline-block bg-gradient-to-r from-yellow-500 to-orange-500 text-black px-3 py-1 rounded text-sm font-bold animate-pulse">
-                                NEW
-                            </span>
+                            <div className="flex items-center gap-1.5">
+                                <span className="relative flex h-2 w-2">
+                                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                                    <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                                </span>
+                                <span className="text-blue-200 text-xs font-bold tracking-wider uppercase drop-shadow-md bg-black/40 px-2 py-1 rounded-full backdrop-blur-sm">
+                                    New
+                                </span>
+                            </div>
                         )}
                     </div>
                     <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight drop-shadow-lg">

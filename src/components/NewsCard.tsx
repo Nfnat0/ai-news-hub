@@ -13,7 +13,16 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     const [imgError, setImgError] = useState(false);
     const isNew = isNewArticle(news.pubDate);
 
-    const fallbackImage = `https://picsum.photos/seed/card-${index}/800/450`;
+    // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
+    const animals = [
+        'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten',
+        'dog', 'cat', 'puppy', 'kitten',
+        'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala',
+        'otter', 'penguin', 'seal', 'red-panda'
+    ];
+    const animalIndex = index % animals.length;
+    const animal = animals[animalIndex];
+    const fallbackImage = `https://picsum.photos/seed/cute-${animal}-card-${index}/800/450`;
 
     const formatDate = (dateStr: string) => {
         const date = new Date(dateStr);

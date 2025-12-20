@@ -41,14 +41,11 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
     );
 
     return (
-        <section className="py-4 group/row">
+        <section className="py-0 group/row">
             <div className="px-8 mb-3 flex items-center">
                 <h2
                     className="text-3xl font-black tracking-tight drop-shadow-lg"
-                    style={{
-                        ...brandStyle,
-                        textShadow: `0 0 30px ${colors?.primary || '#ffffff'}40`,
-                    }}
+                    style={brandStyle}
                 >
                     {companyNews.displayName}
                 </h2>

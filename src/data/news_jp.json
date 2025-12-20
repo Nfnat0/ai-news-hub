@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-20T10:10:12.493Z",
+  "fetchedAt": "2025-12-20T11:21:03.598Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,105 +11,35 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51OGFvOVFNQ2xJTG9fNC0tX2VjXzJyaUdJSUdLVlRzU2o5YXBtclJNZHBITzIyQTMzdzItc2dzQ3RCRzBaMkpwZHU0WlQ3RksxOFVhS2RnRXF0LS1Hb1V1YVVZNERPa2ZTaUE?oc=5",
           "pubDate": "2025-12-19 06:10:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE51OGFvOVFNQ2xJTG9fNC0tX2VjXzJyaUdJSUdLVlRzU2o5YXBtclJNZHBITzIyQTMzdzItc2dzQ3RCRzBaMkpwZHU0WlQ3RksxOFVhS2RnRXF0LS1Hb1V1YVVZNERPa2ZTaUE?oc=5\" target=\"_blank\">360Channel、藤井隆×Google AIプロジェクト『Music Video with Gemini』に参画</a>  PR TIMES",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-2/800/450"
-        },
-        {
-          "title": "Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式 - note",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5",
-          "pubDate": "2025-12-19 06:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5\" target=\"_blank\">Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式</a>  note",
-          "thumbnail": "https://picsum.photos/seed/Gemini-5/800/450"
-        },
-        {
-          "title": "グーグル「NotebookLM」が表形式の出力に対応（ケータイ Watch） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRUZ0RmpJY0FPWG42UENsbkQxME52bGpGTnhobExqSW4xTlVjZ0N6b1hZXzRsRUpIUWM4dW5UcTBwMW1KS2NSRjZ1bTU1ZG11bUROdkVFTy00dVVHWHh5bjg2WlZmRlpubl9uTklJRFdubkRJNl92ajRVeVZBNXM?oc=5",
-          "pubDate": "2025-12-19 04:03:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRUZ0RmpJY0FPWG42UENsbkQxME52bGpGTnhobExqSW4xTlVjZ0N6b1hZXzRsRUpIUWM4dW5UcTBwMW1KS2NSRjZ1bTU1ZG11bUROdkVFTy00dVVHWHh5bjg2WlZmRlpubl9uTklJRFdubkRJNl92ajRVeVZBNXM?oc=5\" target=\"_blank\">グーグル「NotebookLM」が表形式の出力に対応（ケータイ Watch）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-7/800/450"
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-Google-AI-2/800/450"
         },
         {
           "title": "Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた - GIGAZINE",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYTdRTjVtTW5UQWl5Sm45RTVHY2FnMVhUdnNxaTB3YTJMSk9HMG5wX3hWNjFvLVBBX2hSdUhENTlVekd4d0pKeS1kMnJIajJlb1RMQ05WYXhhdFFsakhMaHJ5b0QtZ1F1c3hYUkVHVV9jbFM4Tmc?oc=5",
           "pubDate": "2025-12-19 03:55:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYTdRTjVtTW5UQWl5Sm45RTVHY2FnMVhUdnNxaTB3YTJMSk9HMG5wX3hWNjFvLVBBX2hSdUhENTlVekd4d0pKeS1kMnJIajJlb1RMQ05WYXhhdFFsakhMaHJ5b0QtZ1F1c3hYUkVHVV9jbFM4Tmc?oc=5\" target=\"_blank\">Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた</a>  GIGAZINE",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-0/800/450"
-        },
-        {
-          "title": "Google、ミニアプリが作れる「Opal」をGeminiに実験的に統合 - ケータイ Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYUl5MWpZWE1kTWZ6MEY5QTMtYUt5QzY3b0tRZFcyLWJYZ3ZKMXloWElrclF3TDNFWUFPekJjY1ktVk15RWVKdmVUMjJDMmhrWThOX0xBNFJUNjBTMk9RY25pQ0V0d3c?oc=5",
-          "pubDate": "2025-12-19 03:16:49",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYUl5MWpZWE1kTWZ6MEY5QTMtYUt5QzY3b0tRZFcyLWJYZ3ZKMXloWElrclF3TDNFWUFPekJjY1ktVk15RWVKdmVUMjJDMmhrWThOX0xBNFJUNjBTMk9RY25pQ0V0d3c?oc=5\" target=\"_blank\">Google、ミニアプリが作れる「Opal」をGeminiに実験的に統合</a>  ケータイ Watch",
-          "thumbnail": "https://picsum.photos/seed/Gemini-0/800/450"
+          "thumbnail": "https://picsum.photos/seed/cute-cat-Google-AI-0/800/450"
         },
         {
           "title": "Google AIバイブコーディングツール「Opal」をGemini に統合、Super Gemsを提供（ビジネス＋IT） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMlB0VFN1Q3JtR0VaSmgzWUZXOXoxVXFadFBCTVczeWptV1l2RjlzWE5heElrMzNvdG5UMC1qZjl0czVsYzVjQkpmb2UwRWhZX0lEbG5EOHBOLWZyQkJQdUQ4Z1FfMUJQNHJWRklpbS1wVkQzcmpiSFlJNkI0T2c?oc=5",
           "pubDate": "2025-12-19 02:20:05",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMlB0VFN1Q3JtR0VaSmgzWUZXOXoxVXFadFBCTVczeWptV1l2RjlzWE5heElrMzNvdG5UMC1qZjl0czVsYzVjQkpmb2UwRWhZX0lEbG5EOHBOLWZyQkJQdUQ4Z1FfMUJQNHJWRklpbS1wVkQzcmpiSFlJNkI0T2c?oc=5\" target=\"_blank\">Google AIバイブコーディングツール「Opal」をGemini に統合、Super Gemsを提供（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-1/800/450"
-        },
-        {
-          "title": "「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ - ダイヤモンド・オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Z05PM09sWHBwa2ZHSTI4R0JIeHloR21ESTR3OGlsUzFTX2pVb3dGekR6VHVyblJaZWl6Y2wzZ2duZ0ZBUkI3ZUtkU1VBNjFTTUNSd0Fn0gFPQVVfeXFMTjRhdm5PMWI3TzI3cVpsWGx0UVBSYlRqbEFkbDNzX1ZaNUt3Sl9fQUl3bVBOeHRpSWhZU3FHeU9naTJJM1ZQNXJGdFhTcFRfSQ?oc=5",
-          "pubDate": "2025-12-18 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE16Z05PM09sWHBwa2ZHSTI4R0JIeHloR21ESTR3OGlsUzFTX2pVb3dGekR6VHVyblJaZWl6Y2wzZ2duZ0ZBUkI3ZUtkU1VBNjFTTUNSd0Fn0gFPQVVfeXFMTjRhdm5PMWI3TzI3cVpsWGx0UVBSYlRqbEFkbDNzX1ZaNUt3Sl9fQUl3bVBOeHRpSWhZU3FHeU9naTJJM1ZQNXJGdFhTcFRfSQ?oc=5\" target=\"_blank\">「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ</a>  ダイヤモンド・オンライン",
-          "thumbnail": "https://picsum.photos/seed/Gemini-6/800/450"
-        },
-        {
-          "title": "Gemini 3 Flash：スピードを追求した最先端知能 - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5",
-          "pubDate": "2025-12-18 03:22:42",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5\" target=\"_blank\">Gemini 3 Flash：スピードを追求した最先端知能</a>  blog.google</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FR1FISi1UN1ltTjBva1VBN1RqdjVld1gwMUUybjVXZ29mRHdlWk9iNVc4dDlwUXpYUENjQmdtS05LMGJ3NTZHT1p5SF9hRWlxQ2RYSGM0YTM3dWFYUThaNkdDM0k?oc=5\" target=\"_blank\">グーグル、新高速モデル「Gemini 3 Flash」 2.5 Proより高性能・低コスト</a>  Impress Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/Gemini-4/800/450"
-        },
-        {
-          "title": "Google、バイブコーディングツール「Opal」をWeb版Geminiに統合 実験提供を開始 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOU04SE9LRlBERWptRk1KWUxEU25IcVk5SHJPV3lHX3V2RzNoRGJ5V1I2NTlQT0hySkkzUGVwLW0zcE5XSWJpRFNHaERQVFoyUUNwZ1QtNmgzUmNkUGx2VG5wOXRiNW1DUVA3MVVDVQ?oc=5",
-          "pubDate": "2025-12-18 02:46:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOU04SE9LRlBERWptRk1KWUxEU25IcVk5SHJPV3lHX3V2RzNoRGJ5V1I2NTlQT0hySkkzUGVwLW0zcE5XSWJpRFNHaERQVFoyUUNwZ1QtNmgzUmNkUGx2VG5wOXRiNW1DUVA3MVVDVQ?oc=5\" target=\"_blank\">Google、バイブコーディングツール「Opal」をWeb版Geminiに統合 実験提供を開始</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/Gemini-2/800/450"
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Google-AI-1/800/450"
         },
         {
           "title": "グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5",
           "pubDate": "2025-12-18 01:23:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-3/800/450"
-        },
-        {
-          "title": "話し相手から頼れるエージェントへ。進化し続けたGoogle AIの2025年を振り返る（Google Tales） - テクノエッジ TechnoEdge",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX2NJVnBZTGtPMjlzbmZDRW1DYmtGcTlVV3JJeUNOUVN4N3BCdHc1ckN0VE9UQmJiUjJ4LW5oaHJQV2Z1cHcxMjBZNmIzblh3QjJGc25ja25yaXM5eFlXd2FmRWlUUjQ?oc=5",
-          "pubDate": "2025-12-18 01:11:19",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xX2NJVnBZTGtPMjlzbmZDRW1DYmtGcTlVV3JJeUNOUVN4N3BCdHc1ckN0VE9UQmJiUjJ4LW5oaHJQV2Z1cHcxMjBZNmIzblh3QjJGc25ja25yaXM5eFlXd2FmRWlUUjQ?oc=5\" target=\"_blank\">話し相手から頼れるエージェントへ。進化し続けたGoogle AIの2025年を振り返る（Google Tales）</a>  テクノエッジ TechnoEdge",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-5/800/450"
-        },
-        {
-          "title": "グーグル、最新のAIモデル「Gemini 3 Flash」の無料提供を開始 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLanNaWVNtMnp3NHpObk1JTGtYejJPTkFKR1ZjSWhQeWY5WE9DUUUxOVcwOGdsMVY4cUExMUh4TjBSbW01aFFFWVNucUhheTFPNElaVThCblBKRjMxQ2kzejA4RC1zNDJaMjVOYUdvdWMzWGdrblZ6M3JpNVZJUGM?oc=5",
-          "pubDate": "2025-12-18 00:14:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBLanNaWVNtMnp3NHpObk1JTGtYejJPTkFKR1ZjSWhQeWY5WE9DUUUxOVcwOGdsMVY4cUExMUh4TjBSbW01aFFFWVNucUhheTFPNElaVThCblBKRjMxQ2kzejA4RC1zNDJaMjVOYUdvdWMzWGdrblZ6M3JpNVZJUGM?oc=5\" target=\"_blank\">グーグル、最新のAIモデル「Gemini 3 Flash」の無料提供を開始</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-8/800/450"
-        },
-        {
-          "title": "グーグル、毎朝の予定を要約するAIツール「CC」を公開--Gmailやカレンダーと連携 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVlBlWTgzR25LOWw4aVhrdE54LUV4c09KazhmaHVDNktVTm9GU09SNWt6Y2dnMkRxZm9uRk44T2NISkp1Q0NsbnZrN1BIOTNGMjIw?oc=5",
-          "pubDate": "2025-12-17 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVlBlWTgzR25LOWw4aVhrdE54LUV4c09KazhmaHVDNktVTm9GU09SNWt6Y2dnMkRxZm9uRk44T2NISkp1Q0NsbnZrN1BIOTNGMjIw?oc=5\" target=\"_blank\">グーグル、毎朝の予定を要約するAIツール「CC」を公開--Gmailやカレンダーと連携</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-6/800/450"
+          "thumbnail": "https://picsum.photos/seed/cute-rabbit-Google-AI-3/800/450"
         },
         {
           "title": "Google、AI搭載ミニアプリ構築ツール「Opal」を「Gemini」アプリから利用可能に ほか - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9veFRhMExQdnR1eVNVTGJXQlg1M3BSeTRZNWkyMDBkSDlneWNuZ2tNUnVnRy02RnJZLXhZZ0pER0NuN19xWnhzUDV3Z2dFZm90c1BZQnZLZ25MajJVaFJTb09nZ3VHRFZfemJv?oc=5",
           "pubDate": "2025-12-17 08:15:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9veFRhMExQdnR1eVNVTGJXQlg1M3BSeTRZNWkyMDBkSDlneWNuZ2tNUnVnRy02RnJZLXhZZ0pER0NuN19xWnhzUDV3Z2dFZm90c1BZQnZLZ25MajJVaFJTb09nZ3VHRFZfemJv?oc=5\" target=\"_blank\">Google、AI搭載ミニアプリ構築ツール「Opal」を「Gemini」アプリから利用可能に ほか</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-4/800/450"
-        },
-        {
-          "title": "Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入 - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmtNTGpwcTREU3dQa29lU3BKdXFuVmt3ZEthTVgzcUVOTElDWUJmbTFYMnJWb08waFJzYktfa3kzTm5vakdfbS1BSzhnWW13anB1VE9TRHZPbVRuSlBLN1pfMUkxZFFW?oc=5",
-          "pubDate": "2025-12-17 06:58:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6TmtNTGpwcTREU3dQa29lU3BKdXFuVmt3ZEthTVgzcUVOTElDWUJmbTFYMnJWb08waFJzYktfa3kzTm5vakdfbS1BSzhnWW13anB1VE9TRHZPbVRuSlBLN1pfMUkxZFFW?oc=5\" target=\"_blank\">Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-9/800/450"
+          "thumbnail": "https://picsum.photos/seed/cute-bunny-Google-AI-4/800/450"
         }
       ]
     },
@@ -118,18 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI、エネルギー省との連携を強化し「GPT-5.2-Codex」を発表",
-          "link": "https://openai.com/index/us-department-of-energy-collaboration/",
-          "pubDate": "2025-12-18 10:00:00",
-          "description": "OpenAIは米国エネルギー省（DOE）との提携を強化し、科学的発見を加速させるための取り組みを発表しました。また、コーディングに特化した新モデル「GPT-5.2-Codex」の提供も開始しました。",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-1/800/450"
+          "title": "スタンフォード「Artemis」が人間超え、OpenAIは「高リスク」警告─AI自律ハッキングの時代が到来 - innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZEJJbW1TTDE0RWNFelRsUEV4NkRxQWdGbUplM0NmVktwaWxyeHZVb1AxWmxRbzlEeGllZlZ1WjNjaGtDdW5lOTRQSTYtQ0VfSlAzbXRHXzJ5MGlYZUdsVkRzcE9fSEpuTnhfR081bzgtZw?oc=5",
+          "pubDate": "2025-12-20 08:57:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zZEJJbW1TTDE0RWNFelRsUEV4NkRxQWdGbUplM0NmVktwaWxyeHZVb1AxWmxRbzlEeGllZlZ1WjNjaGtDdW5lOTRQSTYtQ0VfSlAzbXRHXzJ5MGlYZUdsVkRzcE9fSEpuTnhfR081bzgtZw?oc=5\" target=\"_blank\">スタンフォード「Artemis」が人間超え、OpenAIは「高リスク」警告─AI自律ハッキングの時代が到来</a>  innovaTopia",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-OpenAI-4/800/450"
         },
         {
-          "title": "OpenAI、報道機関向け支援プログラム「OpenAI Academy for News」を設立",
-          "link": "https://openai.com/index/openai-academy-for-news/",
-          "pubDate": "2025-12-17 09:30:00",
-          "description": "OpenAIは、世界中の報道機関がAI技術を活用し、ジャーナリズムの質を向上させることを支援する新しいプログラム「OpenAI Academy for News Organizations」を発表しました。",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-2/800/450"
+          "title": "OpenAI、コーディング特化の「GPT-5.2-Codex」提供 高度AIに限定アクセス - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00djNGaGxQV0FlaERRNXZIOXNaSEdBbFF3U0ZBU0F5OXdiN0tOdHNEdDBhaDlGOWlqRzBzTkFkUEN0Vkt3V21rckFxQzVVTTl5VV9yMGt5eU5FbC0zNzdtUWVTYjM?oc=5",
+          "pubDate": "2025-12-19 04:53:34",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE00djNGaGxQV0FlaERRNXZIOXNaSEdBbFF3U0ZBU0F5OXdiN0tOdHNEdDBhaDlGOWlqRzBzTkFkUEN0Vkt3V21rckFxQzVVTTl5VV9yMGt5eU5FbC0zNzdtUWVTYjM?oc=5\" target=\"_blank\">OpenAI、コーディング特化の「GPT-5.2-Codex」提供 高度AIに限定アクセス</a>  Impress Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaGNDX0xaWUMyMDFNWEdhbnpaeENCRkZ3dFEzTnRjQlhFR19JQWY3SjVzYmVMcEZmaVpUNVNtN3AwMmNlaW5IWkFnOGxnZTlJWXdhS1QtVjlkX0dDbkZ4WXFWcy1Ha2NDcFZmV1RnQlFfUXZrWHBiU0pLQmdlRmM?oc=5\" target=\"_blank\">OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開 長時間開発作業に対応（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05RUl3enZzN2xqMEJqeUdxVnJqWGZvOUVZOGtONEVWeEx4OXppYkFocjVrVjNLX0drTnVOTTBER3dLdnpDZ3pFQnJfbUVGLUc5NUMxUE1KN2NqTUd1RGNjRlo2dGJWY2s?oc=5\" target=\"_blank\">OpenAIがコーディング特化のAIモデル「GPT-5.2-Codex」をリリース</a>  GIGAZINE</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-OpenAI-0/800/450"
+        },
+        {
+          "title": "OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5",
+          "pubDate": "2025-12-19 00:12:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5\" target=\"_blank\">OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-OpenAI-2/800/450"
+        },
+        {
+          "title": "AmazonがOpenAIに約100億ドルの投資を協議中と情報筋が語る - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ3p4Tlc2a0FUQWNFOUg3a2tCQ1k0QVZNRGJWUG5UdHRBMldBV290T0xZZDhBbFBSb2F6Q0NxUGw2VWJMMFhJdjlPQUJkVFpJY2d5UDRKMWxTVDVuRmJjM01iVDQ4d0ZZXzlidg?oc=5",
+          "pubDate": "2025-12-18 03:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ3p4Tlc2a0FUQWNFOUg3a2tCQ1k0QVZNRGJWUG5UdHRBMldBV290T0xZZDhBbFBSb2F6Q0NxUGw2VWJMMFhJdjlPQUJkVFpJY2d5UDRKMWxTVDVuRmJjM01iVDQ4d0ZZXzlidg?oc=5\" target=\"_blank\">AmazonがOpenAIに約100億ドルの投資を協議中と情報筋が語る</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/cute-cat-OpenAI-3/800/450"
+        },
+        {
+          "title": "Amazon、OpenAIに1兆5000億円投資へ協議 米報道 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4eTc0a19NcHVZV0NQWWVPanpmWlBsVk1CRzZnZ1JZYkpBNDRLRlFYOG40cktCNUpkRmM0SGlKV0Z2akFLaDZxbEVlNy1ZSmhDb2dPdF9PZjNLMEFkU3JXNUZWZEdJbTgzdlVYMA?oc=5",
+          "pubDate": "2025-12-17 05:36:32",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB4eTc0a19NcHVZV0NQWWVPanpmWlBsVk1CRzZnZ1JZYkpBNDRLRlFYOG40cktCNUpkRmM0SGlKV0Z2akFLaDZxbEVlNy1ZSmhDb2dPdF9PZjNLMEFkU3JXNUZWZEdJbTgzdlVYMA?oc=5\" target=\"_blank\">Amazon、OpenAIに1兆5000億円投資へ協議 米報道</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-OpenAI-1/800/450"
         }
       ]
     },
@@ -138,18 +89,39 @@
       "displayName": "Microsoft",
       "news": [
         {
-          "title": "Microsoft、「Visual Studio 2026」を正式リリース - AIネイティブな開発環境へ",
-          "link": "https://learn.microsoft.com/ja-jp/visualstudio/releases/2026/release-notes",
-          "pubDate": "2025-12-16 09:00:00",
-          "description": "Microsoftは、AI機能を核に据えた統合開発環境「Visual Studio 2026」をリリースしました。起動の高速化やCopilotの深い統合により、開発者の生産性を大幅に向上させます。",
-          "thumbnail": "https://picsum.photos/seed/Microsoft-1/800/450"
+          "title": "GitHub CopilotがAgent Skills対応を発表 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5",
+          "pubDate": "2025-12-19 08:13:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5\" target=\"_blank\">GitHub CopilotがAgent Skills対応を発表</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cute-hamster-GitHub-Copilot-0/800/450"
         },
         {
-          "title": "Copilotの利用が急増、決算報告での言及が22%増加",
-          "link": "https://iot-analytics.com/what-ceos-talked-about-q4-2025-ai-initiatives/",
-          "pubDate": "2025-12-18 15:00:00",
-          "description": "2025年第4四半期の企業決算報告において、「Copilot」への言及が前期比22%増加したことが明らかになり、企業へのAI導入が加速している現状が浮き彫りになりました。",
-          "thumbnail": "https://picsum.photos/seed/Microsoft-2/800/450"
+          "title": "GPT-5.2登場 知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwRWNkdkdpbnFBbXBROG1uUDByeC15NkZJWG5oZzB4b2tvZnVzaklfYjI4dnNxemlfSWVBNXliejFDektwNTdLVTZheUpid2hxRzFpSGU1blJQZjd3YTNUTTFnbV9yVy02LVViZmphcVBIdw?oc=5",
+          "pubDate": "2025-12-16 20:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBwRWNkdkdpbnFBbXBROG1uUDByeC15NkZJWG5oZzB4b2tvZnVzaklfYjI4dnNxemlfSWVBNXliejFDektwNTdLVTZheUpid2hxRzFpSGU1blJQZjd3YTNUTTFnbV9yVy02LVViZmphcVBIdw?oc=5\" target=\"_blank\">GPT-5.2登場 知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cute-fox-GitHub-Copilot-2/800/450"
+        },
+        {
+          "title": "GitHub Copilot ChatではじめるJavaScript開発(6) プログラムのデバッグにCopilot Chatを活用する - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eDJVVVFKa28wT0k1c0JNOHM2RlR6cURZSzRDelA4NVFCNDhJcDVoQkE1QmZibG9YYjAxbVNFOVhzQVRpNWV4dFpadVZlSTRRbW1BWlJNTW9nX2p5RGYyUWRsWjR6UmlVWUpTcTdVSQ?oc=5",
+          "pubDate": "2025-12-16 01:27:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eDJVVVFKa28wT0k1c0JNOHM2RlR6cURZSzRDelA4NVFCNDhJcDVoQkE1QmZibG9YYjAxbVNFOVhzQVRpNWV4dFpadVZlSTRRbW1BWlJNTW9nX2p5RGYyUWRsWjR6UmlVWUpTcTdVSQ?oc=5\" target=\"_blank\">GitHub Copilot ChatではじめるJavaScript開発(6) プログラムのデバッグにCopilot Chatを活用する</a>  マイナビニュース",
+          "thumbnail": "https://picsum.photos/seed/cute-panda-GitHub-Copilot-3/800/450"
+        },
+        {
+          "title": "JCB、アジャイル内製開発を拡大、GitHub Copilotを活用してコーディング生産性を向上 - IT Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNaEROUWZWem9PYWNEelpSVFdPbFJJUXVxWUNtdVJOeFN6OU5KMEhRWm9OTzAwZTJ5YVF1eW8waWhsTE5UeVJGSlAydlJ0ZTFvZHNz?oc=5",
+          "pubDate": "2025-12-15 05:54:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNaEROUWZWem9PYWNEelpSVFdPbFJJUXVxWUNtdVJOeFN6OU5KMEhRWm9OTzAwZTJ5YVF1eW8waWhsTE5UeVJGSlAydlJ0ZTFvZHNz?oc=5\" target=\"_blank\">JCB、アジャイル内製開発を拡大、GitHub Copilotを活用してコーディング生産性を向上</a>  IT Leaders",
+          "thumbnail": "https://picsum.photos/seed/cute-hedgehog-GitHub-Copilot-1/800/450"
+        },
+        {
+          "title": "GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5\" target=\"_blank\">GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cute-koala-GitHub-Copilot-4/800/450"
         }
       ]
     },
@@ -158,18 +130,39 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "Anthropic、ClaudeのChromeブラウザ拡張機能を全有料ユーザーに公開",
-          "link": "https://www.anthropic.com/news/claude-chrome-extension",
-          "pubDate": "2025-12-19 14:00:00",
-          "description": "Anthropicは、これまで一部ユーザー限定だったClaudeのChromeブラウザ拡張機能を、すべての有料プランユーザーに開放しました。これにより、ブラウザ上でClaudeが直接タスクを実行可能になります。",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-1/800/450"
+          "title": "AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字 - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Nd1pSSTBxNUlSbmY1YWtOYmJ0TmJDdlRldTBFd2NnRzBQdWU5dVo3TjNkS0pkN2lxMFVSVjVhLTRYYndQcm1URjVjdU9rMkc2UTlNTGc0ZF9fQ3NRMkhkbWt1elNVMnNnLWh5ZGpURTAxS29UdzFN?oc=5",
+          "pubDate": "2025-12-19 08:05:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5Nd1pSSTBxNUlSbmY1YWtOYmJ0TmJDdlRldTBFd2NnRzBQdWU5dVo3TjNkS0pkN2lxMFVSVjVhLTRYYndQcm1URjVjdU9rMkc2UTlNTGc0ZF9fQ3NRMkhkbWt1elNVMnNnLWh5ZGpURTAxS29UdzFN?oc=5\" target=\"_blank\">AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/cute-cat-Anthropic-0/800/450"
         },
         {
-          "title": "Claude Codeの開発者が警鐘、「AIコーディングは銀の弾丸ではない」",
-          "link": "https://timesofindia.indiatimes.com/technology/tech-news/creator-of-claude-warning/",
-          "pubDate": "2025-12-16 17:35:00",
-          "description": "AnthropicのエンジニアでClaude Codeの開発者であるBoris Cherny氏が、AIによるコーディング支援の限界について語り、プロダクションレベルのソフトウェア構築における過度な依存に注意を促しました。",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-2/800/450"
+          "title": "Anthropic、エージェントスキルをオープンスタンダードとして公開 - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zM2FLU213b0t6WFI5OVM5ejEyWW1FRWhybkxTUlI2T2wzZF9ISGQ3LWxMWlY4VWZtMHpEWFdvbW9UdHJMNm0xSVhIV1ljbGFyV1dBYUZ2eWt6WUNnUGVRVzBSR3BTR2dEQzZpejlwcw?oc=5",
+          "pubDate": "2025-12-19 02:02:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4zM2FLU213b0t6WFI5OVM5ejEyWW1FRWhybkxTUlI2T2wzZF9ISGQ3LWxMWlY4VWZtMHpEWFdvbW9UdHJMNm0xSVhIV1ljbGFyV1dBYUZ2eWt6WUNnUGVRVzBSR3BTR2dEQzZpejlwcw?oc=5\" target=\"_blank\">Anthropic、エージェントスキルをオープンスタンダードとして公開</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-Anthropic-2/800/450"
+        },
+        {
+          "title": "Anthropic、Claudeの「Skils」を強化 - 組織管理・パートナー連携・標準化を発表 - ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3FjVmkzMDRMZENQSzVDa2FQUHkyWmxRM09SYm5SNUlkWmhpbTRZTWdDRlEyS2tiQ0xLMWlCTWN6QWVwQ0tUOGhVZ3RvQmhnTWJTUHk0MVk2OTVGdTd4aWYzVUhkbFNOWTk5SElST0dtOXlsekxEQ1VtbWUwaG9sakxuaVdRWXRUREHSAXxBVV95cUxOQU93b1c5V0pyVy1oaFl6UmVaZ2VQUXl6THdibU1vRWxEcEt2TGFyQ19KeTVKZ1hNdGQ5dy1XY25QVUpTWUNwU09tS0hWbEQzLXBhZk1jLU9XTGl2NzZZUi1DTzdUakZkdG5SVy1OUkU4Qk5RZ1BONFBCa1BQ?oc=5",
+          "pubDate": "2025-12-19 01:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3FjVmkzMDRMZENQSzVDa2FQUHkyWmxRM09SYm5SNUlkWmhpbTRZTWdDRlEyS2tiQ0xLMWlCTWN6QWVwQ0tUOGhVZ3RvQmhnTWJTUHk0MVk2OTVGdTd4aWYzVUhkbFNOWTk5SElST0dtOXlsekxEQ1VtbWUwaG9sakxuaVdRWXRUREHSAXxBVV95cUxOQU93b1c5V0pyVy1oaFl6UmVaZ2VQUXl6THdibU1vRWxEcEt2TGFyQ19KeTVKZ1hNdGQ5dy1XY25QVUpTWUNwU09tS0hWbEQzLXBhZk1jLU9XTGl2NzZZUi1DTzdUakZkdG5SVy1OUkU4Qk5RZ1BONFBCa1BQ?oc=5\" target=\"_blank\">Anthropic、Claudeの「Skils」を強化 - 組織管理・パートナー連携・標準化を発表</a>  ｄメニューニュース",
+          "thumbnail": "https://picsum.photos/seed/cute-bunny-Anthropic-4/800/450"
+        },
+        {
+          "title": "Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5",
+          "pubDate": "2025-12-19 01:17:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5\" target=\"_blank\">Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/cute-rabbit-Anthropic-3/800/450"
+        },
+        {
+          "title": "Anthropic、AI店長による売店運営を検証 「Project Vend」で見えた自律性とリスク - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TYzZadjFGNXBnMGVLWVllNk4yenVzeWxXbXVIRk1QM1diWUNOcHJqTkVtMkw5VDNJZDF1M015LV96Mmg3NUt6UGxlNUFkdzJlU0FRUmc0cDV5LV84UjJjUEZIbi04OVNFemFfcl82VQ?oc=5",
+          "pubDate": "2025-12-19 00:06:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1TYzZadjFGNXBnMGVLWVllNk4yenVzeWxXbXVIRk1QM1diWUNOcHJqTkVtMkw5VDNJZDF1M015LV96Mmg3NUt6UGxlNUFkdzJlU0FRUmc0cDV5LV84UjJjUEZIbi04OVNFemFfcl82VQ?oc=5\" target=\"_blank\">Anthropic、AI店長による売店運営を検証 「Project Vend」で見えた自律性とリスク</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Anthropic-1/800/450"
         }
       ]
     },
@@ -178,11 +171,39 @@
       "displayName": "Amazon",
       "news": [
         {
-          "title": "Amazon、生成AI「Olympus」を搭載した新しいショッピング体験を米国で展開",
-          "link": "https://www.aboutamazon.com/news/retail/amazon-olympus-shopping-experience",
-          "pubDate": "2025-12-15 08:00:00",
-          "description": "Amazonは、自社開発の最新LLM「Olympus」を活用した対話型のショッピング機能を米国で本格展開しました。複雑な検索意図を理解し、最適な商品を提案します。",
-          "thumbnail": "https://picsum.photos/seed/Amazon-1/800/450"
+          "title": "HashiCorp、AWSのAI搭載IDE「Kiro」向けに「HashiCorp Terraform Power」提供 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01anN2cWlIN0w1SkZUMGtSbENYR1JJWG9TdGRjV0pUOU9GM0lKN0dHaHN2Y1hhVVlvVnR6X2cwUlZiSlRzdHVEY1JjYkxndw?oc=5",
+          "pubDate": "2025-12-15 09:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE01anN2cWlIN0w1SkZUMGtSbENYR1JJWG9TdGRjV0pUOU9GM0lKN0dHaHN2Y1hhVVlvVnR6X2cwUlZiSlRzdHVEY1JjYkxndw?oc=5\" target=\"_blank\">HashiCorp、AWSのAI搭載IDE「Kiro」向けに「HashiCorp Terraform Power」提供</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cute-cat-Kiro-1/800/450"
+        },
+        {
+          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-Kiro-0/800/450"
+        },
+        {
+          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-Kiro-4/800/450"
+        },
+        {
+          "title": "AWS、VS Codeベース開発環境「Kiro」の一般提供開始 数千テストケースを自動生成、検証する仕組みとは - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wR3BkUnFCTHEzUTdZTDBaT2ZVdzExM01waVVwQy1oTmJmb2tRVlhPU2xWaEtNUVBEQXE5UWVqQWtid2hGell3QWszSUgtTEl3TklZaG5mdmR1bkM1VGtxMXZNbXg1OWhCX29sVTl5NEFzdw?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0wR3BkUnFCTHEzUTdZTDBaT2ZVdzExM01waVVwQy1oTmJmb2tRVlhPU2xWaEtNUVBEQXE5UWVqQWtid2hGell3QWszSUgtTEl3TklZaG5mdmR1bkM1VGtxMXZNbXg1OWhCX29sVTl5NEFzdw?oc=5\" target=\"_blank\">AWS、VS Codeベース開発環境「Kiro」の一般提供開始 数千テストケースを自動生成、検証する仕組みとは</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-Kiro-3/800/450"
+        },
+        {
+          "title": "AWS、「Kiro」を一般提供──仕様駆動のAIコーディングをIDEとターミナルで一元化 - Ledge.ai",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSXVxWjJ5aXVucktvQUQ0ZTRjV0xVcXItSWN0UjFIMk9YaDk5SkpxYmNyMGk1T2lndnI2ejRTSHZxOW84dFJNM2hldy16WU0tOTRGT25IVzFqcGxWQkxOR09IOXZFUQ?oc=5",
+          "pubDate": "2025-11-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSXVxWjJ5aXVucktvQUQ0ZTRjV0xVcXItSWN0UjFIMk9YaDk5SkpxYmNyMGk1T2lndnI2ejRTSHZxOW84dFJNM2hldy16WU0tOTRGT25IVzFqcGxWQkxOR09IOXZFUQ?oc=5\" target=\"_blank\">AWS、「Kiro」を一般提供──仕様駆動のAIコーディングをIDEとターミナルで一元化</a>  Ledge.ai",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Kiro-2/800/450"
         }
       ]
     },
@@ -191,18 +212,39 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "xAIの「Grok 4.1」、ARC-AGI-2ベンチマークで最高スコアを記録",
-          "link": "https://www.datastudios.org/post/xai-grok-4-1-subscriptions",
-          "pubDate": "2025-12-15 10:00:00",
-          "description": "xAIの最新モデル「Grok 4.1」が、AIの推論能力を測るARC-AGI-2ベンチマークにおいて、他の大規模言語モデルを凌駕するスコアを記録したことが明らかになりました。",
-          "thumbnail": "https://picsum.photos/seed/xAI-1/800/450"
+          "title": "xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始 - ai-market.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5",
+          "pubDate": "2025-12-19 01:27:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5\" target=\"_blank\">xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始</a>  ai-market.jp",
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-Grok-3/800/450"
         },
         {
-          "title": "Grok、オーストラリアでの事件に関する誤情報拡散で物議",
-          "link": "https://sg.news.yahoo.com/grok-spews-misinformation-deadly-australia-213427179.html",
-          "pubDate": "2025-12-16 13:30:00",
-          "description": "xAIのチャットボット「Grok」が、オーストラリアで発生した銃撃事件に関して誤った情報を生成・拡散したことが報じられました。AIによるリアルタイム情報処理の課題が再燃しています。",
-          "thumbnail": "https://picsum.photos/seed/xAI-2/800/450"
+          "title": "Grok Imagineの生成動画についてアプデ前・アプデ直後・アプデ修正後・現在を比較→結論：演技がヘタクソになりました（個人の感想です）（2025年12月18日のAIイラスト） - note",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zeW9CTzcza05NdHJBZmg2T3Y1a2VZTXdCZDFONE56MEJfczRpbm5feE5mT195ZHlOUHAwMkkwU21KeFJ6WElDdnNyMmNhaWZuMWp3?oc=5",
+          "pubDate": "2025-12-18 11:28:54",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zeW9CTzcza05NdHJBZmg2T3Y1a2VZTXdCZDFONE56MEJfczRpbm5feE5mT195ZHlOUHAwMkkwU21KeFJ6WElDdnNyMmNhaWZuMWp3?oc=5\" target=\"_blank\">Grok Imagineの生成動画についてアプデ前・アプデ直後・アプデ修正後・現在を比較→結論：演技がヘタクソになりました（個人の感想です）（2025年12月18日のAIイラスト）</a>  note",
+          "thumbnail": "https://picsum.photos/seed/cute-cat-Grok-1/800/450"
+        },
+        {
+          "title": "困りごとをGoogle検索→まさかのマルウェア感染！ChatGPTやGrokを装った悪質な手口とは… - ライフハッカー・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZ0U1RXlGUXRaRXJVMkJyLUlUekRSZ3A5MDNicTlnUGl4M2tJNWNiOHdXYk1yWTNpb01GUFpFQnoyM295cEo1RTJmQmQySlRNbW1Gal81U1VkQmphbWdSazg5eElBR3lvb2NZSHZhZ2VGLVYzSXkwYVdmQkw?oc=5",
+          "pubDate": "2025-12-17 11:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZ0U1RXlGUXRaRXJVMkJyLUlUekRSZ3A5MDNicTlnUGl4M2tJNWNiOHdXYk1yWTNpb01GUFpFQnoyM295cEo1RTJmQmQySlRNbW1Gal81U1VkQmphbWdSazg5eElBR3lvb2NZSHZhZ2VGLVYzSXkwYVdmQkw?oc=5\" target=\"_blank\">困りごとをGoogle検索→まさかのマルウェア感染！ChatGPTやGrokを装った悪質な手口とは…</a>  ライフハッカー・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-Grok-0/800/450"
+        },
+        {
+          "title": "AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5\" target=\"_blank\">AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Grok-2/800/450"
+        },
+        {
+          "title": "八方美人AI。Grok 4.1があまりにも相手に媚びすぎで逆に不安になる - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IanF2Z09XY0VhSGctM29aS2J4VHJod05VS1Z2SlAxdXZtNlZhT3ozT3lYeHViQ1dCTnU1VnNERi1UWUMzN0plUnBDdGFXdW9Oa1RaaV8tT3hqWjVMbW5sdUF0TFhYdUQy?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IanF2Z09XY0VhSGctM29aS2J4VHJod05VS1Z2SlAxdXZtNlZhT3ozT3lYeHViQ1dCTnU1VnNERi1UWUMzN0plUnBDdGFXdW9Oa1RaaV8tT3hqWjVMbW5sdUF0TFhYdUQy?oc=5\" target=\"_blank\">八方美人AI。Grok 4.1があまりにも相手に媚びすぎで逆に不安になる</a>  ギズモード・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-Grok-4/800/450"
         }
       ]
     },
@@ -211,11 +253,39 @@
       "displayName": "Anysphere",
       "news": [
         {
-          "title": "AIエディタ「Cursor」、Googleの最新モデル「Gemini 3 Flash」に即日対応",
-          "link": "https://cursor.sh/blog/gemini-3-flash-integration",
-          "pubDate": "2025-12-18 11:00:00",
-          "description": "Anysphereが開発するAIコードエディタ「Cursor」は、Googleが発表したばかりの高速モデル「Gemini 3 Flash」への対応を発表しました。ユーザーはより高速かつ安価なコード生成を利用可能になります。",
-          "thumbnail": "https://picsum.photos/seed/Anysphere-1/800/450"
+          "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
+          "pubDate": "2025-12-17 09:32:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
+          "thumbnail": "https://picsum.photos/seed/cute-kitten-Cursor-1/800/450"
+        },
+        {
+          "title": "Cursor、コードデバッグを支援する「Debug Mode」をリリース - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJNGNkQUdvc1g1N1FlcXdpaHVSdFAxQ0NvenhabFI3ZkVMRzU2a0oxcGFGUWxza3FOS2swV0o4a3VBMXI5NUVzb2JKQ0J0UQ?oc=5",
+          "pubDate": "2025-12-11 04:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJNGNkQUdvc1g1N1FlcXdpaHVSdFAxQ0NvenhabFI3ZkVMRzU2a0oxcGFGUWxza3FOS2swV0o4a3VBMXI5NUVzb2JKQ0J0UQ?oc=5\" target=\"_blank\">Cursor、コードデバッグを支援する「Debug Mode」をリリース</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cute-cat-Cursor-3/800/450"
+        },
+        {
+          "title": "note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5\" target=\"_blank\">note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cute-dog-Cursor-2/800/450"
+        },
+        {
+          "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Cursor-0/800/450"
+        },
+        {
+          "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
+          "pubDate": "2025-11-23 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
+          "thumbnail": "https://picsum.photos/seed/cute-puppy-Cursor-4/800/450"
         }
       ]
     }

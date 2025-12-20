@@ -14,12 +14,12 @@ const __dirname = path.dirname(__filename);
 const RSS2JSON_API = 'https://api.rss2json.com/v1/api.json';
 
 const companies = [
-  // { key: 'google', displayName: 'Google', searchTerm: ['Google AI', 'Gemini'] },
+  { key: 'google', displayName: 'Google', searchTerm: ['Google AI', 'Gemini'] },
   { key: 'openai', displayName: 'OpenAI', searchTerm: ['OpenAI'] },
-  // { key: 'microsoft', displayName: 'Microsoft', searchTerm: ['GitHub Copilot', 'Copilot AI'] },
-  // { key: 'anthropic', displayName: 'Anthropic', searchTerm: ['Anthropic'] },
-  // { key: 'amazon', displayName: 'Amazon', searchTerm: ['Kiro', 'Bedrock'] },
-  // { key: 'xai', displayName: 'xAI', searchTerm: ['Grok'] },
+  { key: 'microsoft', displayName: 'Microsoft', searchTerm: ['GitHub Copilot', 'Copilot AI'] },
+  { key: 'anthropic', displayName: 'Anthropic', searchTerm: ['Anthropic'] },
+  { key: 'amazon', displayName: 'Amazon', searchTerm: ['Kiro', 'Bedrock'] },
+  { key: 'xai', displayName: 'xAI', searchTerm: ['Grok'] },
   { key: 'anysphere', displayName: 'Anysphere', searchTerm: ['Cursor'] },
 ];
 
@@ -34,7 +34,19 @@ const extractImageFromDescription = (description) => {
 };
 
 const getFallbackImage = (keyword, index) => {
-  const seed = `${keyword}-${index}`.replace(/\s/g, '-');
+  // かわいい動物の画像をランダムに表示（犬猫の割合を高く）
+  const animals = [
+    'dog', 'cat', 'puppy', 'kitten', 'dog', 'cat', 'puppy', 'kitten', // 犬猫を2回追加
+    'dog', 'cat', 'puppy', 'kitten', // さらに追加して割合を高く
+    'rabbit', 'bunny', 'hamster', 'hedgehog', 'fox', 'panda', 'koala', 
+    'otter', 'penguin', 'seal', 'red-panda'
+  ];
+  
+  // キーワードとインデックスからランダムな動物を選択
+  const animalIndex = (keyword.length + index) % animals.length;
+  const animal = animals[animalIndex];
+  const seed = `cute-${animal}-${keyword}-${index}`.replace(/\s/g, '-');
+  
   return `https://picsum.photos/seed/${seed}/800/450`;
 };
 
