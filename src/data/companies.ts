@@ -3,10 +3,10 @@ import type { CompanyLink } from '../types';
 export const companies = [
     { key: 'google', displayName: 'Google', searchTerm: ['Google AI', 'Gemini'] },
     { key: 'openai', displayName: 'OpenAI', searchTerm: ['OpenAI'] },
-    { key: 'microsoft', displayName: 'Microsoft', searchTerm: ['GitHub Copilot', "Copilot AI"] },
+    { key: 'microsoft', displayName: 'Microsoft', searchTerm: ['GitHub Copilot', "Microsoft AI"] },
     { key: 'anthropic', displayName: 'Anthropic', searchTerm: ['Anthropic'] },
-    { key: 'amazon', displayName: 'Amazon', searchTerm: ['Kiro', 'Bedrock'] },
-    { key: 'xai', displayName: 'xAI', searchTerm: ['Grok'] },
+    { key: 'amazon', displayName: 'Amazon', searchTerm: ['AWS Kiro', 'Bedrock'] },
+    { key: 'xai', displayName: 'xAI', searchTerm: ['Grok', 'xAI'] },
     { key: 'anysphere', displayName: 'Anysphere', searchTerm: ['Cursor'] },
 ];
 
