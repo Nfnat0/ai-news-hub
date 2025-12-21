@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T09:19:57.692Z",
+  "fetchedAt": "2025-12-21T15:18:31.352Z",
   "locale": "en",
   "companies": [
     {
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQk16YnExcmUwb0sxMURUak1oc1FoS2NvVzBualhGVmpaZ1FEem5pOGZ0NjZXQldfNDdza2RaS0JENXpVTDFaUXFpZFdHamJnSm5lamQyVWVudFFNczk2MVEzV3E4Z1FHLXk3aXg5VHFqam5TZ1IyVlBVVWU1aElmQ0NMVG9oeWNjMUdDYUVYZzVnb1NIRmVZ?oc=5",
-          "pubDate": "2025-12-20 18:25:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQk16YnExcmUwb0sxMURUak1oc1FoS2NvVzBualhGVmpaZ1FEem5pOGZ0NjZXQldfNDdza2RaS0JENXpVTDFaUXFpZFdHamJnSm5lamQyVWVudFFNczk2MVEzV3E4Z1FHLXk3aXg5VHFqam5TZ1IyVlBVVWU1aElmQ0NMVG9oeWNjMUdDYUVYZzVnb1NIRmVZ?oc=5\" target=\"_blank\">OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
-          "title": "Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5",
-          "pubDate": "2025-12-20 00:06:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5\" target=\"_blank\">Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say</a>  Reuters",
+          "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNoN1YtMDBCVFRBQXRobEQzV3JJeDdRb21PSHc0R0xnYnVSQndWdlMxZUpMOHdyeVBxei0xekw2UVFJRGFQcDIyQnBuUWptc0I3SE15YTh4dENvOFVBVFNibXB3LVc2c3N3ZkNWejZPVFdDYXo3SzRNcndsQURFSS14Q0F1SEdqWlJNQVhWT2labXdORnJmVnFjSnFqa3ZvYWdQc2hPWQ?oc=5",
+          "pubDate": "2025-12-20 20:34:07",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNoN1YtMDBCVFRBQXRobEQzV3JJeDdRb21PSHc0R0xnYnVSQndWdlMxZUpMOHdyeVBxei0xekw2UVFJRGFQcDIyQnBuUWptc0I3SE15YTh4dENvOFVBVFNibXB3LVc2c3N3ZkNWejZPVFdDYXo3SzRNcndsQURFSS14Q0F1SEdqWlJNQVhWT2labXdORnJmVnFjSnFqa3ZvYWdQc2hPWQ?oc=5\" target=\"_blank\">OpenAI allows users to directly adjust ChatGPT’s enthusiasm level</a>  TechCrunch",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
-          "title": "Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5",
-          "pubDate": "2025-12-19 22:53:12",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5\" target=\"_blank\">Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast</a>  Bloomberg.com",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ25uMmFsY3poYVVYM3YtZDVXemEyYW1DYXdka1hKanc3RjBUU1hiSFAzNnJfZldQUFBGU2Vuc2VIMWpDTEhJTHB4WHh1THZfXzdTNWNFQWZtQlAyY1JSX1gxX1kzMkpHMjR2Q3dwT1g1eDAtV29LZmNBT1huMWhuSE50UEhvNXVF?oc=5",
+          "pubDate": "2025-12-20 12:58:43",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ25uMmFsY3poYVVYM3YtZDVXemEyYW1DYXdka1hKanc3RjBUU1hiSFAzNnJfZldQUFBGU2Vuc2VIMWpDTEhJTHB4WHh1THZfXzdTNWNFQWZtQlAyY1JSX1gxX1kzMkpHMjR2Q3dwT1g1eDAtV29LZmNBT1huMWhuSE50UEhvNXVF?oc=5\" target=\"_blank\">SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying' - Fortune",
+          "title": "Data center stocks can get on track if OpenAI raises money, Jim Cramer says - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5",
+          "pubDate": "2025-12-19 23:53:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5\" target=\"_blank\">Data center stocks can get on track if OpenAI raises money, Jim Cramer says</a>  CNBC",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+        },
+        {
+          "title": "Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO - Fortune",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5",
           "pubDate": "2025-12-19 17:38:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying'</a>  Fortune",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO</a>  Fortune",
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "How OpenAI’s Organizational Problems Hurt ChatGPT - The Information",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5",
-          "pubDate": "2025-12-18 14:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5\" target=\"_blank\">How OpenAI’s Organizational Problems Hurt ChatGPT</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "title": "OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion - The Information",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5",
+          "pubDate": "2025-12-18 00:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5\" target=\"_blank\">OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
