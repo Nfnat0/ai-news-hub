@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect, useMemo } from 'react';
+import { useState, useCallback, useEffect, useMemo, useRef } from 'react';
 import { Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { NewsItem } from '../types';
 import { formatDate } from '../types';
@@ -10,6 +10,7 @@ interface HeroSectionProps {
 }
 
 const AUTO_SLIDE_INTERVAL = 5000;
+const SWIPE_THRESHOLD = 50;
 
 // タイトルを4行に制限し、超過分は...で省略
 const truncateTitle = (title: string, maxChars: number = 120): string => {
@@ -20,6 +21,7 @@ const truncateTitle = (title: string, maxChars: number = 120): string => {
 export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
+    const touchStartX = useRef<number | null>(null);
 
     // PlaceDogで犬の画像URLを生成（topNewsが変わるまで固定）
     const dogImages = useMemo(() => {
@@ -36,6 +38,27 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     const handleNext = useCallback(() => {
         setCurrentIndex((prev) => (prev === topNews.length - 1 ? 0 : prev + 1));
     }, [topNews.length]);
+
+    // スワイプ操作のハンドラー
+    const handleTouchStart = useCallback((e: React.TouchEvent) => {
+        touchStartX.current = e.touches[0].clientX;
+    }, []);
+
+    const handleTouchEnd = useCallback((e: React.TouchEvent) => {
+        if (touchStartX.current === null) return;
+
+        const touchEndX = e.changedTouches[0].clientX;
+        const diff = touchStartX.current - touchEndX;
+
+        if (Math.abs(diff) > SWIPE_THRESHOLD) {
+            if (diff > 0) {
+                handleNext();
+            } else {
+                handlePrev();
+            }
+        }
+        touchStartX.current = null;
+    }, [handleNext, handlePrev]);
 
     useEffect(() => {
         if (topNews.length <= 1 || isPaused) return;
@@ -82,6 +105,8 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             className="relative h-[75vh] overflow-hidden bg-[#141414] group"
             onMouseEnter={() => setIsPaused(true)}
             onMouseLeave={() => setIsPaused(false)}
+            onTouchStart={handleTouchStart}
+            onTouchEnd={handleTouchEnd}
         >
             {/* Background Image with smooth transition */}
             <div className="absolute inset-0">
@@ -112,20 +137,20 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             <div className="absolute inset-0 bg-gradient-to-t from-[#141414] via-[#141414]/70 to-transparent" />
             <div className="absolute inset-0 bg-gradient-to-r from-[#141414]/95 via-transparent to-transparent" />
 
-            {/* Navigation Buttons */}
+            {/* Navigation Buttons - Desktop only, height matches image area */}
             <button
                 onClick={handlePrev}
-                className="absolute left-6 top-1/2 -translate-y-1/2 z-20 bg-black/50 hover:bg-black/70 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300 backdrop-blur-sm border border-white/10"
+                className="hidden md:flex absolute left-0 top-[60px] bottom-[50px] w-14 z-20 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
                 aria-label="Previous slide"
             >
-                <ChevronLeft size={28} className="text-white" />
+                <ChevronLeft size={36} className="text-white" />
             </button>
             <button
                 onClick={handleNext}
-                className="absolute right-6 top-1/2 -translate-y-1/2 z-20 bg-black/50 hover:bg-black/70 p-3 rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300 backdrop-blur-sm border border-white/10"
+                className="hidden md:flex absolute right-0 top-[60px] bottom-[50px] w-14 z-20 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
                 aria-label="Next slide"
             >
-                <ChevronRight size={28} className="text-white" />
+                <ChevronRight size={36} className="text-white" />
             </button>
 
             {/* Slide Indicators - Bottom Right */}
@@ -142,8 +167,8 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             </div>
 
             {/* Content */}
-            <div className="absolute bottom-0 left-0 right-0 p-12">
-                <div className="max-w-4xl">
+            <div className="absolute bottom-0 left-16 right-16 pb-12">
+                <div className="max-w-3xl">
                     <div className="flex items-center gap-3 mb-4">
                         {isNew && (
                             <div className="flex items-center gap-1.5">

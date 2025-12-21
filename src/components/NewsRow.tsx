@@ -52,14 +52,14 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
             <div className="relative">
                 <button
                     onClick={() => scroll('left')}
-                    className="absolute left-2 top-1/2 -translate-y-1/2 z-30 bg-black/70 hover:bg-black/90 p-2 rounded-full opacity-0 group-hover/row:opacity-100 transition-all duration-300 backdrop-blur-sm border border-white/10"
+                    className="hidden md:flex absolute left-0 top-2 bottom-6 w-12 z-30 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
                     aria-label="Scroll left"
                 >
-                    <ChevronLeft size={24} className="text-white" />
+                    <ChevronLeft size={28} className="text-white" />
                 </button>
                 <div
                     ref={scrollRef}
-                    className="flex gap-3 overflow-x-auto scrollbar-hide px-8 pb-6 pt-2"
+                    className="flex gap-3 overflow-x-auto scrollbar-hide px-4 md:px-14 pb-6 pt-2"
                 >
                     {companyNews.loading ? (
                         <div className="flex items-center justify-center w-full h-48">
@@ -80,10 +80,10 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
                 </div>
                 <button
                     onClick={() => scroll('right')}
-                    className="absolute right-2 top-1/2 -translate-y-1/2 z-30 bg-black/70 hover:bg-black/90 p-2 rounded-full opacity-0 group-hover/row:opacity-100 transition-all duration-300 backdrop-blur-sm border border-white/10"
+                    className="hidden md:flex absolute right-0 top-2 bottom-6 w-12 z-30 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
                     aria-label="Scroll right"
                 >
-                    <ChevronRight size={24} className="text-white" />
+                    <ChevronRight size={28} className="text-white" />
                 </button>
             </div>
         </section>
