@@ -1,11 +1,18 @@
 {
-  "fetchedAt": "2025-12-21T06:14:40.134Z",
+  "fetchedAt": "2025-12-21T12:17:00.413Z",
   "locale": "jp",
   "companies": [
     {
       "company": "google",
       "displayName": "Google",
       "news": [
+        {
+          "title": "Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式 - note",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5",
+          "pubDate": "2025-12-19 06:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcEZ5R1BpcTdNRmtzaVdfeVdBRDdWSTBkOGQ1RDhTcEE4VVluOWwxQWZPM2NRblVlNG9HVUlqcG9UeVo5MUNDMU5td2ExQQ?oc=5\" target=\"_blank\">Google Geminiとnoteで開催した、「#AIと学び」投稿コンテストの審査結果を発表します！｜note公式</a>  note",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+        },
         {
           "title": "Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた - GIGAZINE",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYTdRTjVtTW5UQWl5Sm45RTVHY2FnMVhUdnNxaTB3YTJMSk9HMG5wX3hWNjFvLVBBX2hSdUhENTlVekd4d0pKeS1kMnJIajJlb1RMQ05WYXhhdFFsakhMaHJ5b0QtZ1F1c3hYUkVHVV9jbFM4Tmc?oc=5",
@@ -21,24 +28,17 @@
           "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
-          "title": "Gemini 3 Flash：スピードを追求した最先端知能 - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5",
-          "pubDate": "2025-12-18 03:22:42",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5\" target=\"_blank\">Gemini 3 Flash：スピードを追求した最先端知能</a>  blog.google",
+          "title": "「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWEpzSUlKSXhXYlc3RDBLY3EwSzFzRzhWaW5yQTZlSWZ5ckhQQ0E1UTFrM1pCZDNRc1RXeWZfaGl2UExrZW9oVGNrQ2vSAU9BVV95cUxONGF2bk8xYjdPMjdxWmxYbHRRUFJiVGpsQWRsM3NfVlo1S3dKX19BSXdtUE54dGlJaFlTcUd5T2dpMkkzVlA1ckZ0WFNwVF9J?oc=5",
+          "pubDate": "2025-12-18 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWEpzSUlKSXhXYlc3RDBLY3EwSzFzRzhWaW5yQTZlSWZ5ckhQQ0E1UTFrM1pCZDNRc1RXeWZfaGl2UExrZW9oVGNrQ2vSAU9BVV95cUxONGF2bk8xYjdPMjdxWmxYbHRRUFJiVGpsQWRsM3NfVlo1S3dKX19BSXdtUE54dGlJaFlTcUd5T2dpMkkzVlA1ckZ0WFNwVF9J?oc=5\" target=\"_blank\">「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ</a>  ダイヤモンド・オンライン",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5",
           "pubDate": "2025-12-18 01:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
-        },
-        {
-          "title": "「Gemini 3」の新ファミリー「Gemini 3 Flash」登場、日常用に最適な性能・コストバランス - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90VDFJQ3VlT3JFdnRaeHJpLUVZRGZXbThhRG53OWZrRnEySFdiMnRjUnJtLWpMbWdhMW5pVFlFR19PWlVQcWVyb3ZfZ3ZWd3VPaUlYeDgzYWZyREc1cFdKNzZvOWJzMVgw?oc=5",
-          "pubDate": "2025-12-18 01:17:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE90VDFJQ3VlT3JFdnRaeHJpLUVZRGZXbThhRG53OWZrRnEySFdiMnRjUnJtLWpMbWdhMW5pVFlFR19PWlVQcWVyb3ZfZ3ZWd3VPaUlYeDgzYWZyREc1cFdKNzZvOWJzMVgw?oc=5\" target=\"_blank\">「Gemini 3」の新ファミリー「Gemini 3 Flash」登場、日常用に最適な性能・コストバランス</a>  窓の杜",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaDd6SXFKZFNGbFFnMlIzUGkxekxCZnFMLVotNWxpMVljTFR2R0stYnlIMXFrQk9BMUFxZXNJQUs5RTB1VjJUTDloOTZlcExZSmc?oc=5\" target=\"_blank\">グーグル、新AI「Gemini 3 Flash」を発表--2.5 Proより高性能かつ3倍高速に</a>  CNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MbUoydEs2c0I0QlBvZGxLZUhuVHRKdklMaG9Ba2xuQjBiOVhrUnFKWFZsb3d1aXFMc0tyaEEzTDR1aWVOOXdEVlljMTV5VzV6LUstaG93U1VqcVZYcFlsd2xXYUtEc28?oc=5\" target=\"_blank\">「Gemini 3 Flash」リリース、2.5 Pro超えの性能で3倍高速</a>  ケータイ Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8tY2VYZ3YzUnZkVHczRGRIRDdLMVZEWmFmOEM4aTdJdWhtLWlxT2NJRFVCall4ZnlkTHdvTURCa1NBd1VqdXhQVVp5VkQ3RHVMWHZ2QUFQb25WUHBoZUNlR2xfSjNtUHVLbE4tYU5UamdnNmdjTWYtMw?oc=5\" target=\"_blank\">Google、「Gemini 3 Flash」公開 “Pro級の推論”を低遅延・低コストで、Geminiアプリの既定モデルに</a>  Ledge.ai</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         }
       ]
@@ -48,25 +48,32 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "アマゾンがOpenAIに1.5兆円投資の深層…循環投資か、エヌビディアへの大勝負か - ビジネスジャーナル",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94aTl3Zmh5THN5cXZPR3VoNzBQVExBTHVVU19IS1Y4Zkw3dGtXNzFMOTZKVnhlb3NWMlMwaEtZSXFqa0NUZHA3MXFaS0pNckZ6RzM0TEhEcHdISEk?oc=5",
-          "pubDate": "2025-12-19 21:00:34",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94aTl3Zmh5THN5cXZPR3VoNzBQVExBTHVVU19IS1Y4Zkw3dGtXNzFMOTZKVnhlb3NWMlMwaEtZSXFqa0NUZHA3MXFaS0pNckZ6RzM0TEhEcHdISEk?oc=5\" target=\"_blank\">アマゾンがOpenAIに1.5兆円投資の深層…循環投資か、エヌビディアへの大勝負か</a>  ビジネスジャーナル",
+          "title": "ディズニーのOpenAI出資と日本アニメの未来【Weeklyアニメビジネス】（まつもとあつし） - エキスパート - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOem9BaE1GOGo0RldEb1FUUjQwekMtdkg2NTJCUGJvR0FlbDcyOHZWdEh2cmtkZWFYcG45b2l1UFBKSWpzbTdaS0tSY2tfUUptV0lhcjk5N0lrWmJlN1VNZTR1UUQwY2V6dHl0bHMyX21rRFAwRW93ODVwcjZQbDllOWpxQkZ4czNM?oc=5",
+          "pubDate": "2025-12-21 08:08:21",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOem9BaE1GOGo0RldEb1FUUjQwekMtdkg2NTJCUGJvR0FlbDcyOHZWdEh2cmtkZWFYcG45b2l1UFBKSWpzbTdaS0tSY2tfUUptV0lhcjk5N0lrWmJlN1VNZTR1UUQwY2V6dHl0bHMyX21rRFAwRW93ODVwcjZQbDllOWpxQkZ4czNM?oc=5\" target=\"_blank\">ディズニーのOpenAI出資と日本アニメの未来【Weeklyアニメビジネス】（まつもとあつし） - エキスパート</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZzlscWVKRHM0TjNvaHpQV010NF9MdUIyVkhJbUxYRDZVMkYza21aOS15bWV4ZUJaLXFReEdOaGNiQWxPMzYzV05fd0hRc090amRSUkZB?oc=5\" target=\"_blank\">ディズニーがOpenAIと組まざるを得ない理由、ミッキーなど主要IPの認知度低下と映像の短尺シフトを前にした決断か 【生成AI事件簿】IPビジネスを劇的に変えるSora 2、意外に楽しいキャラクター機能やリミックス機能の使い方を解説(1/6)</a>  JBpress</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1ItbzAwLXpBbEhCZ3Z5NUJGUS1SRHMwcHFOUms5N25pZ3pOdVFTUHp5UnNLVWp6S09GQ0U2bEtBMmZnU0N3dUtNV1I4bVdhU1NQc0NfbWJXN1NXbU5Jdk81UGFVcU5BVmw1QmJCQXRiUk5JbmZQZ09IbkNfbkt5MnFUY05Tc01QSHBtQWVWaDFDMF9mRDBNbmdVZG5xcGdhTE5CM1d3?oc=5\" target=\"_blank\">ディズニー社員が社内AI戦略の詳細を明かす…開発中の新ツール「Jarvis」から「DisneyGPT」まで</a>  Business Insider Japan</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5",
-          "pubDate": "2025-12-19 13:55:07",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5\" target=\"_blank\">ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "title": "ChatGPTをもっと活用するために…OpenAIスタッフによる6つのヒント - Business Insider Japan",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjhyMDBaaDBIMTRId3VKYU9TWVBqRmY5c3J6MlRYT2hOREVvemtTczVJV1NJOEYwWFFWeGtjYm1jQXJfUnJZS1YwVEZ5WDNJTjZFdXhKd1J6OEJJU3JHRnE4QU8zeG9hQUxsRVR6MVNCdnVFRzFNcjFLeVI3R2k0RjN4WDg4UWVOMTRzSnBYYw?oc=5",
+          "pubDate": "2025-12-20 23:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjhyMDBaaDBIMTRId3VKYU9TWVBqRmY5c3J6MlRYT2hOREVvemtTczVJV1NJOEYwWFFWeGtjYm1jQXJfUnJZS1YwVEZ5WDNJTjZFdXhKd1J6OEJJU3JHRnE4QU8zeG9hQUxsRVR6MVNCdnVFRzFNcjFLeVI3R2k0RjN4WDg4UWVOMTRzSnBYYw?oc=5\" target=\"_blank\">ChatGPTをもっと活用するために…OpenAIスタッフによる6つのヒント</a>  Business Insider Japan",
           "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "ChatGPTに「アプリストア」が登場、誰でも公開可能に - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAydFIxV0RjUU1EZ0JtSUFhbjk4aWRUcjZPb0lVZE04RFhuOF9iaXFBcmFZbnJGYTF0c1ZoT1ZaYnNGSFNBSGFLTnYtbjJwdzhibEE?oc=5",
-          "pubDate": "2025-12-18 23:57:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFAydFIxV0RjUU1EZ0JtSUFhbjk4aWRUcjZPb0lVZE04RFhuOF9iaXFBcmFZbnJGYTF0c1ZoT1ZaYnNGSFNBSGFLTnYtbjJwdzhibEE?oc=5\" target=\"_blank\">ChatGPTに「アプリストア」が登場、誰でも公開可能に</a>  CNET Japan",
+          "title": "OpenAI、コーディング特化の「GPT-5.2-Codex」提供 高度AIに限定アクセス - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00djNGaGxQV0FlaERRNXZIOXNaSEdBbFF3U0ZBU0F5OXdiN0tOdHNEdDBhaDlGOWlqRzBzTkFkUEN0Vkt3V21rckFxQzVVTTl5VV9yMGt5eU5FbC0zNzdtUWVTYjM?oc=5",
+          "pubDate": "2025-12-19 04:53:34",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE00djNGaGxQV0FlaERRNXZIOXNaSEdBbFF3U0ZBU0F5OXdiN0tOdHNEdDBhaDlGOWlqRzBzTkFkUEN0Vkt3V21rckFxQzVVTTl5VV9yMGt5eU5FbC0zNzdtUWVTYjM?oc=5\" target=\"_blank\">OpenAI、コーディング特化の「GPT-5.2-Codex」提供 高度AIに限定アクセス</a>  Impress Watch",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5",
+          "pubDate": "2025-12-19 00:12:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5\" target=\"_blank\">OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開 長時間開発作業に対応 - ITmedia",
@@ -74,13 +81,6 @@
           "pubDate": "2025-12-18 22:21:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMzhBQUJOcjBQTjRWaG03U0pUa3NNekg5WG1DaGdnWEhCcTdWM3AyVTJPQkNnNERCNWt1c2xlOEdWeEFhVDJ3X0Vud21xb3dabVd6SnkwcGlJWTMxNEpwV0diZklILXhkWkVTbThmRQ?oc=5\" target=\"_blank\">OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開 長時間開発作業に対応</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
-        },
-        {
-          "title": "｢ChatGPTで稼げる人｣と｢勝負もさせてもらえない人｣がとりあえず明らかに - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEFOa1hXQUFRekVldnQzVzlNdUttcXBkY2ZBR00zeTh5WVFBd1lsWjZ0SnpCbldVSTdnc2xfRDBVQ1BIUHUxOGxBNG5BRUlYd09aTXVEZnJFM3h5ZHZMamZLZXhOYzRzMEtxcS1YblRYRmlDQTlWQkRLX0YwYkNIaDc3WQ?oc=5",
-          "pubDate": "2025-12-18 10:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEFOa1hXQUFRekVldnQzVzlNdUttcXBkY2ZBR00zeTh5WVFBd1lsWjZ0SnpCbldVSTdnc2xfRDBVQ1BIUHUxOGxBNG5BRUlYd09aTXVEZnJFM3h5ZHZMamZLZXhOYzRzMEtxcS1YblRYRmlDQTlWQkRLX0YwYkNIaDc3WQ?oc=5\" target=\"_blank\">｢ChatGPTで稼げる人｣と｢勝負もさせてもらえない人｣がとりあえず明らかに</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -134,7 +134,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM1FPRFdmZTdBUlBuOGlITUtOUU9YMWx3clRUeS1OOGlENTRIdnczTmhDbTVzX1JKUTJGLUdPcDlSdjlXaFVVOElmNTBBZl9XT2lRcmpUNDA4Y1hvVUEtdjNLSEdMcU14V2duRWl4dWl4dTczdnhNZzJtLV9jNGM?oc=5",
           "pubDate": "2025-12-20 21:00:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM1FPRFdmZTdBUlBuOGlITUtOUU9YMWx3clRUeS1OOGlENTRIdnczTmhDbTVzX1JKUTJGLUdPcDlSdjlXaFVVOElmNTBBZl9XT2lRcmpUNDA4Y1hvVUEtdjNLSEdMcU14V2duRWl4dWl4dTczdnhNZzJtLV9jNGM?oc=5\" target=\"_blank\">8億ユーザーでも赤字拡大のOpenAIと売上11兆円宣言のAnthropic AI覇権争いの”売上戦争”が幕開け（AMP［アンプ］）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字 - GIGAZINE",
@@ -148,7 +148,7 @@
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zM2FLU213b0t6WFI5OVM5ejEyWW1FRWhybkxTUlI2T2wzZF9ISGQ3LWxMWlY4VWZtMHpEWFdvbW9UdHJMNm0xSVhIV1ljbGFyV1dBYUZ2eWt6WUNnUGVRVzBSR3BTR2dEQzZpejlwcw?oc=5",
           "pubDate": "2025-12-19 02:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4zM2FLU213b0t6WFI5OVM5ejEyWW1FRWhybkxTUlI2T2wzZF9ISGQ3LWxMWlY4VWZtMHpEWFdvbW9UdHJMNm0xSVhIV1ljbGFyV1dBYUZ2eWt6WUNnUGVRVzBSR3BTR2dEQzZpejlwcw?oc=5\" target=\"_blank\">Anthropic、エージェントスキルをオープンスタンダードとして公開</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に - ZDNET Japan",
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TYzZadjFGNXBnMGVLWVllNk4yenVzeWxXbXVIRk1QM1diWUNOcHJqTkVtMkw5VDNJZDF1M015LV96Mmg3NUt6UGxlNUFkdzJlU0FRUmc0cDV5LV84UjJjUEZIbi04OVNFemFfcl82VQ?oc=5",
           "pubDate": "2025-12-19 00:06:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1TYzZadjFGNXBnMGVLWVllNk4yenVzeWxXbXVIRk1QM1diWUNOcHJqTkVtMkw5VDNJZDF1M015LV96Mmg3NUt6UGxlNUFkdzJlU0FRUmc0cDV5LV84UjJjUEZIbi04OVNFemFfcl82VQ?oc=5\" target=\"_blank\">Anthropic、AI店長による売店運営を検証 「Project Vend」で見えた自律性とリスク</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         }
       ]
     },
