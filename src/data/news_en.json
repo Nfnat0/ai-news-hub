@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T04:00:08.354Z",
+  "fetchedAt": "2025-12-21T09:19:57.692Z",
   "locale": "en",
   "companies": [
     {
@@ -11,7 +11,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVp5VE53RUxvOUJla2lJbFVlWkI0RHgxYTFyU0c5VHFnVU5oWDZTTnhnMlJHRXFueXBXTzZzT3FyZWdXMlA0M0ZRSW1sVDQ5bmxHS2tlejU3XzZuYWd1RHZ4YjlRR3VyZDAtVW44Rml4Xzh2eVJTbWJ2OGN1RVHSAYQBQVVfeXFMTmVGNWlxb0VoZHFuY01KUVp2bVRZb3UwNU83cTNrWVJkRVBRekhVaGhILVhmWnhfUlY4TFpMTnJmNW4zazFqX2swMXp4Z0s2aG5NQlMyeExnOVBEYy1XTDBQX25pR3J3WDZfSm5QVDY5RkdOc1JuMEFGNmNZaVF6aTZYeS1D?oc=5",
           "pubDate": "2025-12-20 12:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVp5VE53RUxvOUJla2lJbFVlWkI0RHgxYTFyU0c5VHFnVU5oWDZTTnhnMlJHRXFueXBXTzZzT3FyZWdXMlA0M0ZRSW1sVDQ5bmxHS2tlejU3XzZuYWd1RHZ4YjlRR3VyZDAtVW44Rml4Xzh2eVJTbWJ2OGN1RVHSAYQBQVVfeXFMTmVGNWlxb0VoZHFuY01KUVp2bVRZb3UwNU83cTNrWVJkRVBRekhVaGhILVhmWnhfUlY4TFpMTnJmNW4zazFqX2swMXp4Z0s2aG5NQlMyeExnOVBEYy1XTDBQX25pR3J3WDZfSm5QVDY5RkdOc1JuMEFGNmNZaVF6aTZYeS1D?oc=5\" target=\"_blank\">Google was at risk of losing its dominance — until it promoted this AI executive</a>  CNBC",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Gemini can now tell you whether a video was generated with Google AI - Android Central",
@@ -19,6 +19,13 @@
           "pubDate": "2025-12-19 17:11:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI4cUVXeldMYnc3SWFkay1yV1h4ejZOdEdWM2EyY1RLSUQwS0pxc1hXa3Zycml6UnVRVG9rcnpaLXRKUFdmLUxmUWNpVDBCaHpCR3lmMF9VT0lJWFE0alg4eEpqQ25wUkhVNlhQRTVBeE5aUlBrOHhGd21iNk1lem1qYWpjUWZOWmpDclZ2T3pjZ3loMmU4eXRSRnhaNDhXRjVKOUxvbzFZVV8yZXVNVTlyVVd3U3M?oc=5\" target=\"_blank\">Gemini can now tell you whether a video was generated with Google AI</a>  Android Central",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        },
+        {
+          "title": "Google’s new default AI model: Gemini 3 Flash is faster and stronger - PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUEyaDkwQjJ4bS1iUXVhQl9PV2o3eGNhQ2loV2wtbk5Lb0locHEwcGkzTU1LcUJGa1JCR0F4OFVUckZoZkhxbk8yNDdKSEo0WmFzWXl2YWJiSXY4ZktnX3UtQ3U5V3BPaEpUaU1iR0ZZRTBSRWJqQl9MeXFqZjE0WFdITFlDcjBYdEo1ZkNiV1k5RFMxTEJWZGFCdkI2Yk1QbGlleUtvbHZIV2VKU0lYSQ?oc=5",
+          "pubDate": "2025-12-19 15:48:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUEyaDkwQjJ4bS1iUXVhQl9PV2o3eGNhQ2loV2wtbk5Lb0locHEwcGkzTU1LcUJGa1JCR0F4OFVUckZoZkhxbk8yNDdKSEo0WmFzWXl2YWJiSXY4ZktnX3UtQ3U5V3BPaEpUaU1iR0ZZRTBSRWJqQl9MeXFqZjE0WFdITFlDcjBYdEo1ZkNiV1k5RFMxTEJWZGFCdkI2Yk1QbGlleUtvbHZIV2VKU0lYSQ?oc=5\" target=\"_blank\">Google’s new default AI model: Gemini 3 Flash is faster and stronger</a>  PCWorld",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
@@ -33,13 +40,6 @@
           "pubDate": "2025-12-18 17:08:14",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzQ5TzN6WlQxZUl6VFZUN3puSFlTOFlvNkxFZHNIeDROOHl1T2NwUW5kc0VWMkRBM1RNRGw0SFQyZGhvOFhTMFFxX1FMdjhZV01vek5zVm9wYkE3Z3BjV2NGLW5DTUx5QmdXVWdzRDZWSGRCMllncg?oc=5\" target=\"_blank\">You can now verify Google AI-generated videos in the Gemini app.</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "Gemini 3 Flash is rolling out globally in Google Search - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdFlIYWxhYm05Z2dzaE8wZEpzWUxDVzR2cGtiVlltVzVZVUZFMmNRS0ppSlVwVVR3WlZFZjJrbVRrRWQ3aGFsdzNrdElucW9iRkduMjFGeUxBUFVOYmRLSnlyR0pwV18zRi1Tb192V0h5NlFWV1BZQnB0dS02UQ?oc=5",
-          "pubDate": "2025-12-17 16:14:42",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdFlIYWxhYm05Z2dzaE8wZEpzWUxDVzR2cGtiVlltVzVZVUZFMmNRS0ppSlVwVVR3WlZFZjJrbVRrRWQ3aGFsdzNrdElucW9iRkduMjFGeUxBUFVOYmRLSnlyR0pwV18zRi1Tb192V0h5NlFWV1BZQnB0dS02UQ?oc=5\" target=\"_blank\">Gemini 3 Flash is rolling out globally in Google Search</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -114,14 +114,14 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
           "pubDate": "2025-12-17 19:56:08",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         },
         {
           "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot - extremetech.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5",
           "pubDate": "2025-12-10 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5\" target=\"_blank\">Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</a>  extremetech.com",
-          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         }
       ]
     },
@@ -158,10 +158,10 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
-          "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - wsj.com",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPQ0pCSHNTQWpsYUFzYmI3bjhheHJtN29QM0N6QzRtSzFrTFZGTTE4Uy10R1hBR0dUTWIzU2diYTkyUDdma0x1YlUyWnh4d3dDX1hUeDctd2paV05TcDdRUlBTSXBtVXJkYkxaRzAwQUpKWHFicVo0YjFXbVU1Z2U4c3Q4U0o4MUtxZmpwekpSR1poRXB5Y002NDlUWVpFWXFZUzI5N1h1TlBRakplenFQQVN0T2NOWUtlWFFpUTdDZUZNckt3c21SZDJFUzBLWXFKdjQ2Vmt1Wk1jSTJIeU9aTE9HdjIzcm9qYURqNFZZZGptREVGRU9UMmRGSFVJLXc1aWEtekZWX3N6ejk5cUxSRzVkZ1FyQ2tEZU1ZQ2ZSck1PMVN3Wkh3QUhzRi1GSG1rWlNxZVF5eFBNRThSOGQ4cGJMaVZjeWNMTjNFZGluaUZJZTlqdUZpaEZwUkdqMUREOUo0TnRtbjlsR1JJTVF1Zm4yT3RQRFNMRnlYblR3N1lCc0d5ajNvYkR3?oc=5",
+          "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQLXNGcjl6UDhoejNDMlRCVTdCM3hIUXZIREZDUHl6dExQTjJRaVZEd29ZTzF3YkJlMTdwdWNJZENJU1VSZEp4LUZhX0t3Z0ZuU2l1MVJaOGVZSE9CM2NjZG9xN0JaRVBBbHd3QmpXMVljU29ISnFMeHlmNDJlVzlRMy1jOGpjQlRpamVqSDRIeDU0NE96SEcyNWY3bzNicmJncVdNTzJXRC1lM0pEU0tCUmQzS3FnU2VqTFR3ZmV6UXpiSm9KQ2J3SkhqQzZnOVQyNHRhN1otWEN4Vk4zcEZSQmhCdE5wcXJuQnV0LUZhZEFFdXFSZnMyT2NxNF96V0R0dXhBTzNqbUxRSGpVUTZtbnNrc3g0REozZVVMV2pJQ1J5eHM1VnU5SVVWTTB1SVFSbFc5UnNJTWRJZ1NqUmtSUlZ3NXVLcEJaX3RWN0VjWDl3WGdtN1c1NkFFSzRGV0VZUk1kS0RwMzBhWVRUSU15N2RMNGdDN19oYnRRZUh1aWV3azgxcjBlajZn?oc=5",
           "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPQ0pCSHNTQWpsYUFzYmI3bjhheHJtN29QM0N6QzRtSzFrTFZGTTE4Uy10R1hBR0dUTWIzU2diYTkyUDdma0x1YlUyWnh4d3dDX1hUeDctd2paV05TcDdRUlBTSXBtVXJkYkxaRzAwQUpKWHFicVo0YjFXbVU1Z2U4c3Q4U0o4MUtxZmpwekpSR1poRXB5Y002NDlUWVpFWXFZUzI5N1h1TlBRakplenFQQVN0T2NOWUtlWFFpUTdDZUZNckt3c21SZDJFUzBLWXFKdjQ2Vmt1Wk1jSTJIeU9aTE9HdjIzcm9qYURqNFZZZGptREVGRU9UMmRGSFVJLXc1aWEtekZWX3N6ejk5cUxSRzVkZ1FyQ2tEZU1ZQ2ZSck1PMVN3Wkh3QUhzRi1GSG1rWlNxZVF5eFBNRThSOGQ4cGJMaVZjeWNMTjNFZGluaUZJZTlqdUZpaEZwUkdqMUREOUo0TnRtbjlsR1JJTVF1Zm4yT3RQRFNMRnlYblR3N1lCc0d5ajNvYkR3?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  wsj.com",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxQLXNGcjl6UDhoejNDMlRCVTdCM3hIUXZIREZDUHl6dExQTjJRaVZEd29ZTzF3YkJlMTdwdWNJZENJU1VSZEp4LUZhX0t3Z0ZuU2l1MVJaOGVZSE9CM2NjZG9xN0JaRVBBbHd3QmpXMVljU29ISnFMeHlmNDJlVzlRMy1jOGpjQlRpamVqSDRIeDU0NE96SEcyNWY3bzNicmJncVdNTzJXRC1lM0pEU0tCUmQzS3FnU2VqTFR3ZmV6UXpiSm9KQ2J3SkhqQzZnOVQyNHRhN1otWEN4Vk4zcEZSQmhCdE5wcXJuQnV0LUZhZEFFdXFSZnMyT2NxNF96V0R0dXhBTzNqbUxRSGpVUTZtbnNrc3g0REozZVVMV2pJQ1J5eHM1VnU5SVVWTTB1SVFSbFc5UnNJTWRJZ1NqUmtSUlZ3NXVLcEJaX3RWN0VjWDl3WGdtN1c1NkFFSzRGV0VZUk1kS0RwMzBhWVRUSU15N2RMNGdDN19oYnRRZUh1aWV3azgxcjBlajZn?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
           "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         }
       ]
@@ -216,35 +216,35 @@
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5",
           "pubDate": "2025-12-20 09:28:10",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5\" target=\"_blank\">Elon Musk's XAI company hiring Android engineers in US, UK: Check eligibility, how to apply, benefits and</a>  The Economic Times",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
           "title": "‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an - Times of India",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5",
           "pubDate": "2025-12-18 14:04:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5\" target=\"_blank\">‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait, - x.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5",
           "pubDate": "2025-12-18 06:45:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5\" target=\"_blank\">GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait,</a>  x.com",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "Why xAI Has an Uphill Battle Selling Grok to Businesses - The Information",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5",
+          "pubDate": "2025-12-15 16:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5\" target=\"_blank\">Why xAI Has an Uphill Battle Selling Grok to Businesses</a>  The Information",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
-          "title": "Inside xAI's all-hands: Elon Musk says if the company can survive the next 2 to 3 years, it will come out on top - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFlIbHpjdHNudHBKVUZUeDREOUx6NVJxMF9xXzBuZ0hlcHJRSUgwT3prQ0JkSE5lTkxNYTJVbll4aDc3aDF0T01xVWtNNEJuTG1ZYXFsOXdQVDB0TEl6SGp3Z1RPZ1lLOTNURmtqWi1walQ5R1ppbWRwX2FhcVh6VlNBZDk2aWs0SEUzWWFyQS0zd29zd3g0czBLYTVQQQ?oc=5",
-          "pubDate": "2025-12-17 20:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVFlIbHpjdHNudHBKVUZUeDREOUx6NVJxMF9xXzBuZ0hlcHJRSUgwT3prQ0JkSE5lTkxNYTJVbll4aDc3aDF0T01xVWtNNEJuTG1ZYXFsOXdQVDB0TEl6SGp3Z1RPZ1lLOTNURmtqWi1walQ5R1ppbWRwX2FhcVh6VlNBZDk2aWs0SEUzWWFyQS0zd29zd3g0czBLYTVQQQ?oc=5\" target=\"_blank\">Inside xAI's all-hands: Elon Musk says if the company can survive the next 2 to 3 years, it will come out on top</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "Grok Voice Agent API - xAI",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5",
-          "pubDate": "2025-12-17 19:51:33",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5\" target=\"_blank\">Grok Voice Agent API</a>  xAI",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "title": "Grok 4.1 - xAI",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5",
+          "pubDate": "2025-11-17 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5\" target=\"_blank\">Grok 4.1</a>  xAI",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         }
       ]
     }
