@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T02:53:23.755Z",
+  "fetchedAt": "2025-12-21T04:14:47.179Z",
   "locale": "jp",
   "companies": [
     {
@@ -169,17 +169,84 @@
     {
       "company": "amazon",
       "displayName": "Amazon",
-      "news": []
+      "news": [
+        {
+          "title": "Amazon、AIエージェント「Alexa+」を発表 自律的にタスク実行、月額19.99ドルでPrime会員は無料 - innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZzBOa3cyMHEtVmhrTHBKaGxybzQ1bTE3SUgyU0VPc1d0QUg1ZkFlWVAxUzJNMFZTSG42ZzJtcFZncmZhM3NlMEFYQkdGX3dESHc?oc=5",
+          "pubDate": "2025-12-19 22:21:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tZzBOa3cyMHEtVmhrTHBKaGxybzQ1bTE3SUgyU0VPc1d0QUg1ZkFlWVAxUzJNMFZTSG42ZzJtcFZncmZhM3NlMEFYQkdGX3dESHc?oc=5\" target=\"_blank\">Amazon、AIエージェント「Alexa+」を発表 自律的にタスク実行、月額19.99ドルでPrime会員は無料</a>  innovaTopia",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+        },
+        {
+          "title": "Amazon、AI戦略のリーダーシップを大幅再編、次世代AI開発組織を強化（ビジネス＋IT） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfbXl0ckM5amF0ZmtYZXZ1blYxMWJPRGlrZDRITzhNbWFvX0VrZFpreGFOR3JWaFJqWjZDcjctREM0N3AxWWZ0SzdkMDY5bFZzQ2RRNm9JS0VQSEhxSy0xVnM4d1pSMVpYQUl3NzhoSjlFNlhmWUFkTFhrWlBnNDg?oc=5",
+          "pubDate": "2025-12-18 12:15:06",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfbXl0ckM5amF0ZmtYZXZ1blYxMWJPRGlrZDRITzhNbWFvX0VrZFpreGFOR3JWaFJqWjZDcjctREM0N3AxWWZ0SzdkMDY5bFZzQ2RRNm9JS0VQSEhxSy0xVnM4d1pSMVpYQUl3NzhoSjlFNlhmWUFkTFhrWlBnNDg?oc=5\" target=\"_blank\">Amazon、AI戦略のリーダーシップを大幅再編、次世代AI開発組織を強化（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
+        },
+        {
+          "title": "Amazon 、AIが「欲しい物を自動で買う」新機能「Auto Buy」を米国で開始 - DIGIDAY［日本版］",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTZGSzI5MERFVV9nT25MU3RYNWQxWWpCYmZWaFhwOUU4UjZyLUFCYUhCNVVRd1NmRjdiWTBTN29LeWdfSU9pUDVxUlhlMnpTS1N1Z3VlMHVSNzBmeDFKYlNtQ0RYaHhpMXhsNFpPaXZ1Qnc4VWV1cnE1STJkOGpENE54MVRMRzlHVXJ6anR4elJTVzJSZjNxWDBfa3g3dnByUmtKd2otT3A2T1oxelVuVHdINlJ3bnp2QndEVWw4ZllwRjF0MTBNdVgzTGRqLUxzMmdMNi12ZkI?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTZGSzI5MERFVV9nT25MU3RYNWQxWWpCYmZWaFhwOUU4UjZyLUFCYUhCNVVRd1NmRjdiWTBTN29LeWdfSU9pUDVxUlhlMnpTS1N1Z3VlMHVSNzBmeDFKYlNtQ0RYaHhpMXhsNFpPaXZ1Qnc4VWV1cnE1STJkOGpENE54MVRMRzlHVXJ6anR4elJTVzJSZjNxWDBfa3g3dnByUmtKd2otT3A2T1oxelVuVHdINlJ3bnp2QndEVWw4ZllwRjF0MTBNdVgzTGRqLUxzMmdMNi12ZkI?oc=5\" target=\"_blank\">Amazon 、AIが「欲しい物を自動で買う」新機能「Auto Buy」を米国で開始</a>  DIGIDAY［日本版］",
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
+        },
+        {
+          "title": "Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5",
+          "pubDate": "2025-10-29 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5\" target=\"_blank\">Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+        },
+        {
+          "title": "Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に - About Amazon Japan",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5",
+          "pubDate": "2025-09-02 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5\" target=\"_blank\">Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に</a>  About Amazon Japan",
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+        }
+      ]
     },
     {
       "company": "xai",
       "displayName": "xAI",
-      "news": []
-    },
-    {
-      "company": "anysphere",
-      "displayName": "Anysphere",
-      "news": []
+      "news": [
+        {
+          "title": "xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始 - ai-market.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5",
+          "pubDate": "2025-12-19 01:27:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5\" target=\"_blank\">xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始</a>  ai-market.jp",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+        },
+        {
+          "title": "イーロン・マスクのxAI、AGI実現を「2026年」と表明（ビジネス＋IT） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdVNkcllkTVNlR0RGYU5oNWtBcFBLSi1XSG9ucHV2bTZ3WUlxNFljOUpudi1wcnBFUnpjeVFUdE10a2FiS3A5Rkw3ZDJGNVRfMnZmS0ItM2ZMdHJVWEFudTBNUzMzczMzLVZvcU9DRmg2SllDdkswQVpDOUozNlk?oc=5",
+          "pubDate": "2025-12-18 12:40:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdVNkcllkTVNlR0RGYU5oNWtBcFBLSi1XSG9ucHV2bTZ3WUlxNFljOUpudi1wcnBFUnpjeVFUdE10a2FiS3A5Rkw3ZDJGNVRfMnZmS0ItM2ZMdHJVWEFudTBNUzMzczMzLVZvcU9DRmg2SllDdkswQVpDOUozNlk?oc=5\" target=\"_blank\">イーロン・マスクのxAI、AGI実現を「2026年」と表明（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+        },
+        {
+          "title": "困りごとをGoogle検索→まさかのマルウェア感染！ChatGPTやGrokを装った悪質な手口とは… - ライフハッカー・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZ0U1RXlGUXRaRXJVMkJyLUlUekRSZ3A5MDNicTlnUGl4M2tJNWNiOHdXYk1yWTNpb01GUFpFQnoyM295cEo1RTJmQmQySlRNbW1Gal81U1VkQmphbWdSazg5eElBR3lvb2NZSHZhZ2VGLVYzSXkwYVdmQkw?oc=5",
+          "pubDate": "2025-12-17 11:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZ0U1RXlGUXRaRXJVMkJyLUlUekRSZ3A5MDNicTlnUGl4M2tJNWNiOHdXYk1yWTNpb01GUFpFQnoyM295cEo1RTJmQmQySlRNbW1Gal81U1VkQmphbWdSazg5eElBR3lvb2NZSHZhZ2VGLVYzSXkwYVdmQkw?oc=5\" target=\"_blank\">困りごとをGoogle検索→まさかのマルウェア感染！ChatGPTやGrokを装った悪質な手口とは…</a>  ライフハッカー・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
+          "title": "【無料】Grokで画像生成をする方法！コツやコピペで使えるプロンプト、注意点も紹介 - 株式会社SHIFT AI",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGUXR1d1prci1yaGVTZ3UzcDZHeEsyMEUtdllaRzhiQjM4Zmh5MXU3MUFIZDFHZFE3aUlzUDVNX21hbWxScXhsdDJ3?oc=5",
+          "pubDate": "2025-12-17 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGUXR1d1prci1yaGVTZ3UzcDZHeEsyMEUtdllaRzhiQjM4Zmh5MXU3MUFIZDFHZFE3aUlzUDVNX21hbWxScXhsdDJ3?oc=5\" target=\"_blank\">【無料】Grokで画像生成をする方法！コツやコピペで使えるプロンプト、注意点も紹介</a>  株式会社SHIFT AI",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト） - note",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5",
+          "pubDate": "2025-12-13 09:57:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5\" target=\"_blank\">Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト）</a>  note",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+        }
+      ]
     }
   ]
 }

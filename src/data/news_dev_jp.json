@@ -1,11 +1,211 @@
 {
-  "fetchedAt": "2025-12-21T00:00:00.000Z",
+  "fetchedAt": "2025-12-21T04:11:11.720Z",
   "locale": "jp",
   "companies": [
-    { "company": "cursor", "displayName": "Cursor", "news": [] },
-    { "company": "github-copilot", "displayName": "GitHub Copilot", "news": [] },
-    { "company": "vscode", "displayName": "Visual Studio Code", "news": [] },
-    { "company": "kiro", "displayName": "AWS Kiro", "news": [] },
-    { "company": "antigravity", "displayName": "Antigravity", "news": [] }
+    {
+      "company": "cursor",
+      "displayName": "Cursor",
+      "news": [
+        {
+          "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
+          "pubDate": "2025-12-17 09:32:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5",
+          "pubDate": "2025-12-12 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5\" target=\"_blank\">CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "noteが全職種にAIコードエディタ「Cursor」導入、非エンジニアも開発への参加が可能に（Web担当者Forum） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KakVVdVJEX3VjRzZRU0IxN0txdzdvYXhQTFFIb3IyQ1lUa082RVhxLU9fM2g0aV9KVmN3Q290eEFvYUdaOGVRcU9hbzlDRVFSc2lpeXlGcHctWXJqWlExUmg3QzRUc1BFNmg3Y2ExMVppMXlLMzVFNlVxdkVPcUE?oc=5",
+          "pubDate": "2025-12-08 22:01:21",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9KakVVdVJEX3VjRzZRU0IxN0txdzdvYXhQTFFIb3IyQ1lUa082RVhxLU9fM2g0aV9KVmN3Q290eEFvYUdaOGVRcU9hbzlDRVFSc2lpeXlGcHctWXJqWlExUmg3QzRUc1BFNmg3Y2ExMVppMXlLMzVFNlVxdkVPcUE?oc=5\" target=\"_blank\">noteが全職種にAIコードエディタ「Cursor」導入、非エンジニアも開発への参加が可能に（Web担当者Forum）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+        },
+        {
+          "title": "note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5\" target=\"_blank\">note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+        },
+        {
+          "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        }
+      ]
+    },
+    {
+      "company": "github-copilot",
+      "displayName": "GitHub Copilot",
+      "news": [
+        {
+          "title": "GitHub CopilotがAgent Skills対応を発表 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5",
+          "pubDate": "2025-12-19 08:13:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5\" target=\"_blank\">GitHub CopilotがAgent Skills対応を発表</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
+          "title": "GPT-5.2登場 知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwRWNkdkdpbnFBbXBROG1uUDByeC15NkZJWG5oZzB4b2tvZnVzaklfYjI4dnNxemlfSWVBNXliejFDektwNTdLVTZheUpid2hxRzFpSGU1blJQZjd3YTNUTTFnbV9yVy02LVViZmphcVBIdw?oc=5",
+          "pubDate": "2025-12-16 20:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBwRWNkdkdpbnFBbXBROG1uUDByeC15NkZJWG5oZzB4b2tvZnVzaklfYjI4dnNxemlfSWVBNXliejFDektwNTdLVTZheUpid2hxRzFpSGU1blJQZjd3YTNUTTFnbV9yVy02LVViZmphcVBIdw?oc=5\" target=\"_blank\">GPT-5.2登場 知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+        },
+        {
+          "title": "GitHub Copilot ChatではじめるJavaScript開発(6) プログラムのデバッグにCopilot Chatを活用する - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eDJVVVFKa28wT0k1c0JNOHM2RlR6cURZSzRDelA4NVFCNDhJcDVoQkE1QmZibG9YYjAxbVNFOVhzQVRpNWV4dFpadVZlSTRRbW1BWlJNTW9nX2p5RGYyUWRsWjR6UmlVWUpTcTdVSQ?oc=5",
+          "pubDate": "2025-12-16 01:27:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB6eDJVVVFKa28wT0k1c0JNOHM2RlR6cURZSzRDelA4NVFCNDhJcDVoQkE1QmZibG9YYjAxbVNFOVhzQVRpNWV4dFpadVZlSTRRbW1BWlJNTW9nX2p5RGYyUWRsWjR6UmlVWUpTcTdVSQ?oc=5\" target=\"_blank\">GitHub Copilot ChatではじめるJavaScript開発(6) プログラムのデバッグにCopilot Chatを活用する</a>  マイナビニュース",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
+          "title": "JCB、アジャイル内製開発を拡大、GitHub Copilotを活用してコーディング生産性を向上 - IT Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNaEROUWZWem9PYWNEelpSVFdPbFJJUXVxWUNtdVJOeFN6OU5KMEhRWm9OTzAwZTJ5YVF1eW8waWhsTE5UeVJGSlAydlJ0ZTFvZHNz?oc=5",
+          "pubDate": "2025-12-15 05:54:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNaEROUWZWem9PYWNEelpSVFdPbFJJUXVxWUNtdVJOeFN6OU5KMEhRWm9OTzAwZTJ5YVF1eW8waWhsTE5UeVJGSlAydlJ0ZTFvZHNz?oc=5\" target=\"_blank\">JCB、アジャイル内製開発を拡大、GitHub Copilotを活用してコーディング生産性を向上</a>  IT Leaders",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
+          "title": "GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5\" target=\"_blank\">GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+        }
+      ]
+    },
+    {
+      "company": "vscode",
+      "displayName": "Visual Studio Code",
+      "news": [
+        {
+          "title": "ワークツリーでの複数バックグラウンドエージェント動作⁠ - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5",
+          "pubDate": "2025-12-19 06:37:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5\" target=\"_blank\">ワークツリーでの複数バックグラウンドエージェント動作⁠</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+        },
+        {
+          "title": "「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVUhRX0ZMLUE3cnhmWERXQndhRFEzUlhiaGl2QmZjVU8ybHB3U24tZHk0OXF4YVBhUlVOeEJ1TzhoQ3JxUVlTWVBIUE96b0stT2N2VlpuenhYNGtFb1BoQXM3NC1LZVli?oc=5",
+          "pubDate": "2025-12-12 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVUhRX0ZMLUE3cnhmWERXQndhRFEzUlhiaGl2QmZjVU8ybHB3U24tZHk0OXF4YVBhUlVOeEJ1TzhoQ3JxUVlTWVBIUE96b0stT2N2VlpuenhYNGtFb1BoQXM3NC1LZVli?oc=5\" target=\"_blank\">「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
+          "title": "「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化（窓の杜） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMlZMYlpNc3dLUVFpX21aX0Uwa2doNFczeV8wQ1UzTE5kTGpfRmJkd29CejE3V0ZDRGtmUUd1Z08tbDg1dXM2b0lPOGdISDBPTnpTSm8td2ppZG5paEdRanVzYUtQaUoxNzdyZ0dUZnNud1NmY2xHaVdaWFRYTFU?oc=5",
+          "pubDate": "2025-12-12 07:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMlZMYlpNc3dLUVFpX21aX0Uwa2doNFczeV8wQ1UzTE5kTGpfRmJkd29CejE3V0ZDRGtmUUd1Z08tbDg1dXM2b0lPOGdISDBPTnpTSm8td2ppZG5paEdRanVzYUtQaUoxNzdyZ0dUZnNud1NmY2xHaVdaWFRYTFU?oc=5\" target=\"_blank\">「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化（窓の杜）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "VS CodeのPython拡張機能がアップデート ドキュメントやインポート、デバッガー関連が強化され、さらに快適に - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVWYtQWM4UTIyLURzODhCQVJTTV9QTTY4SW5Kb04xT1hUbkpKb2JNMHdST3U4ZlZhQ3hWdEVRZzF4aHVlX2Y5eGIycU01OS02MEF6QnJhWnpicHlmcU9yeW9MLXNEeUF2WGdlYnoxVF85dw?oc=5",
+          "pubDate": "2025-11-21 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aVWYtQWM4UTIyLURzODhCQVJTTV9QTTY4SW5Kb04xT1hUbkpKb2JNMHdST3U4ZlZhQ3hWdEVRZzF4aHVlX2Y5eGIycU01OS02MEF6QnJhWnpicHlmcU9yeW9MLXNEeUF2WGdlYnoxVF85dw?oc=5\" target=\"_blank\">VS CodeのPython拡張機能がアップデート ドキュメントやインポート、デバッガー関連が強化され、さらに快適に</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        },
+        {
+          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
+          "pubDate": "2025-08-08 02:21:04",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        }
+      ]
+    },
+    {
+      "company": "kiro",
+      "displayName": "AWS Kiro",
+      "news": [
+        {
+          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+        },
+        {
+          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+        },
+        {
+          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
+          "pubDate": "2025-11-29 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+        },
+        {
+          "title": "Kiroを使ったペアプログラミングのすすめ | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU53S2t3bXR6QnQ3al9sc0xNRnU3WTRRZ08zdVNDV05EUmVzRjY5N0gwUE1oMXVOcy01SThycmgwelhCcldpb0xpbEFDOUprcG8tYjhkMm5rVWY5OTc2WWd6M19wYXJNZ3pCSnVmTVFIQndpYWV4WU9GTnZaVGMyNjFVaHRReW1MQTZj?oc=5",
+          "pubDate": "2025-11-22 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU53S2t3bXR6QnQ3al9sc0xNRnU3WTRRZ08zdVNDV05EUmVzRjY5N0gwUE1oMXVOcy01SThycmgwelhCcldpb0xpbEFDOUprcG8tYjhkMm5rVWY5OTc2WWd6M19wYXJNZ3pCSnVmTVFIQndpYWV4WU9GTnZaVGMyNjFVaHRReW1MQTZj?oc=5\" target=\"_blank\">Kiroを使ったペアプログラミングのすすめ | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+        },
+        {
+          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+        }
+      ]
+    },
+    {
+      "company": "antigravity",
+      "displayName": "Antigravity",
+      "news": [
+        {
+          "title": "GoogleのAIコーディングツール「Google Antigravity」を悪用してデータを盗み出す攻撃手法が見つかる - MSN",
+          "link": "https://news.google.com/rss/articles/CBMipAVBVV95cUxPR3FjQWJRUkVtdGxmNTJPWmVHRU5ub2NzT2U3R0p2cDRpRGFxSTVfdVVzc2R2aHZ4QXFvX0Z3c0ZrTjdpbm5DdVVCLWItUTRCYllhQndicUE4YlVhYkZWemJvV3FVVWROR3A3R2xYMTV6SUE3TlVVYWg4YWZFdzA3NS1zRVc4UG1IUkpubDFLSkdPazg5djFhbmN3S0w4SGJHZzlLa0hNclZjTThVY1pTbWVBQVB3WmtpSlBVSXVlYW16ZmFIbzFnN1JCMDdvem1KLU5sTHQyeW4tMTdVd1VKMW9uWDhHWWNHdkRoemtvOE02NzB6RENPcW1ZSlJQT3R5SHZXRS1xX1pndkV1QU9OZURMTGl0TERWZjhqVjloOHNkcjNLWVBNYmJUREE5RGF4NXBfR3RWM0lXMXJwbnNCRktJVlFlT0todjZzc21xbUxtLUxxY1VqVWlmS2NSR2swZXhnQzk2WlQ1ck1yaHdtWHV6LWUwVUJOcWpnc3Atcm9nY0FCaG1GOVhTSjhRLTBOX1pPWFlXX25vMkoyOHREb3VBcjdMLW5WRTlwWlQxRXd0c3BSWmNSZjFTV3QxaEl4N1NqWEpJelBrMWdVVDVnOHJjVHYtT3JXQjR6VU0xX2s5eW9paDlDWGszY1Q5QmNyQWlpTWdBRFlDTTVPUXltVG5Gc2xRTmxzN1BveGdPdDZOTTZsN0tMREVKZldMRlU5MGNLQ2ZSRjRLbUxkNDBlVGpkYU1lRXVIVzFwUHhETXRvNmdVT0JlekpUMDRuX3FmbGxGR0lYZXcybm00ZW50QkhzTXJYYndTQlB2MUNUak50akdraGstN00xbUQtdGZqdktLYm8yTmpQZE9UMjZMaHVuTWhpV0RPMS1ZSUk3aGp0RTUy?oc=5",
+          "pubDate": "2025-12-18 14:53:27",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAVBVV95cUxPR3FjQWJRUkVtdGxmNTJPWmVHRU5ub2NzT2U3R0p2cDRpRGFxSTVfdVVzc2R2aHZ4QXFvX0Z3c0ZrTjdpbm5DdVVCLWItUTRCYllhQndicUE4YlVhYkZWemJvV3FVVWROR3A3R2xYMTV6SUE3TlVVYWg4YWZFdzA3NS1zRVc4UG1IUkpubDFLSkdPazg5djFhbmN3S0w4SGJHZzlLa0hNclZjTThVY1pTbWVBQVB3WmtpSlBVSXVlYW16ZmFIbzFnN1JCMDdvem1KLU5sTHQyeW4tMTdVd1VKMW9uWDhHWWNHdkRoemtvOE02NzB6RENPcW1ZSlJQT3R5SHZXRS1xX1pndkV1QU9OZURMTGl0TERWZjhqVjloOHNkcjNLWVBNYmJUREE5RGF4NXBfR3RWM0lXMXJwbnNCRktJVlFlT0todjZzc21xbUxtLUxxY1VqVWlmS2NSR2swZXhnQzk2WlQ1ck1yaHdtWHV6LWUwVUJOcWpnc3Atcm9nY0FCaG1GOVhTSjhRLTBOX1pPWFlXX25vMkoyOHREb3VBcjdMLW5WRTlwWlQxRXd0c3BSWmNSZjFTV3QxaEl4N1NqWEpJelBrMWdVVDVnOHJjVHYtT3JXQjR6VU0xX2s5eW9paDlDWGszY1Q5QmNyQWlpTWdBRFlDTTVPUXltVG5Gc2xRTmxzN1BveGdPdDZOTTZsN0tMREVKZldMRlU5MGNLQ2ZSRjRLbUxkNDBlVGpkYU1lRXVIVzFwUHhETXRvNmdVT0JlekpUMDRuX3FmbGxGR0lYZXcybm00ZW50QkhzTXJYYndTQlB2MUNUak50akdraGstN00xbUQtdGZqdktLYm8yTmpQZE9UMjZMaHVuTWhpV0RPMS1ZSUk3aGp0RTUy?oc=5\" target=\"_blank\">GoogleのAIコーディングツール「Google Antigravity」を悪用してデータを盗み出す攻撃手法が見つかる</a>  MSN",
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+        },
+        {
+          "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
+          "pubDate": "2025-12-17 09:32:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
+          "title": "グーグル、AI開発プラットフォーム「Antigravity」の利用上限を変更 - ケータイ Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS1hIck94UWgybGlFQ2tBWVRXM2p4SWhWQllmOF9IaVNhMWxxWWlWM0s0SEMyUU1YeGxnaENsOVpNMWhrdVFaSnpMdW85X3U0dlc3eFdIZlVGWUlQZ0tfVlFrZWs4STg?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS1hIck94UWgybGlFQ2tBWVRXM2p4SWhWQllmOF9IaVNhMWxxWWlWM0s0SEMyUU1YeGxnaENsOVpNMWhrdVFaSnpMdW85X3U0dlc3eFdIZlVGWUlQZ0tfVlFrZWs4STg?oc=5\" target=\"_blank\">グーグル、AI開発プラットフォーム「Antigravity」の利用上限を変更</a>  ケータイ Watch",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更 - HelenTech",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5",
+          "pubDate": "2025-12-06 01:03:51",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5\" target=\"_blank\">Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更</a>  HelenTech",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+        },
+        {
+          "title": "Googleが新IDE「Antigravity」を無料公開 「AIと開発環境の在り方が変わる」：Gemini 3でエージェントは根本的に進化 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3dVhpTkpwVWJLUTNKTFhoWDRuWHU0Rl8tMnJwNzU3VzJYV1dvOHBfTDlxOFFNVnM4eU00Tjl5eTlwZVNmTnItR3ZOYUhsMTJTWUlVaTVwTkhvU3U4VFdkWWdvT0E2UndsUFktTG9NMlo3dw?oc=5",
+          "pubDate": "2025-12-01 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB3dVhpTkpwVWJLUTNKTFhoWDRuWHU0Rl8tMnJwNzU3VzJYV1dvOHBfTDlxOFFNVnM4eU00Tjl5eTlwZVNmTnItR3ZOYUhsMTJTWUlVaTVwTkhvU3U4VFdkWWdvT0E2UndsUFktTG9NMlo3dw?oc=5\" target=\"_blank\">Googleが新IDE「Antigravity」を無料公開 「AIと開発環境の在り方が変わる」：Gemini 3でエージェントは根本的に進化</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+        }
+      ]
+    }
   ]
 }
