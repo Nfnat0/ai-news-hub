@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect, useMemo } from 'react';
-import { ExternalLink, Clock, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { NewsItem } from '../types';
 import { formatDate } from '../types';
 import { isNewArticle } from '../hooks/useNews';
@@ -94,6 +94,15 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                             }`}
                     />
                 ))}
+
+                {/* Clickable overlay link */}
+                <a
+                    href={currentNews.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="absolute inset-0 z-10"
+                    aria-label="Read article"
+                />
             </div>
 
             {/* Dark overlay for better text readability */}
@@ -119,8 +128,8 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                 <ChevronRight size={28} className="text-white" />
             </button>
 
-            {/* Slide Indicators */}
-            <div className="absolute bottom-32 left-1/2 -translate-x-1/2 flex gap-2 z-20">
+            {/* Slide Indicators - Bottom Right */}
+            <div className="absolute bottom-8 right-8 flex gap-2 z-20">
                 {topNews.map((_, index) => (
                     <button
                         key={index}
@@ -157,15 +166,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                             {formatDate(currentNews.pubDate)}
                         </span>
                     </div>
-                    <a
-                        href={currentNews.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all hover:scale-105 shadow-lg hover:shadow-xl"
-                    >
-                        Read Article
-                        <ExternalLink size={18} />
-                    </a>
                 </div>
             </div>
         </div>
