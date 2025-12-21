@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T06:51:22.261Z",
+  "fetchedAt": "2025-12-21T13:04:41.211Z",
   "locale": "jp",
   "companies": [
     {
@@ -114,14 +114,14 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVWYtQWM4UTIyLURzODhCQVJTTV9QTTY4SW5Kb04xT1hUbkpKb2JNMHdST3U4ZlZhQ3hWdEVRZzF4aHVlX2Y5eGIycU01OS02MEF6QnJhWnpicHlmcU9yeW9MLXNEeUF2WGdlYnoxVF85dw?oc=5",
           "pubDate": "2025-11-21 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aVWYtQWM4UTIyLURzODhCQVJTTV9QTTY4SW5Kb04xT1hUbkpKb2JNMHdST3U4ZlZhQ3hWdEVRZzF4aHVlX2Y5eGIycU01OS02MEF6QnJhWnpicHlmcU9yeW9MLXNEeUF2WGdlYnoxVF85dw?oc=5\" target=\"_blank\">VS CodeのPython拡張機能がアップデート ドキュメントやインポート、デバッガー関連が強化され、さらに快適に</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
           "pubDate": "2025-08-08 02:21:04",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -194,7 +194,7 @@
         {
           "title": "Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更 - HelenTech",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5",
-          "pubDate": "2025-12-06 01:03:51",
+          "pubDate": "2025-12-06 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5\" target=\"_blank\">Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更</a>  HelenTech",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
