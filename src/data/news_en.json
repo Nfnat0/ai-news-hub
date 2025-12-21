@@ -1,11 +1,18 @@
 {
-  "fetchedAt": "2025-12-21T15:18:31.352Z",
+  "fetchedAt": "2025-12-21T21:17:53.974Z",
   "locale": "en",
   "companies": [
     {
       "company": "google",
       "displayName": "Google",
       "news": [
+        {
+          "title": "How Google Gemini leapfrogged ChatGPT – and why the AI race may already be over - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJsb1A0cnB1THRZZ3BJOGZxbGV0MHhjS2loaEFva1hBVG1Dc0ZqUHk4ZUpfWktjNDBFbnVHOFFUOVRQUUFzVHI0TXJUTFBmT3dkcUpqYWYxMVVLQzZqVkk5M3lXRWlLelVuSHYtMDVoYzVLbXFpRnpMR0ZBcGREU1lsODVkLV82MHZ4ZXBKSmw?oc=5",
+          "pubDate": "2025-12-21 06:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJsb1A0cnB1THRZZ3BJOGZxbGV0MHhjS2loaEFva1hBVG1Dc0ZqUHk4ZUpfWktjNDBFbnVHOFFUOVRQUUFzVHI0TXJUTFBmT3dkcUpqYWYxMVVLQzZqVkk5M3lXRWlLelVuSHYtMDVoYzVLbXFpRnpMR0ZBcGREU1lsODVkLV82MHZ4ZXBKSmw?oc=5\" target=\"_blank\">How Google Gemini leapfrogged ChatGPT – and why the AI race may already be over</a>  The Independent",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
         {
           "title": "Google was at risk of losing its dominance — until it promoted this AI executive - CNBC",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVp5VE53RUxvOUJla2lJbFVlWkI0RHgxYTFyU0c5VHFnVU5oWDZTTnhnMlJHRXFueXBXTzZzT3FyZWdXMlA0M0ZRSW1sVDQ5bmxHS2tlejU3XzZuYWd1RHZ4YjlRR3VyZDAtVW44Rml4Xzh2eVJTbWJ2OGN1RVHSAYQBQVVfeXFMTmVGNWlxb0VoZHFuY01KUVp2bVRZb3UwNU83cTNrWVJkRVBRekhVaGhILVhmWnhfUlY4TFpMTnJmNW4zazFqX2swMXp4Z0s2aG5NQlMyeExnOVBEYy1XTDBQX25pR3J3WDZfSm5QVDY5RkdOc1JuMEFGNmNZaVF6aTZYeS1D?oc=5",
@@ -19,13 +26,6 @@
           "pubDate": "2025-12-19 17:11:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI4cUVXeldMYnc3SWFkay1yV1h4ejZOdEdWM2EyY1RLSUQwS0pxc1hXa3Zycml6UnVRVG9rcnpaLXRKUFdmLUxmUWNpVDBCaHpCR3lmMF9VT0lJWFE0alg4eEpqQ25wUkhVNlhQRTVBeE5aUlBrOHhGd21iNk1lem1qYWpjUWZOWmpDclZ2T3pjZ3loMmU4eXRSRnhaNDhXRjVKOUxvbzFZVV8yZXVNVTlyVVd3U3M?oc=5\" target=\"_blank\">Gemini can now tell you whether a video was generated with Google AI</a>  Android Central",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Google’s new default AI model: Gemini 3 Flash is faster and stronger - PCWorld",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUEyaDkwQjJ4bS1iUXVhQl9PV2o3eGNhQ2loV2wtbk5Lb0locHEwcGkzTU1LcUJGa1JCR0F4OFVUckZoZkhxbk8yNDdKSEo0WmFzWXl2YWJiSXY4ZktnX3UtQ3U5V3BPaEpUaU1iR0ZZRTBSRWJqQl9MeXFqZjE0WFdITFlDcjBYdEo1ZkNiV1k5RFMxTEJWZGFCdkI2Yk1QbGlleUtvbHZIV2VKU0lYSQ?oc=5",
-          "pubDate": "2025-12-19 15:48:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUEyaDkwQjJ4bS1iUXVhQl9PV2o3eGNhQ2loV2wtbk5Lb0locHEwcGkzTU1LcUJGa1JCR0F4OFVUckZoZkhxbk8yNDdKSEo0WmFzWXl2YWJiSXY4ZktnX3UtQ3U5V3BPaEpUaU1iR0ZZRTBSRWJqQl9MeXFqZjE0WFdITFlDcjBYdEo1ZkNiV1k5RFMxTEJWZGFCdkI2Yk1QbGlleUtvbHZIV2VKU0lYSQ?oc=5\" target=\"_blank\">Google’s new default AI model: Gemini 3 Flash is faster and stronger</a>  PCWorld",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
@@ -48,6 +48,13 @@
       "displayName": "OpenAI",
       "news": [
         {
+          "title": "Walt Disney (DIS) Invests $1 Billion in OpenAI Deal - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44RzNhYmtqcXlTeHl2UTM3QmZDVnRaTFM2OGdiZnRBaHc0alVwdFVnR09zdWFobmdRQlVjZllnVU5kUXJNNXF2UDZfcnVENnhSVVRVczFWM0ZoMzZJdEE5Q0lYUGlRdWFSMDFtb0hmZjJjdmtybGdmSm9jZw?oc=5",
+          "pubDate": "2025-12-21 14:44:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE44RzNhYmtqcXlTeHl2UTM3QmZDVnRaTFM2OGdiZnRBaHc0alVwdFVnR09zdWFobmdRQlVjZllnVU5kUXJNNXF2UDZfcnVENnhSVVRVczFWM0ZoMzZJdEE5Q0lYUGlRdWFSMDFtb0hmZjJjdmtybGdmSm9jZw?oc=5\" target=\"_blank\">Walt Disney (DIS) Invests $1 Billion in OpenAI Deal</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
           "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level - TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNoN1YtMDBCVFRBQXRobEQzV3JJeDdRb21PSHc0R0xnYnVSQndWdlMxZUpMOHdyeVBxei0xekw2UVFJRGFQcDIyQnBuUWptc0I3SE15YTh4dENvOFVBVFNibXB3LVc2c3N3ZkNWejZPVFdDYXo3SzRNcndsQURFSS14Q0F1SEdqWlJNQVhWT2labXdORnJmVnFjSnFqa3ZvYWdQc2hPWQ?oc=5",
           "pubDate": "2025-12-20 20:34:07",
@@ -55,32 +62,25 @@
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
-          "title": "SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ25uMmFsY3poYVVYM3YtZDVXemEyYW1DYXdka1hKanc3RjBUU1hiSFAzNnJfZldQUFBGU2Vuc2VIMWpDTEhJTHB4WHh1THZfXzdTNWNFQWZtQlAyY1JSX1gxX1kzMkpHMjR2Q3dwT1g1eDAtV29LZmNBT1huMWhuSE50UEhvNXVF?oc=5",
-          "pubDate": "2025-12-20 12:58:43",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ25uMmFsY3poYVVYM3YtZDVXemEyYW1DYXdka1hKanc3RjBUU1hiSFAzNnJfZldQUFBGU2Vuc2VIMWpDTEhJTHB4WHh1THZfXzdTNWNFQWZtQlAyY1JSX1gxX1kzMkpHMjR2Q3dwT1g1eDAtV29LZmNBT1huMWhuSE50UEhvNXVF?oc=5\" target=\"_blank\">SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end</a>  Yahoo Finance",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
           "title": "Data center stocks can get on track if OpenAI raises money, Jim Cramer says - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5",
           "pubDate": "2025-12-19 23:53:44",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGpaLWFTVHctcDZtOWJIb1NGNDEycUFWUHZTLTFYbGRpaWNDanJYS01jaHlKN2QtVkhOamlaNzIyQnZrV0llMDB6MWpfR2xDTjRrdjg3TjNPT2ZLdW92OEdpcTAxNl9CckQyNVVYQ2dEREJlR0hxNk1DUEM4bXQtLWdlRmEyWFN2VWFBOEpRX1QxVzVyVHJ3WURjTVl3cHFnNGJyRmZtWHFINm_SAbABQVVfeXFMTTEzaGZSUHM1aDZmVk1qbzVrTlZjX1hPbENMd1RmcUxGR09xUFdyU0Qtd3VhUE5WSThvZ3VWZmp2YTRVdEFsdU1hcFMtcTNXMzNHZk9oSnJ1NjR4M29ITGxReGVNYXQxMHdvYzRLZDNUREdUSmNvcVlIQ3drT2piMW8xX0tQdWVZX2FTdXBPRmpKLWxLNEFGak94U1JkT3dLZXB6UlRFTElmMm9samI1Z3Q?oc=5\" target=\"_blank\">Data center stocks can get on track if OpenAI raises money, Jim Cramer says</a>  CNBC",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
-          "title": "Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO - Fortune",
+          "title": "Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying' - Fortune",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5",
           "pubDate": "2025-12-19 17:38:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO</a>  Fortune",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying'</a>  Fortune",
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion - The Information",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5",
-          "pubDate": "2025-12-18 00:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5\" target=\"_blank\">OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPMERKM2Jqb1FGdXowNjZQSWcyQ1FfQTFYdUMzUE1aSnRUbjlLci1JdGkzU1F1d2t1WkplT2FoSmxhZE9wMnlObXB5cGtyWDhfZUQxUUZYVHRCYUFTNmZpV2lVa2tBdHY1d29ZSmNmVkhySURNbEhOTFlSdC1tRllTd05heTJNcFhLeTl1NFIwQWFjdjN5U1hFOVB0RVFZY01uNFRxcHlNcm9ZenRwcDg2OE42c25wMFpvWS12X0ktdmhlWmlfdzV3dXhQLXBJNXpRSjdTUEs4cjdLZmlRbFV6Nkh3bXBzWTl4ZEo2UFpsbTdsdy16T3NDQmI4SzRTeDlySTdiRGFxRzhTTTdnRGpTZFV5YW5pcXM0RUZISkJpTnAtaTc3bUxZakYyRVlyb3JPUjR0OFlfUGtsQzR0Yll4NHptaklDQzdtZDltc0VmeDNJUWRJY1FBc3lBbzMxMjJMd1duYzFQSzN2X1JzV0hxdElLR3hialJrNHZHZmxMOG14UHF2YTVjdjBqY1hUUjNTSF9hVFppU0ZWR0tXeTk3Q1R1Q2huRVNTOW14TUROcFV6Wmk0TXRz?oc=5",
+          "pubDate": "2025-12-18 22:01:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxPMERKM2Jqb1FGdXowNjZQSWcyQ1FfQTFYdUMzUE1aSnRUbjlLci1JdGkzU1F1d2t1WkplT2FoSmxhZE9wMnlObXB5cGtyWDhfZUQxUUZYVHRCYUFTNmZpV2lVa2tBdHY1d29ZSmNmVkhySURNbEhOTFlSdC1tRllTd05heTJNcFhLeTl1NFIwQWFjdjN5U1hFOVB0RVFZY01uNFRxcHlNcm9ZenRwcDg2OE42c25wMFpvWS12X0ktdmhlWmlfdzV3dXhQLXBJNXpRSjdTUEs4cjdLZmlRbFV6Nkh3bXBzWTl4ZEo2UFpsbTdsdy16T3NDQmI4SzRTeDlySTdiRGFxRzhTTTdnRGpTZFV5YW5pcXM0RUZISkJpTnAtaTc3bUxZakYyRVlyb3JPUjR0OFlfUGtsQzR0Yll4NHptaklDQzdtZDltc0VmeDNJUWRJY1FBc3lBbzMxMjJMd1duYzFQSzN2X1JzV0hxdElLR3hialJrNHZHZmxMOG14UHF2YTVjdjBqY1hUUjNTSF9hVFppU0ZWR0tXeTk3Q1R1Q2huRVNTOW14TUROcFV6Wmk0TXRz?oc=5\" target=\"_blank\">Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion</a>  The Wall Street Journal",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -134,35 +134,35 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81anhQankxQlBkVmEzRVFBazhHSkRHckdiZGxkT3lPVkcyYUlnNFc3SGdLTXVQd0llaF9ZaUNSY2xVLVczQzV0bU1HSVlkaXFYaW1aa093TFlZSkFmQ0NKRGs4TVJuUWl0MTJYSlppb3R6QQ?oc=5",
           "pubDate": "2025-12-20 16:15:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE81anhQankxQlBkVmEzRVFBazhHSkRHckdiZGxkT3lPVkcyYUlnNFc3SGdLTXVQd0llaF9ZaUNSY2xVLVczQzV0bU1HSVlkaXFYaW1aa093TFlZSkFmQ0NKRGs4TVJuUWl0MTJYSlppb3R6QQ?oc=5\" target=\"_blank\">Anthropic's Advanced New AI Tries to Run Vending Machine, Goes Bankrupt After Ordering PlayStation 5 and Live Fish</a>  Futurism",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
-        },
-        {
-          "title": "Anthropic’s AI vending machine turns communist and gives everything for free - Dexerto",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTdsN3EyWnlaRUtOVHNwdWRydXpfVDBrSmRFelVhdXQ3cXJKWHo2a0RmYUJBUW9DVE9rWmJpWllRS01JXzFIejUxTWFXemJXMGZoV3dmQWZpRVJybFNibnFCNU5wRm9YN0FOVk1HRGNzWmZJRFVlVXJ1Ym1KSXpqRzB0MnJlUlU1SGFIQ1A5VEZxRHk5MEJES3dLVWFLVWZkeUFlR2d2eHl5QlVxYXk0V2w3SzM3cjc5cEd1cjVhbw?oc=5",
-          "pubDate": "2025-12-19 19:35:23",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTdsN3EyWnlaRUtOVHNwdWRydXpfVDBrSmRFelVhdXQ3cXJKWHo2a0RmYUJBUW9DVE9rWmJpWllRS01JXzFIejUxTWFXemJXMGZoV3dmQWZpRVJybFNibnFCNU5wRm9YN0FOVk1HRGNzWmZJRFVlVXJ1Ym1KSXpqRzB0MnJlUlU1SGFIQ1A5VEZxRHk5MEJES3dLVWFLVWZkeUFlR2d2eHl5QlVxYXk0V2w3SzM3cjc5cEd1cjVhbw?oc=5\" target=\"_blank\">Anthropic’s AI vending machine turns communist and gives everything for free</a>  Dexerto",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
           "title": "This AI Vending Machine Was Tricked Into Giving Away Everything - Kottke.org",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5",
           "pubDate": "2025-12-18 19:14:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5\" target=\"_blank\">This AI Vending Machine Was Tricked Into Giving Away Everything</a>  Kottke.org",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal. - The Verge",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5",
           "pubDate": "2025-12-18 17:09:52",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5\" target=\"_blank\">Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal.</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
+          "title": "Agent Skills: Anthropic’s Next Bid to Define AI Standards - The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzllamk1T3hBdU93ZldRR2sxWkY2cDY1aVQtLVhFZTJjNFFZNldzOUhvTnEzSW80am5GeUFXN3R4SDExdjBKUXg0VWNtalhKY3lITkpCd2ZPanlyZnJ0T2dlUllOX1dwQjI3ZUVBMzhQZEdhR0NuVHJHeW5vRGxrV0pBVlRCdw?oc=5",
+          "pubDate": "2025-12-18 17:03:56",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzllamk1T3hBdU93ZldRR2sxWkY2cDY1aVQtLVhFZTJjNFFZNldzOUhvTnEzSW80am5GeUFXN3R4SDExdjBKUXg0VWNtalhKY3lITkpCd2ZPanlyZnJ0T2dlUllOX1dwQjI3ZUVBMzhQZEdhR0NuVHJHeW5vRGxrV0pBVlRCdw?oc=5\" target=\"_blank\">Agent Skills: Anthropic’s Next Bid to Define AI Standards</a>  The New Stack",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQLXNGcjl6UDhoejNDMlRCVTdCM3hIUXZIREZDUHl6dExQTjJRaVZEd29ZTzF3YkJlMTdwdWNJZENJU1VSZEp4LUZhX0t3Z0ZuU2l1MVJaOGVZSE9CM2NjZG9xN0JaRVBBbHd3QmpXMVljU29ISnFMeHlmNDJlVzlRMy1jOGpjQlRpamVqSDRIeDU0NE96SEcyNWY3bzNicmJncVdNTzJXRC1lM0pEU0tCUmQzS3FnU2VqTFR3ZmV6UXpiSm9KQ2J3SkhqQzZnOVQyNHRhN1otWEN4Vk4zcEZSQmhCdE5wcXJuQnV0LUZhZEFFdXFSZnMyT2NxNF96V0R0dXhBTzNqbUxRSGpVUTZtbnNrc3g0REozZVVMV2pJQ1J5eHM1VnU5SVVWTTB1SVFSbFc5UnNJTWRJZ1NqUmtSUlZ3NXVLcEJaX3RWN0VjWDl3WGdtN1c1NkFFSzRGV0VZUk1kS0RwMzBhWVRUSU15N2RMNGdDN19oYnRRZUh1aWV3azgxcjBlajZn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOcDRoZ1owMWtaZWYyTFd2dm12TmNyU3k2bFI5RkM0OFdMdWtNRzhlRW5Ueno4YS1kblctQkVDazZONEhEVVN3ZWlESXRkTGRSTzhjUWhSa2dCS0RjaU1HWWZ2NGxYOEZJczNvdnZ1czN0ZkV0QnJQcWVpTEdjQzVVWGs0UkZJWDZJQWhtZkJHNFh3YkU1akVFbnh2U1ZnZ2dUWjJXSkJRVW5ENUNDa244Y053Q2kyVUNSR2tsQkZFdjMzYnNuS0p5UVhWRnVzcGVKOUhqVHlxZHp5VDBrWDdPOEFuaTdaWFhKUmQxVnlRbE1iQ0ZZM2tueG03ei05c195dDBiUWdiZUlFcnhRZ0UxSGNuQlVQQjBRYnBZWmJrSkpvNGVMQ0c0U2lBU1NGWHRueG9zS21KaHl1VkxFUUl4TDM5ajhPNTZNQmZJWGJPUXBLQktZNEZPUEQ3MHRYQkY3U1MyaGlIamlkbVZxQnNTdjRwVmFSZGJTZkFHTkZKbVVGMkNGdlpFWmJn?oc=5",
           "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxQLXNGcjl6UDhoejNDMlRCVTdCM3hIUXZIREZDUHl6dExQTjJRaVZEd29ZTzF3YkJlMTdwdWNJZENJU1VSZEp4LUZhX0t3Z0ZuU2l1MVJaOGVZSE9CM2NjZG9xN0JaRVBBbHd3QmpXMVljU29ISnFMeHlmNDJlVzlRMy1jOGpjQlRpamVqSDRIeDU0NE96SEcyNWY3bzNicmJncVdNTzJXRC1lM0pEU0tCUmQzS3FnU2VqTFR3ZmV6UXpiSm9KQ2J3SkhqQzZnOVQyNHRhN1otWEN4Vk4zcEZSQmhCdE5wcXJuQnV0LUZhZEFFdXFSZnMyT2NxNF96V0R0dXhBTzNqbUxRSGpVUTZtbnNrc3g0REozZVVMV2pJQ1J5eHM1VnU5SVVWTTB1SVFSbFc5UnNJTWRJZ1NqUmtSUlZ3NXVLcEJaX3RWN0VjWDl3WGdtN1c1NkFFSzRGV0VZUk1kS0RwMzBhWVRUSU15N2RMNGdDN19oYnRRZUh1aWV3azgxcjBlajZn?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxOcDRoZ1owMWtaZWYyTFd2dm12TmNyU3k2bFI5RkM0OFdMdWtNRzhlRW5Ueno4YS1kblctQkVDazZONEhEVVN3ZWlESXRkTGRSTzhjUWhSa2dCS0RjaU1HWWZ2NGxYOEZJczNvdnZ1czN0ZkV0QnJQcWVpTEdjQzVVWGs0UkZJWDZJQWhtZkJHNFh3YkU1akVFbnh2U1ZnZ2dUWjJXSkJRVW5ENUNDa244Y053Q2kyVUNSR2tsQkZFdjMzYnNuS0p5UVhWRnVzcGVKOUhqVHlxZHp5VDBrWDdPOEFuaTdaWFhKUmQxVnlRbE1iQ0ZZM2tueG03ei05c195dDBiUWdiZUlFcnhRZ0UxSGNuQlVQQjBRYnBZWmJrSkpvNGVMQ0c0U2lBU1NGWHRueG9zS21KaHl1VkxFUUl4TDM5ajhPNTZNQmZJWGJPUXBLQktZNEZPUEQ3MHRYQkY3U1MyaGlIamlkbVZxQnNTdjRwVmFSZGJTZkFHTkZKbVVGMkNGdlpFWmJn?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5",
           "pubDate": "2025-12-03 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5\" target=\"_blank\">Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
           "title": "Meet new Amazon Nova AI models that help build highly reliable AI agents - About Amazon",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5",
           "pubDate": "2025-11-24 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5\" target=\"_blank\">Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         }
       ]
     },
@@ -212,39 +212,39 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "Elon Musk's XAI company hiring Android engineers in US, UK: Check eligibility, how to apply, benefits and - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5",
-          "pubDate": "2025-12-20 09:28:10",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5\" target=\"_blank\">Elon Musk's XAI company hiring Android engineers in US, UK: Check eligibility, how to apply, benefits and</a>  The Economic Times",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
-        },
-        {
           "title": "‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an - Times of India",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5",
           "pubDate": "2025-12-18 14:04:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5\" target=\"_blank\">‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
           "title": "GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait, - x.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5",
           "pubDate": "2025-12-18 06:45:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5\" target=\"_blank\">GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait,</a>  x.com",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
+          "title": "Grok Voice Agent API - xAI",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5",
+          "pubDate": "2025-12-17 19:51:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5\" target=\"_blank\">Grok Voice Agent API</a>  xAI",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
           "title": "Why xAI Has an Uphill Battle Selling Grok to Businesses - The Information",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5",
           "pubDate": "2025-12-15 16:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5\" target=\"_blank\">Why xAI Has an Uphill Battle Selling Grok to Businesses</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
           "title": "Grok 4.1 - xAI",
           "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5",
           "pubDate": "2025-11-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5\" target=\"_blank\">Grok 4.1</a>  xAI",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         }
       ]
     }
