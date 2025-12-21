@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Header } from './components/Header';
 import { HomePage } from './pages/HomePage';
-import { LinksPage } from './pages/LinksPage';
 import { LanguageProvider } from './context/LanguageContext';
 
 function App() {
@@ -12,7 +11,6 @@ function App() {
           <Header />
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="/links" element={<LinksPage />} />
           </Routes>
         </div>
       </BrowserRouter>

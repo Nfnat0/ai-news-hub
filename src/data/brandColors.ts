@@ -29,10 +29,31 @@ export const brandColors: Record<string, { primary: string; gradient: string; gl
         gradient: 'linear-gradient(135deg, #E8E8E8 0%, #FFFFFF 50%, #E8E8E8 100%)',
         glow: 'shadow-gray-300/50',
     },
-    anysphere: {
-        primary: '#7C3AED',
-        gradient: 'linear-gradient(135deg, #7C3AED 0%, #A78BFA 50%, #7C3AED 100%)',
-        glow: 'shadow-violet-500/50',
+    // Dev Tools - 青系を避けて見分けやすい色に
+    cursor: {
+        primary: '#00E5A0',
+        gradient: 'linear-gradient(135deg, #00E5A0 0%, #00FFB8 50%, #00E5A0 100%)',
+        glow: 'shadow-emerald-400/50',
+    },
+    'github-copilot': {
+        primary: '#F78166',
+        gradient: 'linear-gradient(135deg, #F78166 0%, #FF9580 50%, #F78166 100%)',
+        glow: 'shadow-orange-400/50',
+    },
+    vscode: {
+        primary: '#007ACC',
+        gradient: 'linear-gradient(135deg, #007ACC 0%, #0098FF 50%, #007ACC 100%)',
+        glow: 'shadow-blue-500/50',
+    },
+    kiro: {
+        primary: '#FF9900',
+        gradient: 'linear-gradient(135deg, #FF9900 0%, #FFAD33 50%, #FF9900 100%)',
+        glow: 'shadow-orange-500/50',
+    },
+    antigravity: {
+        primary: '#A855F7',
+        gradient: 'linear-gradient(135deg, #A855F7 0%, #C084FC 50%, #A855F7 100%)',
+        glow: 'shadow-purple-500/50',
     },
 };
 

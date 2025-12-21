@@ -4,7 +4,7 @@ A Netflix-style UI for aggregating the latest news from major AI companies with 
 
 ## Overview
 
-Displays news from Google AI, OpenAI, Microsoft AI, Anthropic, xAI, and Anysphere in horizontally scrollable card rows with brand-colored titles.
+Displays news from Google AI, OpenAI, Microsoft AI, Anthropic and xAI in horizontally scrollable card rows with brand-colored titles.
 
 ## Features
 
@@ -98,7 +98,6 @@ npm run test:watch
 | Microsoft AI | #00A4EF (Blue) |
 | Anthropic | #D4A574 (Beige) |
 | xAI | #E8E8E8 (Silver) |
-| Anysphere | #7C3AED (Violet) |
 
 ## APIs Used
 

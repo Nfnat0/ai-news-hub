@@ -1,7 +1,10 @@
 /**
- * News Fetcher Script
- * Fetches latest AI news from Google News RSS in both Japanese and English
- * Usage: node scripts/fetch-news.js
+ * Dev Tools News Fetcher Script
+ * Fetches latest news for developer tools from Google News RSS
+ * Usage: node scripts/fetch-news-dev.js
+ * 
+ * This script is separate from fetch-news.js to avoid rate limiting.
+ * Run with a time offset (e.g., 30 minutes after fetch-news.js)
  */
 
 import fs from 'fs';
@@ -13,29 +16,28 @@ const __dirname = path.dirname(__filename);
 
 const RSS2JSON_API = 'https://api.rss2json.com/v1/api.json';
 
-// 会社データをcompanies.tsから読み込む
+// devToolsデータをcompanies.tsから読み込む
 const companiesPath = path.join(__dirname, '..', 'src', 'data', 'companies.ts');
 const companiesContent = fs.readFileSync(companiesPath, 'utf-8');
 
-// TypeScriptファイルからcompanies配列を抽出
-const companiesMatch = companiesContent.match(/export const companies[^=]*=\s*(\[[\s\S]*?\]);/);
-if (!companiesMatch) {
-  console.error('Failed to parse companies from companies.ts');
+const devToolsMatch = companiesContent.match(/export const devTools[^=]*=\s*(\[[\s\S]*?\]);/);
+if (!devToolsMatch) {
+  console.error('Failed to parse devTools from companies.ts');
   process.exit(1);
 }
-// evalの代わりにJSON.parseを使用（シングルクォートをダブルクォートに変換）
-const companiesJson = companiesMatch[1]
+
+const devToolsJson = devToolsMatch[1]
   .replace(/'/g, '"')
-  .replace(/,(\s*[}\]])/g, '$1') // trailing commasを削除
-  .replace(/(\w+):/g, '"$1":'); // キーをダブルクォートで囲む
-const companies = JSON.parse(companiesJson);
+  .replace(/,(\s*[}\]])/g, '$1')
+  .replace(/(\w+):/g, '"$1":');
+const devTools = JSON.parse(devToolsJson);
 
 const allLocales = [
-  { code: 'en', hl: 'en', gl: 'US', ceid: 'US:en', filename: 'news_en.json' },
-  { code: 'jp', hl: 'ja', gl: 'JP', ceid: 'JP:ja', filename: 'news_jp.json' },
+  { code: 'en', hl: 'en', gl: 'US', ceid: 'US:en', filename: 'news_dev_en.json' },
+  { code: 'jp', hl: 'ja', gl: 'JP', ceid: 'JP:ja', filename: 'news_dev_jp.json' },
 ];
 
-// コマンドライン引数で言語を指定可能（例: node fetch-news.js --locale=jp）
+// コマンドライン引数で言語を指定可能
 const args = process.argv.slice(2);
 const localeArg = args.find(arg => arg.startsWith('--locale='));
 const targetLocale = localeArg ? localeArg.split('=')[1] : null;
@@ -44,8 +46,7 @@ const locales = targetLocale
   ? allLocales.filter(l => l.code === targetLocale)
   : allLocales;
 
-// 1社あたりの最大ニュース件数
-const MAX_NEWS_PER_COMPANY = 5;
+const MAX_NEWS_PER_TOOL = 5;
 
 const extractImageFromDescription = (description) => {
   const imgMatch = description.match(/<img[^>]+src="([^">]+)"/);
@@ -53,26 +54,22 @@ const extractImageFromDescription = (description) => {
 };
 
 const getFallbackImage = (keyword, index) => {
-  // Picsum Photosでランダム画像を表示
   const seed = `${keyword}-${index}`.replace(/\s/g, '-');
   return `https://picsum.photos/seed/${seed}/400/225`;
 };
 
-// 複数の検索ワードをOR検索用のクエリに変換
 const buildOrQuery = (searchTerms) => {
   if (searchTerms.length === 1) {
     return searchTerms[0];
   }
-  // 各ワードをダブルクォートで囲んでOR結合
   return searchTerms.map(term => `"${term}"`).join(' OR ');
 };
 
-const fetchNewsForCompany = async (company, locale) => {
-  // 複数ワードをOR検索で1回のリクエストにまとめる
-  const query = buildOrQuery(company.searchTerm);
+const fetchNewsForTool = async (tool, locale) => {
+  const query = buildOrQuery(tool.searchTerm);
   const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(
     query
-  )}&num=${MAX_NEWS_PER_COMPANY}&hl=${locale.hl}&gl=${locale.gl}&ceid=${locale.ceid}`;
+  )}&num=${MAX_NEWS_PER_TOOL}&hl=${locale.hl}&gl=${locale.gl}&ceid=${locale.ceid}`;
   const apiUrl = `${RSS2JSON_API}?rss_url=${encodeURIComponent(rssUrl)}`;
 
   try {
@@ -82,18 +79,18 @@ const fetchNewsForCompany = async (company, locale) => {
     const data = await response.json();
     if (data.status !== 'ok') throw new Error(data.message || 'RSS fetch failed');
 
-    return data.items.slice(0, MAX_NEWS_PER_COMPANY).map((item, index) => {
+    return data.items.slice(0, MAX_NEWS_PER_TOOL).map((item, index) => {
       const extractedImage = extractImageFromDescription(item.description || '');
       return {
         title: item.title,
         link: item.link,
         pubDate: item.pubDate,
         description: item.description || '',
-        thumbnail: extractedImage || item.thumbnail || getFallbackImage(company.key, index),
+        thumbnail: extractedImage || item.thumbnail || getFallbackImage(tool.key, index),
       };
     });
   } catch (error) {
-    console.error(`  Error fetching ${company.displayName} (${locale.code}):`, error.message);
+    console.error(`  Error fetching ${tool.displayName} (${locale.code}):`, error.message);
     return [];
   }
 };
@@ -101,25 +98,25 @@ const fetchNewsForCompany = async (company, locale) => {
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const fetchNewsForLocale = async (locale) => {
-  console.log(`\n=== Fetching ${locale.code.toUpperCase()} news ===\n`);
+  console.log(`\n=== Fetching ${locale.code.toUpperCase()} dev tools news ===\n`);
   const results = [];
 
-  for (const company of companies) {
-    console.log(`Fetching: ${company.displayName}...`);
-    const news = await fetchNewsForCompany(company, locale);
+  for (const tool of devTools) {
+    console.log(`Fetching: ${tool.displayName}...`);
+    const news = await fetchNewsForTool(tool, locale);
 
     const sortedNews = news.sort(
       (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
     );
 
     results.push({
-      company: company.key,
-      displayName: company.displayName,
+      company: tool.key,
+      displayName: tool.displayName,
       news: sortedNews,
     });
 
     console.log(`  Found ${news.length} articles`);
-    await delay(8000); // 8 seconds delay between companies
+    await delay(8000); // 8 seconds delay between tools
   }
 
   return {
@@ -130,9 +127,9 @@ const fetchNewsForLocale = async (locale) => {
 };
 
 const main = async () => {
-  console.log('AI News Hub - Multi-language News Fetcher');
-  console.log('==========================================');
-  console.log(`Companies loaded: ${companies.map(c => c.displayName).join(', ')}`);
+  console.log('AI News Hub - Dev Tools News Fetcher');
+  console.log('====================================');
+  console.log(`Tools loaded: ${devTools.map(t => t.displayName).join(', ')}`);
 
   for (const locale of locales) {
     const data = await fetchNewsForLocale(locale);
@@ -141,14 +138,13 @@ const main = async () => {
     console.log(`\nSaved: ${locale.filename}`);
     console.log(`  Articles: ${data.companies.reduce((sum, c) => sum + c.news.length, 0)}`);
     
-    // Wait between locales to avoid rate limiting
     if (locales.indexOf(locale) < locales.length - 1) {
-      console.log('\nWaiting 60 seconds before next locale...');
-      await delay(60000);
+      console.log('\nWaiting 30 seconds before next locale...');
+      await delay(30000);
     }
   }
 
-  console.log('\n✓ All news data updated successfully!');
+  console.log('\n✓ Dev tools news data updated successfully!');
 };
 
 main().catch(console.error);

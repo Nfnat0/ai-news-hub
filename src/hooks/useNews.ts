@@ -12,7 +12,14 @@ interface NewsData {
     }[];
 }
 
-export const useNews = () => {
+// ニュースを日付順にソート（新しい順）
+const sortNewsByDate = (news: NewsItem[]): NewsItem[] => {
+    return [...news].sort(
+        (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
+    );
+};
+
+export const useNews = (category: 'companies' | 'dev' = 'companies') => {
     const { language } = useLanguage();
     const [companyNews, setCompanyNews] = useState<CompanyNews[]>([]);
     const [loading, setLoading] = useState(true);
@@ -22,20 +29,28 @@ export const useNews = () => {
             setLoading(true);
             try {
                 let data: NewsData;
-                if (language === 'jp') {
-                    const response = await import('../data/news_jp.json');
-                    data = response.default as NewsData;
+                if (category === 'dev') {
+                    if (language === 'jp') {
+                        const response = await import('../data/news_dev_jp.json');
+                        data = response.default as NewsData;
+                    } else {
+                        const response = await import('../data/news_dev_en.json');
+                        data = response.default as NewsData;
+                    }
                 } else {
-                    const response = await import('../data/news_en.json');
-                    data = response.default as NewsData;
+                    if (language === 'jp') {
+                        const response = await import('../data/news_jp.json');
+                        data = response.default as NewsData;
+                    } else {
+                        const response = await import('../data/news_en.json');
+                        data = response.default as NewsData;
+                    }
                 }
 
                 const newsWithState: CompanyNews[] = data.companies.map((c) => ({
                     company: c.company,
                     displayName: c.displayName,
-                    news: [...c.news].sort(
-                        (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
-                    ),
+                    news: sortNewsByDate(c.news),
                     loading: false,
                     error: null,
                 }));
@@ -49,7 +64,7 @@ export const useNews = () => {
         };
 
         loadNews();
-    }, [language]);
+    }, [language, category]);
 
     return { companyNews, loading };
 };

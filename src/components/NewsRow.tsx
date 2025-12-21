@@ -36,9 +36,8 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
         );
     }
 
-    const sortedNews = [...companyNews.news].sort(
-        (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
-    );
+    // ニュースは既にuseNewsでソート済み
+    const sortedNews = companyNews.news;
 
     return (
         <section className="py-0 group/row">

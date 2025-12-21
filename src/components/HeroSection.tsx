@@ -1,6 +1,7 @@
 import { useState, useCallback, useEffect, useMemo } from 'react';
 import { ExternalLink, Clock, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { NewsItem } from '../types';
+import { formatDate } from '../types';
 import { isNewArticle } from '../hooks/useNews';
 
 interface HeroSectionProps {
@@ -9,6 +10,12 @@ interface HeroSectionProps {
 }
 
 const AUTO_SLIDE_INTERVAL = 5000;
+
+// タイトルを4行に制限し、超過分は...で省略
+const truncateTitle = (title: string, maxChars: number = 120): string => {
+    if (title.length <= maxChars) return title;
+    return title.slice(0, maxChars).trim() + '...';
+};
 
 export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -69,14 +76,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
     const currentNews = topNews[currentIndex];
 
     const isNew = isNewArticle(currentNews.pubDate);
-
-    const formatDate = (dateStr: string) => {
-        const date = new Date(dateStr);
-        const year = date.getFullYear();
-        const month = String(date.getMonth() + 1).padStart(2, '0');
-        const day = String(date.getDate()).padStart(2, '0');
-        return `${year}-${month}-${day}`;
-    };
 
     return (
         <div
@@ -149,8 +148,8 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                             </div>
                         )}
                     </div>
-                    <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 leading-tight drop-shadow-lg">
-                        {currentNews.title}
+                    <h1 className="text-5xl md:text-6xl font-bold text-white mb-4 leading-tight drop-shadow-lg line-clamp-4">
+                        {truncateTitle(currentNews.title)}
                     </h1>
                     <div className="flex items-center gap-4 text-gray-300/80 mb-6">
                         <span className="flex items-center gap-1">

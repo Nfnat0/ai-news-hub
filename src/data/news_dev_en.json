@@ -1,0 +1,11 @@
+{
+  "fetchedAt": "2025-12-21T00:00:00.000Z",
+  "locale": "en",
+  "companies": [
+    { "company": "cursor", "displayName": "Cursor", "news": [] },
+    { "company": "github-copilot", "displayName": "GitHub Copilot", "news": [] },
+    { "company": "vscode", "displayName": "Visual Studio Code", "news": [] },
+    { "company": "kiro", "displayName": "AWS Kiro", "news": [] },
+    { "company": "antigravity", "displayName": "Antigravity", "news": [] }
+  ]
+}

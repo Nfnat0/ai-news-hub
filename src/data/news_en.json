@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-20T21:18:41.765Z",
+  "fetchedAt": "2025-12-21T02:51:43.290Z",
   "locale": "en",
   "companies": [
     {
@@ -11,117 +11,81 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVp5VE53RUxvOUJla2lJbFVlWkI0RHgxYTFyU0c5VHFnVU5oWDZTTnhnMlJHRXFueXBXTzZzT3FyZWdXMlA0M0ZRSW1sVDQ5bmxHS2tlejU3XzZuYWd1RHZ4YjlRR3VyZDAtVW44Rml4Xzh2eVJTbWJ2OGN1RVHSAYQBQVVfeXFMTmVGNWlxb0VoZHFuY01KUVp2bVRZb3UwNU83cTNrWVJkRVBRekhVaGhILVhmWnhfUlY4TFpMTnJmNW4zazFqX2swMXp4Z0s2aG5NQlMyeExnOVBEYy1XTDBQX25pR3J3WDZfSm5QVDY5RkdOc1JuMEFGNmNZaVF6aTZYeS1D?oc=5",
           "pubDate": "2025-12-20 12:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVp5VE53RUxvOUJla2lJbFVlWkI0RHgxYTFyU0c5VHFnVU5oWDZTTnhnMlJHRXFueXBXTzZzT3FyZWdXMlA0M0ZRSW1sVDQ5bmxHS2tlejU3XzZuYWd1RHZ4YjlRR3VyZDAtVW44Rml4Xzh2eVJTbWJ2OGN1RVHSAYQBQVVfeXFMTmVGNWlxb0VoZHFuY01KUVp2bVRZb3UwNU83cTNrWVJkRVBRekhVaGhILVhmWnhfUlY4TFpMTnJmNW4zazFqX2swMXp4Z0s2aG5NQlMyeExnOVBEYy1XTDBQX25pR3J3WDZfSm5QVDY5RkdOc1JuMEFGNmNZaVF6aTZYeS1D?oc=5\" target=\"_blank\">Google was at risk of losing its dominance — until it promoted this AI executive</a>  CNBC",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
-          "title": "Google’s AI Summaries Are Destroying the Lives of Recipe Developers - Futurism",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVMTzZWUmE2ek90c1g2dmVzQ2tMbFVzZ2RyRHRYRXhmWm9WMjhVMjdLVzlLR21WNGZ3Wm9RcVVmMTE3RHV1ZFdkQ3poTTdweERPdVN4VEtTMU5NaWJLQ0xpWW5vN3c3bm5NTVQ1d1ZCazhkX2JCY2xGRGdDdDNqdDcyZUdrMnVEWnB3OVktTVA5aHRfOUZMbQ?oc=5",
-          "pubDate": "2025-12-19 17:06:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjVMTzZWUmE2ek90c1g2dmVzQ2tMbFVzZ2RyRHRYRXhmWm9WMjhVMjdLVzlLR21WNGZ3Wm9RcVVmMTE3RHV1ZFdkQ3poTTdweERPdVN4VEtTMU5NaWJLQ0xpWW5vN3c3bm5NTVQ1d1ZCazhkX2JCY2xGRGdDdDNqdDcyZUdrMnVEWnB3OVktTVA5aHRfOUZMbQ?oc=5\" target=\"_blank\">Google’s AI Summaries Are Destroying the Lives of Recipe Developers</a>  Futurism",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-3/400/225"
-        },
-        {
-          "title": "Why Google’s AI Weakness Turned Out to Be a Strength - The Information",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORndxUDd3cU52RmJKUzdYam5EemVVS0llbXB1bEZ3cHZZcVF2T0dIeXMzSW95TTNhUUJ6TU83eng4bEs4d3Mtb1k4bEM0UFNBUmgxVWVyMFd4VVFLaFd2d2dYemR3VlJKaTlfYzNIV01xNmhTd2tNODUxUmUzZ1hjLQ?oc=5",
-          "pubDate": "2025-12-19 01:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxORndxUDd3cU52RmJKUzdYam5EemVVS0llbXB1bEZ3cHZZcVF2T0dIeXMzSW95TTNhUUJ6TU83eng4bEs4d3Mtb1k4bEM0UFNBUmgxVWVyMFd4VVFLaFd2d2dYemR3VlJKaTlfYzNIV01xNmhTd2tNODUxUmUzZ1hjLQ?oc=5\" target=\"_blank\">Why Google’s AI Weakness Turned Out to Be a Strength</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-2/400/225"
+          "title": "Gemini can now tell you whether a video was generated with Google AI - Android Central",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI4cUVXeldMYnc3SWFkay1yV1h4ejZOdEdWM2EyY1RLSUQwS0pxc1hXa3Zycml6UnVRVG9rcnpaLXRKUFdmLUxmUWNpVDBCaHpCR3lmMF9VT0lJWFE0alg4eEpqQ25wUkhVNlhQRTVBeE5aUlBrOHhGd21iNk1lem1qYWpjUWZOWmpDclZ2T3pjZ3loMmU4eXRSRnhaNDhXRjVKOUxvbzFZVV8yZXVNVTlyVVd3U3M?oc=5",
+          "pubDate": "2025-12-19 17:11:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkI4cUVXeldMYnc3SWFkay1yV1h4ejZOdEdWM2EyY1RLSUQwS0pxc1hXa3Zycml6UnVRVG9rcnpaLXRKUFdmLUxmUWNpVDBCaHpCR3lmMF9VT0lJWFE0alg4eEpqQ25wUkhVNlhQRTVBeE5aUlBrOHhGd21iNk1lem1qYWpjUWZOWmpDclZ2T3pjZ3loMmU4eXRSRnhaNDhXRjVKOUxvbzFZVV8yZXVNVTlyVVd3U3M?oc=5\" target=\"_blank\">Gemini can now tell you whether a video was generated with Google AI</a>  Android Central",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "Google’s Gemini app can check videos to see if they were made with Google AI - The Verge",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkdpT1ZzTmhSb1NoVFp4Z19mX1hQdVJUZTBCYm9Dc1VlS2NjcWlVSEFHRzdnRXhaUWVMak51dVJid0pJUWRfTHVpQmVpRDFHZ0hNN3kteGV6SWFJRzRYWW8tNHVwaDE4cmphNEd3ZmNGSGNTMGQzYWNDWjFWMkZEMXl3ajFQc0FiTmM4?oc=5",
           "pubDate": "2025-12-18 20:31:22",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkdpT1ZzTmhSb1NoVFp4Z19mX1hQdVJUZTBCYm9Dc1VlS2NjcWlVSEFHRzdnRXhaUWVMak51dVJid0pJUWRfTHVpQmVpRDFHZ0hNN3kteGV6SWFJRzRYWW8tNHVwaDE4cmphNEd3ZmNGSGNTMGQzYWNDWjFWMkZEMXl3ajFQc0FiTmM4?oc=5\" target=\"_blank\">Google’s Gemini app can check videos to see if they were made with Google AI</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "You can now verify Google AI-generated videos in the Gemini app. - blog.google",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzQ5TzN6WlQxZUl6VFZUN3puSFlTOFlvNkxFZHNIeDROOHl1T2NwUW5kc0VWMkRBM1RNRGw0SFQyZGhvOFhTMFFxX1FMdjhZV01vek5zVm9wYkE3Z3BjV2NGLW5DTUx5QmdXVWdzRDZWSGRCMllncg?oc=5",
           "pubDate": "2025-12-18 17:08:14",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzQ5TzN6WlQxZUl6VFZUN3puSFlTOFlvNkxFZHNIeDROOHl1T2NwUW5kc0VWMkRBM1RNRGw0SFQyZGhvOFhTMFFxX1FMdjhZV01vek5zVm9wYkE3Z3BjV2NGLW5DTUx5QmdXVWdzRDZWSGRCMllncg?oc=5\" target=\"_blank\">You can now verify Google AI-generated videos in the Gemini app.</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/Google-AI-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
+          "title": "Gemini 3 Flash is rolling out globally in Google Search - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdFlIYWxhYm05Z2dzaE8wZEpzWUxDVzR2cGtiVlltVzVZVUZFMmNRS0ppSlVwVVR3WlZFZjJrbVRrRWQ3aGFsdzNrdElucW9iRkduMjFGeUxBUFVOYmRLSnlyR0pwV18zRi1Tb192V0h5NlFWV1BZQnB0dS02UQ?oc=5",
+          "pubDate": "2025-12-17 16:14:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdFlIYWxhYm05Z2dzaE8wZEpzWUxDVzR2cGtiVlltVzVZVUZFMmNRS0ppSlVwVVR3WlZFZjJrbVRrRWQ3aGFsdzNrdElucW9iRkduMjFGeUxBUFVOYmRLSnlyR0pwV18zRi1Tb192V0h5NlFWV1BZQnB0dS02UQ?oc=5\" target=\"_blank\">Gemini 3 Flash is rolling out globally in Google Search</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
     {
       "company": "openai",
       "displayName": "OpenAI",
-      "news": [
-        {
-          "title": "Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5",
-          "pubDate": "2025-12-20 00:06:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5\" target=\"_blank\">Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say</a>  Reuters",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-4/400/225"
-        },
-        {
-          "title": "Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5",
-          "pubDate": "2025-12-19 17:38:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited about running a public company as OpenAI preps IPO</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-0/400/225"
-        },
-        {
-          "title": "Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQUHdOMDVrbVA3WjBPRFJsS3p4cFZJZUkyRVJZcmlXOFpScFNQWFJEWC1sZFgtcEpiUHlWYjU2MXNTYW9YbXVFODkza3FpUll0S0pRVHpVcm01NHpoOWdpdWFXWlY2eTl6WTBPN1ptQm44R1kxenQ2bGxpaGlFNHItUDF5Z0dCUW1NQ3dpeDhmMkF4a3pscDNicm9mc3RzNlowaDNoTkU5aHpoNjhOamtlQWJleWhjMG9JOVY5X1RnR2UzNzBWUVZtMVVHQVVBbm1tV1MyNTkxVy1aYTV6cFBHekZPenFqZTlPREYtMHhfQUVCRURzalNlRmtkNl9hZFhuYXptSGlueVV3N2Z5aTl6VGtjTUMwdnllRzFkbEpwM0szbVhQWTN2S3VScTllUWNneEZTRW1xdFdpaWxHd3ZmaV9MQlNFMTFjV2tfUVRDUDdfZG1vMUFMSUxOSm5vRUpoR0poYUpYNXhpeXpCTjBNR2YtUDhwQzNtUHdzM0N0MG94d0dZdjZIWWd6SWprQy1ESVNDUFZpWHlCeGdsQjhraUY4QTFRd0JsLTBoQV8tWXZTeFBwUERn?oc=5",
-          "pubDate": "2025-12-18 22:01:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxQUHdOMDVrbVA3WjBPRFJsS3p4cFZJZUkyRVJZcmlXOFpScFNQWFJEWC1sZFgtcEpiUHlWYjU2MXNTYW9YbXVFODkza3FpUll0S0pRVHpVcm01NHpoOWdpdWFXWlY2eTl6WTBPN1ptQm44R1kxenQ2bGxpaGlFNHItUDF5Z0dCUW1NQ3dpeDhmMkF4a3pscDNicm9mc3RzNlowaDNoTkU5aHpoNjhOamtlQWJleWhjMG9JOVY5X1RnR2UzNzBWUVZtMVVHQVVBbm1tV1MyNTkxVy1aYTV6cFBHekZPenFqZTlPREYtMHhfQUVCRURzalNlRmtkNl9hZFhuYXptSGlueVV3N2Z5aTl6VGtjTUMwdnllRzFkbEpwM0szbVhQWTN2S3VScTllUWNneEZTRW1xdFdpaWxHd3ZmaV9MQlNFMTFjV2tfUVRDUDdfZG1vMUFMSUxOSm5vRUpoR0poYUpYNXhpeXpCTjBNR2YtUDhwQzNtUHdzM0N0MG94d0dZdjZIWWd6SWprQy1ESVNDUFZpWHlCeGdsQjhraUY4QTFRd0JsLTBoQV8tWXZTeFBwUERn?oc=5\" target=\"_blank\">Exclusive | OpenAI’s New Fundraising Round Could Value Startup at as Much as $830 Billion</a>  The Wall Street Journal",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-3/400/225"
-        },
-        {
-          "title": "OpenAI discussed raising tens of billions at about $750 billion valuation, the Information reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNmTVh6WkdaeV9SOWFjaEVseFBTUFVJV0ppWm5UUFRIcXJWQ29WcWdUd0xZYjlFb3FQVTJqaXB2WWJldXVuSFlhbU81X3hxTGVqUk84UlA4eUQybXpyQllxSm5QZFFWekllQnZJRVJ6NE1ESW4wbFBENExScHJjRFlfQW5qWkJNaVdGTnNDR0ZVdEwyb0czNzVTNnpaZUxjYkJYR1dVZVRiQy03bEFnZmlHbGw4Q1VBSzdic3dJNmk4ZFE?oc=5",
-          "pubDate": "2025-12-18 01:07:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNmTVh6WkdaeV9SOWFjaEVseFBTUFVJV0ppWm5UUFRIcXJWQ29WcWdUd0xZYjlFb3FQVTJqaXB2WWJldXVuSFlhbU81X3hxTGVqUk84UlA4eUQybXpyQllxSm5QZFFWekllQnZJRVJ6NE1ESW4wbFBENExScHJjRFlfQW5qWkJNaVdGTnNDR0ZVdEwyb0czNzVTNnpaZUxjYkJYR1dVZVRiQy03bEFnZmlHbGw4Q1VBSzdic3dJNmk4ZFE?oc=5\" target=\"_blank\">OpenAI discussed raising tens of billions at about $750 billion valuation, the Information reports</a>  Reuters",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-2/400/225"
-        },
-        {
-          "title": "OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion - The Information",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5",
-          "pubDate": "2025-12-18 00:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODRONXVPMFVOS0RJMzlFbUNhMjhPakFkLTRocHZmZFB4YVZFYmk5WG1OQl9ZcW41RV9aOURPcldUZ3NiQ2ZSa2RNeGVsOE42RTRTdlgtaGx5Sy0tWlRzUG95TXBQNHNCd3Y4dVdTbGFBNlVvSTNQZkxvQ016ZmhkcXZGakxiMTRvTlN4Y3NIOEN6TEZUZGU5Qzl4cmxtQXdCaGdUZlY0ZDkwVEk?oc=5\" target=\"_blank\">OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/OpenAI-1/400/225"
-        }
-      ]
+      "news": []
     },
     {
       "company": "microsoft",
       "displayName": "Microsoft",
       "news": [
         {
-          "title": "Copilot memory early access for Pro and Pro+ - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODh2VUJSYlk5eFZlSGltQmpTY0MwRUFlclY5bnNzckRhVTZmTllZUWIwRUpqai1fSTdmVlJaT0NoS1hTalhGcHVSYVU2OFdaeUlPYmYyZmlPb19nMUh6VzNNZGVLaldxNV9vNW5xYUVDSVFfdzRnNlVUTEtKQzZxYzE1eTNrQkw3c2Ztb2RR?oc=5",
-          "pubDate": "2025-12-19 17:05:54",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNODh2VUJSYlk5eFZlSGltQmpTY0MwRUFlclY5bnNzckRhVTZmTllZUWIwRUpqai1fSTdmVlJaT0NoS1hTalhGcHVSYVU2OFdaeUlPYmYyZmlPb19nMUh6VzNNZGVLaldxNV9vNW5xYUVDSVFfdzRnNlVUTEtKQzZxYzE1eTNrQkw3c2Ztb2RR?oc=5\" target=\"_blank\">Copilot memory early access for Pro and Pro+</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/GitHub-Copilot-2/400/225"
+          "title": "LG TVs Can Delete Microsoft Copilot AI App in the Future - TechPowerUp",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5",
+          "pubDate": "2025-12-19 10:41:41",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5\" target=\"_blank\">LG TVs Can Delete Microsoft Copilot AI App in the Future</a>  TechPowerUp",
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
         {
-          "title": "Assigning GitHub Copilot to an issue now adds you as an assignee - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDBYNFZvOTAweWhTbDRjVm9TSXV1cEtZM2c0QmtUNlV0ZlhtNlVLaU9ndmNaWkZIcHgwRXZRYlR3XzZqb2pHbFUyenB1bE9GZk12S1ZpMFlMejZDT1hFVkdCSVhpUmJaUXhnUnhzdGJWaEprVGZLLWI5dHJfMVJraVVXTzdDc0xTWEZyeElaaFAzNHZkZzAyWUZ1SVM4SmVPN05lN3FFdjNydw?oc=5",
-          "pubDate": "2025-12-18 17:46:17",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDBYNFZvOTAweWhTbDRjVm9TSXV1cEtZM2c0QmtUNlV0ZlhtNlVLaU9ndmNaWkZIcHgwRXZRYlR3XzZqb2pHbFUyenB1bE9GZk12S1ZpMFlMejZDT1hFVkdCSVhpUmJaUXhnUnhzdGJWaEprVGZLLWI5dHJfMVJraVVXTzdDc0xTWEZyeElaaFAzNHZkZzAyWUZ1SVM4SmVPN05lN3FFdjNydw?oc=5\" target=\"_blank\">Assigning GitHub Copilot to an issue now adds you as an assignee</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/GitHub-Copilot-1/400/225"
+          "title": "Microsoft made another Copilot ad where nothing actually works - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
+          "pubDate": "2025-12-18 15:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
-          "title": "GitHub Copilot now supports Agent Skills - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUQwZGFGWE1uTlpiUzVxbGlhYnB2LXhHa2o5NDFGZWJhbllSOTZ1VFJrNjdnLTVVX3k0ZFZRQTFoeDdUWmZVeFpyalJlb1VVOTZRQmZ3YjVSRDRNbHktRk9CT1drMEpJRkRYVDZiOE8zdnVxcmE0a0I2aU9ybE9BdktDbmZJVmlsamc?oc=5",
-          "pubDate": "2025-12-18 17:26:18",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUQwZGFGWE1uTlpiUzVxbGlhYnB2LXhHa2o5NDFGZWJhbllSOTZ1VFJrNjdnLTVVX3k0ZFZRQTFoeDdUWmZVeFpyalJlb1VVOTZRQmZ3YjVSRDRNbHktRk9CT1drMEpJRkRYVDZiOE8zdnVxcmE0a0I2aU9ybE9BdktDbmZJVmlsamc?oc=5\" target=\"_blank\">GitHub Copilot now supports Agent Skills</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/GitHub-Copilot-0/400/225"
+          "title": "Satya Nadella tells his Microsoft execs to embrace AI - Windows Central",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc19wZ2NSSm1YNjFTSTRHWTdHSVpIbmM2SlVfbnk2bWVCTW5DZjd0U29RVHVWR2dTSkkya1RRdG5CMUNFTTFJeU5wdFRHWkhpamtEdWYtS1k3WmtlODZhSU93dV9yY080MzBpUzR0WXdNVk5VZDlRTGprX3lqQ2F4aHl6cGhLbTdIQ3R6ZGVFMnRRSkdwV1F0MHNNbTlacGZDbVBLWlNfbEZ4SDhvTUZxaFhkZjlPRTVNWW5iVDl1YkFhMmZyczZFVWVkNmt1YjIzTmJV?oc=5",
+          "pubDate": "2025-12-18 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc19wZ2NSSm1YNjFTSTRHWTdHSVpIbmM2SlVfbnk2bWVCTW5DZjd0U29RVHVWR2dTSkkya1RRdG5CMUNFTTFJeU5wdFRHWkhpamtEdWYtS1k3WmtlODZhSU93dV9yY080MzBpUzR0WXdNVk5VZDlRTGprX3lqQ2F4aHl6cGhLbTdIQ3R6ZGVFMnRRSkdwV1F0MHNNbTlacGZDbVBLWlNfbEZ4SDhvTUZxaFhkZjlPRTVNWW5iVDl1YkFhMmZyczZFVWVkNmt1YjIzTmJV?oc=5\" target=\"_blank\">Satya Nadella tells his Microsoft execs to embrace AI</a>  Windows Central",
+          "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
         },
         {
           "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
           "pubDate": "2025-12-17 19:56:08",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/GitHub-Copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
-          "title": "Gemini 3 Flash is now in public preview for GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOU81UGRFR2tqemczazVSejZBR0dRaE51TFFjUUNvR0dSOEZUQnByOHhYSzBFSUI3OFVCQlczN0xzWE5hVDVBaVVVQ2V2LWhZU1BXanFUbjNnVThLcWltZ3pUZUJUU2k3ZzNJcnpKX0ZYRUpWamlESWxJMllsZGwwT19WTDdsUnFWNW1BQTZGM0dHYlBudlNUN2pjd091WkNvNlE?oc=5",
-          "pubDate": "2025-12-17 15:04:53",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOU81UGRFR2tqemczazVSejZBR0dRaE51TFFjUUNvR0dSOEZUQnByOHhYSzBFSUI3OFVCQlczN0xzWE5hVDVBaVVVQ2V2LWhZU1BXanFUbjNnVThLcWltZ3pUZUJUU2k3ZzNJcnpKX0ZYRUpWamlESWxJMllsZGwwT19WTDdsUnFWNW1BQTZGM0dHYlBudlNUN2pjd091WkNvNlE?oc=5\" target=\"_blank\">Gemini 3 Flash is now in public preview for GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/GitHub-Copilot-4/400/225"
+          "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot - extremetech.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5",
+          "pubDate": "2025-12-10 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5\" target=\"_blank\">Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</a>  extremetech.com",
+          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         }
       ]
     },
@@ -130,39 +94,39 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "Anthropic makes agent Skills an open standard - SiliconANGLE",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThZQllscnMwbV8ycFgtU1V0MUxwWFQ5aGExWF9hdE5pNUdEMGFIWl9XUG1idl9EOFlISU5qbG5Xc3hUTko0WFJLRGZ4NndVdWU5c2pTYlNVRDNLR1NDRW4xN1F4bkVneDNZOG1QTHE2dHRWVS11LUlMYU4zUTdzbWVFWHlNQQ?oc=5",
-          "pubDate": "2025-12-18 23:29:42",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThZQllscnMwbV8ycFgtU1V0MUxwWFQ5aGExWF9hdE5pNUdEMGFIWl9XUG1idl9EOFlISU5qbG5Xc3hUTko0WFJLRGZ4NndVdWU5c2pTYlNVRDNLR1NDRW4xN1F4bkVneDNZOG1QTHE2dHRWVS11LUlMYU4zUTdzbWVFWHlNQQ?oc=5\" target=\"_blank\">Anthropic makes agent Skills an open standard</a>  SiliconANGLE",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-3/400/225"
+          "title": "Anthropic's Advanced New AI Tries to Run Vending Machine, Goes Bankrupt After Ordering PlayStation 5 and Live Fish - Futurism",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81anhQankxQlBkVmEzRVFBazhHSkRHckdiZGxkT3lPVkcyYUlnNFc3SGdLTXVQd0llaF9ZaUNSY2xVLVczQzV0bU1HSVlkaXFYaW1aa093TFlZSkFmQ0NKRGs4TVJuUWl0MTJYSlppb3R6QQ?oc=5",
+          "pubDate": "2025-12-20 16:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE81anhQankxQlBkVmEzRVFBazhHSkRHckdiZGxkT3lPVkcyYUlnNFc3SGdLTXVQd0llaF9ZaUNSY2xVLVczQzV0bU1HSVlkaXFYaW1aa093TFlZSkFmQ0NKRGs4TVJuUWl0MTJYSlppb3R6QQ?oc=5\" target=\"_blank\">Anthropic's Advanced New AI Tries to Run Vending Machine, Goes Bankrupt After Ordering PlayStation 5 and Live Fish</a>  Futurism",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
+          "title": "Anthropic’s AI vending machine turns communist and gives everything for free - Dexerto",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTdsN3EyWnlaRUtOVHNwdWRydXpfVDBrSmRFelVhdXQ3cXJKWHo2a0RmYUJBUW9DVE9rWmJpWllRS01JXzFIejUxTWFXemJXMGZoV3dmQWZpRVJybFNibnFCNU5wRm9YN0FOVk1HRGNzWmZJRFVlVXJ1Ym1KSXpqRzB0MnJlUlU1SGFIQ1A5VEZxRHk5MEJES3dLVWFLVWZkeUFlR2d2eHl5QlVxYXk0V2w3SzM3cjc5cEd1cjVhbw?oc=5",
+          "pubDate": "2025-12-19 19:35:23",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTdsN3EyWnlaRUtOVHNwdWRydXpfVDBrSmRFelVhdXQ3cXJKWHo2a0RmYUJBUW9DVE9rWmJpWllRS01JXzFIejUxTWFXemJXMGZoV3dmQWZpRVJybFNibnFCNU5wRm9YN0FOVk1HRGNzWmZJRFVlVXJ1Ym1KSXpqRzB0MnJlUlU1SGFIQ1A5VEZxRHk5MEJES3dLVWFLVWZkeUFlR2d2eHl5QlVxYXk0V2w3SzM3cjc5cEd1cjVhbw?oc=5\" target=\"_blank\">Anthropic’s AI vending machine turns communist and gives everything for free</a>  Dexerto",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
           "title": "This AI Vending Machine Was Tricked Into Giving Away Everything - Kottke.org",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5",
           "pubDate": "2025-12-18 19:14:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTBHNVVtVlVFT0hYWTZIYVA4QnlkdU9XR1NFUnNTVHlLa2ktdnZldmc2S01XZWRkUkoza1kwc0xxNEswZ3piMUdzZkd5UVBXREtmOTJNUzFSM2V5THRfaGc5c0xMMXZKLUlZRXRUS0hVNTBnaHVkcTlmMEJsSzAza3JRTkZ6T1NvUUZuNVhJY0lQdw?oc=5\" target=\"_blank\">This AI Vending Machine Was Tricked Into Giving Away Everything</a>  Kottke.org",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal. - The Verge",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5",
           "pubDate": "2025-12-18 17:09:52",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmZHT0FxVkpzZ2poaGdHcmFpalA1dkxxUVRsRVcwZUNaRzVJTE8zTW84TWZZZGNBTWdqTWdneC03VGxZaW41QTVtRE9qTElURlNaQ3g3bW5HVzRwRUlxS2pjZWFENGdHWFRGMW04c3MwMks5NEgycllTc2wtb3ppc2NYZ1dHUE1VZnZCWnVQSGV6WUFDTi1OcVE1QUJOWDlaT1pQU3kyWnEwMU1WZGZ0bGpQRVF1RkU5M0E?oc=5\" target=\"_blank\">Anthropic’s AI vending machine tried to order stun guns to the Wall Street Journal.</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
-          "title": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI - VentureBeat",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0FyU0F1dEt1Tzh1TjRnZF9Hd3RLSkR5S2hxQlVFMWx1MDFmRWpzLUdXVVF0V2ZHX1Jyb25HcVliQnBuTVg4dVBxczJWdjk0UDVpek4xZGd0UWplLWhyaFFEWjdhTThGM0NYNnIyVEEwME0tbXZoWjFVczViZ1EwejloUkRTeERWSGdSdzdfUktFcmc1SGZF?oc=5",
-          "pubDate": "2025-12-18 17:00:40",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0FyU0F1dEt1Tzh1TjRnZF9Hd3RLSkR5S2hxQlVFMWx1MDFmRWpzLUdXVVF0V2ZHX1Jyb25HcVliQnBuTVg4dVBxczJWdjk0UDVpek4xZGd0UWplLWhyaFFEWjdhTThGM0NYNnIyVEEwME0tbXZoWjFVczViZ1EwejloUkRTeERWSGdSdzdfUktFcmc1SGZF?oc=5\" target=\"_blank\">Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI</a>  VentureBeat",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-4/400/225"
-        },
-        {
-          "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPTXpRRmdhNS1obndsWlhDeHZEcUlMRDJESER6Ul9lRWpiU0gyandkaDVXTDRyS09zMkxlSGJmNllCR2JORXR4Um1TVkRnVVRUa1luSUlGM2phZjBuaXJuSXlNZkYzM0NjeU9tZEF0bjFnaEJ1d05CME85bVdjSkpXQ21fUkt5VmV5YlBLOF91WktaSUxJb3ZNeGhqQlBpUy1yWENVM3lFMDhnb0hmMi1memZfdkw1Y3NMZzdYRTRJVlVOYTdGYlg4RDUzWUNDQjNSUk50VHdzTTlsaXFVY3FSazVHbWROU3ZUeVFxVmN6NlZxanBzVUczWXA3QnZ6QnUyTk5FbDR1VUFUbS1zUFptcm5sbzYwZmMzb3lUNnpDSEcwM1dSbDhoMHZXWUFJNUdKNEhEa1VTN2c5WGIxV0pST1BBaTR4NEQyeVFFbHhYQmpSUFdJdWdBdmxvRXRxeGpCV2U1ZFFZRkg3andFRFEzWFZQU3Q5SGRhUG83MTNuZUNXUndCdE96Y3V3?oc=5",
+          "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - wsj.com",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPQ0pCSHNTQWpsYUFzYmI3bjhheHJtN29QM0N6QzRtSzFrTFZGTTE4Uy10R1hBR0dUTWIzU2diYTkyUDdma0x1YlUyWnh4d3dDX1hUeDctd2paV05TcDdRUlBTSXBtVXJkYkxaRzAwQUpKWHFicVo0YjFXbVU1Z2U4c3Q4U0o4MUtxZmpwekpSR1poRXB5Y002NDlUWVpFWXFZUzI5N1h1TlBRakplenFQQVN0T2NOWUtlWFFpUTdDZUZNckt3c21SZDJFUzBLWXFKdjQ2Vmt1Wk1jSTJIeU9aTE9HdjIzcm9qYURqNFZZZGptREVGRU9UMmRGSFVJLXc1aWEtekZWX3N6ejk5cUxSRzVkZ1FyQ2tEZU1ZQ2ZSck1PMVN3Wkh3QUhzRi1GSG1rWlNxZVF5eFBNRThSOGQ4cGJMaVZjeWNMTjNFZGluaUZJZTlqdUZpaEZwUkdqMUREOUo0TnRtbjlsR1JJTVF1Zm4yT3RQRFNMRnlYblR3N1lCc0d5ajNvYkR3?oc=5",
           "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPTXpRRmdhNS1obndsWlhDeHZEcUlMRDJESER6Ul9lRWpiU0gyandkaDVXTDRyS09zMkxlSGJmNllCR2JORXR4Um1TVkRnVVRUa1luSUlGM2phZjBuaXJuSXlNZkYzM0NjeU9tZEF0bjFnaEJ1d05CME85bVdjSkpXQ21fUkt5VmV5YlBLOF91WktaSUxJb3ZNeGhqQlBpUy1yWENVM3lFMDhnb0hmMi1memZfdkw1Y3NMZzdYRTRJVlVOYTdGYlg4RDUzWUNDQjNSUk50VHdzTTlsaXFVY3FSazVHbWROU3ZUeVFxVmN6NlZxanBzVUczWXA3QnZ6QnUyTk5FbDR1VUFUbS1zUFptcm5sbzYwZmMzb3lUNnpDSEcwM1dSbDhoMHZXWUFJNUdKNEhEa1VTN2c5WGIxV0pST1BBaTR4NEQyeVFFbHhYQmpSUFdJdWdBdmxvRXRxeGpCV2U1ZFFZRkg3andFRFEzWFZQU3Q5SGRhUG83MTNuZUNXUndCdE96Y3V3?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
-          "thumbnail": "https://picsum.photos/seed/Anthropic-0/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPQ0pCSHNTQWpsYUFzYmI3bjhheHJtN29QM0N6QzRtSzFrTFZGTTE4Uy10R1hBR0dUTWIzU2diYTkyUDdma0x1YlUyWnh4d3dDX1hUeDctd2paV05TcDdRUlBTSXBtVXJkYkxaRzAwQUpKWHFicVo0YjFXbVU1Z2U4c3Q4U0o4MUtxZmpwekpSR1poRXB5Y002NDlUWVpFWXFZUzI5N1h1TlBRakplenFQQVN0T2NOWUtlWFFpUTdDZUZNckt3c21SZDJFUzBLWXFKdjQ2Vmt1Wk1jSTJIeU9aTE9HdjIzcm9qYURqNFZZZGptREVGRU9UMmRGSFVJLXc1aWEtekZWX3N6ejk5cUxSRzVkZ1FyQ2tEZU1ZQ2ZSck1PMVN3Wkh3QUhzRi1GSG1rWlNxZVF5eFBNRThSOGQ4cGJMaVZjeWNMTjNFZGluaUZJZTlqdUZpaEZwUkdqMUREOUo0TnRtbjlsR1JJTVF1Zm4yT3RQRFNMRnlYblR3N1lCc0d5ajNvYkR3?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  wsj.com",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         }
       ]
     },
@@ -171,39 +135,39 @@
       "displayName": "Amazon",
       "news": [
         {
-          "title": "Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUQ2dDVZV0lpNEZ4NElqRTdBVUdTOTBQWUxTa3g0YVVkR082a3YtVXdtRjRSX0p5VTc0ZG1LLUY2VUxmc3lwOWxpR1VmQVZ5WXAxcXUta21qNU82R3o0Uk1PNFBVZ001WmFaeHlFQUNEN0dDTDN4STg0XzR2UURpLVhuaUdnNXRJTTF3S01BSkpBLWNmR0EwM0o3aDIxNnRONlJTRlFEUGtEdHB5bWthZkpoYlpiUkJH?oc=5",
-          "pubDate": "2025-12-16 02:02:46",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUQ2dDVZV0lpNEZ4NElqRTdBVUdTOTBQWUxTa3g0YVVkR082a3YtVXdtRjRSX0p5VTc0ZG1LLUY2VUxmc3lwOWxpR1VmQVZ5WXAxcXUta21qNU82R3o0Uk1PNFBVZ001WmFaeHlFQUNEN0dDTDN4STg0XzR2UURpLVhuaUdnNXRJTTF3S01BSkpBLWNmR0EwM0o3aDIxNnRONlJTRlFEUGtEdHB5bWthZkpoYlpiUkJH?oc=5\" target=\"_blank\">Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/AWS-Kiro-0/400/225"
+          "title": "Amazon AI chief Rohit Prasad exits, CEO Andy Jassy shares blog post - MSN",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjRWcTBDQmJyUGNTTGNpUXZfaGgwaDhfcXBINFV1Y1IwZWRadlRjMzlkb3dOZGRvREsyU1B1UTVCbmZ1cmxvQmpMWTNFd1NxQ2RYT2RqczhIYV9VcmdZTkU2bDQtVVE5YWFDa0RiVU5pdi1PR3p4bEQ5ajV6enk2YW91cW04WnNrdGNwVkxDUEszT0dfMzl4VjVKV3F1bFAwNjdKSV8ySHVwX2tYZXk5LXE4SjZfUQ?oc=5",
+          "pubDate": "2025-12-21 02:23:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjRWcTBDQmJyUGNTTGNpUXZfaGgwaDhfcXBINFV1Y1IwZWRadlRjMzlkb3dOZGRvREsyU1B1UTVCbmZ1cmxvQmpMWTNFd1NxQ2RYT2RqczhIYV9VcmdZTkU2bDQtVVE5YWFDa0RiVU5pdi1PR3p4bEQ5ajV6enk2YW91cW04WnNrdGNwVkxDUEszT0dfMzl4VjVKV3F1bFAwNjdKSV8ySHVwX2tYZXk5LXE4SjZfUQ?oc=5\" target=\"_blank\">Amazon AI chief Rohit Prasad exits, CEO Andy Jassy shares blog post</a>  MSN",
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
-          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5",
-          "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/AWS-Kiro-3/400/225"
+          "title": "Amazon’s AI And Robot Army Fuel Bold Wall Street Bets - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDRPUUplWHlLdDN2NU1LMW0wMi11U3FSWUFqeXlyV3dUeUNJclFpSmk2WDlXRktZR2piSDZGa3NhaDZSOEVndFBzWm5ocWVxR080THNqTmZTd1hHa195aVJHMFNQX3hBTnI5VWN5d01mc1RBMkM5Tmg0YWI4NXN6eVJXWTloVXdEOTVCMThBZW5GVmVXNkM1S0tSSlQwSlk?oc=5",
+          "pubDate": "2025-12-20 15:14:20",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDRPUUplWHlLdDN2NU1LMW0wMi11U3FSWUFqeXlyV3dUeUNJclFpSmk2WDlXRktZR2piSDZGa3NhaDZSOEVndFBzWm5ocWVxR080THNqTmZTd1hHa195aVJHMFNQX3hBTnI5VWN5d01mc1RBMkM5Tmg0YWI4NXN6eVJXWTloVXdEOTVCMThBZW5GVmVXNkM1S0tSSlQwSlk?oc=5\" target=\"_blank\">Amazon’s AI And Robot Army Fuel Bold Wall Street Bets</a>  TipRanks",
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
         },
         {
-          "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5\" target=\"_blank\">AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team</a>  About Amazon",
-          "thumbnail": "https://picsum.photos/seed/AWS-Kiro-1/400/225"
+          "title": "How Amazon’s AI Data Intelligence Detects Labour Violations - Technology Magazine",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzY1dV96bWtnQUpMM1VaS1RUVW9IbHJXLV9wUW5KcXRtWU41akc3YzVFQUNiNEhxUnpYcE9DSUg0SUZzWmppVElBQUx6WGdKTXN4YjI4Z3VaZHhZZ2lNVzE2RlFSa3JFN0FNNmRWdjdacDMtSUJNeWJ3anI5Z01rb2JaTnlNbHNQdFpDb0hIQnpEQVI5cThaYUhZUG4?oc=5",
+          "pubDate": "2025-12-18 14:23:18",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzY1dV96bWtnQUpMM1VaS1RUVW9IbHJXLV9wUW5KcXRtWU41akc3YzVFQUNiNEhxUnpYcE9DSUg0SUZzWmppVElBQUx6WGdKTXN4YjI4Z3VaZHhZZ2lNVzE2RlFSa3JFN0FNNmRWdjdacDMtSUJNeWJ3anI5Z01rb2JaTnlNbHNQdFpDb0hIQnpEQVI5cThaYUhZUG4?oc=5\" target=\"_blank\">How Amazon’s AI Data Intelligence Detects Labour Violations</a>  Technology Magazine",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
         },
         {
-          "title": "AWS' Kiro launches autonomous agents for individual developers - Constellation Research",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/AWS-Kiro-2/400/225"
+          "title": "Amazon AI chief to depart as company combines key units under new leadership - The Business Journals",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmpvOG9qeGlzcFdSSGtDUU5Fa2gtenlENWp3QWFGMGtLdGV5QTZpbGhqenc3UG5ERGhnRElmOFBVYk16eEZYRUtsV0kzZlVjRzhuZC1pYUxDUjNXdUdlVFpFTHFuS19kN2dkUUl3M19TX3FSaEZSNTRaVE9MUXViSFo2SzhxRTNUeDFKVHIxd2VNc3lmTWEwWXg1NA?oc=5",
+          "pubDate": "2025-12-18 04:56:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmpvOG9qeGlzcFdSSGtDUU5Fa2gtenlENWp3QWFGMGtLdGV5QTZpbGhqenc3UG5ERGhnRElmOFBVYk16eEZYRUtsV0kzZlVjRzhuZC1pYUxDUjNXdUdlVFpFTHFuS19kN2dkUUl3M19TX3FSaEZSNTRaVE9MUXViSFo2SzhxRTNUeDFKVHIxd2VNc3lmTWEwWXg1NA?oc=5\" target=\"_blank\">Amazon AI chief to depart as company combines key units under new leadership</a>  The Business Journals",
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         },
         {
-          "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5\" target=\"_blank\">Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/AWS-Kiro-4/400/225"
+          "title": "Amazon AI chief exits, triggering leadership shakeup - CIO Dive",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWJXMzh6OEdYZWh0ekdPUkhRYkxJUVJVcGJ3aEF5aEF1dl9hOXN5X0xwYjFfdEFhbDhPWDhtT0lPN0F3S010RGcxb2FCX1JwVzVncmJnNzVUMmYtM3FyUmRJUW1IX3JfNDNpenJiRlFhWnVvcElrajlLZTZ4SWtCSEpQUQ?oc=5",
+          "pubDate": "2025-12-17 21:30:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWJXMzh6OEdYZWh0ekdPUkhRYkxJUVJVcGJ3aEF5aEF1dl9hOXN5X0xwYjFfdEFhbDhPWDhtT0lPN0F3S010RGcxb2FCX1JwVzVncmJnNzVUMmYtM3FyUmRJUW1IX3JfNDNpenJiRlFhWnVvcElrajlLZTZ4SWtCSEpQUQ?oc=5\" target=\"_blank\">Amazon AI chief exits, triggering leadership shakeup</a>  CIO Dive",
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
         }
       ]
     },
@@ -212,46 +176,82 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "Elon Musk claims xAI could surpass human intelligence by 2026: Report | Technology News - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3lhODZ6WTBLUnhLWGdRQ0w3VkNRbGlXOFhUdzdkbEhWY3NrYlZyYVpsUy1vMFBMVW5hT0gtdzZKZDFDUW51ckxyV0dZUF9nc2ROc3Z1V0ltc09iZGtxaGJyTGRjaVBnSll2c1VpVFZaWnpMSFV2NUFSS09MaWdWN3FxTVAwQ0RUX3dPZ2toX1U3LWl6WEFKUXJUbDFHMmxiTmlTQWtTRy1TbUNYZmxBTzZnUkNhX0RiZmNqMmJQZWZHZEZuSW14WjRZSdIB0AFBVV95cUxObDFtS0xrc3VsM1JjWE8yeUpjRi11Q1FFelB3UXdtWDlSZU85WEo5TFFYeExTY25PSFZWV2Y2eVBUTldLU0NBeU9Zd2dPVzRBVXRmbDF0elB6WldfV2ZFOUw1eGlOenV4MzlNYlJ0WEpZU0ZkOGRneENuRXFVMjAyRWVQVkh4MkpyRzRqS0pDQm1Wc2R3RFBLRnhuTmN6bkk5UXZsbTk2RkpJSWpTaHZZbXZyQkFMWEsyQ1R2M3BpY0FMQzVVQVh6TnRtYUpkYzIw?oc=5",
-          "pubDate": "2025-12-19 13:52:41",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3lhODZ6WTBLUnhLWGdRQ0w3VkNRbGlXOFhUdzdkbEhWY3NrYlZyYVpsUy1vMFBMVW5hT0gtdzZKZDFDUW51ckxyV0dZUF9nc2ROc3Z1V0ltc09iZGtxaGJyTGRjaVBnSll2c1VpVFZaWnpMSFV2NUFSS09MaWdWN3FxTVAwQ0RUX3dPZ2toX1U3LWl6WEFKUXJUbDFHMmxiTmlTQWtTRy1TbUNYZmxBTzZnUkNhX0RiZmNqMmJQZWZHZEZuSW14WjRZSdIB0AFBVV95cUxObDFtS0xrc3VsM1JjWE8yeUpjRi11Q1FFelB3UXdtWDlSZU85WEo5TFFYeExTY25PSFZWV2Y2eVBUTldLU0NBeU9Zd2dPVzRBVXRmbDF0elB6WldfV2ZFOUw1eGlOenV4MzlNYlJ0WEpZU0ZkOGRneENuRXFVMjAyRWVQVkh4MkpyRzRqS0pDQm1Wc2R3RFBLRnhuTmN6bkk5UXZsbTk2RkpJSWpTaHZZbXZyQkFMWEsyQ1R2M3BpY0FMQzVVQVh6TnRtYUpkYzIw?oc=5\" target=\"_blank\">Elon Musk claims xAI could surpass human intelligence by 2026: Report | Technology News</a>  Hindustan Times",
-          "thumbnail": "https://picsum.photos/seed/Grok-4/400/225"
+          "title": "Elon Musk's XAI company hiring Android engineers in US, UK: Check eligibility, how to apply, benefits and - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5",
+          "pubDate": "2025-12-20 09:28:10",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNdXllMWVTSll1enQ0bV9yS0NGT24ybmQ1OVM5Y0tNRzBHRFdNbW1SSEl5dGp5eTNBeWY4TXVkaGN1aTV5V1VORVZVblNIX2JDZERXV2dpb1A4R0RUNzhYOFpMc0toS0puSHNGNUFCMmo5NXBHZmRDTXYxUHdLS2s0RnQ1MzZ3Z2FfTTFIeVdqWkR6Y0tqUElfTl9GN2dRc196eXNsSUF6TEYySnpPOTRtYnZsaXhFTzUzYlhEbmtJVnVSd2tKaFhJcVBnanJoUFZWOFBoZkM2NWRjdkxjVE9sLUk4VVNOQ0lrVnNrTkVOR1A0RUhJUnBJLWo4WVdtaVVEakdBRzFybWhQTnNqZnotMHphQnN1RlVMYlc5cllB0gGjAkFVX3lxTFBxYXlic3BocFk2b040cEpkSmU5dGM3VU96WWkteFlRam9zcHZQM01MWFMtR1Q0QWU5X2xSOEdnOUR4bEU0eXJVdzdFVFRzYkNFRDVFMWFabU1WVXBuby1KQTJVaUhHQzVDSlFoS2xTa2RVMTVxSVVIdnEwTjg0eXZjeEt0ODRmNk1IbVh2Y0RhOXBtaENjNl94Zm91OGJYODVtVS0xeFV1T3BrYkJpQldfRDl2SFRMa2ljQy01MlBXalhVdDlNV1pNN2hIbFhDeHNuTFhaWENzUXVHNnFRc3VDbmhnQ3cyeHZFdGhqR1FaTy10X0o3WEJoZkliMXRrMFZtLUhqRnVYTU41RTVyQXl4a3hkSk10a1NjVDZtNUpIT3lkaw?oc=5\" target=\"_blank\">Elon Musk's XAI company hiring Android engineers in US, UK: Check eligibility, how to apply, benefits and</a>  The Economic Times",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
-          "title": "ChatGPT vs. Elon Musk's Grok — which AI has the 'rizz' to explain Gen Alpha slang? - Tom's Guide",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmhzUldpRDUtMXhEYkNOVEE4ejJ1RkdzWmpRZnE4TmRFbEVyZGhLQTRsODVVeU1sc2FHeU9KM3NrblJUMEZHSjhnam4xcDBqb0p6eVFWUnNWejZNbl9TRlg0eEFnZDBOdjc0cFVnUmEwYjFaREVJMTlWVnpoblVmR3kyZW5TbmZ1RDdNTFJPODF0NW9nT2prelVJXzM?oc=5",
-          "pubDate": "2025-12-19 12:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmhzUldpRDUtMXhEYkNOVEE4ejJ1RkdzWmpRZnE4TmRFbEVyZGhLQTRsODVVeU1sc2FHeU9KM3NrblJUMEZHSjhnam4xcDBqb0p6eVFWUnNWejZNbl9TRlg0eEFnZDBOdjc0cFVnUmEwYjFaREVJMTlWVnpoblVmR3kyZW5TbmZ1RDdNTFJPODF0NW9nT2prelVJXzM?oc=5\" target=\"_blank\">ChatGPT vs. Elon Musk's Grok — which AI has the 'rizz' to explain Gen Alpha slang?</a>  Tom's Guide",
-          "thumbnail": "https://picsum.photos/seed/Grok-3/400/225"
-        },
-        {
-          "title": "Faker confident T1 can defeat Elon Musk’s proposed Grok AI in League of Legends match - Esports Insider",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG9TeVoySUFJZm1EaWVIM2xrbXY2N2gtLVRvUDh2dFU0eE5odG1IUU84ZVN2SkdyWVRMdkdGak0zNmxXXzJ1cV9CeHVqMHVvNkZsY2VZYjg5Mkt4QWpGS2NWemJjLXd4SlRQcmtBV3ZUazRNUFZoVzJIZE9mZWFLZkhFUHk?oc=5",
-          "pubDate": "2025-12-18 21:32:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPOG9TeVoySUFJZm1EaWVIM2xrbXY2N2gtLVRvUDh2dFU0eE5odG1IUU84ZVN2SkdyWVRMdkdGak0zNmxXXzJ1cV9CeHVqMHVvNkZsY2VZYjg5Mkt4QWpGS2NWemJjLXd4SlRQcmtBV3ZUazRNUFZoVzJIZE9mZWFLZkhFUHk?oc=5\" target=\"_blank\">Faker confident T1 can defeat Elon Musk’s proposed Grok AI in League of Legends match</a>  Esports Insider",
-          "thumbnail": "https://picsum.photos/seed/Grok-0/400/225"
+          "title": "‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5",
+          "pubDate": "2025-12-18 14:04:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNWk9IYnBreHU4akNGZV9XUDRCMWRvMi1oRVJwZHdIcDdlbS1IS3lSQjlNcnBXdXlEUFJJT2dLcXV1aENIUC1laERPYzdvczYzVDYzcjJocWx4SFZGSkhLcFZMU05rRUpXSzNaR3dYWk0yWU5DZ2swd2xLSVBpYmpBWnhqV3huQm40TW5EQTdfVjFzMW1HWUhRcHJUR0pUc3hoM3hRWDRDckZFdVV2RUdRNjFJWlJrdWtWM0J0QVVJR015NDNhSHF2VFNtMG42RmZjUXFUUGh4OExabmZIS1pETnMyblo4N3d3a2pmbFBidEpqblNjcHJxSGdKTi1aSzFPTjExX3N6aHFWM2ljVWFhUlVHMEp5WGJtRUFfNGhn0gGjAkFVX3lxTFBsem4zeEFoV3Ezckt6d2JaRUR3Yk0tOE5GWUJBM2ItanJLWHI1LVoxeU1LRFBEWElJYWwzQ3padFI1cWJBYWJPMjRIZldWMkx4OFZoYXI2M3Vxa1JnYVhXRHNzLTF3cFZIZXpPWXpuM2M4SGgweWFOS3JFUnhtSGV5dE5MMVJyVnJaTWNGTlhCQVZHVlYtZ2pOR2JCd0xCaFNEOTRIcURUNS1QQ0tfekVzNl9nQ0RRUWY0dnMwWnlYdHIwUG5nRWs2RFpDOE9uLUpNYVdsQ1FUajlIUnJKSmVldXN4M1hzc1R3MncyWVN1bEFwVFNkOGRULVRjdlVRR1VsVmN6NWV6NngtTHBpSExOVnNXcGwxOFNRSVdjR3ozWVFtVQ?oc=5\" target=\"_blank\">‘Biggest’ reason why Elon Musk’s xAI may be struggling to sell AI tools compared to rivals like Google an</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait, - x.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5",
           "pubDate": "2025-12-18 06:45:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12U09jUXJnLWo3MUt2dm1WSDRmRHdLZFFpc3dRNWctcFc1NllEOUJhSFpVeUN2MVNJcDRNQTNfc2FTZTRRMTFKTGlpNFRheDRQaWRjTC1FUThQMlNEVEdrd0tn?oc=5\" target=\"_blank\">GROK VOICE AGENT IS LIVE AND IT ACTUALLY FEELS NORMAL TO TALK TO xAI just opened up the Grok Voice Agent API, and the big thing here is simple: it finally lets people build voice apps that don’t feel awkward or scripted. This isn’t push to talk, wait,</a>  x.com",
-          "thumbnail": "https://picsum.photos/seed/Grok-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
           "title": "Inside xAI's all-hands: Elon Musk says if the company can survive the next 2 to 3 years, it will come out on top - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFlIbHpjdHNudHBKVUZUeDREOUx6NVJxMF9xXzBuZ0hlcHJRSUgwT3prQ0JkSE5lTkxNYTJVbll4aDc3aDF0T01xVWtNNEJuTG1ZYXFsOXdQVDB0TEl6SGp3Z1RPZ1lLOTNURmtqWi1walQ5R1ppbWRwX2FhcVh6VlNBZDk2aWs0SEUzWWFyQS0zd29zd3g0czBLYTVQQQ?oc=5",
           "pubDate": "2025-12-17 20:23:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVFlIbHpjdHNudHBKVUZUeDREOUx6NVJxMF9xXzBuZ0hlcHJRSUgwT3prQ0JkSE5lTkxNYTJVbll4aDc3aDF0T01xVWtNNEJuTG1ZYXFsOXdQVDB0TEl6SGp3Z1RPZ1lLOTNURmtqWi1walQ5R1ppbWRwX2FhcVh6VlNBZDk2aWs0SEUzWWFyQS0zd29zd3g0czBLYTVQQQ?oc=5\" target=\"_blank\">Inside xAI's all-hands: Elon Musk says if the company can survive the next 2 to 3 years, it will come out on top</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/Grok-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
+          "title": "Grok Voice Agent API - xAI",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5",
+          "pubDate": "2025-12-17 19:51:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5\" target=\"_blank\">Grok Voice Agent API</a>  xAI",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         }
       ]
     },
     {
       "company": "anysphere",
       "displayName": "Anysphere",
-      "news": []
+      "news": [
+        {
+          "title": "Scoop: Cursor buys code review platform Graphite - Axios",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5",
+          "pubDate": "2025-12-20 12:46:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5\" target=\"_blank\">Scoop: Cursor buys code review platform Graphite</a>  Axios",
+          "thumbnail": "https://picsum.photos/seed/anysphere-2/400/225"
+        },
+        {
+          "title": "Cursor acquires AI code review startup Graphite - SiliconANGLE",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5",
+          "pubDate": "2025-12-19 23:48:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5\" target=\"_blank\">Cursor acquires AI code review startup Graphite</a>  SiliconANGLE",
+          "thumbnail": "https://picsum.photos/seed/anysphere-4/400/225"
+        },
+        {
+          "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
+          "pubDate": "2025-12-19 21:51:22",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
+          "thumbnail": "https://picsum.photos/seed/anysphere-0/400/225"
+        },
+        {
+          "title": "1Password makes running test code in Cursor faster - How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3pacWNtQ1VCQmN1VWFzYkZPb2hYUDBXb0NNandRTDdQbklYYWJGb1oxQm5tVjhIX3k2LUYyUnp3eExBa3FPZWdDRW5ERjRtRVhad2FkNWpLbHdCeWlQTzRMWFVVNVJqS2tDdTZTeUg0TGVnMU1VUU1HeU5VemdnN1Jwaw?oc=5",
+          "pubDate": "2025-12-19 17:39:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3pacWNtQ1VCQmN1VWFzYkZPb2hYUDBXb0NNandRTDdQbklYYWJGb1oxQm5tVjhIX3k2LUYyUnp3eExBa3FPZWdDRW5ERjRtRVhad2FkNWpLbHdCeWlQTzRMWFVVNVJqS2tDdTZTeUg0TGVnMU1VUU1HeU5VemdnN1Jwaw?oc=5\" target=\"_blank\">1Password makes running test code in Cursor faster</a>  How-To Geek",
+          "thumbnail": "https://picsum.photos/seed/anysphere-3/400/225"
+        },
+        {
+          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
+          "pubDate": "2025-12-19 15:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/anysphere-1/400/225"
+        }
+      ]
     }
   ]
 }

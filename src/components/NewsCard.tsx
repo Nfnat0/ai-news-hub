@@ -1,6 +1,7 @@
 import { useState } from 'react';
-import { ExternalLink } from 'lucide-react';
+import { Play } from 'lucide-react';
 import type { NewsItem } from '../types';
+import { formatDate, getFallbackImageUrl } from '../types';
 import { isNewArticle } from '../hooks/useNews';
 
 interface NewsCardProps {
@@ -13,16 +14,7 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
     const [imgError, setImgError] = useState(false);
     const isNew = isNewArticle(news.pubDate);
 
-    // Picsum Photosでランダム画像を表示
-    const fallbackImage = `https://picsum.photos/seed/card-${index}/400/225`;
-
-    const formatDate = (dateStr: string) => {
-        const date = new Date(dateStr);
-        const year = date.getFullYear();
-        const month = String(date.getMonth() + 1).padStart(2, '0');
-        const day = String(date.getDate()).padStart(2, '0');
-        return `${year}-${month}-${day}`;
-    };
+    const fallbackImage = getFallbackImageUrl('card', index);
 
     return (
         <a
@@ -55,9 +47,21 @@ export const NewsCard = ({ news, index, brandColor = '#ffffff' }: NewsCardProps)
                     </div>
                 )}
 
-                <div className="absolute top-2 right-2 opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-y-1 group-hover:translate-y-0">
-                    <div className="bg-black/60 backdrop-blur-md p-1 rounded-full border border-white/10 hover:bg-black/80">
-                        <ExternalLink size={12} className="text-white" />
+                {/* Play Button - Center on hover */}
+                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300">
+                    <div
+                        className="p-4 rounded-full backdrop-blur-md border-2 transition-transform duration-300 group-hover:scale-110"
+                        style={{
+                            backgroundColor: `${brandColor}20`,
+                            borderColor: brandColor,
+                        }}
+                    >
+                        <Play
+                            size={32}
+                            className="drop-shadow-lg"
+                            style={{ color: brandColor }}
+                            fill={brandColor}
+                        />
                     </div>
                 </div>
             </div>
