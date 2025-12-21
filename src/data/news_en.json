@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T02:51:43.290Z",
+  "fetchedAt": "2025-12-21T04:00:08.354Z",
   "locale": "en",
   "companies": [
     {
@@ -46,7 +46,43 @@
     {
       "company": "openai",
       "displayName": "OpenAI",
-      "news": []
+      "news": [
+        {
+          "title": "OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQk16YnExcmUwb0sxMURUak1oc1FoS2NvVzBualhGVmpaZ1FEem5pOGZ0NjZXQldfNDdza2RaS0JENXpVTDFaUXFpZFdHamJnSm5lamQyVWVudFFNczk2MVEzV3E4Z1FHLXk3aXg5VHFqam5TZ1IyVlBVVWU1aElmQ0NMVG9oeWNjMUdDYUVYZzVnb1NIRmVZ?oc=5",
+          "pubDate": "2025-12-20 18:25:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQk16YnExcmUwb0sxMURUak1oc1FoS2NvVzBualhGVmpaZ1FEem5pOGZ0NjZXQldfNDdza2RaS0JENXpVTDFaUXFpZFdHamJnSm5lamQyVWVudFFNczk2MVEzV3E4Z1FHLXk3aXg5VHFqam5TZ1IyVlBVVWU1aElmQ0NMVG9oeWNjMUdDYUVYZzVnb1NIRmVZ?oc=5\" target=\"_blank\">OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5",
+          "pubDate": "2025-12-20 00:06:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3A1R2R4VnNnUkMtOVBYSEVubTFneE1JMnNrdDltY1o5M0F2WXVUNnJNRVZSTUYtck94R1RwaVZ3Y3pSTVJRMGxVd0JqakJfODYtRjQza1FLejRyakVhMFRZTFR1QzFxdlpleE9DR2tWNjNISzcwNmZfVGpPVjVDblNxN3ZtZEZFendUZWpPUGdxeEI5TERIUThOQTRPR3phVEpBNjQtc3Zwdk5OWnRUdEZBWVdZNGlaME4tZHNGekdFSkVGbk1VeEFoUWNFS21zUGptWDdR?oc=5\" target=\"_blank\">Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say</a>  Reuters",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5",
+          "pubDate": "2025-12-19 22:53:12",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1FmeEhBUllMU1hJYUNKTlZZakdnMHlzLVBNbDFrWTIzb0QwblhaQ09PUUVrR0l3YmctUmpuV3I1TTYydW9DSTg4THZ1MldMVmpKT21Ma2hTeWVPSlNlVDZPcWhZVUNOMVhfM1pvSzNNdE9lN183NEdzMG5WTjU5eU82M21vNFVEa2JOVXRPTjdpMmxtcG5rTlV0c0pwd0Nka21OTFZkR0syRUtSZUUtaDlIUGM?oc=5\" target=\"_blank\">Inside Disney and OpenAI’s Billion Dollar Deal: Big Take Podcast</a>  Bloomberg.com",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying' - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5",
+          "pubDate": "2025-12-19 17:38:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjg1NEMzcTdqRE9vWUptYzVOeVVqeGpXeGdhV0hQR1QwdXMzbkNtcVcxN0NUZWNvanJfMk9kNnE5LVg0X0NDQjJKamI5allKbWVZZ1pvWlplOWdwUktlNVpnOUN4d1RqT2hNR1ZpUjJfaktubUloMjZMR3lreEV0Rk1uT29BaW14RXctN1ROS0szTWstWGVEUA?oc=5\" target=\"_blank\">Sam Altman says he's '0%' excited to be CEO of a public company as OpenAI drops hints about an IPO: 'In some ways I think it'd be really annoying'</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "How OpenAI’s Organizational Problems Hurt ChatGPT - The Information",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5",
+          "pubDate": "2025-12-18 14:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZrWnU1LUdoRDBZd1J4Q1VyUldPVE1fY3ZQQl9sQk9qT1dYSWdSQXhId0o4eWs2Qmx2VGRDVGdxNjB4NTlfLUNnUGdQLWR2elRsSWFpQ1F2NHRwRWZZVngzSTZGeVM4UjV5X3ppU01WMVlZWVQ2SlM1bFJWTTd6eUVhcnRfQXoxU3d5aQ?oc=5\" target=\"_blank\">How OpenAI’s Organizational Problems Hurt ChatGPT</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+        }
+      ]
     },
     {
       "company": "microsoft",
@@ -135,39 +171,39 @@
       "displayName": "Amazon",
       "news": [
         {
-          "title": "Amazon AI chief Rohit Prasad exits, CEO Andy Jassy shares blog post - MSN",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjRWcTBDQmJyUGNTTGNpUXZfaGgwaDhfcXBINFV1Y1IwZWRadlRjMzlkb3dOZGRvREsyU1B1UTVCbmZ1cmxvQmpMWTNFd1NxQ2RYT2RqczhIYV9VcmdZTkU2bDQtVVE5YWFDa0RiVU5pdi1PR3p4bEQ5ajV6enk2YW91cW04WnNrdGNwVkxDUEszT0dfMzl4VjVKV3F1bFAwNjdKSV8ySHVwX2tYZXk5LXE4SjZfUQ?oc=5",
-          "pubDate": "2025-12-21 02:23:17",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjRWcTBDQmJyUGNTTGNpUXZfaGgwaDhfcXBINFV1Y1IwZWRadlRjMzlkb3dOZGRvREsyU1B1UTVCbmZ1cmxvQmpMWTNFd1NxQ2RYT2RqczhIYV9VcmdZTkU2bDQtVVE5YWFDa0RiVU5pdi1PR3p4bEQ5ajV6enk2YW91cW04WnNrdGNwVkxDUEszT0dfMzl4VjVKV3F1bFAwNjdKSV8ySHVwX2tYZXk5LXE4SjZfUQ?oc=5\" target=\"_blank\">Amazon AI chief Rohit Prasad exits, CEO Andy Jassy shares blog post</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
-        },
-        {
-          "title": "Amazon’s AI And Robot Army Fuel Bold Wall Street Bets - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDRPUUplWHlLdDN2NU1LMW0wMi11U3FSWUFqeXlyV3dUeUNJclFpSmk2WDlXRktZR2piSDZGa3NhaDZSOEVndFBzWm5ocWVxR080THNqTmZTd1hHa195aVJHMFNQX3hBTnI5VWN5d01mc1RBMkM5Tmg0YWI4NXN6eVJXWTloVXdEOTVCMThBZW5GVmVXNkM1S0tSSlQwSlk?oc=5",
-          "pubDate": "2025-12-20 15:14:20",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDRPUUplWHlLdDN2NU1LMW0wMi11U3FSWUFqeXlyV3dUeUNJclFpSmk2WDlXRktZR2piSDZGa3NhaDZSOEVndFBzWm5ocWVxR080THNqTmZTd1hHa195aVJHMFNQX3hBTnI5VWN5d01mc1RBMkM5Tmg0YWI4NXN6eVJXWTloVXdEOTVCMThBZW5GVmVXNkM1S0tSSlQwSlk?oc=5\" target=\"_blank\">Amazon’s AI And Robot Army Fuel Bold Wall Street Bets</a>  TipRanks",
-          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
-        },
-        {
-          "title": "How Amazon’s AI Data Intelligence Detects Labour Violations - Technology Magazine",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzY1dV96bWtnQUpMM1VaS1RUVW9IbHJXLV9wUW5KcXRtWU41akc3YzVFQUNiNEhxUnpYcE9DSUg0SUZzWmppVElBQUx6WGdKTXN4YjI4Z3VaZHhZZ2lNVzE2RlFSa3JFN0FNNmRWdjdacDMtSUJNeWJ3anI5Z01rb2JaTnlNbHNQdFpDb0hIQnpEQVI5cThaYUhZUG4?oc=5",
-          "pubDate": "2025-12-18 14:23:18",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzY1dV96bWtnQUpMM1VaS1RUVW9IbHJXLV9wUW5KcXRtWU41akc3YzVFQUNiNEhxUnpYcE9DSUg0SUZzWmppVElBQUx6WGdKTXN4YjI4Z3VaZHhZZ2lNVzE2RlFSa3JFN0FNNmRWdjdacDMtSUJNeWJ3anI5Z01rb2JaTnlNbHNQdFpDb0hIQnpEQVI5cThaYUhZUG4?oc=5\" target=\"_blank\">How Amazon’s AI Data Intelligence Detects Labour Violations</a>  Technology Magazine",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
-        },
-        {
-          "title": "Amazon AI chief to depart as company combines key units under new leadership - The Business Journals",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmpvOG9qeGlzcFdSSGtDUU5Fa2gtenlENWp3QWFGMGtLdGV5QTZpbGhqenc3UG5ERGhnRElmOFBVYk16eEZYRUtsV0kzZlVjRzhuZC1pYUxDUjNXdUdlVFpFTHFuS19kN2dkUUl3M19TX3FSaEZSNTRaVE9MUXViSFo2SzhxRTNUeDFKVHIxd2VNc3lmTWEwWXg1NA?oc=5",
-          "pubDate": "2025-12-18 04:56:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmpvOG9qeGlzcFdSSGtDUU5Fa2gtenlENWp3QWFGMGtLdGV5QTZpbGhqenc3UG5ERGhnRElmOFBVYk16eEZYRUtsV0kzZlVjRzhuZC1pYUxDUjNXdUdlVFpFTHFuS19kN2dkUUl3M19TX3FSaEZSNTRaVE9MUXViSFo2SzhxRTNUeDFKVHIxd2VNc3lmTWEwWXg1NA?oc=5\" target=\"_blank\">Amazon AI chief to depart as company combines key units under new leadership</a>  The Business Journals",
+          "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5\" target=\"_blank\">Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         },
         {
-          "title": "Amazon AI chief exits, triggering leadership shakeup - CIO Dive",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWJXMzh6OEdYZWh0ekdPUkhRYkxJUVJVcGJ3aEF5aEF1dl9hOXN5X0xwYjFfdEFhbDhPWDhtT0lPN0F3S010RGcxb2FCX1JwVzVncmJnNzVUMmYtM3FyUmRJUW1IX3JfNDNpenJiRlFhWnVvcElrajlLZTZ4SWtCSEpQUQ?oc=5",
-          "pubDate": "2025-12-17 21:30:05",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWJXMzh6OEdYZWh0ekdPUkhRYkxJUVJVcGJ3aEF5aEF1dl9hOXN5X0xwYjFfdEFhbDhPWDhtT0lPN0F3S010RGcxb2FCX1JwVzVncmJnNzVUMmYtM3FyUmRJUW1IX3JfNDNpenJiRlFhWnVvcElrajlLZTZ4SWtCSEpQUQ?oc=5\" target=\"_blank\">Amazon AI chief exits, triggering leadership shakeup</a>  CIO Dive",
+          "title": "Meet new Amazon Nova AI models that help build highly reliable AI agents - About Amazon",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
+          "pubDate": "2025-12-02 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5\" target=\"_blank\">Meet new Amazon Nova AI models that help build highly reliable AI agents</a>  About Amazon",
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
+        },
+        {
+          "title": "Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmRLNGtQZXlDWThxQWk2M2xEV0g4QXp5TksxRDBoNFkyamF2RzJSNWRoTGxuZkt5cWF1MzB6aVVpZENHblpOVVZELVU3R3htNFJzcElqT2swR3B3N3ZFYUlvX1pIWW5KdmkwWi1hZzl1T3g5eXhvWll6cVZoUDU2WFA3czVJb0xmdVVXQnJ6cGlFNTZBRTkySzY5ZVF5eUJ4RXp6RlNKY2NkX2RWMUR2amxQa2FHU19LN2ZKdmFpZFZQeXlMUlQwOVR0UFNOVkFu?oc=5",
+          "pubDate": "2025-12-02 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmRLNGtQZXlDWThxQWk2M2xEV0g4QXp5TksxRDBoNFkyamF2RzJSNWRoTGxuZkt5cWF1MzB6aVVpZENHblpOVVZELVU3R3htNFJzcElqT2swR3B3N3ZFYUlvX1pIWW5KdmkwWi1hZzl1T3g5eXhvWll6cVZoUDU2WFA3czVJb0xmdVVXQnJ6cGlFNTZBRTkySzY5ZVF5eUJ4RXp6RlNKY2NkX2RWMUR2amxQa2FHU19LN2ZKdmFpZFZQeXlMUlQwOVR0UFNOVkFu?oc=5\" target=\"_blank\">Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+        },
+        {
+          "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5",
+          "pubDate": "2025-11-24 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5\" target=\"_blank\">Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+        },
+        {
+          "title": "Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5",
+          "pubDate": "2025-11-24 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5\" target=\"_blank\">Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         }
       ]
     },
@@ -209,47 +245,6 @@
           "pubDate": "2025-12-17 19:51:33",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdjRhZHpXdW1taFNLaU93SkR4aEx1V0NkX0llSmtSa1hHYXlkWTI2aHFUcWg4eGZXN0NPOUtoaTVXT21GOEJZVUdZY1lFUEk?oc=5\" target=\"_blank\">Grok Voice Agent API</a>  xAI",
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
-        }
-      ]
-    },
-    {
-      "company": "anysphere",
-      "displayName": "Anysphere",
-      "news": [
-        {
-          "title": "Scoop: Cursor buys code review platform Graphite - Axios",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5",
-          "pubDate": "2025-12-20 12:46:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5\" target=\"_blank\">Scoop: Cursor buys code review platform Graphite</a>  Axios",
-          "thumbnail": "https://picsum.photos/seed/anysphere-2/400/225"
-        },
-        {
-          "title": "Cursor acquires AI code review startup Graphite - SiliconANGLE",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5",
-          "pubDate": "2025-12-19 23:48:30",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5\" target=\"_blank\">Cursor acquires AI code review startup Graphite</a>  SiliconANGLE",
-          "thumbnail": "https://picsum.photos/seed/anysphere-4/400/225"
-        },
-        {
-          "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
-          "pubDate": "2025-12-19 21:51:22",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/anysphere-0/400/225"
-        },
-        {
-          "title": "1Password makes running test code in Cursor faster - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3pacWNtQ1VCQmN1VWFzYkZPb2hYUDBXb0NNandRTDdQbklYYWJGb1oxQm5tVjhIX3k2LUYyUnp3eExBa3FPZWdDRW5ERjRtRVhad2FkNWpLbHdCeWlQTzRMWFVVNVJqS2tDdTZTeUg0TGVnMU1VUU1HeU5VemdnN1Jwaw?oc=5",
-          "pubDate": "2025-12-19 17:39:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3pacWNtQ1VCQmN1VWFzYkZPb2hYUDBXb0NNandRTDdQbklYYWJGb1oxQm5tVjhIX3k2LUYyUnp3eExBa3FPZWdDRW5ERjRtRVhad2FkNWpLbHdCeWlQTzRMWFVVNVJqS2tDdTZTeUg0TGVnMU1VUU1HeU5VemdnN1Jwaw?oc=5\" target=\"_blank\">1Password makes running test code in Cursor faster</a>  How-To Geek",
-          "thumbnail": "https://picsum.photos/seed/anysphere-3/400/225"
-        },
-        {
-          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
-          "pubDate": "2025-12-19 15:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/anysphere-1/400/225"
         }
       ]
     }
