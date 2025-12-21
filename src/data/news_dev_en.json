@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T09:40:58.731Z",
+  "fetchedAt": "2025-12-21T15:39:14.424Z",
   "locale": "en",
   "companies": [
     {
@@ -59,7 +59,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDBYNFZvOTAweWhTbDRjVm9TSXV1cEtZM2c0QmtUNlV0ZlhtNlVLaU9ndmNaWkZIcHgwRXZRYlR3XzZqb2pHbFUyenB1bE9GZk12S1ZpMFlMejZDT1hFVkdCSVhpUmJaUXhnUnhzdGJWaEprVGZLLWI5dHJfMVJraVVXTzdDc0xTWEZyeElaaFAzNHZkZzAyWUZ1SVM4SmVPN05lN3FFdjNydw?oc=5",
           "pubDate": "2025-12-18 17:46:17",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDBYNFZvOTAweWhTbDRjVm9TSXV1cEtZM2c0QmtUNlV0ZlhtNlVLaU9ndmNaWkZIcHgwRXZRYlR3XzZqb2pHbFUyenB1bE9GZk12S1ZpMFlMejZDT1hFVkdCSVhpUmJaUXhnUnhzdGJWaEprVGZLLWI5dHJfMVJraVVXTzdDc0xTWEZyeElaaFAzNHZkZzAyWUZ1SVM4SmVPN05lN3FFdjNydw?oc=5\" target=\"_blank\">Assigning GitHub Copilot to an issue now adds you as an assignee</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "GitHub Copilot now supports Agent Skills - The GitHub Blog",
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0dEZGlmRzdGSFVjcm12VXBQQWNua295YkdIeDlVNG1CZE9ua3JTNkRBZXdPMGx3dmJuV1JyVUFUWXJhTnhkQ0JMRmRzTXhnV29IdDZvM2JpYUloYU55aU5odS00azdwN3U4YVJYMk41WjlhaC1FRVIzZkpGMHdmYWRpZlpsYXk1ZW9YWDlwZ0ZtT09VXzZlQ1pnSENUT2ZPWHh1ag?oc=5",
           "pubDate": "2025-12-18 17:18:04",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0dEZGlmRzdGSFVjcm12VXBQQWNua295YkdIeDlVNG1CZE9ua3JTNkRBZXdPMGx3dmJuV1JyVUFUWXJhTnhkQ0JMRmRzTXhnV29IdDZvM2JpYUloYU55aU5odS00azdwN3U4YVJYMk41WjlhaC1FRVIzZkpGMHdmYWRpZlpsYXk1ZW9YWDlwZ0ZtT09VXzZlQ1pnSENUT2ZPWHh1ag?oc=5\" target=\"_blank\">Claude Opus 4.5 is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
-          "pubDate": "2025-12-17 19:56:08",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "title": "Copilot code review preview features now supported in GitHub Enterprise Cloud with data residency - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkgtam8tYTRXbjBNbk1LVmk5LVpFME1Ea3NYWDdoanZRaHR3c2pqODRpUW1ac243YTk3QUFwS3lBMW4xZ253YVVmWVRqN01HZDd1ZHA1T3NnNzN6SUVSbHhKb3lhWTJpeFpqQTZsVmlvZEltRFVTNFNKOHFucHpLemFpYy1wcC1MMUpmaHdYRllJR2diYldneHZDWUdCM3FhUklSMUZVRzE5WnUxRTl4Qkk3YzAwMWZpUTNNMWgybTE0ZnRaYUJ2bW51SFpQRDlOY21vM3pn?oc=5",
+          "pubDate": "2025-12-18 14:51:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZkgtam8tYTRXbjBNbk1LVmk5LVpFME1Ea3NYWDdoanZRaHR3c2pqODRpUW1ac243YTk3QUFwS3lBMW4xZ253YVVmWVRqN01HZDd1ZHA1T3NnNzN6SUVSbHhKb3lhWTJpeFpqQTZsVmlvZEltRFVTNFNKOHFucHpLemFpYy1wcC1MMUpmaHdYRllJR2diYldneHZDWUdCM3FhUklSMUZVRzE5WnUxRTl4Qkk3YzAwMWZpUTNNMWgybTE0ZnRaYUJ2bW51SFpQRDlOY21vM3pn?oc=5\" target=\"_blank\">Copilot code review preview features now supported in GitHub Enterprise Cloud with data residency</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -96,25 +96,25 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
-          "pubDate": "2025-12-17 19:56:08",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "title": "VS Code deactivates IntelliCode in favor of the paid Copilot - heise online",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODhEN3RWZW91OGhLd0tWdUxxdXBYX0NvVDVhdHZ2QkVYZEhvckxMZ1pvelo4YWgxYlE3dFI0dVJhQmVUWE9vUVlkMTJCRDFVVU5Rem0zUDc3d3drZjlQOXBMNV9qR0wwZ1ZJRUlkQkduYWJKVkUydzVjZUtjbm1WdTE5N0dSNTd5dnZlRUlRVWp1SkdYWTU4UlNhVWZPbW5YaHpidW5n?oc=5",
+          "pubDate": "2025-12-16 07:56:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNODhEN3RWZW91OGhLd0tWdUxxdXBYX0NvVDVhdHZ2QkVYZEhvckxMZ1pvelo4YWgxYlE3dFI0dVJhQmVUWE9vUVlkMTJCRDFVVU5Rem0zUDc3d3drZjlQOXBMNV9qR0wwZ1ZJRUlkQkduYWJKVkUydzVjZUtjbm1WdTE5N0dSNTd5dnZlRUlRVWp1SkdYWTU4UlNhVWZPbW5YaHpidW5n?oc=5\" target=\"_blank\">VS Code deactivates IntelliCode in favor of the paid Copilot</a>  heise online",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "Visual Studio Code adds multi-agent orchestration - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5",
           "pubDate": "2025-12-12 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5\" target=\"_blank\">Visual Studio Code adds multi-agent orchestration</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Malware Discovered in 19 Visual Studio Code Extensions - Infosecurity Magazine",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5",
           "pubDate": "2025-12-11 16:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5\" target=\"_blank\">Malware Discovered in 19 Visual Studio Code Extensions</a>  Infosecurity Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Google Colab is Coming to VS Code - blog.google",
@@ -130,11 +130,18 @@
       "displayName": "AWS Kiro",
       "news": [
         {
+          "title": "AWS launches the \"Kiro Powers\" feature, enabling AI agents to gain professional skills from tools like Figma and Stripe with a single click. - Mashdigi",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZkFGS3hEN1JCQk9xZ1NhaGM5ZjR3YW1HaTQxY1IwNU14N3laRUdmOU9faHM3Q2N6d0NFUXBmdXFJLWZGUVdPUkZneC1iZ05IOTVVbVBQbktROEp3VklWdHlxbzNocldQdGFYVnJoM2Rpd2EzSk9JYzhKbkpZWnhsdnQxd3pkQnVzWFVycHViMDBQV24tcmVoci1KUl9Scm9GWHBUMWFBdmkyUHZhWlhQU3ZZUzRrSUdQVWUxSjZxMzNSNWRQYmtMYkotQkREYmtTNGdwb3g0X1pwZUpMbmlQemlfNUxKRWF2Q3RkTWN3anY2aTQ?oc=5",
+          "pubDate": "2025-12-21 07:50:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZkFGS3hEN1JCQk9xZ1NhaGM5ZjR3YW1HaTQxY1IwNU14N3laRUdmOU9faHM3Q2N6d0NFUXBmdXFJLWZGUVdPUkZneC1iZ05IOTVVbVBQbktROEp3VklWdHlxbzNocldQdGFYVnJoM2Rpd2EzSk9JYzhKbkpZWnhsdnQxd3pkQnVzWFVycHViMDBQV24tcmVoci1KUl9Scm9GWHBUMWFBdmkyUHZhWlhQU3ZZUzRrSUdQVWUxSjZxMzNSNWRQYmtMYkotQkREYmtTNGdwb3g0X1pwZUpMbmlQemlfNUxKRWF2Q3RkTWN3anY2aTQ?oc=5\" target=\"_blank\">AWS launches the \"Kiro Powers\" feature, enabling AI agents to gain professional skills from tools like Figma and Stripe with a single click.</a>  Mashdigi",
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+        },
+        {
           "title": "Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUQ2dDVZV0lpNEZ4NElqRTdBVUdTOTBQWUxTa3g0YVVkR082a3YtVXdtRjRSX0p5VTc0ZG1LLUY2VUxmc3lwOWxpR1VmQVZ5WXAxcXUta21qNU82R3o0Uk1PNFBVZ001WmFaeHlFQUNEN0dDTDN4STg0XzR2UURpLVhuaUdnNXRJTTF3S01BSkpBLWNmR0EwM0o3aDIxNnRONlJTRlFEUGtEdHB5bWthZkpoYlpiUkJH?oc=5",
           "pubDate": "2025-12-16 02:02:46",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUQ2dDVZV0lpNEZ4NElqRTdBVUdTOTBQWUxTa3g0YVVkR082a3YtVXdtRjRSX0p5VTc0ZG1LLUY2VUxmc3lwOWxpR1VmQVZ5WXAxcXUta21qNU82R3o0Uk1PNFBVZ001WmFaeHlFQUNEN0dDTDN4STg0XzR2UURpLVhuaUdnNXRJTTF3S01BSkpBLWNmR0EwM0o3aDIxNnRONlJTRlFEUGtEdHB5bWthZkpoYlpiUkJH?oc=5\" target=\"_blank\">Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
@@ -155,14 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
-        },
-        {
-          "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5\" target=\"_blank\">Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         }
       ]
     },
@@ -189,14 +189,14 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTlVSF8zWHpKMkxYaVpBdEd5NzZGTW5nMU5DR1drOHRYZlJ6S3Z2RzJyZWdWMnF3Z3FWeVpNNDBTSkFyLUc3ZV9jdWRPU05hSHN5c1lUaXQzTnMzMG9kOGpQakZpSlplaEp3d25sakhSN3FUNzFPWHlwbEdZSlpwTTkwNWowbjRzMDFDdQ?oc=5",
           "pubDate": "2025-11-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTlVSF8zWHpKMkxYaVpBdEd5NzZGTW5nMU5DR1drOHRYZlJ6S3Z2RzJyZWdWMnF3Z3FWeVpNNDBTSkFyLUc3ZV9jdWRPU05hSHN5c1lUaXQzTnMzMG9kOGpQakZpSlplaEp3d25sakhSN3FUNzFPWHlwbEdZSlpwTTkwNWowbjRzMDFDdQ?oc=5\" target=\"_blank\">Google’s Hot New AI Coding Tool Was Hacked A Day After Launch</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "Hands-On With Antigravity: Google’s Newest AI Coding Experiment - The New Stack",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE54eEhxeGItcHlETno1cmdfV01oTFNLTW9MMC1YRjh1ZkkzbjdfRVF2cmFmbnpNUklWNVJJYWk3OFMzM0dtRDdVcDhfRExYaXpYNktmV3VNdnE2U05TUWI1eU9idGF5MjZBRE9WOWtSbnFrR2JxbFBBM2ZsN1N5eEstd0tRemFLM1hKVkVB?oc=5",
           "pubDate": "2025-11-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE54eEhxeGItcHlETno1cmdfV01oTFNLTW9MMC1YRjh1ZkkzbjdfRVF2cmFmbnpNUklWNVJJYWk3OFMzM0dtRDdVcDhfRExYaXpYNktmV3VNdnE2U05TUWI1eU9idGF5MjZBRE9WOWtSbnFrR2JxbFBBM2ZsN1N5eEstd0tRemFLM1hKVkVB?oc=5\" target=\"_blank\">Hands-On With Antigravity: Google’s Newest AI Coding Experiment</a>  The New Stack",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "Gemini 3 and Antigravity, explained: Why Google’s latest AI releases are a big deal - Fortune",
