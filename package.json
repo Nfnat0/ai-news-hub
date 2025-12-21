@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fetch-news": "node scripts/fetch-news.js"
+    "fetch-news": "node scripts/fetch-news.js",
+    "fetch-news-dev": "node scripts/fetch-news-dev.js"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",

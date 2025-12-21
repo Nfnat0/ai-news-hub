@@ -1,71 +1,86 @@
-# GitHub Pages デプロイガイド
+# Cloudflare Pages デプロイガイド
 
-このプロジェクトをGitHub Pagesで公開する手順を説明します。
+このプロジェクトをCloudflare Pagesで公開する手順を説明します。
 
 ## 前提条件
 
+- Cloudflareアカウントを持っていること
 - GitHubアカウントを持っていること
 - リポジトリが既にGitHubにプッシュされていること
 
 ## デプロイ手順
 
-### 1. リポジトリの設定を確認
+### 1. Cloudflare Pagesプロジェクトの作成
 
-リポジトリ名が `ai-news-hub` であることを確認してください。
-もし異なる名前の場合は、`vite.config.ts` の `base` 設定を変更してください。
+1. [Cloudflare Dashboard](https://dash.cloudflare.com/) にログイン
+2. **Workers & Pages** → **Pages** を選択
+3. **Create a project** をクリック
+4. プロジェクト名を `ai-dogdock` に設定
 
-```typescript
-// vite.config.ts
-base: process.env.GITHUB_ACTIONS ? '/あなたのリポジトリ名/' : '/',
-```
+### 2. GitHub Secretsの設定
 
-### 2. GitHub Pagesを有効化
+リポジトリの **Settings** → **Secrets and variables** → **Actions** で以下を設定:
 
-1. GitHubでリポジトリを開く
-2. **Settings** タブをクリック
-3. 左サイドバーの **Pages** をクリック
-4. **Source** セクションで **GitHub Actions** を選択
+| Secret名 | 説明 |
+|----------|------|
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API Token（Pages編集権限が必要） |
+| `CLOUDFLARE_ACCOUNT_ID` | CloudflareアカウントID |
 
-![GitHub Pages Settings](https://docs.github.com/assets/cb-47267/mw-1440/images/help/pages/publishing-source-drop-down.webp)
+#### API Tokenの作成方法
 
-### 3. ワークフローを実行
+1. Cloudflare Dashboard → **My Profile** → **API Tokens**
+2. **Create Token** をクリック
+3. **Edit Cloudflare Workers** テンプレートを使用
+4. **Account Resources**: 対象アカウントを選択
+5. **Zone Resources**: All zones（または特定のゾーン）
+6. トークンを作成してコピー
 
-#### 自動実行（推奨）
+### 3. ワークフローの実行
+
+#### 自動実行
 - コードをプッシュすると自動的にデプロイされます
 - 6時間ごとにニュースが自動更新されます
 
 #### 手動実行
 1. リポジトリの **Actions** タブを開く
-2. 左サイドバーの **Update News and Deploy** をクリック
-3. 右上の **Run workflow** ボタンをクリック
-4. **Run workflow** を再度クリックして実行
+2. 任意のワークフローを選択
+3. **Run workflow** ボタンをクリック
 
 ### 4. デプロイの確認
 
 1. **Actions** タブでワークフローの実行状況を確認
 2. 緑色のチェックマークが表示されたら成功
-3. **Settings** → **Pages** で公開URLを確認
+3. Cloudflare Dashboard → **Pages** で公開URLを確認
 
-公開URL: `https://あなたのユーザー名.github.io/ai-news-hub/`
+## ワークフロー一覧
+
+| ワークフロー | スケジュール (UTC) | 内容 |
+|-------------|-------------------|------|
+| `update-news-en.yml` | 3:00, 9:00, 15:00, 21:00 | 英語AI企業ニュース |
+| `update-news-jp.yml` | 0:00, 6:00, 12:00, 18:00 | 日本語AI企業ニュース |
+| `update-news-dev-en.yml` | 3:30, 9:30, 15:30, 21:30 | 英語開発ツールニュース |
+| `update-news-dev-jp.yml` | 0:30, 6:30, 12:30, 18:30 | 日本語開発ツールニュース |
+
+※ 開発ツール用ワークフローは、API制限を避けるためメインの30分後に実行
 
 ## トラブルシューティング
 
-### エラー: "Some specified paths were not resolved"
+### エラー: "Authentication error"
 
-**原因**: キャッシュ設定の問題
-
-**解決方法**:
-1. **Actions** タブ → **Caches** で古いキャッシュを削除
-2. ワークフローを再実行
-
-### エラー: "404 Page Not Found"
-
-**原因**: `base` 設定が正しくない
+**原因**: API TokenまたはAccount IDが正しくない
 
 **解決方法**:
-1. `vite.config.ts` の `base` 設定を確認
-2. リポジトリ名と一致しているか確認
-3. 修正してプッシュ
+1. Cloudflare DashboardでAPI Tokenの権限を確認
+2. Account IDが正しいか確認（Dashboard URLに含まれる）
+3. GitHub Secretsを再設定
+
+### エラー: "Project not found"
+
+**原因**: Cloudflare Pagesプロジェクトが存在しない
+
+**解決方法**:
+1. Cloudflare Dashboardでプロジェクト名を確認
+2. ワークフローの `--project-name` と一致しているか確認
 
 ### ビルドエラー
 
@@ -79,49 +94,44 @@ base: process.env.GITHUB_ACTIONS ? '/あなたのリポジトリ名/' : '/',
 
 ## ローカルでのテスト
 
-GitHub Pagesと同じ環境でテストする方法:
-
 ```bash
 # ビルド
 npm run build
 
-# プレビュー（GitHub Pagesと同じbase pathで）
-GITHUB_ACTIONS=true npm run build
+# プレビュー
 npm run preview
 ```
 
-ブラウザで `http://localhost:4173/ai-news-hub/` を開いて確認
+ブラウザで `http://localhost:4173/` を開いて確認
 
-## 自動更新の設定
+## 手動デプロイ
 
-ワークフローは以下のスケジュールで自動実行されます:
-- UTC 0時（日本時間 9時）
-- UTC 6時（日本時間 15時）
-- UTC 12時（日本時間 21時）
-- UTC 18時（日本時間 3時）
+Wrangler CLIを使用した手動デプロイ:
 
-スケジュールを変更する場合は `.github/workflows/update-news.yml` を編集:
+```bash
+# Wranglerをインストール
+npm install -g wrangler
 
-```yaml
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # 6時間ごと
+# ログイン
+wrangler login
+
+# ビルド
+npm run build
+
+# デプロイ
+wrangler pages deploy dist --project-name=ai-dogdock
 ```
 
 ## カスタムドメインの設定（オプション）
 
-独自ドメインを使用する場合:
-
-1. **Settings** → **Pages** → **Custom domain** にドメインを入力
-2. DNSレコードを設定
-   - Aレコード: GitHubのIPアドレス
-   - CNAMEレコード: `あなたのユーザー名.github.io`
-3. **Enforce HTTPS** にチェック
-
-詳細: https://docs.github.com/ja/pages/configuring-a-custom-domain-for-your-github-pages-site
+1. Cloudflare Dashboard → **Pages** → プロジェクト選択
+2. **Custom domains** タブ
+3. **Set up a custom domain** をクリック
+4. ドメインを入力して設定
 
 ## 参考リンク
 
-- [GitHub Pages ドキュメント](https://docs.github.com/ja/pages)
+- [Cloudflare Pages ドキュメント](https://developers.cloudflare.com/pages/)
+- [Wrangler CLI ドキュメント](https://developers.cloudflare.com/workers/wrangler/)
 - [GitHub Actions ドキュメント](https://docs.github.com/ja/actions)
 - [Vite デプロイガイド](https://vitejs.dev/guide/static-deploy.html)

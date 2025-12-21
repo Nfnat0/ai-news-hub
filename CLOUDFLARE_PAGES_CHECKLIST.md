@@ -1,21 +1,27 @@
-# GitHub Pages 公開チェックリスト
+# Cloudflare Pages 公開チェックリスト
 
-このチェックリストに従って、GitHub Pagesでサイトを公開してください。
+このチェックリストに従って、Cloudflare Pagesでサイトを公開してください。
 
 ## ✅ 公開前の確認
 
 - [ ] GitHubにリポジトリをプッシュ済み
-- [ ] リポジトリ名が `ai-news-hub` である（または `vite.config.ts` の `base` を修正済み）
-- [ ] `.github/workflows/update-news.yml` が存在する
+- [ ] `.github/workflows/` に4つのワークフローファイルが存在する
 - [ ] ローカルでビルドが成功する（`npm run build`）
 
-## ✅ GitHub Pages 設定
+## ✅ Cloudflare Pages 設定
+
+1. [ ] [Cloudflare Dashboard](https://dash.cloudflare.com/) にログイン
+2. [ ] **Workers & Pages** → **Pages** を選択
+3. [ ] **Create a project** をクリック
+4. [ ] プロジェクト名を `ai-dogdock` に設定
+
+## ✅ GitHub Secrets 設定
 
 1. [ ] GitHubでリポジトリを開く
-2. [ ] **Settings** タブをクリック
-3. [ ] 左サイドバーの **Pages** をクリック
-4. [ ] **Source** で **GitHub Actions** を選択
-5. [ ] 設定を保存
+2. [ ] **Settings** → **Secrets and variables** → **Actions**
+3. [ ] 以下のSecretsを追加:
+   - [ ] `CLOUDFLARE_API_TOKEN` - Cloudflare API Token
+   - [ ] `CLOUDFLARE_ACCOUNT_ID` - CloudflareアカウントID
 
 ## ✅ 初回デプロイ
 
@@ -26,15 +32,14 @@
 
 ### 方法2: 手動デプロイ
 - [ ] **Actions** タブを開く
-- [ ] **Update News and Deploy** をクリック
+- [ ] 任意のワークフローをクリック
 - [ ] **Run workflow** ボタンをクリック
-- [ ] **Run workflow** を再度クリック
 - [ ] 実行完了を待つ
 
 ## ✅ 公開確認
 
-- [ ] **Settings** → **Pages** で公開URLを確認
-- [ ] URLをブラウザで開く: `https://あなたのユーザー名.github.io/ai-news-hub/`
+- [ ] Cloudflare Dashboard → **Pages** で公開URLを確認
+- [ ] URLをブラウザで開く
 - [ ] サイトが正しく表示されることを確認
 - [ ] ニュースカードが表示されることを確認
 - [ ] 画像が読み込まれることを確認
@@ -42,7 +47,8 @@
 ## ✅ 動作確認
 
 - [ ] Hero Sectionが表示される
-- [ ] 各社のニュース行が表示される
+- [ ] AI Companiesタブのニュース行が表示される
+- [ ] Dev Toolsタブのニュース行が表示される
 - [ ] カードをクリックするとニュース記事が開く
 - [ ] 言語切り替えが動作する（EN/JP）
 - [ ] Linksページが表示される
@@ -52,17 +58,9 @@
 ### ワークフローがエラーになる場合
 
 1. [ ] **Actions** タブでエラーログを確認
-2. [ ] キャッシュを削除: **Actions** → **Caches** → 古いキャッシュを削除
-3. [ ] ワークフローを再実行
-
-### 404エラーが表示される場合
-
-1. [ ] `vite.config.ts` の `base` 設定を確認
-   ```typescript
-   base: process.env.GITHUB_ACTIONS ? '/ai-news-hub/' : '/',
-   ```
-2. [ ] リポジトリ名と一致しているか確認
-3. [ ] 修正してプッシュ
+2. [ ] Cloudflare API Tokenの権限を確認
+3. [ ] Account IDが正しいか確認
+4. [ ] ワークフローを再実行
 
 ### 画像が表示されない場合
 
@@ -80,8 +78,6 @@
 ## 🎉 完了！
 
 すべてのチェックが完了したら、サイトが公開されています！
-
-公開URL: `https://あなたのユーザー名.github.io/ai-news-hub/`
 
 ---
 

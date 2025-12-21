@@ -1,17 +1,18 @@
 # AI News Hub
 
-A Netflix-style UI for aggregating the latest news from major AI companies with multi-language support.
+A Netflix-style UI for aggregating the latest news from major AI companies and developer tools with multi-language support.
 
 ## Overview
 
-Displays news from Google AI, OpenAI, Microsoft AI, Anthropic and xAI in horizontally scrollable card rows with brand-colored titles.
+Displays news from AI companies (Google AI, OpenAI, Microsoft AI, Anthropic, Amazon, xAI) and developer tools (Cursor, GitHub Copilot, VS Code, AWS Kiro, Antigravity) in horizontally scrollable card rows with brand-colored titles.
 
 ## Features
 
 - **Multi-language Support**: Toggle between English (EN) and Japanese (JP) news
+- **Two Content Categories**: AI Companies tab and Dev Tools tab
 - **Hero Carousel**: Auto-sliding (5s interval) with manual navigation, pauses on hover - displays top news from each company
 - **Company News Rows**: Horizontally scrollable cards with gradient brand-colored titles (newest on left)
-- **Gradient Brand Colors**: Each company row title uses beautiful gradient design based on their official brand colors
+- **Gradient Brand Colors**: Each company/tool row title uses beautiful gradient design based on their official brand colors
 - **NEW Badge**: Articles within 24 hours display a glowing "NEW" badge
 - **Cute Animal Fallback Images**: When news thumbnails are unavailable, displays random cute animal images (dogs, cats, and more)
 - **Official Links**: Separate tab with direct links to company websites
@@ -25,6 +26,7 @@ Displays news from Google AI, OpenAI, Microsoft AI, Anthropic and xAI in horizon
 - **Icons**: Lucide React
 - **Routing**: React Router DOM
 - **Testing**: Vitest, Testing Library
+- **Deployment**: Cloudflare Pages
 
 ## Setup
 
@@ -33,7 +35,8 @@ Displays news from Google AI, OpenAI, Microsoft AI, Anthropic and xAI in horizon
 npm install
 
 # Fetch latest news data (both EN and JP)
-npm run fetch-news
+npm run fetch-news        # AI companies news
+npm run fetch-news-dev    # Dev tools news
 
 # Start development server
 npm run dev
@@ -44,35 +47,60 @@ npm run build
 
 ## Fetching News
 
-The news data is stored in two files:
-- `src/data/news_en.json` - English news (Google News US)
-- `src/data/news_jp.json` - Japanese news (Google News JP)
+The news data is stored in four files:
+- `src/data/news_en.json` - English AI companies news (Google News US)
+- `src/data/news_jp.json` - Japanese AI companies news (Google News JP)
+- `src/data/news_dev_en.json` - English dev tools news (Google News US)
+- `src/data/news_dev_jp.json` - Japanese dev tools news (Google News JP)
 
 To update the news:
 
 ```bash
+# Fetch AI companies news
 npm run fetch-news
+
+# Fetch dev tools news
+npm run fetch-news-dev
+
+# Fetch specific locale only
+node scripts/fetch-news.js --locale=en
+node scripts/fetch-news.js --locale=jp
+node scripts/fetch-news-dev.js --locale=en
+node scripts/fetch-news-dev.js --locale=jp
 ```
 
-This runs `scripts/fetch-news.js` which:
-1. Fetches news from Google News RSS for both EN and JP locales
-2. Sorts all articles by date (newest first)
-3. Assigns cute animal fallback images for missing thumbnails (dogs, cats, rabbits, etc.)
-4. Saves to `news_en.json` and `news_jp.json`
+### Scripts
 
-**Recommended**: Run this script periodically (e.g., via cron or CI/CD) to keep news fresh.
+| Script | Description |
+|--------|-------------|
+| `scripts/fetch-news.js` | Fetches news for AI companies (Google, OpenAI, Microsoft, Anthropic, Amazon, xAI) |
+| `scripts/fetch-news-dev.js` | Fetches news for dev tools (Cursor, GitHub Copilot, VS Code, AWS Kiro, Antigravity) |
+
+**Recommended**: Run these scripts periodically (e.g., via cron or CI/CD) to keep news fresh.
 
 ## Automated Updates with GitHub Actions
 
-The project includes a GitHub Actions workflow that automatically:
-- Fetches latest news every 6 hours (UTC: 0, 6, 12, 18)
-- Commits updated news data
-- Builds and deploys to GitHub Pages
+The project includes GitHub Actions workflows that automatically:
+- Fetch latest news every 6 hours
+- Commit updated news data
+- Build and deploy to Cloudflare Pages
 
-To enable:
-1. Go to repository Settings → Pages
-2. Set Source to "GitHub Actions"
-3. The workflow will run automatically on schedule or can be triggered manually
+### Workflow Schedule
+
+| Workflow | Schedule (UTC) | Description |
+|----------|----------------|-------------|
+| `update-news-en.yml` | 3:00, 9:00, 15:00, 21:00 | English AI companies news |
+| `update-news-jp.yml` | 0:00, 6:00, 12:00, 18:00 | Japanese AI companies news |
+| `update-news-dev-en.yml` | 3:30, 9:30, 15:30, 21:30 | English dev tools news |
+| `update-news-dev-jp.yml` | 0:30, 6:30, 12:30, 18:30 | Japanese dev tools news |
+
+Dev tools workflows run 30 minutes after the main news workflows to avoid API rate limiting.
+
+### Required Secrets
+
+To enable automated deployment, configure these secrets in your repository:
+- `CLOUDFLARE_API_TOKEN` - Cloudflare API token with Pages deployment permissions
+- `CLOUDFLARE_ACCOUNT_ID` - Your Cloudflare account ID
 
 ## Running Tests
 
@@ -91,13 +119,26 @@ npm run test:watch
 
 ## Brand Colors
 
+### AI Companies
+
 | Company | Color |
 |---------|-------|
-| Google AI | #4285F4 (Blue) |
+| Google AI | #4285F4 (Blue) - Rainbow gradient |
 | OpenAI | #10A37F (Teal) |
 | Microsoft AI | #00A4EF (Blue) |
 | Anthropic | #D4A574 (Beige) |
+| Amazon | #FF9900 (Orange) |
 | xAI | #E8E8E8 (Silver) |
+
+### Dev Tools
+
+| Tool | Color |
+|------|-------|
+| Cursor | #00E5A0 (Mint) |
+| GitHub Copilot | #F78166 (Coral) |
+| VS Code | #007ACC (Blue) |
+| AWS Kiro | #FF9900 (Orange) |
+| Antigravity | #A855F7 (Purple) |
 
 ## APIs Used
 
@@ -112,36 +153,32 @@ npm run test:watch
 
 ## Deployment
 
-### GitHub Pages (Recommended)
+### Cloudflare Pages (Current)
 
-**自動デプロイ設定済み** - このプロジェクトはGitHub Actionsで自動デプロイされます。
+This project is automatically deployed to Cloudflare Pages via GitHub Actions.
 
-#### 初回セットアップ
+#### Setup
 
-1. **GitHub Pagesを有効化**
-   - リポジトリの **Settings** → **Pages**
-   - **Source** を **GitHub Actions** に設定
+1. Create a Cloudflare Pages project named `ai-dogdock`
+2. Configure repository secrets:
+   - `CLOUDFLARE_API_TOKEN`
+   - `CLOUDFLARE_ACCOUNT_ID`
+3. Push to main branch to trigger deployment
 
-2. **デプロイ実行**
-   - コードをプッシュすると自動デプロイ
-   - または **Actions** タブから手動実行
+#### Manual Deployment
 
-3. **公開URL**
-   - `https://あなたのユーザー名.github.io/ai-news-hub/`
+```bash
+npm run build
+npx wrangler pages deploy dist --project-name=ai-dogdock
+```
 
-#### 自動更新
-- 6時間ごとにニュースを自動取得してデプロイ
-- UTC 0, 6, 12, 18時に実行
-
-詳細は [DEPLOYMENT.md](./DEPLOYMENT.md) を参照してください。
-
-### Vercel
+### Vercel (Alternative)
 ```bash
 npm install -g vercel
 vercel
 ```
 
-### Netlify
+### Netlify (Alternative)
 ```bash
 npm run build
 # Drag & drop dist folder to Netlify
@@ -149,4 +186,4 @@ npm run build
 
 ## License
 
-MIT
+MIT - See [LICENSE](./LICENSE) for details.
