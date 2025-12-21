@@ -115,7 +115,7 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                         key={index}
                         src={dogImages[index]}
                         alt={news.title}
-                        className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 brightness-120 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
+                        className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 ${index === currentIndex ? 'opacity-100' : 'opacity-0'
                             }`}
                     />
                 ))}
@@ -131,23 +131,23 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
             </div>
 
             {/* Dark overlay for better text readability */}
-            <div className="absolute inset-0 bg-black/40" />
+            <div className="absolute inset-0 bg-black/5" />
 
             {/* Gradient overlays for seamless blend */}
             <div className="absolute inset-0 bg-gradient-to-t from-[#141414] via-[#141414]/70 to-transparent" />
             <div className="absolute inset-0 bg-gradient-to-r from-[#141414]/95 via-transparent to-transparent" />
 
-            {/* Navigation Buttons - Desktop only, height matches image area */}
+            {/* Navigation Buttons - Desktop only, from header bottom to before gradient */}
             <button
                 onClick={handlePrev}
-                className="hidden md:flex absolute left-0 top-[60px] bottom-[50px] w-14 z-20 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
+                className="hidden md:flex absolute left-0 top-[10%] bottom-[10%] w-14 z-20 bg-gradient-to-b from-transparent via-black/10 to-transparent items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
                 aria-label="Previous slide"
             >
                 <ChevronLeft size={36} className="text-white" />
             </button>
             <button
                 onClick={handleNext}
-                className="hidden md:flex absolute right-0 top-[60px] bottom-[50px] w-14 z-20 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
+                className="hidden md:flex absolute right-0  top-[10%] bottom-[10%] w-14 z-20 bg-gradient-to-b from-transparent via-black/10 to-transparent items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
                 aria-label="Next slide"
             >
                 <ChevronRight size={36} className="text-white" />

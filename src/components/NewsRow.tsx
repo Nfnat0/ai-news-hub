@@ -52,7 +52,7 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
             <div className="relative">
                 <button
                     onClick={() => scroll('left')}
-                    className="hidden md:flex absolute left-0 top-2 bottom-6 w-12 z-30 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
+                    className="hidden md:flex absolute left-0 top-0 bottom-0 w-12 z-30 bg-gradient-to-b from-transparent via-black/10 to-transparent items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
                     aria-label="Scroll left"
                 >
                     <ChevronLeft size={28} className="text-white" />
@@ -80,7 +80,7 @@ export const NewsRow = ({ companyNews }: NewsRowProps) => {
                 </div>
                 <button
                     onClick={() => scroll('right')}
-                    className="hidden md:flex absolute right-0 top-2 bottom-6 w-12 z-30 bg-black/5 hover:bg-black/10 items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
+                    className="hidden md:flex absolute right-0 top-0 bottom-0 w-12 z-30 bg-gradient-to-b from-transparent via-black/10 to-transparent items-center justify-center opacity-0 group-hover/row:opacity-100 transition-all duration-300"
                     aria-label="Scroll right"
                 >
                     <ChevronRight size={28} className="text-white" />
