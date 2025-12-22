@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-22T09:50:42.152Z",
+  "fetchedAt": "2025-12-22T15:44:14.932Z",
   "locale": "en",
   "companies": [
     {
@@ -130,24 +130,17 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "AWS launches the \"Kiro Powers\" feature, enabling AI agents to gain professional skills from tools like Figma and Stripe with a single click. - Mashdigi",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZkFGS3hEN1JCQk9xZ1NhaGM5ZjR3YW1HaTQxY1IwNU14N3laRUdmOU9faHM3Q2N6d0NFUXBmdXFJLWZGUVdPUkZneC1iZ05IOTVVbVBQbktROEp3VklWdHlxbzNocldQdGFYVnJoM2Rpd2EzSk9JYzhKbkpZWnhsdnQxd3pkQnVzWFVycHViMDBQV24tcmVoci1KUl9Scm9GWHBUMWFBdmkyUHZhWlhQU3ZZUzRrSUdQVWUxSjZxMzNSNWRQYmtMYkotQkREYmtTNGdwb3g0X1pwZUpMbmlQemlfNUxKRWF2Q3RkTWN3anY2aTQ?oc=5",
-          "pubDate": "2025-12-21 07:50:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZkFGS3hEN1JCQk9xZ1NhaGM5ZjR3YW1HaTQxY1IwNU14N3laRUdmOU9faHM3Q2N6d0NFUXBmdXFJLWZGUVdPUkZneC1iZ05IOTVVbVBQbktROEp3VklWdHlxbzNocldQdGFYVnJoM2Rpd2EzSk9JYzhKbkpZWnhsdnQxd3pkQnVzWFVycHViMDBQV24tcmVoci1KUl9Scm9GWHBUMWFBdmkyUHZhWlhQU3ZZUzRrSUdQVWUxSjZxMzNSNWRQYmtMYkotQkREYmtTNGdwb3g0X1pwZUpMbmlQemlfNUxKRWF2Q3RkTWN3anY2aTQ?oc=5\" target=\"_blank\">AWS launches the \"Kiro Powers\" feature, enabling AI agents to gain professional skills from tools like Figma and Stripe with a single click.</a>  Mashdigi",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
-        },
-        {
-          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services",
+          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5",
           "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services",
+          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5",
           "pubDate": "2025-12-10 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
@@ -163,12 +156,19 @@
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
           "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+        },
+        {
+          "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5",
+          "pubDate": "2025-09-20 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         }
       ]
     },
     {
       "company": "antigravity",
-      "displayName": "Antigravity",
+      "displayName": "Google Antigravity",
       "news": [
         {
           "title": "I ditched VS Code for Google’s Antigravity, and I’m not going back - How-To Geek",
@@ -178,18 +178,11 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
-          "title": "The Antigravity A1 360 Camera-Equipped Drone Officially Unveiled - Fstoppers",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2MwQ1lOWE90cmFsQTNhWDJtUDhaTDJqYlRCV1VzZDdHVEgwWGJYcG1nTHlCUi1tT0YtUWNrdzMxalN0ekpDVDM2WEZpcDdWRkhKR2NVZjF3WTNrSWVqc3ZuQjU1WFZDWVFrb0xEUFlHTzlYUVU5YXUxbGNpUnlSMFlUS2JxTTBFUUUxUTNtZW1aUlBqaWcwV3dHakI?oc=5",
-          "pubDate": "2025-12-19 21:48:19",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2MwQ1lOWE90cmFsQTNhWDJtUDhaTDJqYlRCV1VzZDdHVEgwWGJYcG1nTHlCUi1tT0YtUWNrdzMxalN0ekpDVDM2WEZpcDdWRkhKR2NVZjF3WTNrSWVqc3ZuQjU1WFZDWVFrb0xEUFlHTzlYUVU5YXUxbGNpUnlSMFlUS2JxTTBFUUUxUTNtZW1aUlBqaWcwV3dHakI?oc=5\" target=\"_blank\">The Antigravity A1 360 Camera-Equipped Drone Officially Unveiled</a>  Fstoppers",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-15 17:27:49",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Google's AI Deletes User's Entire Hard Drive, Issues Groveling Apology: \"I Cannot Express How Sorry I Am\" - Futurism",
@@ -199,11 +192,18 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
-          "title": "A new era of intelligence with Gemini 3 - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FLVNyNXh1ZDVNQ1NienVaTzZUSkNqdjgtUmIydENUazg4UmNZeG5vN3QyMlQwOWpfLVFYN3h5QVVMLXlaekxVd0Foak9GYWFUX3N2R2J4OVY?oc=5",
-          "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FLVNyNXh1ZDVNQ1NienVaTzZUSkNqdjgtUmIydENUazg4UmNZeG5vN3QyMlQwOWpfLVFYN3h5QVVMLXlaekxVd0Foak9GYWFUX3N2R2J4OVY?oc=5\" target=\"_blank\">A new era of intelligence with Gemini 3</a>  blog.google",
+          "title": "Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity. - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+        },
+        {
+          "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
+          "pubDate": "2025-11-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         }
       ]
     }
