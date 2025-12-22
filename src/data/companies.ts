@@ -17,5 +17,5 @@ export const devTools: Company[] = [
     { key: 'github-copilot', displayName: 'GitHub Copilot', searchTerm: ['GitHub Copilot', 'GitHub AI'] },
     { key: 'vscode', displayName: 'Visual Studio Code', searchTerm: ['Visual Studio Code', 'VS Code'] },
     { key: 'kiro', displayName: 'AWS Kiro', searchTerm: ['AWS Kiro'] },
-    { key: 'antigravity', displayName: 'Antigravity', searchTerm: ['Antigravity'] },
+    { key: 'antigravity', displayName: 'Google Antigravity', searchTerm: ['Google Antigravity'] },
 ];
