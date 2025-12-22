@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-22T09:28:22.888Z",
+  "fetchedAt": "2025-12-22T15:22:00.296Z",
   "locale": "en",
   "companies": [
     {
@@ -7,18 +7,25 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "AI: Google jumps to Gemini 3 Flash vs OpenAI. RTZ #943 - AI: Reset to Zero",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51cE5JWWxXa2RxeDhGYmcwRlJiZV9ybHpSaWZvWmZFYzBQbERjc3ZWaVlqMkdRSGYtNTg4S1NTcWVhNkJLVGVaN2o4NldOenloUUhmRDhfZXA1R0NPSjZvaUVYNFgtSGlnNG92aGpQb2E1cGduWU0tWmpB?oc=5",
-          "pubDate": "2025-12-22 06:02:21",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE51cE5JWWxXa2RxeDhGYmcwRlJiZV9ybHpSaWZvWmZFYzBQbERjc3ZWaVlqMkdRSGYtNTg4S1NTcWVhNkJLVGVaN2o4NldOenloUUhmRDhfZXA1R0NPSjZvaUVYNFgtSGlnNG92aGpQb2E1cGduWU0tWmpB?oc=5\" target=\"_blank\">AI: Google jumps to Gemini 3 Flash vs OpenAI. RTZ #943</a>  AI: Reset to Zero",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "title": "What (I think) makes Gemini 3 Flash so good and fast - Substack",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBILTRERzJtaERXamd0V1lKMkI1cS1rVmlLS24wQlpNZXExMGpvYXlSUzNac3lwTWtZTUluUGJkTUp4dU42TTZNX0gya2R1ZERhdnVsakt1UmEtbExTN2dzRHZKeUZIbS1YS0dURnVQRFZrUzlEcjBV?oc=5",
+          "pubDate": "2025-12-22 14:47:23",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBILTRERzJtaERXamd0V1lKMkI1cS1rVmlLS24wQlpNZXExMGpvYXlSUzNac3lwTWtZTUluUGJkTUp4dU42TTZNX0gya2R1ZERhdnVsakt1UmEtbExTN2dzRHZKeUZIbS1YS0dURnVQRFZrUzlEcjBV?oc=5\" target=\"_blank\">What (I think) makes Gemini 3 Flash so good and fast</a>  Substack",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
-          "title": "Samsung To Unveil AI Vision Built With Google Gemini at CES 2026 - samsung.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHRsNzY2aHl1OGpmWlQ3bTd3SWhZejJwN3BIaXpIUFhfY0o1MnFwWGJ6ZkZMVU9pVmFzVDB0b3E2X2ctRnJVTjVaUEdUQVFub3lTeTJxSnQ3S0c0VElRVXZYZWFMMU43MXZFVGpWQ3pMX2FHVEpVT3RxN190ckhoUm9Da0E3NlZLNHM4M3Vqa080UWtrcml6VEhyY2s?oc=5",
-          "pubDate": "2025-12-21 23:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHRsNzY2aHl1OGpmWlQ3bTd3SWhZejJwN3BIaXpIUFhfY0o1MnFwWGJ6ZkZMVU9pVmFzVDB0b3E2X2ctRnJVTjVaUEdUQVFub3lTeTJxSnQ3S0c0VElRVXZYZWFMMU43MXZFVGpWQ3pMX2FHVEpVT3RxN190ckhoUm9Da0E3NlZLNHM4M3Vqa080UWtrcml6VEhyY2s?oc=5\" target=\"_blank\">Samsung To Unveil AI Vision Built With Google Gemini at CES 2026</a>  samsung.com",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "title": "I started using Gemini to create notes in Google Keep, and it's been a game-changer - Android Police",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVBZYlQ3RGNzNUxIcUVYY05uaHRNZHY3ZEZvN2V0RW5qdGlkRDRmU05VaHdyMnRTcGpsRTRhUUFLVlFNSEZxRUJUVXJlbFBVd3pwYk9iNWxlUHVHdFFYLTg0R0hqcHBJU0hQRGVBWThUYWhJSXAzTlRtSzc1dkgzZ1ppdnNEMnhZOUE?oc=5",
+          "pubDate": "2025-12-22 12:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVBZYlQ3RGNzNUxIcUVYY05uaHRNZHY3ZEZvN2V0RW5qdGlkRDRmU05VaHdyMnRTcGpsRTRhUUFLVlFNSEZxRUJUVXJlbFBVd3pwYk9iNWxlUHVHdFFYLTg0R0hqcHBJU0hQRGVBWThUYWhJSXAzTlRtSzc1dkgzZ1ppdnNEMnhZOUE?oc=5\" target=\"_blank\">I started using Gemini to create notes in Google Keep, and it's been a game-changer</a>  Android Police",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        },
+        {
+          "title": "Google Launches Gemini AI in Kazakh - The Astana Times",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oNS1HUHdISEpHdmpaRG5RWXpDRXpNOUp4STlMS2YtUm1xaUJMQ2toeXNNTUxBTWh0RWVjVE1CZDFkcW9PZmgyM01hTFoxaFhTanpTcTA0SDU1YnYwTTZwaEgzTW4zQmFzMWhBTVV5WkpmZl9vRVVV?oc=5",
+          "pubDate": "2025-12-22 10:08:03",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5oNS1HUHdISEpHdmpaRG5RWXpDRXpNOUp4STlMS2YtUm1xaUJMQ2toeXNNTUxBTWh0RWVjVE1CZDFkcW9PZmgyM01hTFoxaFhTanpTcTA0SDU1YnYwTTZwaEgzTW4zQmFzMWhBTVV5WkpmZl9vRVVV?oc=5\" target=\"_blank\">Google Launches Gemini AI in Kazakh</a>  The Astana Times",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Organize your insights with Data Tables in NotebookLM. - blog.google",
@@ -32,13 +39,6 @@
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDRKZ3BxOEZrMzBEd0xaaHJkUEZvUkl6ZENPSVNDUlFEa3RpTktYWDZMeExDcFRzVlRxTHdOVHlEWWJoWWVtR19waXI4SEhGdm9HOUVjc1Zpb04tZFFjNzZ4emFfejdtWUdTbzkxYnN2VFZ3RU0xeFBSQzZzTllkLUJUdVBmUW9aTXZpOFp2dFF0Uzg?oc=5",
           "pubDate": "2025-12-17 16:06:23",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDRKZ3BxOEZrMzBEd0xaaHJkUEZvUkl6ZENPSVNDUlFEa3RpTktYWDZMeExDcFRzVlRxTHdOVHlEWWJoWWVtR19waXI4SEhGdm9HOUVjc1Zpb04tZFFjNzZ4emFfejdtWUdTbzkxYnN2VFZ3RU0xeFBSQzZzTllkLUJUdVBmUW9aTXZpOFp2dFF0Uzg?oc=5\" target=\"_blank\">Introducing Gemini 3 Flash: Intelligence and speed for enterprises</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Gemini 3 Flash is now available in Gemini CLI - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDNtVTJXRXliMzY2bjZDdS14Qy1kRHRtc1ZlbWg3dGhRUElsemdPNnVob2FXcHlyZVpYZ1pnUUtweFJNcFpkQjg0WlJwdGIzeTgzN3FLRjQzei14dGRhb1Y4NjJocVd5dlNKTlEtb3VrQTZ6ejlPOXByYjJrTS1ZLXl6ZWkwMjA?oc=5",
-          "pubDate": "2025-12-17 16:04:05",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDNtVTJXRXliMzY2bjZDdS14Qy1kRHRtc1ZlbWg3dGhRUElsemdPNnVob2FXcHlyZVpYZ1pnUUtweFJNcFpkQjg0WlJwdGIzeTgzN3FLRjQzei14dGRhb1Y4NjJocVd5dlNKTlEtb3VrQTZ6ejlPOXByYjJrTS1ZLXl6ZWkwMjA?oc=5\" target=\"_blank\">Gemini 3 Flash is now available in Gemini CLI</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
@@ -93,6 +93,13 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5",
           "pubDate": "2025-12-19 10:41:41",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5\" target=\"_blank\">LG TVs Can Delete Microsoft Copilot AI App in the Future</a>  TechPowerUp",
+          "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
+        },
+        {
+          "title": "Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do' - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5",
+          "pubDate": "2025-12-19 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5\" target=\"_blank\">Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do'</a>  TechRadar",
           "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
@@ -100,28 +107,21 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
           "pubDate": "2025-12-18 15:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
-        },
-        {
-          "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
-          "pubDate": "2025-12-17 19:56:08",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
           "title": "AI doom isn’t just sci‑fi: Microsoft exec warns risks are “nearly absolute” and could force the company to abandon AI - Windows Central",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5",
           "pubDate": "2025-12-13 15:24:13",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5\" target=\"_blank\">AI doom isn’t just sci‑fi: Microsoft exec warns risks are “nearly absolute” and could force the company to abandon AI</a>  Windows Central",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         },
         {
           "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot - extremetech.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5",
           "pubDate": "2025-12-10 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5\" target=\"_blank\">Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</a>  extremetech.com",
-          "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         }
       ]
     },
@@ -178,6 +178,13 @@
           "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
         },
         {
+          "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5\" target=\"_blank\">Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+        },
+        {
           "title": "Meet new Amazon Nova AI models that help build highly reliable AI agents - About Amazon",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
           "pubDate": "2025-12-02 08:00:00",
@@ -197,13 +204,6 @@
           "pubDate": "2025-11-24 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5\" target=\"_blank\">Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google</a>  Business Insider",
           "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
-        },
-        {
-          "title": "Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5",
-          "pubDate": "2025-11-24 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5\" target=\"_blank\">Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         }
       ]
     },
@@ -212,38 +212,38 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "Delete your data from WhatsApp Meta Ai servers - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUVyYm9jeTJQMmFUaDB4YXFzTy1DYXg1OWNEV0RNS1BaVTRoQURjRmVWY0VYdk5LQkJhczhiUXlDanVMVEV6NUlzYWYwOXlkM1EtT3BmdEo4eHhmQmtfSVA4R00zdEEyaUlWaGh3UFVKM1pyQy0yR0JXaHZLZjBOazFQLUtxbE1BSlE?oc=5",
-          "pubDate": "2025-12-22 04:55:56",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUVyYm9jeTJQMmFUaDB4YXFzTy1DYXg1OWNEV0RNS1BaVTRoQURjRmVWY0VYdk5LQkJhczhiUXlDanVMVEV6NUlzYWYwOXlkM1EtT3BmdEo4eHhmQmtfSVA4R00zdEEyaUlWaGh3UFVKM1pyQy0yR0JXaHZLZjBOazFQLUtxbE1BSlE?oc=5\" target=\"_blank\">Delete your data from WhatsApp Meta Ai servers</a>  NDTV",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
-        },
-        {
-          "title": "BofA Reiterates Buy on META as AI Spending Fears Ease - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01eGNDQ2JrbWlDWHhwN3p2WU1QeTBCUzM1cVlBb1QzWk95OFhmTjZaSS1nbF9jaTJ5V2lmNUZjdFNnR3NfR2l1bFZBMU90d0trYXo1alk5bkVOS255NFJ3SHJvYjFwMk80dk5FbnZScVducUNuUkI2WEZVaFlZQQ?oc=5",
-          "pubDate": "2025-12-21 20:25:38",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01eGNDQ2JrbWlDWHhwN3p2WU1QeTBCUzM1cVlBb1QzWk95OFhmTjZaSS1nbF9jaTJ5V2lmNUZjdFNnR3NfR2l1bFZBMU90d0trYXo1alk5bkVOS255NFJ3SHJvYjFwMk80dk5FbnZScVducUNuUkI2WEZVaFlZQQ?oc=5\" target=\"_blank\">BofA Reiterates Buy on META as AI Spending Fears Ease</a>  Yahoo Finance",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
-        },
-        {
-          "title": "AI Breakthroughs, Our Most Advanced Glasses, and More: Meta’s 2025 Highlights - Meta Store",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NlQWxDY1JXMUg0cms1LVc3RmZJMEtZNXJMT0ZOZ0Q0OFZ5ZVZ5cTBzd3FJR2JLU21lV3lyME5iLUZQSjVod3R4czVUYXhvRlVoNkNVcHhtdlpHWE9RREJyc01pY0NRMmxnTjlnVGcwQkliV1Z0SnUzMzU5UjV4aEVESU8wRkNkUFUxVVBwSlF2X3Z5aVk40gGcAUFVX3lxTFBXTFVxSXYxQ2NKdmVxZUdwQ29fM2pJMmRudzZ6TUVLSjJjZFZoelh2c0F6aTlBUUZoNDQwbFhuM2VHcHMwRXBkekNULTV1d2V4eDMtQjdrMEVZN3FXZGFwWDltc1BYZkR1aTJvSlJWTVhDaWpvemRaS1U1dThXR0pIa254TGt0RTVJTkdUdXpweUt5V05JWTVNTVdrdQ?oc=5",
-          "pubDate": "2025-12-19 20:00:59",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3NlQWxDY1JXMUg0cms1LVc3RmZJMEtZNXJMT0ZOZ0Q0OFZ5ZVZ5cTBzd3FJR2JLU21lV3lyME5iLUZQSjVod3R4czVUYXhvRlVoNkNVcHhtdlpHWE9RREJyc01pY0NRMmxnTjlnVGcwQkliV1Z0SnUzMzU5UjV4aEVESU8wRkNkUFUxVVBwSlF2X3Z5aVk40gGcAUFVX3lxTFBXTFVxSXYxQ2NKdmVxZUdwQ29fM2pJMmRudzZ6TUVLSjJjZFZoelh2c0F6aTlBUUZoNDQwbFhuM2VHcHMwRXBkekNULTV1d2V4eDMtQjdrMEVZN3FXZGFwWDltc1BYZkR1aTJvSlJWTVhDaWpvemRaS1U1dThXR0pIa254TGt0RTVJTkdUdXpweUt5V05JWTVNTVdrdQ?oc=5\" target=\"_blank\">AI Breakthroughs, Our Most Advanced Glasses, and More: Meta’s 2025 Highlights</a>  Meta Store",
+          "title": "Clear the Shelters: Meet Llama, the cuddly dog in need of a forever home - NBC10 Philadelphia",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm9TZlVGd0Vkb0dlWktjbllpb3BONzd1N2prYUR5eWhTTTZCWHhrd28zdG5nLVR2NDFQZU5DcWlpQXJQbDBtbWhHdlFLRFpsbElQUUVXc2VzYzUwVTE2bFdraE03a25rSFBSRTk3NEFzMVZMSG05bmRqUHFYMEhwM3RPeFJhbjJhS3hWcnZ3WTUySDROaTVDWGRMRkVrakJKVVo0dy1JOVE5cTNGWkJkSHlPMDZqMS1qVGxQNWhCbEFtY3lkTTZlUVZKMTFLTURDWGfSAdoBQVVfeXFMT0JfYll6OUVuTldXWTBqdU9ySUhLWnh2RTBxdVdrRzlNYmxiMERXejB3NWx0OXkyZzhnMFdpOThWTk9Pay1STjZORzlQeGJVUEgzQjBaM2VRNlpKVXJYZ1BBWkxiQTBRZ2VrdUoxdHJMMFUwQUhKNk9KMWR5eDlZZ1N3c1huM0lyMkgzWS1rV0twUFUtTHhyVTEyVk85SWpvcllrZXFEaW5nTklIdVRRSF9NVE9EdmJDWHB2cmI1UVQ1T00yeEk0TVdJSjhBVm1ac19tMExtRUZSZnc?oc=5",
+          "pubDate": "2025-12-20 12:33:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm9TZlVGd0Vkb0dlWktjbllpb3BONzd1N2prYUR5eWhTTTZCWHhrd28zdG5nLVR2NDFQZU5DcWlpQXJQbDBtbWhHdlFLRFpsbElQUUVXc2VzYzUwVTE2bFdraE03a25rSFBSRTk3NEFzMVZMSG05bmRqUHFYMEhwM3RPeFJhbjJhS3hWcnZ3WTUySDROaTVDWGRMRkVrakJKVVo0dy1JOVE5cTNGWkJkSHlPMDZqMS1qVGxQNWhCbEFtY3lkTTZlUVZKMTFLTURDWGfSAdoBQVVfeXFMT0JfYll6OUVuTldXWTBqdU9ySUhLWnh2RTBxdVdrRzlNYmxiMERXejB3NWx0OXkyZzhnMFdpOThWTk9Pay1STjZORzlQeGJVUEgzQjBaM2VRNlpKVXJYZ1BBWkxiQTBRZ2VrdUoxdHJMMFUwQUhKNk9KMWR5eDlZZ1N3c1huM0lyMkgzWS1rV0twUFUtTHhyVTEyVk85SWpvcllrZXFEaW5nTklIdVRRSF9NVE9EdmJDWHB2cmI1UVQ1T00yeEk0TVdJSjhBVm1ac19tMExtRUZSZnc?oc=5\" target=\"_blank\">Clear the Shelters: Meet Llama, the cuddly dog in need of a forever home</a>  NBC10 Philadelphia",
           "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
-          "title": "Meta is developing a new image and video model for a 2026 release, report says - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzNPcmNURXFxRDU1RFpVZVg4bllYTzhLd2hCRy1BS0ZTc2NJQ0ktN1NBamVGZDhJNmhLR2pZa0M5Zy0zRXpZZUFCVkVsbTdlSmJ2QjRRT0FGMlZTTjcxZXkwNEtXNzJHVEpuR2lkcFRjcXFZMXRnZFdUcC0tQ2NhVEZyXzZtal96WVhoVmNYbTFRTVRUS25jS3pmZF9oRTlhQTRGd3NLd0xfdi00djI4WFdB?oc=5",
-          "pubDate": "2025-12-19 16:05:29",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzNPcmNURXFxRDU1RFpVZVg4bllYTzhLd2hCRy1BS0ZTc2NJQ0ktN1NBamVGZDhJNmhLR2pZa0M5Zy0zRXpZZUFCVkVsbTdlSmJ2QjRRT0FGMlZTTjcxZXkwNEtXNzJHVEpuR2lkcFRjcXFZMXRnZFdUcC0tQ2NhVEZyXzZtal96WVhoVmNYbTFRTVRUS25jS3pmZF9oRTlhQTRGd3NLd0xfdi00djI4WFdB?oc=5\" target=\"_blank\">Meta is developing a new image and video model for a 2026 release, report says</a>  TechCrunch",
+          "title": "Tech check: Why I built Lenny, the Llama Chat™—and why every learning team needs one - Chief Learning Officer",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVFMS2JmOUhYLUYyU2VFTW4yY0ktSG9TZno3ZnBsV0RWUkxmcWU2SmVIN05DT1hwajlXTHNtaVdlZHJMOG8wMS1va1huQTNJbTZpWWJ1eVo5ZGMyU0Zvd0JLSTRvYjBycWd1SW9YUlJ6czVQU3pBSDB6T2xVeFFlNkFISHcxTGRXNS1CUVhRTTlWM2ZwZjVNakpzcjByV21BeFRfX1k3VGtuZW5OWHF2eEE4TWdrMmpfRkN1TW1QcmdBNld5VGZ4TFF3?oc=5",
+          "pubDate": "2025-12-19 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVFMS2JmOUhYLUYyU2VFTW4yY0ktSG9TZno3ZnBsV0RWUkxmcWU2SmVIN05DT1hwajlXTHNtaVdlZHJMOG8wMS1va1huQTNJbTZpWWJ1eVo5ZGMyU0Zvd0JLSTRvYjBycWd1SW9YUlJ6czVQU3pBSDB6T2xVeFFlNkFISHcxTGRXNS1CUVhRTTlWM2ZwZjVNakpzcjByV21BeFRfX1k3VGtuZW5OWHF2eEE4TWdrMmpfRkN1TW1QcmdBNld5VGZ4TFF3?oc=5\" target=\"_blank\">Tech check: Why I built Lenny, the Llama Chat™—and why every learning team needs one</a>  Chief Learning Officer",
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+        },
+        {
+          "title": "Meta AI glasses adds 'conversation focus' feature - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5",
+          "pubDate": "2025-12-18 20:53:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5\" target=\"_blank\">Meta AI glasses adds 'conversation focus' feature</a>  Mashable",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
-          "title": "Mark Zuckerberg’s big move: Who is 28-year-old Alexandr Wang, now heading Meta’s AI division - Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQkdVa2xrLVdpb2xPZFVuaUVZZ1gxczVYWkt0MVZpdllUQ0JFZ3JXa2F4cFRjOGd3V2hiR0pFRXhGeUlYaTNKZ1JJOGRTRXBlMnhMU0dpME4ySjVJWjVNN0ZYTjAyQi1xUlBENlhRUW5kNUNuNjZLSVcyLXFPeWdrS0xpcEdPdHBsd3NDNGRxMUszdHlIUmIxMTFjSzJ3N1kyTkhUVUQ1NjU3LUxVbTlEcXhLeTBkNm5EZ3NpMVQ1RENobFJmeExCMHl4cDV3SlU2RG9mWVFRbGdIUHBHTndoY1Vya3hYZl8wenN0ei1hd1k0SFo2bXgzb2Jn0gH_AUFVX3lxTE00UjRsNjU2MlAzTmp5UDVxeTNDay10TkhyMTEwMmxoblQtYkE0Vk83Yy1oZlFqek1scWhUUno5M0Z6UGZMV3NWd05HT3pnV3hhN2JXbDZQbk1INWFRY2hFWFZfd0J5dlA0SUxob2liU3MweEhVa1FkQlVyZHYxNDhrdXllNDNyZU00R1lfOVRHUUtjRldhNldCT3YwOXlqSEhQR3F4eXpJR1h6NkpLcDFnNEMyN3NrcUpab3ZFMk90cFBOeG9hejg1a0p2WnRwV3VaRHZfRGR1RDRoY0ZGMXJjM2cxT3dnYlhWcDlUTDFfbkRMb0xuRjI5T0RITVVwVQ?oc=5",
-          "pubDate": "2025-12-19 08:52:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQkdVa2xrLVdpb2xPZFVuaUVZZ1gxczVYWkt0MVZpdllUQ0JFZ3JXa2F4cFRjOGd3V2hiR0pFRXhGeUlYaTNKZ1JJOGRTRXBlMnhMU0dpME4ySjVJWjVNN0ZYTjAyQi1xUlBENlhRUW5kNUNuNjZLSVcyLXFPeWdrS0xpcEdPdHBsd3NDNGRxMUszdHlIUmIxMTFjSzJ3N1kyTkhUVUQ1NjU3LUxVbTlEcXhLeTBkNm5EZ3NpMVQ1RENobFJmeExCMHl4cDV3SlU2RG9mWVFRbGdIUHBHTndoY1Vya3hYZl8wenN0ei1hd1k0SFo2bXgzb2Jn0gH_AUFVX3lxTE00UjRsNjU2MlAzTmp5UDVxeTNDay10TkhyMTEwMmxoblQtYkE0Vk83Yy1oZlFqek1scWhUUno5M0Z6UGZMV3NWd05HT3pnV3hhN2JXbDZQbk1INWFRY2hFWFZfd0J5dlA0SUxob2liU3MweEhVa1FkQlVyZHYxNDhrdXllNDNyZU00R1lfOVRHUUtjRldhNldCT3YwOXlqSEhQR3F4eXpJR1h6NkpLcDFnNEMyN3NrcUpab3ZFMk90cFBOeG9hejg1a0p2WnRwV3VaRHZfRGR1RDRoY0ZGMXJjM2cxT3dnYlhWcDlUTDFfbkRMb0xuRjI5T0RITVVwVQ?oc=5\" target=\"_blank\">Mark Zuckerberg’s big move: Who is 28-year-old Alexandr Wang, now heading Meta’s AI division</a>  Times of India",
+          "title": "The dark side of progress: Meta, AI, and space solutions - DW",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3RBcE8wbi1EZmVqS2VTV2JvU2FXOGJOcjVmMEdYVXl1REJLMXBFVlp6Tnl4cUVxZW8tVHEtSTBTLTJ4Z2tqZkNtYk1Vel9IVlVqdnlQVHd4MnVzMy1ZTnhWRHhzb1VRRjY1RDh6N3pIemphSXUtSjljd2NxNkltZTdoYUpyeVgzcV9hR3hVZ0lsY0Zi?oc=5",
+          "pubDate": "2025-12-18 17:38:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3RBcE8wbi1EZmVqS2VTV2JvU2FXOGJOcjVmMEdYVXl1REJLMXBFVlp6Tnl4cUVxZW8tVHEtSTBTLTJ4Z2tqZkNtYk1Vel9IVlVqdnlQVHd4MnVzMy1ZTnhWRHhzb1VRRjY1RDh6N3pIemphSXUtSjljd2NxNkltZTdoYUpyeVgzcV9hR3hVZ0lsY0Zi?oc=5\" target=\"_blank\">The dark side of progress: Meta, AI, and space solutions</a>  DW",
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+        },
+        {
+          "title": "The Athletic: Llama drama: Keldon Johnson, Spurs are taking the NBA Cup very seriously - NBA",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjROOFJYT1NZLTg2Sk1VaUtFWkFFbkRlUVdueWpjaUkwNGlIR3A1SWxkelo4Qkh5T0dmZE04V3ZUMThxaDUwcVhZWi1rY1hZalQ5ZlRwbG1TbUh2Q0Ixei1CZUVCZTdWZXVfaFdRVEhzbHJMd0JPOUVCVW9abUpfUnRUd1gtekNsb0stbTIyVXMxVDh1RTlUQnh2TFFoSXBkNTVwNTJBNGQ3V2xy?oc=5",
+          "pubDate": "2025-12-11 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjROOFJYT1NZLTg2Sk1VaUtFWkFFbkRlUVdueWpjaUkwNGlIR3A1SWxkelo4Qkh5T0dmZE04V3ZUMThxaDUwcVhZWi1rY1hZalQ5ZlRwbG1TbUh2Q0Ixei1CZUVCZTdWZXVfaFdRVEhzbHJMd0JPOUVCVW9abUpfUnRUd1gtekNsb0stbTIyVXMxVDh1RTlUQnh2TFFoSXBkNTVwNTJBNGQ3V2xy?oc=5\" target=\"_blank\">The Athletic: Llama drama: Keldon Johnson, Spurs are taking the NBA Cup very seriously</a>  NBA",
           "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
