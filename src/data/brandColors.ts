@@ -1,7 +1,7 @@
 export const brandColors: Record<string, { primary: string; gradient: string; glow: string }> = {
     google: {
-        primary: '#4285F4',
-        gradient: 'linear-gradient(135deg, #4285F4 0%, #EA4335 25%, #FBBC04 50%, #34A853 75%, #4285F4 100%)',
+        primary: '#c2f442ff',
+        gradient: 'linear-gradient(135deg, #c2f442ff 0%, #48e421ff 50%, #c2f442ff 100%)',
         glow: 'shadow-blue-500/50',
     },
     openai: {
@@ -23,6 +23,11 @@ export const brandColors: Record<string, { primary: string; gradient: string; gl
         primary: '#FF9900',
         gradient: 'linear-gradient(135deg, #FF9900 0%, #FFAD33 50%, #FF9900 100%)',
         glow: 'shadow-orange-500/50',
+    },
+    meta: {
+        primary: '#0081FB',
+        gradient: 'linear-gradient(135deg, #0081FB 0%, #00C6FF 50%, #0081FB 100%)',
+        glow: 'shadow-blue-400/50',
     },
     xai: {
         primary: '#E8E8E8',
