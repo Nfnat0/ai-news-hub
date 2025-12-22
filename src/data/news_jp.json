@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-22T12:02:49.259Z",
+  "fetchedAt": "2025-12-22T18:03:33.307Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Google",
       "news": [
         {
+          "title": "Gemini for Homeをついに体験！ まだ｢日常における変化｣は感じない… - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mNnpITVpiZXhhckNLMDQyaGFFaEt5eXUteGVfN0l6M3dhWWZIVXQzaGNoeHM2dVQ0UTNhcmhpRUptaEYyc1E0YXBCa1drZTJzZHN2T0I2dUNkZm1OS3NoeQ?oc=5",
+          "pubDate": "2025-12-22 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mNnpITVpiZXhhckNLMDQyaGFFaEt5eXUteGVfN0l6M3dhWWZIVXQzaGNoeHM2dVQ0UTNhcmhpRUptaEYyc1E0YXBCa1drZTJzZHN2T0I2dUNkZm1OS3NoeQ?oc=5\" target=\"_blank\">Gemini for Homeをついに体験！ まだ｢日常における変化｣は感じない…</a>  ギズモード・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
           "title": "グーグル、AI生成動画を「Gemini」で判別可能に--「SynthID」を利用 - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcE1tSHJaRUljanJUTzE1SmVYdjZXZERFM0JFUktiM1pYSVlRRlRGQ3BINEViSlJoOGlDbzR0VGJUblVKWlQxSUsyNXM0RWdZczVR?oc=5",
           "pubDate": "2025-12-22 00:54:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcE1tSHJaRUljanJUTzE1SmVYdjZXZERFM0JFUktiM1pYSVlRRlRGQ3BINEViSlJoOGlDbzR0VGJUblVKWlQxSUsyNXM0RWdZczVR?oc=5\" target=\"_blank\">グーグル、AI生成動画を「Gemini」で判別可能に--「SynthID」を利用</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現 - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDVtWXgzQ3ZQc2JJN19YTHF3dklsVk10X3RlVTlaNFhCSGktQnh3NkxhQ1ZBR3U5ZGNyZUF5SHRsSVR5Qk1jdUNvN1ZSX0JhR01sdXBqcU56QjIzRWVrS0xwT2FWNWdJQjd0S29Ub1dHZmdyN0RhTDVPeW5scldBRUY3S1BFMk9iNWpHc3lnaV9pRF84ajBZMm5jTXV1QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBDRVdlcHNsQUdPbkRyeTBuSGxyZlNQdzhUOUhDbW5WWEpNODdGQ0hjWGppM2V0SXZockNRaDNxZkFXbmVyV1B3LWJrNXhQS2ZTSk5nVWFHdkZubUhpdGlValBsZGhTT0M3ZzM5SHdIa3I2UWk4WDY3RE5wOVk0WXlyQmxjNFdOYy1tZ2xxQU9SQm9ud0poN1pkZzNhQTA?oc=5",
           "pubDate": "2025-12-22 00:33:58",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWDVtWXgzQ3ZQc2JJN19YTHF3dklsVk10X3RlVTlaNFhCSGktQnh3NkxhQ1ZBR3U5ZGNyZUF5SHRsSVR5Qk1jdUNvN1ZSX0JhR01sdXBqcU56QjIzRWVrS0xwT2FWNWdJQjd0S29Ub1dHZmdyN0RhTDVPeW5scldBRUY3S1BFMk9iNWpHc3lnaV9pRF84ajBZMm5jTXV1QQ?oc=5\" target=\"_blank\">Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "GoogleのAIモデル「Gemini 3 Flash」とは？料金や使い方、3 Proとの違いを紹介！ - 株式会社SHIFT AI",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSzNIQWsxSUM0ZzNnZVFqTEIwaDRfaHlobURKNGVYSlE3OS1tM08yNU5EWkY1YTl2ZFlHcmNmYTA4MWF2VmNONjFR?oc=5",
-          "pubDate": "2025-12-19 10:26:38",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSzNIQWsxSUM0ZzNnZVFqTEIwaDRfaHlobURKNGVYSlE3OS1tM08yNU5EWkY1YTl2ZFlHcmNmYTA4MWF2VmNONjFR?oc=5\" target=\"_blank\">GoogleのAIモデル「Gemini 3 Flash」とは？料金や使い方、3 Proとの違いを紹介！</a>  株式会社SHIFT AI",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBDRVdlcHNsQUdPbkRyeTBuSGxyZlNQdzhUOUhDbW5WWEpNODdGQ0hjWGppM2V0SXZockNRaDNxZkFXbmVyV1B3LWJrNXhQS2ZTSk5nVWFHdkZubUhpdGlValBsZGhTT0M3ZzM5SHdIa3I2UWk4WDY3RE5wOVk0WXlyQmxjNFdOYy1tZ2xxQU9SQm9ud0poN1pkZzNhQTA?oc=5\" target=\"_blank\">Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現</a>  Google Cloud",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
-          "title": "グーグル「NotebookLM」が表形式の出力に対応 - ケータイ Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbUotR0p6cEFXTjc1RzEyX2dybGtudTBiSHB1VGkyZ1lveUNOb0Y3VmppSzRjZDRaZlZySjQ4V1hjOGRBVlQ4cjh0ZjV2UGVEMFAtbjRTZ0s3OVh2T3NnN3o5bzZJRk0?oc=5",
-          "pubDate": "2025-12-19 04:01:13",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbUotR0p6cEFXTjc1RzEyX2dybGtudTBiSHB1VGkyZ1lveUNOb0Y3VmppSzRjZDRaZlZySjQ4V1hjOGRBVlQ4cjh0ZjV2UGVEMFAtbjRTZ0s3OVh2T3NnN3o5bzZJRk0?oc=5\" target=\"_blank\">グーグル「NotebookLM」が表形式の出力に対応</a>  ケータイ Watch",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "title": "NotebookLMに新機能 表形式で出力できる「データテーブル」 - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tQ0lEY0ctR0ljVXNkdGY4MWtpM1FPYnVsazZCSHBKRkx2RzJQWklfeEVYWGl2WWpNVHVvYTAxaF9lRExFbHRjaXFCTFIybDJTcGZSRUwyaEhWS0x5S2JSVVhVcEE?oc=5",
+          "pubDate": "2025-12-22 00:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tQ0lEY0ctR0ljVXNkdGY4MWtpM1FPYnVsazZCSHBKRkx2RzJQWklfeEVYWGl2WWpNVHVvYTAxaF9lRExFbHRjaXFCTFIybDJTcGZSRUwyaEhWS0x5S2JSVVhVcEE?oc=5\" target=\"_blank\">NotebookLMに新機能 表形式で出力できる「データテーブル」</a>  Impress Watch",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
           "title": "Gemini 3 Flash：スピードを追求した最先端知能 - blog.google",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5",
           "pubDate": "2025-12-18 03:22:42",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOUZNMnR6V3hIRHBQSE9iVG5fM0R2TmE4TWM2VlhUTWxlWFB0VVRMb000VVl2al90SVdmVWhUbFkzVVhXYnZEQ2ZDZlA1cThHOThjM0hnOWM0MWFQdWJ3YnMxUTdfenVJMHVmVUdaNU5zRmtjYUpuYw?oc=5\" target=\"_blank\">Gemini 3 Flash：スピードを追求した最先端知能</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "ChatGPTのパーソナライズ強化 文章の部分的な書き換えにも対応 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcWlmRWY2TW5vSWVnWHZXNnpsMmJEeV9SMXVsNG85NEczVnFWOWUxUUx3SFJKWElMSEtYZldXTHVDOHVndDBNeE1BNF9uTTBqN2pPVUpKaUIycnpPcU9PcHFtNVNnZzRNT0ZQaWNrMA?oc=5",
-          "pubDate": "2025-12-21 23:01:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcWlmRWY2TW5vSWVnWHZXNnpsMmJEeV9SMXVsNG85NEczVnFWOWUxUUx3SFJKWElMSEtYZldXTHVDOHVndDBNeE1BNF9uTTBqN2pPVUpKaUIycnpPcU9PcHFtNVNnZzRNT0ZQaWNrMA?oc=5\" target=\"_blank\">ChatGPTのパーソナライズ強化 文章の部分的な書き換えにも対応</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "title": "ChatGPT Imagesとは？機能・使い方・ビジネス活用まで徹底解説 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cUl3ZkNxVFBKVmx0bWNZVzEwR2lHN0t5RlRHS2l0aW5IZEZIb2gydmJSMUF1S3hUXzRrMzhCRDhJSklHQTNyaXFpNXF1bUt1T3BKV09pZjFPQQ?oc=5",
+          "pubDate": "2025-12-22 07:25:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cUl3ZkNxVFBKVmx0bWNZVzEwR2lHN0t5RlRHS2l0aW5IZEZIb2gydmJSMUF1S3hUXzRrMzhCRDhJSklHQTNyaXFpNXF1bUt1T3BKV09pZjFPQQ?oc=5\" target=\"_blank\">ChatGPT Imagesとは？機能・使い方・ビジネス活用まで徹底解説</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "ChatGPTをもっと活用するために…OpenAIスタッフによる6つのヒント - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjhyMDBaaDBIMTRId3VKYU9TWVBqRmY5c3J6MlRYT2hOREVvemtTczVJV1NJOEYwWFFWeGtjYm1jQXJfUnJZS1YwVEZ5WDNJTjZFdXhKd1J6OEJJU3JHRnE4QU8zeG9hQUxsRVR6MVNCdnVFRzFNcjFLeVI3R2k0RjN4WDg4UWVOMTRzSnBYYw?oc=5",
-          "pubDate": "2025-12-20 23:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjhyMDBaaDBIMTRId3VKYU9TWVBqRmY5c3J6MlRYT2hOREVvemtTczVJV1NJOEYwWFFWeGtjYm1jQXJfUnJZS1YwVEZ5WDNJTjZFdXhKd1J6OEJJU3JHRnE4QU8zeG9hQUxsRVR6MVNCdnVFRzFNcjFLeVI3R2k0RjN4WDg4UWVOMTRzSnBYYw?oc=5\" target=\"_blank\">ChatGPTをもっと活用するために…OpenAIスタッフによる6つのヒント</a>  Business Insider Japan",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "title": "ChatGPTで書いた論文はバレる。医学論文2700万件の解析で判明 - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0ekIzTEFTYTFjNmNFZTFLU2RpQUZNTWd1LXdzajFVSFc4V0xjckl6S2lMZ0pyNDlaYlRHdXdncHNfVnlFckFTMG1TUjJQNUhGb25TOGhMTGs?oc=5",
+          "pubDate": "2025-12-21 23:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0ekIzTEFTYTFjNmNFZTFLU2RpQUZNTWd1LXdzajFVSFc4V0xjckl6S2lMZ0pyNDlaYlRHdXdncHNfVnlFckFTMG1TUjJQNUhGb25TOGhMTGs?oc=5\" target=\"_blank\">ChatGPTで書いた論文はバレる。医学論文2700万件の解析で判明</a>  Forbes JAPAN",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
           "title": "ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5",
           "pubDate": "2025-12-19 13:55:07",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5\" target=\"_blank\">ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
-        },
-        {
-          "title": "ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHlkX1hhXzhZVGJOQlZlVFVvTWlvY2VoaGg3VlZsalcxaGIzdDc0c095VERKMU5ZbDBldzV4VnlVYTExRWQ2VjNjWVdFMkJEdmgzb0t0X0QyNmlrR08wOUlSSmVLWHJTcTV0bVV1R29lZzVOSTJHUU5jalVhRWRwNGJvSHlrZ2E4STk3NE1TUS1XT0JWYU5lX1poSHU3SnRHX0pr?oc=5",
-          "pubDate": "2025-12-19 10:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHlkX1hhXzhZVGJOQlZlVFVvTWlvY2VoaGg3VlZsalcxaGIzdDc0c095VERKMU5ZbDBldzV4VnlVYTExRWQ2VjNjWVdFMkJEdmgzb0t0X0QyNmlrR08wOUlSSmVLWHJTcTV0bVV1R29lZzVOSTJHUU5jalVhRWRwNGJvSHlrZ2E4STk3NE1TUS1XT0JWYU5lX1poSHU3SnRHX0pr?oc=5\" target=\"_blank\">ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "OpenAI、ChatGPT内でアプリストアを開始。Apple MusicやPhotoshopも対応 - テクノエッジ TechnoEdge",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91QVRNMGVDQTFTWDVyZUtKd3FjemMyeDNRN1hVaVctbE5mOHpienhscUhVSERXU2l0a2NwRXhnbUNrTmpHQ2pxRS1JUEZDQ2xkWUR6SnpDRHFVNTlzMVhOSEprRUNMOTA?oc=5",
-          "pubDate": "2025-12-19 01:54:22",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91QVRNMGVDQTFTWDVyZUtKd3FjemMyeDNRN1hVaVctbE5mOHpienhscUhVSERXU2l0a2NwRXhnbUNrTmpHQ2pxRS1JUEZDQ2xkWUR6SnpDRHFVNTlzMVhOSEprRUNMOTA?oc=5\" target=\"_blank\">OpenAI、ChatGPT内でアプリストアを開始。Apple MusicやPhotoshopも対応</a>  テクノエッジ TechnoEdge",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+        },
+        {
+          "title": "ChatGPTの新画像生成AI「Images」とは？料金や使い方、Nano Banana Proとの比較を解説！ - 株式会社SHIFT AI",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCUm9ubkZwYVNFNTVzLVIyVFh2QjE0MktoT0gwbFg1bmJZTlFuOVhtb0lEaG1CdGJaVWR5cUhWMTVBN18xclpLdV9n?oc=5",
+          "pubDate": "2025-12-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCUm9ubkZwYVNFNTVzLVIyVFh2QjE0MktoT0gwbFg1bmJZTlFuOVhtb0lEaG1CdGJaVWR5cUhWMTVBN18xclpLdV9n?oc=5\" target=\"_blank\">ChatGPTの新画像生成AI「Images」とは？料金や使い方、Nano Banana Proとの比較を解説！</a>  株式会社SHIFT AI",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "GPT-5.2-Codex が登場 - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95QW5UVmYyUk1GU2tWX1dPX05oXzFsZXZob3BuamI5UGdzV3lxQzRNMXRlclM0QWZtckgxU0ZvLVd2c2s3MjRQbVc1RVMtSnQ1NjE1WXhwSW0zaFByY00tbnZUWndybHA3?oc=5",
+          "pubDate": "2025-12-18 18:23:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE95QW5UVmYyUk1GU2tWX1dPX05oXzFsZXZob3BuamI5UGdzV3lxQzRNMXRlclM0QWZtckgxU0ZvLVd2c2s3MjRQbVc1RVMtSnQ1NjE1WXhwSW0zaFByY00tbnZUWndybHA3?oc=5\" target=\"_blank\">GPT-5.2-Codex が登場</a>  OpenAI",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         }
       ]
     },
@@ -141,21 +141,21 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pX1FNR213Q0J0V3N1ZUVzRmE3MHBCT2ZQZFd3MEkzMGJlZWliakhxSks1WTNoZ2xCYnV3N3hLa1RtbVFLSEZCLWFWQUZ4MWJYTkRnN2w4dkh6UjEtNDdtUnVtTGlQUWc0ODdCWjV2X3R6NjlLNXhkRlBSNFlTZDA?oc=5",
           "pubDate": "2025-12-22 03:40:05",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pX1FNR213Q0J0V3N1ZUVzRmE3MHBCT2ZQZFd3MEkzMGJlZWliakhxSks1WTNoZ2xCYnV3N3hLa1RtbVFLSEZCLWFWQUZ4MWJYTkRnN2w4dkh6UjEtNDdtUnVtTGlQUWc0ODdCWjV2X3R6NjlLNXhkRlBSNFlTZDA?oc=5\" target=\"_blank\">AnthropicがSnowflakeおよびAccentureとの提携を拡大、エンタープライズAI展開を強化（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
           "title": "Claude Codeが切り拓いた新時代の開発スタイル : 新刊ピックアップ | 技術評論社 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05YlZva2lOaGx4dklkemY3TzNvNVQxQ1ZtVjFyV1BKTXZleU4yN09nQ2JvcVRocWJkTEVQWXIxS1k1NVlfZFBlUjNBN2d2VzA?oc=5",
           "pubDate": "2025-12-21 23:50:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE05YlZva2lOaGx4dklkemY3TzNvNVQxQ1ZtVjFyV1BKTXZleU4yN09nQ2JvcVRocWJkTEVQWXIxS1k1NVlfZFBlUjNBN2d2VzA?oc=5\" target=\"_blank\">Claude Codeが切り拓いた新時代の開発スタイル : 新刊ピックアップ | 技術評論社</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート - Publickey",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUko3em05bnVwZExFcFZMcXVHLWxXbDNFRGRfcDhMOFplTW5RVWFfYnRHclcwTjRxR0xJZm9aV0RRWGlHUXFUc0xacWZ6QnpVa2ZqQVlLZEdIV19BbkdmS0ZTTG1uaDJUT3pmQmVYZzg0dzRwS1M1Q1lzTmZhd2NGTQ?oc=5",
           "pubDate": "2025-12-21 14:00:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUko3em05bnVwZExFcFZMcXVHLWxXbDNFRGRfcDhMOFplTW5RVWFfYnRHclcwTjRxR0xJZm9aV0RRWGlHUXFUc0xacWZ6QnpVa2ZqQVlLZEdIV19BbkdmS0ZTTG1uaDJUT3pmQmVYZzg0dzRwS1M1Q1lzTmZhd2NGTQ?oc=5\" target=\"_blank\">Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に - ZDNET Japan",
@@ -253,13 +253,6 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始 - ai-market.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5",
-          "pubDate": "2025-12-19 01:27:33",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mSWhOQUE1Q0ZvYXZPRUxCYTJ5TTdoWk84c3ZzdG41RU5INURFR21kdTg2N09GRHdhUUpsN0czM1J6TVBGRDVtcGFWa2twQkZtdENWQWFOUFlsRnZPWmNSNA?oc=5\" target=\"_blank\">xAI、多言語対応の音声エージェントAPI「Grok Voice Agent API」を開発者向けに提供開始</a>  ai-market.jp",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
-        },
-        {
           "title": "イーロン・マスクのxAI、AGI実現を「2026年」と表明（ビジネス＋IT） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdVNkcllkTVNlR0RGYU5oNWtBcFBLSi1XSG9ucHV2bTZ3WUlxNFljOUpudi1wcnBFUnpjeVFUdE10a2FiS3A5Rkw3ZDJGNVRfMnZmS0ItM2ZMdHJVWEFudTBNUzMzczMzLVZvcU9DRmg2SllDdkswQVpDOUozNlk?oc=5",
           "pubDate": "2025-12-18 12:40:05",
@@ -286,6 +279,13 @@
           "pubDate": "2025-12-13 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5\" target=\"_blank\">Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト）</a>  note",
           "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5\" target=\"_blank\">AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
     }
