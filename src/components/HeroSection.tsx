@@ -130,9 +130,6 @@ export const HeroSection = ({ topNews, loading }: HeroSectionProps) => {
                 />
             </div>
 
-            {/* Dark overlay for better text readability */}
-            <div className="absolute inset-0 bg-black/5" />
-
             {/* Gradient overlays for seamless blend */}
             <div className="absolute inset-0 bg-gradient-to-t from-[#141414] via-[#141414]/70 to-transparent" />
             <div className="absolute inset-0 bg-gradient-to-r from-[#141414]/95 via-transparent to-transparent" />
