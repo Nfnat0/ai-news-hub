@@ -2,12 +2,12 @@ import type { Company } from '../types';
 
 // AI企業（メインタブ）
 export const companies: Company[] = [
-    { key: 'google', displayName: 'Google', searchTerm: ['Google AI', 'Gemini', 'NotebookLM'] },
+    { key: 'google', displayName: 'Google', searchTerm: ['Google AI', 'Gemini', 'NotebookLM', 'Nano Banana'] },
     { key: 'openai', displayName: 'OpenAI', searchTerm: ['OpenAI', 'ChatGPT'] },
     { key: 'microsoft', displayName: 'Microsoft', searchTerm: ['Microsoft AI', 'Copilot AI'] },
     { key: 'anthropic', displayName: 'Anthropic', searchTerm: ['Anthropic', 'Claude'] },
     { key: 'amazon', displayName: 'Amazon', searchTerm: ['Amazon AI', 'AWS Bedrock'] },
-    { key: 'meta', displayName: 'Meta', searchTerm: ['Meta AI'] },
+    { key: 'meta', displayName: 'Meta', searchTerm: ['Meta AI', 'Llama'] },
     { key: 'xai', displayName: 'xAI', searchTerm: ['Grok', 'xAI'] },
 ];
 
