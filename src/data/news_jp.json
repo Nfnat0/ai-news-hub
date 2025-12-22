@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2025-12-22T09:18:41.806Z",
+  "fetchedAt": "2025-12-22T12:02:49.259Z",
   "locale": "jp",
   "companies": [
     {
       "company": "google",
       "displayName": "Google",
       "news": [
-        {
-          "title": "グーグル、「Gemini」移行完了を2026年に延期 Androidのアシスタント切り替えで - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNnVlQm5jclp6M2NTU0ZQd1JRdVhXcF9jdTA3SEx3S0Mtb0tyWHN6UERyN1F2SzJtZTNveFU2NFI2RVZzLVdiYjhMOFlHQmVIeWc?oc=5",
-          "pubDate": "2025-12-22 01:24:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNnVlQm5jclp6M2NTU0ZQd1JRdVhXcF9jdTA3SEx3S0Mtb0tyWHN6UERyN1F2SzJtZTNveFU2NFI2RVZzLVdiYjhMOFlHQmVIeWc?oc=5\" target=\"_blank\">グーグル、「Gemini」移行完了を2026年に延期 Androidのアシスタント切り替えで</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
-        },
         {
           "title": "グーグル、AI生成動画を「Gemini」で判別可能に--「SynthID」を利用 - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcE1tSHJaRUljanJUTzE1SmVYdjZXZERFM0JFUktiM1pYSVlRRlRGQ3BINEViSlJoOGlDbzR0VGJUblVKWlQxSUsyNXM0RWdZczVR?oc=5",
@@ -22,17 +15,24 @@
         },
         {
           "title": "Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現 - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBDRVdlcHNsQUdPbkRyeTBuSGxyZlNQdzhUOUhDbW5WWEpNODdGQ0hjWGppM2V0SXZockNRaDNxZkFXbmVyV1B3LWJrNXhQS2ZTSk5nVWFHdkZubUhpdGlValBsZGhTT0M3ZzM5SHdIa3I2UWk4WDY3RE5wOVk0WXlyQmxjNFdOYy1tZ2xxQU9SQm9ud0poN1pkZzNhQTA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDVtWXgzQ3ZQc2JJN19YTHF3dklsVk10X3RlVTlaNFhCSGktQnh3NkxhQ1ZBR3U5ZGNyZUF5SHRsSVR5Qk1jdUNvN1ZSX0JhR01sdXBqcU56QjIzRWVrS0xwT2FWNWdJQjd0S29Ub1dHZmdyN0RhTDVPeW5scldBRUY3S1BFMk9iNWpHc3lnaV9pRF84ajBZMm5jTXV1QQ?oc=5",
           "pubDate": "2025-12-22 00:33:58",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVBDRVdlcHNsQUdPbkRyeTBuSGxyZlNQdzhUOUhDbW5WWEpNODdGQ0hjWGppM2V0SXZockNRaDNxZkFXbmVyV1B3LWJrNXhQS2ZTSk5nVWFHdkZubUhpdGlValBsZGhTT0M3ZzM5SHdIa3I2UWk4WDY3RE5wOVk0WXlyQmxjNFdOYy1tZ2xxQU9SQm9ud0poN1pkZzNhQTA?oc=5\" target=\"_blank\">Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現</a>  Google Cloud",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWDVtWXgzQ3ZQc2JJN19YTHF3dklsVk10X3RlVTlaNFhCSGktQnh3NkxhQ1ZBR3U5ZGNyZUF5SHRsSVR5Qk1jdUNvN1ZSX0JhR01sdXBqcU56QjIzRWVrS0xwT2FWNWdJQjd0S29Ub1dHZmdyN0RhTDVPeW5scldBRUY3S1BFMk9iNWpHc3lnaV9pRF84ajBZMm5jTXV1QQ?oc=5\" target=\"_blank\">Woodstock: 株式投資アプリ「Woodstock」に Gemini を活用した AI エージェントを実装し、次世代の投資体験を実現</a>  Google Cloud",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
-          "title": "NotebookLMに新機能 表形式で出力できる「データテーブル」 - Impress Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tQ0lEY0ctR0ljVXNkdGY4MWtpM1FPYnVsazZCSHBKRkx2RzJQWklfeEVYWGl2WWpNVHVvYTAxaF9lRExFbHRjaXFCTFIybDJTcGZSRUwyaEhWS0x5S2JSVVhVcEE?oc=5",
-          "pubDate": "2025-12-22 00:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tQ0lEY0ctR0ljVXNkdGY4MWtpM1FPYnVsazZCSHBKRkx2RzJQWklfeEVYWGl2WWpNVHVvYTAxaF9lRExFbHRjaXFCTFIybDJTcGZSRUwyaEhWS0x5S2JSVVhVcEE?oc=5\" target=\"_blank\">NotebookLMに新機能 表形式で出力できる「データテーブル」</a>  Impress Watch",
+          "title": "GoogleのAIモデル「Gemini 3 Flash」とは？料金や使い方、3 Proとの違いを紹介！ - 株式会社SHIFT AI",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSzNIQWsxSUM0ZzNnZVFqTEIwaDRfaHlobURKNGVYSlE3OS1tM08yNU5EWkY1YTl2ZFlHcmNmYTA4MWF2VmNONjFR?oc=5",
+          "pubDate": "2025-12-19 10:26:38",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPSzNIQWsxSUM0ZzNnZVFqTEIwaDRfaHlobURKNGVYSlE3OS1tM08yNU5EWkY1YTl2ZFlHcmNmYTA4MWF2VmNONjFR?oc=5\" target=\"_blank\">GoogleのAIモデル「Gemini 3 Flash」とは？料金や使い方、3 Proとの違いを紹介！</a>  株式会社SHIFT AI",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
+          "title": "グーグル「NotebookLM」が表形式の出力に対応 - ケータイ Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbUotR0p6cEFXTjc1RzEyX2dybGtudTBiSHB1VGkyZ1lveUNOb0Y3VmppSzRjZDRaZlZySjQ4V1hjOGRBVlQ4cjh0ZjV2UGVEMFAtbjRTZ0s3OVh2T3NnN3o5bzZJRk0?oc=5",
+          "pubDate": "2025-12-19 04:01:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKbUotR0p6cEFXTjc1RzEyX2dybGtudTBiSHB1VGkyZ1lveUNOb0Y3VmppSzRjZDRaZlZySjQ4V1hjOGRBVlQ4cjh0ZjV2UGVEMFAtbjRTZ0s3OVh2T3NnN3o5bzZJRk0?oc=5\" target=\"_blank\">グーグル「NotebookLM」が表形式の出力に対応</a>  ケータイ Watch",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Gemini 3 Flash：スピードを追求した最先端知能 - blog.google",
@@ -48,10 +48,10 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "米政府のAI計画「ジェネシス・ミッション」にOpenAIやグーグルら24社が参加 その意義とは - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EMmduUXpXRnB0bW9rQ3NHWlZZeE42TTRmdVBRczZaNDlLcFpfTHRUem10WEhROUNmQ2xQNjE2aXRHY3ZZOVd1bkFNaHJaX0JNaVdtTXhVNGhFRktCWlpqLTQxSGRicGJVN1NKVXRveVFTTEdjT1pNNkFhX3ZVYUk?oc=5",
-          "pubDate": "2025-12-22 03:55:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EMmduUXpXRnB0bW9rQ3NHWlZZeE42TTRmdVBRczZaNDlLcFpfTHRUem10WEhROUNmQ2xQNjE2aXRHY3ZZOVd1bkFNaHJaX0JNaVdtTXhVNGhFRktCWlpqLTQxSGRicGJVN1NKVXRveVFTTEdjT1pNNkFhX3ZVYUk?oc=5\" target=\"_blank\">米政府のAI計画「ジェネシス・ミッション」にOpenAIやグーグルら24社が参加 その意義とは</a>  Yahoo!ニュース",
+          "title": "ChatGPTのパーソナライズ強化 文章の部分的な書き換えにも対応 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcWlmRWY2TW5vSWVnWHZXNnpsMmJEeV9SMXVsNG85NEczVnFWOWUxUUx3SFJKWElMSEtYZldXTHVDOHVndDBNeE1BNF9uTTBqN2pPVUpKaUIycnpPcU9PcHFtNVNnZzRNT0ZQaWNrMA?oc=5",
+          "pubDate": "2025-12-21 23:01:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcWlmRWY2TW5vSWVnWHZXNnpsMmJEeV9SMXVsNG85NEczVnFWOWUxUUx3SFJKWElMSEtYZldXTHVDOHVndDBNeE1BNF9uTTBqN2pPVUpKaUIycnpPcU9PcHFtNVNnZzRNT0ZQaWNrMA?oc=5\" target=\"_blank\">ChatGPTのパーソナライズ強化 文章の部分的な書き換えにも対応</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
@@ -62,25 +62,25 @@
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
-          "title": "OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5",
-          "pubDate": "2025-12-19 00:12:44",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVGxfSHFuSzdGNUNIMU54SFBJdDZzLUpPWFo3clZxZDkySC11MDhQNk13Wm9fdGttVDZsQXF1cDlaVW8tdWxQOWlyV2czNkszU0UtUFlwVjd6azlWUjhka3JGcDY3ZlJLWFlFZA?oc=5\" target=\"_blank\">OpenAIが最大15.5兆円の資金調達協議、企業価値130兆円も WSJ報道</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
-        },
-        {
-          "title": "OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開 長時間開発作業に対応 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMzhBQUJOcjBQTjRWaG03U0pUa3NNekg5WG1DaGdnWEhCcTdWM3AyVTJPQkNnNERCNWt1c2xlOEdWeEFhVDJ3X0Vud21xb3dabVd6SnkwcGlJWTMxNEpwV0diZklILXhkWkVTbThmRQ?oc=5",
-          "pubDate": "2025-12-18 22:21:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMzhBQUJOcjBQTjRWaG03U0pUa3NNekg5WG1DaGdnWEhCcTdWM3AyVTJPQkNnNERCNWt1c2xlOEdWeEFhVDJ3X0Vud21xb3dabVd6SnkwcGlJWTMxNEpwV0diZklILXhkWkVTbThmRQ?oc=5\" target=\"_blank\">OpenAI、エージェント型コーディング向け「GPT-5.2-Codex」公開 長時間開発作業に対応</a>  ITmedia",
+          "title": "ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5",
+          "pubDate": "2025-12-19 13:55:07",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzdBTE5VWl8tNU5kcF9EM1ByUTJUQm9aODJ2ZlpKR0FWTzJQQ2YyTXQyNko1cm1ZTEFxZ1FnNkdKUFZDblBTNXZldW5PNEczY0RwMVBGODdmMTJBeTRxMUx5UFZSWWkzaDQ3NHdaM0ZpVVpyMzZkLTc5Vm9jU00?oc=5\" target=\"_blank\">ChatGPTが「アプリストア化」へ OpenAIが「App Directory」を公開、AIプラットフォーム競争が本格化（ビジネス＋IT）</a>  Yahoo!ニュース",
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ - ダイヤモンド・オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWEpzSUlKSXhXYlc3RDBLY3EwSzFzRzhWaW5yQTZlSWZ5ckhQQ0E1UTFrM1pCZDNRc1RXeWZfaGl2UExrZW9oVGNrQ2vSAU9BVV95cUxONGF2bk8xYjdPMjdxWmxYbHRRUFJiVGpsQWRsM3NfVlo1S3dKX19BSXdtUE54dGlJaFlTcUd5T2dpMkkzVlA1ckZ0WFNwVF9J?oc=5",
-          "pubDate": "2025-12-18 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWEpzSUlKSXhXYlc3RDBLY3EwSzFzRzhWaW5yQTZlSWZ5ckhQQ0E1UTFrM1pCZDNRc1RXeWZfaGl2UExrZW9oVGNrQ2vSAU9BVV95cUxONGF2bk8xYjdPMjdxWmxYbHRRUFJiVGpsQWRsM3NfVlo1S3dKX19BSXdtUE54dGlJaFlTcUd5T2dpMkkzVlA1ckZ0WFNwVF9J?oc=5\" target=\"_blank\">「ディズニーとOpenAIの提携」で勝負あり…性能で勝る「Gemini 3の敗北」が現実味を帯びたワケ</a>  ダイヤモンド・オンライン",
+          "title": "ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHlkX1hhXzhZVGJOQlZlVFVvTWlvY2VoaGg3VlZsalcxaGIzdDc0c095VERKMU5ZbDBldzV4VnlVYTExRWQ2VjNjWVdFMkJEdmgzb0t0X0QyNmlrR08wOUlSSmVLWHJTcTV0bVV1R29lZzVOSTJHUU5jalVhRWRwNGJvSHlrZ2E4STk3NE1TUS1XT0JWYU5lX1poSHU3SnRHX0pr?oc=5",
+          "pubDate": "2025-12-19 10:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHlkX1hhXzhZVGJOQlZlVFVvTWlvY2VoaGg3VlZsalcxaGIzdDc0c095VERKMU5ZbDBldzV4VnlVYTExRWQ2VjNjWVdFMkJEdmgzb0t0X0QyNmlrR08wOUlSSmVLWHJTcTV0bVV1R29lZzVOSTJHUU5jalVhRWRwNGJvSHlrZ2E4STk3NE1TUS1XT0JWYU5lX1poSHU3SnRHX0pr?oc=5\" target=\"_blank\">ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード</a>  ギズモード・ジャパン",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "OpenAI、ChatGPT内でアプリストアを開始。Apple MusicやPhotoshopも対応 - テクノエッジ TechnoEdge",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91QVRNMGVDQTFTWDVyZUtKd3FjemMyeDNRN1hVaVctbE5mOHpienhscUhVSERXU2l0a2NwRXhnbUNrTmpHQ2pxRS1JUEZDQ2xkWUR6SnpDRHFVNTlzMVhOSEprRUNMOTA?oc=5",
+          "pubDate": "2025-12-19 01:54:22",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91QVRNMGVDQTFTWDVyZUtKd3FjemMyeDNRN1hVaVctbE5mOHpienhscUhVSERXU2l0a2NwRXhnbUNrTmpHQ2pxRS1JUEZDQ2xkWUR6SnpDRHFVNTlzMVhOSEprRUNMOTA?oc=5\" target=\"_blank\">OpenAI、ChatGPT内でアプリストアを開始。Apple MusicやPhotoshopも対応</a>  テクノエッジ TechnoEdge",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -216,7 +216,14 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvV21XS2E4ZExRVnJVWWhRN21XUGJPbDRXbGh4a19ZNUQyQWo5S2hRQS1XbU10eDRLZFJhOGU0UFp3bW9pOUlmNlI0T0VWd2tqdFY2ZGlLTnJITXdKYldhRnpmS0tMZw?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvV21XS2E4ZExRVnJVWWhRN21XUGJPbDRXbGh4a19ZNUQyQWo5S2hRQS1XbU10eDRLZFJhOGU0UFp3bW9pOUlmNlI0T0VWd2tqdFY2ZGlLTnJITXdKYldhRnpmS0tMZw?oc=5\" target=\"_blank\">「Meta AIグラス」が26年に日本上陸か 本社幹部が明かすAI時代の新体験</a>  日経クロストレンド",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+        },
+        {
+          "title": "シンガポールの国家AIモデル、米メタ「Llama」から中国製「Qwen」へ転換 — 地域言語対応で圧倒 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdG9HWUhfcmo4bDBtOU83Z1ZWel9vNjZ6VVdzUkFkamtxemdiYjRlM0xNX09FbThpM0FLODAzWWU1dkdIZ0VFdllpYWRxck9SbWV0QW53YmJHN3czUFdpeVR2Y0tiRDdMSzlncGZybGZWc2JTVDNhZjhzY05HTjg?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdG9HWUhfcmo4bDBtOU83Z1ZWel9vNjZ6VVdzUkFkamtxemdiYjRlM0xNX09FbThpM0FLODAzWWU1dkdIZ0VFdllpYWRxck9SbWV0QW53YmJHN3czUFdpeVR2Y0tiRDdMSzlncGZybGZWc2JTVDNhZjhzY05HTjg?oc=5\" target=\"_blank\">シンガポールの国家AIモデル、米メタ「Llama」から中国製「Qwen」へ転換 — 地域言語対応で圧倒</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         },
         {
           "title": "Meta、AIアシスタント「Meta AI」日本で段階的に提供開始 - AIsmiley",
@@ -230,7 +237,7 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NU3NRMkNHWEZ3RXNOdlZwUTQwODBxSlAyWndDZXBvZEwtTndrLWlCVVM2R1JGRUEyNTJFR2U2MEthbFhJSXVsLWN3Q09HbXZRUjVCMkptaGNXVmRCdVRzZmpB?oc=5",
           "pubDate": "2025-11-27 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NU3NRMkNHWEZ3RXNOdlZwUTQwODBxSlAyWndDZXBvZEwtTndrLWlCVVM2R1JGRUEyNTJFR2U2MEthbFhJSXVsLWN3Q09HbXZRUjVCMkptaGNXVmRCdVRzZmpB?oc=5\" target=\"_blank\">Meta、AIアシスタント「Meta AI」の日本提供を正式発表──Messenger・Instagram・WhatsAppで順次利用可能に</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
@@ -238,13 +245,6 @@
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
-        },
-        {
-          "title": "Meta AI、日本上陸 インスタやFacebookで利用可能に - Impress Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50Z1lBRURYamJ2WlVtUEI3aTlNS1ZRWmNNa0RaeVN3cFh0V3Z2Tl9nWGJzOXBJS1VDY0dkSGMxZjVCX2poeFBXTFpwcXRwcWpWd1RCNXNJVGhhR2IyM3Rod3Nhczk?oc=5",
-          "pubDate": "2025-11-25 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE50Z1lBRURYamJ2WlVtUEI3aTlNS1ZRWmNNa0RaeVN3cFh0V3Z2Tl9nWGJzOXBJS1VDY0dkSGMxZjVCX2poeFBXTFpwcXRwcWpWd1RCNXNJVGhhR2IyM3Rod3Nhczk?oc=5\" target=\"_blank\">Meta AI、日本上陸 インスタやFacebookで利用可能に</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -278,14 +278,14 @@
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGUXR1d1prci1yaGVTZ3UzcDZHeEsyMEUtdllaRzhiQjM4Zmh5MXU3MUFIZDFHZFE3aUlzUDVNX21hbWxScXhsdDJ3?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGUXR1d1prci1yaGVTZ3UzcDZHeEsyMEUtdllaRzhiQjM4Zmh5MXU3MUFIZDFHZFE3aUlzUDVNX21hbWxScXhsdDJ3?oc=5\" target=\"_blank\">【無料】Grokで画像生成をする方法！コツやコピペで使えるプロンプト、注意点も紹介</a>  株式会社SHIFT AI",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
           "title": "Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト） - note",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5",
           "pubDate": "2025-12-13 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5\" target=\"_blank\">Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト）</a>  note",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         }
       ]
     }
