@@ -1,11 +1,25 @@
 {
-  "fetchedAt": "2025-12-22T15:44:14.932Z",
+  "fetchedAt": "2025-12-22T21:39:30.912Z",
   "locale": "en",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
+        {
+          "title": "Cursor owner Anysphere agrees to buy Graphite code review tool - InfoWorld",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazU2Z0R2Um1BWjIzVnllU2JnRGM5cVJiMUMxREhJYVRoWlZDM2JHZXpjbTZlM0xneVRHbkVxaGZTQmZPTkNYNnRhU2laU294ZTFaX2FlOGJ6T0dLUm1qeXdvZ0JHUmxtdjVMQUx2b29qNWdmQXFGRlItUjk4MWtYTDlVckVYTkVSaDJ0ZzY5VmxFcFdnS3Q3SEJ2YTlCSmxpMVZiTWc3VUlxaTNCdlE?oc=5",
+          "pubDate": "2025-12-22 15:17:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOazU2Z0R2Um1BWjIzVnllU2JnRGM5cVJiMUMxREhJYVRoWlZDM2JHZXpjbTZlM0xneVRHbkVxaGZTQmZPTkNYNnRhU2laU294ZTFaX2FlOGJ6T0dLUm1qeXdvZ0JHUmxtdjVMQUx2b29qNWdmQXFGRlItUjk4MWtYTDlVckVYTkVSaDJ0ZzY5VmxFcFdnS3Q3SEJ2YTlCSmxpMVZiTWc3VUlxaTNCdlE?oc=5\" target=\"_blank\">Cursor owner Anysphere agrees to buy Graphite code review tool</a>  InfoWorld",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Cursor strengthens AI coding platform with acquisition of Graphite - Techzine Global",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFN4a3BJM0RlYm51Q1JGeVA1Tm5MaVZReGRxb3lrUnlCQkFsdEV4SU5RVzN4X3doQlJ1ODk3Q21kWTZKVEpEQ0ZISFlRT0R3V2FJUmx1QWd1dTZoYlMtUFFwN21zTjVIQWdQZzN2dlA1aElvWHAxWFhNQUF0YzZPelprc2llYXVUajVoUmtMREhMTDNZcEFfMjViT0tkLWVYNmdWNkxsOElSOXI5OG9z?oc=5",
+          "pubDate": "2025-12-22 11:45:11",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONFN4a3BJM0RlYm51Q1JGeVA1Tm5MaVZReGRxb3lrUnlCQkFsdEV4SU5RVzN4X3doQlJ1ODk3Q21kWTZKVEpEQ0ZISFlRT0R3V2FJUmx1QWd1dTZoYlMtUFFwN21zTjVIQWdQZzN2dlA1aElvWHAxWFhNQUF0YzZPelprc2llYXVUajVoUmtMREhMTDNZcEFfMjViT0tkLWVYNmdWNkxsOElSOXI5OG9z?oc=5\" target=\"_blank\">Cursor strengthens AI coding platform with acquisition of Graphite</a>  Techzine Global",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
         {
           "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
@@ -14,32 +28,18 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "Cursor acquires AI code review startup Graphite - SiliconANGLE",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5",
-          "pubDate": "2025-12-19 23:48:30",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUNmNEtmUThMUXlXak95SW5VNjFfNHh4bjRFNklOM1NTamNKaWpDd1d3bjNyaE4zSDNZVnZWa0VhX2JzRmVBdjU5M2VaM0ktU2hLVm5CTjhPMVdlUjZHLW5Ca1VldHlIaWhIMGc4Nkd2RzZrUVY4Ql9NeFhOVWE4QTRjcmlIMHh6NmRWWg?oc=5\" target=\"_blank\">Cursor acquires AI code review startup Graphite</a>  SiliconANGLE",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
           "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
           "pubDate": "2025-12-19 21:51:22",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
-        },
-        {
-          "title": "Scoop: Cursor buys code review platform Graphite - Axios",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5",
-          "pubDate": "2025-12-19 17:42:37",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5\" target=\"_blank\">Scoop: Cursor buys code review platform Graphite</a>  Axios",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
           "pubDate": "2025-12-19 15:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -59,13 +59,6 @@
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5",
           "pubDate": "2025-12-03 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5\" target=\"_blank\">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
-        },
-        {
-          "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0xSWkNoNkt5a3ZMZzE2S2lRRWRpSjRrSkZvZ0VSakNMcjhEVzZPU0VEb1BPbXlNcTlaTWJnWmRTNll5UW9aYmtuY19VMGxyVXFGWUZYOUk2X1lMY1F2NDhtTzBsQklqZktYZkFNc0NCd21RX052NE1DRUduTTZIM2I0WXVCVVlkQW1SZHZVYklwQUVfYmJXQ05QZDNwTjNwMUo4Z1ZMc29LV21RU1U2T2x5WkFKU1JkQWNjTTlYMA?oc=5",
-          "pubDate": "2025-11-20 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0xSWkNoNkt5a3ZMZzE2S2lRRWRpSjRrSkZvZ0VSakNMcjhEVzZPU0VEb1BPbXlNcTlaTWJnWmRTNll5UW9aYmtuY19VMGxyVXFGWUZYOUk2X1lMY1F2NDhtTzBsQklqZktYZkFNc0NCd21RX052NE1DRUduTTZIM2I0WXVCVVlkQW1SZHZVYklwQUVfYmJXQ05QZDNwTjNwMUo4Z1ZMc29LV21RU1U2T2x5WkFKU1JkQWNjTTlYMA?oc=5\" target=\"_blank\">Evolving GitHub Copilot’s next edit suggestions through custom model training</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
@@ -74,6 +67,13 @@
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5\" target=\"_blank\">How to write a great agents.md: Lessons from over 2,500 repositories</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
+          "title": "Raptor mini is rolling out in public preview for GitHub Copilot - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVBNcWE2VXBoS2w1a2haelJHQk9aazBBM0Z4WTFIdm1CVERSYW5IYWlfX05MRGJIWXBCaTNCODFHZjNoZjVLM1M0bVpfWFVzS1M5NFMzeDN5VVFfRXZFdVg0TUpiN2NKb2JkTjRyUno5d19Zd2NlVkVoUnRoS3VpaFRGR05DbUhaMV9IS3duTGI3QjVoY0ZfbHA3SUpxaFlheHo2VnVHQi0?oc=5",
+          "pubDate": "2025-11-10 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVBNcWE2VXBoS2w1a2haelJHQk9aazBBM0Z4WTFIdm1CVERSYW5IYWlfX05MRGJIWXBCaTNCODFHZjNoZjVLM1M0bVpfWFVzS1M5NFMzeDN5VVFfRXZFdVg0TUpiN2NKb2JkTjRyUno5d19Zd2NlVkVoUnRoS3VpaFRGR05DbUhaMV9IS3duTGI3QjVoY0ZfbHA3SUpxaFlheHo2VnVHQi0?oc=5\" target=\"_blank\">Raptor mini is rolling out in public preview for GitHub Copilot</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 - The GitHub Blog",
@@ -130,17 +130,17 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
+          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5",
           "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services (AWS)",
+          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5",
           "pubDate": "2025-12-10 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
