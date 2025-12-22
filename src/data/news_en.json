@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-22T15:22:00.296Z",
+  "fetchedAt": "2025-12-22T21:18:26.354Z",
   "locale": "en",
   "companies": [
     {
@@ -48,11 +48,18 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI sees better margins on business sales, report says - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS240aEJCTWVjWW1QV050NWY5S0pibHE0NUp3YXJsYW4tMHY4cHp1cGVCNUtCVmlFdElVM0VXU1ZTaWlZWG1URkF4b2FZR2I4SGg2YkZEdFNlb3M2WF9sQWljMzhLeHBmUzhOem1HQXVDMmpXRUh0MVdxNnBjQ0pCQjVuSUlXSG4zNVlLLXlMeVdhNllT?oc=5",
-          "pubDate": "2025-12-21 23:33:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQS240aEJCTWVjWW1QV050NWY5S0pibHE0NUp3YXJsYW4tMHY4cHp1cGVCNUtCVmlFdElVM0VXU1ZTaWlZWG1URkF4b2FZR2I4SGg2YkZEdFNlb3M2WF9sQWljMzhLeHBmUzhOem1HQXVDMmpXRUh0MVdxNnBjQ0pCQjVuSUlXSG4zNVlLLXlMeVdhNllT?oc=5\" target=\"_blank\">OpenAI sees better margins on business sales, report says</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "title": "You can now tweak how warm and enthusiastic ChatGPT's responses are - Engadget",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDhOLU9ObVJFY1JuNWwxVGFWNlNlUU92Sno4Z3JSQ2R1TFZVM1o4ZmpRdk8tNW03Y0IzWm45bkxoMHlLZTNjalpZdXRBN1JJTl9YdkdoYThLMF80ZkFYaXJiYnZuMXJ3NGQ0c1VIMDNGRzFrS3E4YUNWSGUwQlhuYm5DOEppbUNQcVZHd1Q0U0M2cDNKbTN5c2tMSkVWUUJPZDNUNkVWc05ocU1INGc?oc=5",
+          "pubDate": "2025-12-21 20:40:04",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDhOLU9ObVJFY1JuNWwxVGFWNlNlUU92Sno4Z3JSQ2R1TFZVM1o4ZmpRdk8tNW03Y0IzWm45bkxoMHlLZTNjalpZdXRBN1JJTl9YdkdoYThLMF80ZkFYaXJiYnZuMXJ3NGQ0c1VIMDNGRzFrS3E4YUNWSGUwQlhuYm5DOEppbUNQcVZHd1Q0U0M2cDNKbTN5c2tMSkVWUUJPZDNUNkVWc05ocU1INGc?oc=5\" target=\"_blank\">You can now tweak how warm and enthusiastic ChatGPT's responses are</a>  Engadget",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWXEtTjBIdGdJd3RuelphYXl1TG5JT0R1VV93d0JnNUJwUmRTeXh3aEdGQmg0NldYQWNLM250eHRtWGJpd0drVkU0ZkVLSGx2dFI4XzhXSUF4YmRVTWltT2tIVElwQmR4RzFsTVcxdy1ZaTRYeUpfSDAwaw?oc=5",
+          "pubDate": "2025-12-21 11:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWXEtTjBIdGdJd3RuelphYXl1TG5JT0R1VV93d0JnNUJwUmRTeXh3aEdGQmg0NldYQWNLM250eHRtWGJpd0drVkU0ZkVLSGx2dFI4XzhXSUF4YmRVTWltT2tIVElwQmR4RzFsTVcxdy1ZaTRYeUpfSDAwaw?oc=5\" target=\"_blank\">Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model</a>  Forbes",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
           "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level - TechCrunch",
@@ -73,14 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeU1GSjVLZEE5cDVGODh2VTVTajB1dURPVHh1UXdrMjBId2FscHBpOS1NRE9US2lGQTV6cW96RGl3Nm9RVFZxMTRuOXI2ZTgyUk9IRGpBNURRSGVuak9iSHo2aGFiV0Y1MDNnTXJ3eWxPUlM0OEFoX0FDWWxGQkVtekRYZXI?oc=5",
           "pubDate": "2025-12-20 12:00:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPeU1GSjVLZEE5cDVGODh2VTVTajB1dURPVHh1UXdrMjBId2FscHBpOS1NRE9US2lGQTV6cW96RGl3Nm9RVFZxMTRuOXI2ZTgyUk9IRGpBNURRSGVuak9iSHo2aGFiV0Y1MDNnTXJ3eWxPUlM0OEFoX0FDWWxGQkVtekRYZXI?oc=5\" target=\"_blank\">Opinion | The A.I. Models Are Competing for Your Affection</a>  The New York Times",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
-          "title": "Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWXEtTjBIdGdJd3RuelphYXl1TG5JT0R1VV93d0JnNUJwUmRTeXh3aEdGQmg0NldYQWNLM250eHRtWGJpd0drVkU0ZkVLSGx2dFI4XzhXSUF4YmRVTWltT2tIVElwQmR4RzFsTVcxdy1ZaTRYeUpfSDAwaw?oc=5",
-          "pubDate": "2025-12-19 08:44:32",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWXEtTjBIdGdJd3RuelphYXl1TG5JT0R1VV93d0JnNUJwUmRTeXh3aEdGQmg0NldYQWNLM250eHRtWGJpd0drVkU0ZkVLSGx2dFI4XzhXSUF4YmRVTWltT2tIVElwQmR4RzFsTVcxdy1ZaTRYeUpfSDAwaw?oc=5\" target=\"_blank\">Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -89,32 +89,32 @@
       "displayName": "Microsoft",
       "news": [
         {
+          "title": "Microsoft Copilot AI Holiday Ad Faces Backlash for Unrealistic Depictions - WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWdTZFhvVS1PdjMtX28wSzhTV1dsajc3UllaQXg2cjh1eWlKUTg0S2F5eUVnVVE5VGJTLXM4VUxEZk1TQ2YxSWxpLWdEVWFfME9ZOXItSmpMek9vMVN1aG00RHBYTmk0QTV6ZlF2bWQ5SFBZZnRUYmxxcW1teGEzelNjSkRsRVJrQnNIbms4OHhJVldTS0RQUWlQdVBMWmJ3M1o0?oc=5",
+          "pubDate": "2025-12-22 14:15:20",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWdTZFhvVS1PdjMtX28wSzhTV1dsajc3UllaQXg2cjh1eWlKUTg0S2F5eUVnVVE5VGJTLXM4VUxEZk1TQ2YxSWxpLWdEVWFfME9ZOXItSmpMek9vMVN1aG00RHBYTmk0QTV6ZlF2bWQ5SFBZZnRUYmxxcW1teGEzelNjSkRsRVJrQnNIbms4OHhJVldTS0RQUWlQdVBMWmJ3M1o0?oc=5\" target=\"_blank\">Microsoft Copilot AI Holiday Ad Faces Backlash for Unrealistic Depictions</a>  WebProNews",
+          "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
+        },
+        {
           "title": "LG TVs Can Delete Microsoft Copilot AI App in the Future - TechPowerUp",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5",
           "pubDate": "2025-12-19 10:41:41",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2pLdHNRRml2b0FvSHJwVXl3bkFPMzFXdVJqQTZLc1RxbkR1VUNmeWpDcVZWaGJycnd5X0RVOE9TbTlkYkhURGhFb09YT3FJX2NuQjdZcE5rQ2JpSFlRS1A3R254cjl6aXlyUFVmREhhNVFrRDl3aWRZRkg3UGxsRkhCa0YwUDB2TWVtcXpqbV92dzlaY0HSAZsBQVVfeXFMTUgyM1FrV0w2Sm52b29EcEdLWTBBc1kzSkNtNWRBNzVPbW93clNUMVhEY0V2NU0teEUxSGt2cU9YaFAzSENUMjVkaTJPdU5jRjBxY1hJcjdCanMwWVBYTGVUVGtDVkFiY0pidFFVaVNZb1Y2R0R0RnBaaHV2UXdEMUNrOE5xd3lRUmNGOTgwamZRanlhbEtkVmxaeFU?oc=5\" target=\"_blank\">LG TVs Can Delete Microsoft Copilot AI App in the Future</a>  TechPowerUp",
-          "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
           "title": "Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do' - TechRadar",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5",
-          "pubDate": "2025-12-19 04:00:00",
+          "pubDate": "2025-12-19 04:06:12",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5\" target=\"_blank\">Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do'</a>  TechRadar",
-          "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
-        },
-        {
-          "title": "Microsoft made another Copilot ad where nothing actually works - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
-          "pubDate": "2025-12-18 15:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         },
         {
           "title": "AI doom isn’t just sci‑fi: Microsoft exec warns risks are “nearly absolute” and could force the company to abandon AI - Windows Central",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5",
           "pubDate": "2025-12-13 15:24:13",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5\" target=\"_blank\">AI doom isn’t just sci‑fi: Microsoft exec warns risks are “nearly absolute” and could force the company to abandon AI</a>  Windows Central",
-          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
           "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot - extremetech.com",
@@ -134,7 +134,7 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0k2czdZTFlTOS00cjM5NFNmM1RkdC1JdFFFQ3NKTWZJR1NuMjdKSXlpR3E2TFZKTUkyTU80LWlZbG1NS1QycG0zTFVsUlJFVXdmZXpuQkhqM3pMc2Y5RndydkVsZGFGMnlWOWc3WlZwdEZnbmx3ZFRhRVdtc0s5VW1QZmtNYWpqOWFJN3FWYlJxUUFOcFZaQTNYYjlBUjFl?oc=5",
           "pubDate": "2025-12-21 10:23:44",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0k2czdZTFlTOS00cjM5NFNmM1RkdC1JdFFFQ3NKTWZJR1NuMjdKSXlpR3E2TFZKTUkyTU80LWlZbG1NS1QycG0zTFVsUlJFVXdmZXpuQkhqM3pMc2Y5RndydkVsZGFGMnlWOWc3WlZwdEZnbmx3ZFRhRVdtc0s5VW1QZmtNYWpqOWFJN3FWYlJxUUFOcFZaQTNYYjlBUjFl?oc=5\" target=\"_blank\">Anthropic's Claude Opus 4.5 can tackle some tasks lasting nearly five hours</a>  the-decoder.com",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension - PCMag",
@@ -148,20 +148,20 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWVVGZmZvbWRFYU1oZUFNd1BfWlZuT3FoaVNSUlp5Y0RjSUxfWlZWTmdJcGtsZ0NxblU0MkZTaXo1NVh2MDVGcWRXcHdkMVB3d3c?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWVVGZmZvbWRFYU1oZUFNd1BfWlZuT3FoaVNSUlp5Y0RjSUxfWlZWTmdJcGtsZ0NxblU0MkZTaXo1NVh2MDVGcWRXcHdkMVB3d3c?oc=5\" target=\"_blank\">Introducing Bloom: an open source tool for automated behavioral evaluations</a>  Anthropic",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Anthropic wants to tame workplace AI - Axios",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMDF4VUdzdXdGS0pQREtvQzh3bE1lNW5IMzVWTVFscWx4VTFHT2h1UTR1Mk0wc240VTZfZlVBeWtKRG9mLTlWVGo0cnhIVC11RUVIeXp4eHdMbmstcGltUmlxSUZsV2VtX3l1TmdJN0dkLWVYNzRwYkNiVG9QaDQ?oc=5",
+          "pubDate": "2025-12-18 17:01:40",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMDF4VUdzdXdGS0pQREtvQzh3bE1lNW5IMzVWTVFscWx4VTFHT2h1UTR1Mk0wc240VTZfZlVBeWtKRG9mLTlWVGo0cnhIVC11RUVIeXp4eHdMbmstcGltUmlxSUZsV2VtX3l1TmdJN0dkLWVYNzRwYkNiVG9QaDQ?oc=5\" target=\"_blank\">Anthropic wants to tame workplace AI</a>  Axios",
           "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
-          "title": "Protecting the well-being of our users - Anthropic",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BN3RyakFLcEticlluWUZoSEJQVW5LdU5GU0sxT2NGZEJvSGhhWXdWbEVyejVqOXpHeGxNdm5WM183VlAtamxmLWtWeVRuMmxmOUV4NHJrQUVYTHJoMXN2VlZqaUFUaEYwZVdMQ01B?oc=5",
-          "pubDate": "2025-12-18 23:22:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9BN3RyakFLcEticlluWUZoSEJQVW5LdU5GU0sxT2NGZEJvSGhhWXdWbEVyejVqOXpHeGxNdm5WM183VlAtamxmLWtWeVRuMmxmOUV4NHJrQUVYTHJoMXN2VlZqaUFUaEYwZVdMQ01B?oc=5\" target=\"_blank\">Protecting the well-being of our users</a>  Anthropic",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
-        },
-        {
           "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNTm0yNUpRMlc0bU5NVnJlaG5zYjZxVk5YZjVrSmFrSFVMNGtOZGlSNkpMakFDVDV2dF8xWWx6cll4RlYtZU5hclF5R1JvNFF2UTdMVVZCOGVPOXhTVVZyOFpxQTA1WlRFZEo1MmJUc2NJZlNWUHI2VzItdmFZTTFjWUZJa1JyTXVMU0Vpa0xVRGNHWC1YWEd0aHRjYXNkTGtBcGJBaUpMTXg5ejltY1VXTUdDa2tXUXJ3SFR3YmhrQ2R0RnRYX1dSQkZueDRXTnpCUFJpVXUtQU5TY2pzeWlJMFU2WkRDelBpN3RIb0d0R1JZUldnb2JuRjUwQXpfeUFZNG50V3FwZU16YUhxbE9YMUtocklLYTFLd2hWTU52ekZYTFVIMjk5MmZncC03Sl9nN2VnNG1HOVEwU29Qc2R2aGw2SzYwNHp2UnBHYmFiU01kQmx2Sk1Uc0dfREctQXZsal9jUnVBZE1JSTQ5bWlzSGtDMGdBZlExeE9QdVVieDhBSWF2VGlJd2xR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOSnpwU2Nyb1VCcGRCc3I2UmFDYlhFT21JYUJUdmNLMW50NW9lcGVHNVVCdXN0NUVCZXNHU05qcWdSM29GSFdPUzVENmt3V0huelhpQ1l6SHJWbFQwV0VFZWJDNGlZb1Q3akFSUzNzTlpSbXhkYVNrVVE0eFVSSFdFT0VJM3dtQ2g5RkRkbFdqRUtTN0JMVV9kMEF1aXJibU12ZTlqeTU2QVZBNFMtdV9fYlk3R0FIMWlxVnZZNk8yVGpjakxmV3dBM2RQQWRRV3RYZFlsLWhjZVFLazBvajZkVlFSSkRKWVAxOWZ6bi1hejh1bjE1aW5nbFl6SWVfR2lLd09MMnVseVVjQVN3X1hXNGxDcXlnLWZWUWRZWUNCeDZGNHBRNzh0dlNkMHQ2RHJSOFlqeWQxTi15aGhzZkd4TGFFb3JzZTg5UEstMjJkRDlrdXB2RzFMai00Q1NWR2RCUzJBaE1BbHpKUjUyR1E0YkdQbldCRk9MOFRDa0dUWUE0WjJYMVNFQ2pn?oc=5",
           "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxNTm0yNUpRMlc0bU5NVnJlaG5zYjZxVk5YZjVrSmFrSFVMNGtOZGlSNkpMakFDVDV2dF8xWWx6cll4RlYtZU5hclF5R1JvNFF2UTdMVVZCOGVPOXhTVVZyOFpxQTA1WlRFZEo1MmJUc2NJZlNWUHI2VzItdmFZTTFjWUZJa1JyTXVMU0Vpa0xVRGNHWC1YWEd0aHRjYXNkTGtBcGJBaUpMTXg5ejltY1VXTUdDa2tXUXJ3SFR3YmhrQ2R0RnRYX1dSQkZueDRXTnpCUFJpVXUtQU5TY2pzeWlJMFU2WkRDelBpN3RIb0d0R1JZUldnb2JuRjUwQXpfeUFZNG50V3FwZU16YUhxbE9YMUtocklLYTFLd2hWTU52ekZYTFVIMjk5MmZncC03Sl9nN2VnNG1HOVEwU29Qc2R2aGw2SzYwNHp2UnBHYmFiU01kQmx2Sk1Uc0dfREctQXZsal9jUnVBZE1JSTQ5bWlzSGtDMGdBZlExeE9QdVVieDhBSWF2VGlJd2xR?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxOSnpwU2Nyb1VCcGRCc3I2UmFDYlhFT21JYUJUdmNLMW50NW9lcGVHNVVCdXN0NUVCZXNHU05qcWdSM29GSFdPUzVENmt3V0huelhpQ1l6SHJWbFQwV0VFZWJDNGlZb1Q3akFSUzNzTlpSbXhkYVNrVVE0eFVSSFdFT0VJM3dtQ2g5RkRkbFdqRUtTN0JMVV9kMEF1aXJibU12ZTlqeTU2QVZBNFMtdV9fYlk3R0FIMWlxVnZZNk8yVGpjakxmV3dBM2RQQWRRV3RYZFlsLWhjZVFLazBvajZkVlFSSkRKWVAxOWZ6bi1hejh1bjE1aW5nbFl6SWVfR2lLd09MMnVseVVjQVN3X1hXNGxDcXlnLWZWUWRZWUNCeDZGNHBRNzh0dlNkMHQ2RHJSOFlqeWQxTi15aGhzZkd4TGFFb3JzZTg5UEstMjJkRDlrdXB2RzFMai00Q1NWR2RCUzJBaE1BbHpKUjUyR1E0YkdQbldCRk9MOFRDa0dUWUE0WjJYMVNFQ2pn?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
           "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         }
       ]
@@ -253,17 +253,17 @@
       "displayName": "xAI",
       "news": [
         {
+          "title": "Grok Imagine’s new \"Let It Snow\" template is a one-tap snowball fight - PiunikaWeb",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BV1FNOHdoc3puQVBidjE0T2prZkRCLUtPRkVBcjlJQjJxUVVYbVkyVm43ZWxMODJpVk92Wmtkb012ZFlEYzVBUXdRd0xkUjFldmlTQmJxYWI5MGI1d2RvZHdTRmRtOE1UYXhpLTlkUjJmcG1oX0tn?oc=5",
+          "pubDate": "2025-12-22 11:42:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1BV1FNOHdoc3puQVBidjE0T2prZkRCLUtPRkVBcjlJQjJxUVVYbVkyVm43ZWxMODJpVk92Wmtkb012ZFlEYzVBUXdRd0xkUjFldmlTQmJxYWI5MGI1d2RvZHdTRmRtOE1UYXhpLTlkUjJmcG1oX0tn?oc=5\" target=\"_blank\">Grok Imagine’s new \"Let It Snow\" template is a one-tap snowball fight</a>  PiunikaWeb",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
           "title": "xAI's Grok 4.20 Launch: Major AI Capabilities Upgrade Set for Late December 2025 - Blockchain News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVN3OS1sVXpaTmtCaW9zb1FRTjY2TGtJNzFzQnZ0Mlp1bzM2ZzlwZnI2cHZtSlg0VkMyYjM4aUphRHhjck9KWUpvNWE4bjR0UGRRdmtvQVI5ZUQ3a2pRZmlKdUFTZEIyTW05Zy02bkVYUDE2T0ZfSjdFLTlEaEhubmRnZ0tZa0RZeHZwTWlWTHhYaGFXYTQ2V1hzOGNoYVVjX3BBQVpsaDZtS2gwZ3k4?oc=5",
           "pubDate": "2025-12-21 21:08:58",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORVN3OS1sVXpaTmtCaW9zb1FRTjY2TGtJNzFzQnZ0Mlp1bzM2ZzlwZnI2cHZtSlg0VkMyYjM4aUphRHhjck9KWUpvNWE4bjR0UGRRdmtvQVI5ZUQ3a2pRZmlKdUFTZEIyTW05Zy02bkVYUDE2T0ZfSjdFLTlEaEhubmRnZ0tZa0RZeHZwTWlWTHhYaGFXYTQ2V1hzOGNoYVVjX3BBQVpsaDZtS2gwZ3k4?oc=5\" target=\"_blank\">xAI's Grok 4.20 Launch: Major AI Capabilities Upgrade Set for Late December 2025</a>  Blockchain News",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "Elon Musk claims xAI could surpass human intelligence by 2026: Report | Technology News - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3lhODZ6WTBLUnhLWGdRQ0w3VkNRbGlXOFhUdzdkbEhWY3NrYlZyYVpsUy1vMFBMVW5hT0gtdzZKZDFDUW51ckxyV0dZUF9nc2ROc3Z1V0ltc09iZGtxaGJyTGRjaVBnSll2c1VpVFZaWnpMSFV2NUFSS09MaWdWN3FxTVAwQ0RUX3dPZ2toX1U3LWl6WEFKUXJUbDFHMmxiTmlTQWtTRy1TbUNYZmxBTzZnUkNhX0RiZmNqMmJQZWZHZEZuSW14WjRZSdIB0AFBVV95cUxObDFtS0xrc3VsM1JjWE8yeUpjRi11Q1FFelB3UXdtWDlSZU85WEo5TFFYeExTY25PSFZWV2Y2eVBUTldLU0NBeU9Zd2dPVzRBVXRmbDF0elB6WldfV2ZFOUw1eGlOenV4MzlNYlJ0WEpZU0ZkOGRneENuRXFVMjAyRWVQVkh4MkpyRzRqS0pDQm1Wc2R3RFBLRnhuTmN6bkk5UXZsbTk2RkpJSWpTaHZZbXZyQkFMWEsyQ1R2M3BpY0FMQzVVQVh6TnRtYUpkYzIw?oc=5",
-          "pubDate": "2025-12-19 13:52:41",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3lhODZ6WTBLUnhLWGdRQ0w3VkNRbGlXOFhUdzdkbEhWY3NrYlZyYVpsUy1vMFBMVW5hT0gtdzZKZDFDUW51ckxyV0dZUF9nc2ROc3Z1V0ltc09iZGtxaGJyTGRjaVBnSll2c1VpVFZaWnpMSFV2NUFSS09MaWdWN3FxTVAwQ0RUX3dPZ2toX1U3LWl6WEFKUXJUbDFHMmxiTmlTQWtTRy1TbUNYZmxBTzZnUkNhX0RiZmNqMmJQZWZHZEZuSW14WjRZSdIB0AFBVV95cUxObDFtS0xrc3VsM1JjWE8yeUpjRi11Q1FFelB3UXdtWDlSZU85WEo5TFFYeExTY25PSFZWV2Y2eVBUTldLU0NBeU9Zd2dPVzRBVXRmbDF0elB6WldfV2ZFOUw1eGlOenV4MzlNYlJ0WEpZU0ZkOGRneENuRXFVMjAyRWVQVkh4MkpyRzRqS0pDQm1Wc2R3RFBLRnhuTmN6bkk5UXZsbTk2RkpJSWpTaHZZbXZyQkFMWEsyQ1R2M3BpY0FMQzVVQVh6TnRtYUpkYzIw?oc=5\" target=\"_blank\">Elon Musk claims xAI could surpass human intelligence by 2026: Report | Technology News</a>  Hindustan Times",
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
