@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-22T14:14:00.287Z",
+  "fetchedAt": "2025-12-22T18:52:06.438Z",
   "locale": "jp",
   "companies": [
     {
@@ -128,7 +128,43 @@
     {
       "company": "kiro",
       "displayName": "AWS Kiro",
-      "news": []
+      "news": [
+        {
+          "title": "AWS は、Kiro、Security、DevOps という 3 つの最先端エージェントをリリースし、AI をツールから「チームの自律的なメンバー」へと変革します。 - Mashdigi",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaVNTTHhUSFhxTjJKR2hGMFF0d2g1NXZ2bTByWmxITU1Wa1FjTEpsb1d6dFJrY2I3dWtNYmlTWW9NQzlDY2ZlQnpuZFhEUUM3MHVVSWNrRzg5RGk5czNvdVNvc2R2THNON1NCTWpPcjhaSDlLNmFOYm1Pa3VERzZGTlp4RGx1WjNYLUUtRUJzLXJiSFRBVHFJSXhhbVk5REFUZ3E4eURVTUNPbVd2ZmpBdWUwS1FfX0lPX0xGamN6SG5OMTZGNVFQaUk5N2ZlUWt0WjdiZUpYNEtkVUFGc2t0eTVZYzhkeGZkZHV2eG9mOExKMUFITEpsMVpuZw?oc=5",
+          "pubDate": "2025-12-22 04:01:34",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaVNTTHhUSFhxTjJKR2hGMFF0d2g1NXZ2bTByWmxITU1Wa1FjTEpsb1d6dFJrY2I3dWtNYmlTWW9NQzlDY2ZlQnpuZFhEUUM3MHVVSWNrRzg5RGk5czNvdVNvc2R2THNON1NCTWpPcjhaSDlLNmFOYm1Pa3VERzZGTlp4RGx1WjNYLUUtRUJzLXJiSFRBVHFJSXhhbVk5REFUZ3E4eURVTUNPbVd2ZmpBdWUwS1FfX0lPX0xGamN6SG5OMTZGNVFQaUk5N2ZlUWt0WjdiZUpYNEtkVUFGc2t0eTVZYzhkeGZkZHV2eG9mOExKMUFITEpsMVpuZw?oc=5\" target=\"_blank\">AWS は、Kiro、Security、DevOps という 3 つの最先端エージェントをリリースし、AI をツールから「チームの自律的なメンバー」へと変革します。</a>  Mashdigi",
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+        },
+        {
+          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+        },
+        {
+          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+        },
+        {
+          "title": "Kiroを使ったペアプログラミングのすすめ | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU53S2t3bXR6QnQ3al9sc0xNRnU3WTRRZ08zdVNDV05EUmVzRjY5N0gwUE1oMXVOcy01SThycmgwelhCcldpb0xpbEFDOUprcG8tYjhkMm5rVWY5OTc2WWd6M19wYXJNZ3pCSnVmTVFIQndpYWV4WU9GTnZaVGMyNjFVaHRReW1MQTZj?oc=5",
+          "pubDate": "2025-11-22 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU53S2t3bXR6QnQ3al9sc0xNRnU3WTRRZ08zdVNDV05EUmVzRjY5N0gwUE1oMXVOcy01SThycmgwelhCcldpb0xpbEFDOUprcG8tYjhkMm5rVWY5OTc2WWd6M19wYXJNZ3pCSnVmTVFIQndpYWV4WU9GTnZaVGMyNjFVaHRReW1MQTZj?oc=5\" target=\"_blank\">Kiroを使ったペアプログラミングのすすめ | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+        },
+        {
+          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
+          "pubDate": "2025-11-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+        }
+      ]
     },
     {
       "company": "antigravity",
