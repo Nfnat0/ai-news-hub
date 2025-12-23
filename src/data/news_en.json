@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-23T09:25:07.849Z",
+  "fetchedAt": "2025-12-23T15:21:35.905Z",
   "locale": "en",
   "companies": [
     {
@@ -7,25 +7,25 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Google’s Gemini 3 Flash Is Smart, Fast, and Weirdly Dishonest - VICE",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaldsaGhwUk02cXZQcHQwMUUwanJKRGlOaGdQZ05nNk9rRzlkSnU1b1VZbEZSQWhPN2dpQW5ZU25NeVlaU3lObExDLWpSeWRfal81SUdJc2VRT2gwMndqUlZRUkRvX2s1X1BNZUFOTVJCaFFEa0JralRZQ1VyOG9UMGU4RjZ3QkZwdjl4MzdSVDBuWU9LdUE?oc=5",
-          "pubDate": "2025-12-23 03:05:34",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPaldsaGhwUk02cXZQcHQwMUUwanJKRGlOaGdQZ05nNk9rRzlkSnU1b1VZbEZSQWhPN2dpQW5ZU25NeVlaU3lObExDLWpSeWRfal81SUdJc2VRT2gwMndqUlZRUkRvX2s1X1BNZUFOTVJCaFFEa0JralRZQ1VyOG9UMGU4RjZ3QkZwdjl4MzdSVDBuWU9LdUE?oc=5\" target=\"_blank\">Google’s Gemini 3 Flash Is Smart, Fast, and Weirdly Dishonest</a>  VICE",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "This week in Gemini fails - Pocketables",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQUxycjI0SGFuS3E5NUZTQlNrMFJDeWFET25DaHVJV0pKT1hGR0MySHJ6Y1ZDU1hPcWFBMjVaMF9fOXp1RUNIREMxZzBMdUNtN3hKZlJsNFZtREZlUHl3WjR5N1laTkZqeGQ5LWZLNA?oc=5",
-          "pubDate": "2025-12-22 17:48:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQUxycjI0SGFuS3E5NUZTQlNrMFJDeWFET25DaHVJV0pKT1hGR0MySHJ6Y1ZDU1hPcWFBMjVaMF9fOXp1RUNIREMxZzBMdUNtN3hKZlJsNFZtREZlUHl3WjR5N1laTkZqeGQ5LWZLNA?oc=5\" target=\"_blank\">This week in Gemini fails</a>  Pocketables",
+          "title": "Samsung To Unveil AI Vision Built With Google Gemini at CES 2026 - samsung.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0tvVnEwZFMxOEM3dzB0YUtUeHRMNDJNZm9jNENVV2xQT1JTZ1dGWXFGZHkycU5kMWxYX19YU0R6ZV8xVGZzZnNpWFZ4ZXdQQWRxbjRhb1FOdllYcmY5UUlxUmQtNGF1c2VhQUMybFdSYVVobzZuYVFCVG52YzJHRlNJVmFTLWZ5V3lqcDkwSzRuQTBHczB3?oc=5",
+          "pubDate": "2025-12-23 15:10:38",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0tvVnEwZFMxOEM3dzB0YUtUeHRMNDJNZm9jNENVV2xQT1JTZ1dGWXFGZHkycU5kMWxYX19YU0R6ZV8xVGZzZnNpWFZ4ZXdQQWRxbjRhb1FOdllYcmY5UUlxUmQtNGF1c2VhQUMybFdSYVVobzZuYVFCVG52YzJHRlNJVmFTLWZ5V3lqcDkwSzRuQTBHczB3?oc=5\" target=\"_blank\">Samsung To Unveil AI Vision Built With Google Gemini at CES 2026</a>  samsung.com",
           "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
-          "title": "Google Messages made some aesthetic changes to Nano Banana - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNnFvQ2hyeE5jcndFbDZzTEZ0Uk5RS2k0Y28yMjRuZnpPUHR3RHJaaXlpYkN1UlNSN0VxM3ljb0d5cEhRT0QxT1hudlJlX1N0VktramFDbVl0Ykxmakl1UTFqbFA1OWM5cV9RRFJ4M2c0NGs?oc=5",
-          "pubDate": "2025-12-22 16:36:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNnFvQ2hyeE5jcndFbDZzTEZ0Uk5RS2k0Y28yMjRuZnpPUHR3RHJaaXlpYkN1UlNSN0VxM3ljb0d5cEhRT0QxT1hudlJlX1N0VktramFDbVl0Ykxmakl1UTFqbFA1OWM5cV9RRFJ4M2c0NGs?oc=5\" target=\"_blank\">Google Messages made some aesthetic changes to Nano Banana</a>  Mashable",
+          "title": "Google Gemini is prepping a design update we didn't know we needed - Android Police",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93b1dYV181ZTdRSnJEWE1vZHRTVlR2dS1TT0JwVVl4Z1FReDBfY3h6cXd5RmxGaDY1RktMNU9lMzVIM2U2bEZGSWk3S2x6RnpLZ1ltMm9TUFZiMlQ3Z3BLTFNtTHUzQ3dMQS1rYWJWS3Vud2dOcHdGbDBQQ2pEUQ?oc=5",
+          "pubDate": "2025-12-23 14:40:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE93b1dYV181ZTdRSnJEWE1vZHRTVlR2dS1TT0JwVVl4Z1FReDBfY3h6cXd5RmxGaDY1RktMNU9lMzVIM2U2bEZGSWk3S2x6RnpLZ1ltMm9TUFZiMlQ3Z3BLTFNtTHUzQ3dMQS1rYWJWS3Vud2dOcHdGbDBQQ2pEUQ?oc=5\" target=\"_blank\">Google Gemini is prepping a design update we didn't know we needed</a>  Android Police",
           "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "I Love NotebookLM, but This Open-Source Version Could Tempt Me to Switch - CNET",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmZpSVlOYmVsaGZVZ0d4em52YTMyc1dRaHUwdUJZN0lIbXlMNkkxZHRtM1IzU1c5Tk5aWXlKTDU4cy00b3c0Z211aThMN25sdmVlcUI0eVNJT0tVdjhfS1I0Rm15TWNGR0NmM2xxUGNoaXhWdW1ReE9lUklESE1yRE1PRWRJeHg3dC14SE1jdnp4MzVUYllrRTRUSVB3cVVtZkdPZFZZWEdNREc2TFplNjBvaXV4eFVYX0dZbA?oc=5",
+          "pubDate": "2025-12-23 12:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmZpSVlOYmVsaGZVZ0d4em52YTMyc1dRaHUwdUJZN0lIbXlMNkkxZHRtM1IzU1c5Tk5aWXlKTDU4cy00b3c0Z211aThMN25sdmVlcUI0eVNJT0tVdjhfS1I0Rm15TWNGR0NmM2xxUGNoaXhWdW1ReE9lUklESE1yRE1PRWRJeHg3dC14SE1jdnp4MzVUYllrRTRUSVB3cVVtZkdPZFZZWEdNREc2TFplNjBvaXV4eFVYX0dZbA?oc=5\" target=\"_blank\">I Love NotebookLM, but This Open-Source Version Could Tempt Me to Switch</a>  CNET",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "Organize your insights with Data Tables in NotebookLM. - blog.google",
@@ -51,22 +51,22 @@
           "title": "ChatGPT's year-end recap is here — and it tells you how many em-dashes you exchanged - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG9NZGxfZngteWk5UmQ3eVdzMVc3VGtwY3R2aXFBdy1VU2ZkZ3JWa2owRTZLUHZUM3J3ZVdteW1hRlZYeXZQbWZ2S1g3aFpmZ3duMXRRZTdBaUpCU2Y2MFNDU3N0bGFtZ1cyb3E2bUVNZ2lQMHBvekUxNmwxeWxzMlIzbmZpckhraVFZMGVCMWVDaTJSbXREUQ?oc=5",
           "pubDate": "2025-12-22 21:43:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG9NZGxfZngteWk5UmQ3eVdzMVc3VGtwY3R2aXFBdy1VU2ZkZ3JWa2owRTZLUHZUM3J3ZVdteW1hRlZYeXZQbWZ2S1g3aFpmZ3duMXRRZTdBaUpCU2Y2MFNDU3N0bGFtZ1cyb3E2bUVNZ2lQMHBvekUxNmwxeWxzMlIzbmZpckhraVFZMGVCMWVDaTJSbXREUQ?oc=5\" target=\"_blank\">ChatGPT's year-end recap is here — and it tells you how many em-dashes you exchanged</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "OpenAI’s ChatGPT ‘Wrapped’ Is a Good Reminder to Check Your Privacy Settings - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFZtclR2SWo4ZGR6RmIzUkhsU3Etd01KWmlNZ2FiUERSdWZUS1R0TVFEZFBFZHJtaWxkZnhTVWNjRHJIRW1DLXpEUUVwR0w0bU02UEFmcXY0dFFqOWU0QUJ2cjlnSWZTU1BsbjJVWkJXX0Zsd1NzVmw3bzR0cjFwcmlLZUlDSHZudEE2MnFtbHd4MjRoS0ZUVlNSeUw?oc=5",
-          "pubDate": "2025-12-22 21:10:22",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFZtclR2SWo4ZGR6RmIzUkhsU3Etd01KWmlNZ2FiUERSdWZUS1R0TVFEZFBFZHJtaWxkZnhTVWNjRHJIRW1DLXpEUUVwR0w0bU02UEFmcXY0dFFqOWU0QUJ2cjlnSWZTU1BsbjJVWkJXX0Zsd1NzVmw3bzR0cjFwcmlLZUlDSHZudEE2MnFtbHd4MjRoS0ZUVlNSeUw?oc=5\" target=\"_blank\">OpenAI’s ChatGPT ‘Wrapped’ Is a Good Reminder to Check Your Privacy Settings</a>  Gizmodo",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG9NZGxfZngteWk5UmQ3eVdzMVc3VGtwY3R2aXFBdy1VU2ZkZ3JWa2owRTZLUHZUM3J3ZVdteW1hRlZYeXZQbWZ2S1g3aFpmZ3duMXRRZTdBaUpCU2Y2MFNDU3N0bGFtZ1cyb3E2bUVNZ2lQMHBvekUxNmwxeWxzMlIzbmZpckhraVFZMGVCMWVDaTJSbXREUQ?oc=5\" target=\"_blank\">ChatGPT's year-end recap is here — and it tells you how many em-dashes you exchanged</a>  Business Insider</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFZtclR2SWo4ZGR6RmIzUkhsU3Etd01KWmlNZ2FiUERSdWZUS1R0TVFEZFBFZHJtaWxkZnhTVWNjRHJIRW1DLXpEUUVwR0w0bU02UEFmcXY0dFFqOWU0QUJ2cjlnSWZTU1BsbjJVWkJXX0Zsd1NzVmw3bzR0cjFwcmlLZUlDSHZudEE2MnFtbHd4MjRoS0ZUVlNSeUw?oc=5\" target=\"_blank\">OpenAI’s ChatGPT ‘Wrapped’ Is a Good Reminder to Check Your Privacy Settings</a>  Gizmodo</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzItWXBSUFA0LTVocW95aTRrVFFYYkNCT1pmbWxOa0ZXbDFmV0FWV0p5RnpxaGhRVlpUbmtkRVpQWFpoVWNfa2gyRzJsbkZLeDVOQWVYdF9NSmJwMm5IbWhLN2lMWE1MQTJCandiaVpCMHFpX0xPM1V6Wjg3Q1A4dG50dW1lZw?oc=5\" target=\"_blank\">ChatGPT’s yearly recap sums up your conversations with the chatbot</a>  The Verge</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
-          "title": "ChatGPT launches a year-end review like Spotify Wrapped - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTN6OHpsdTJoT0lTTk9NNVZpZVBNbDRiOFlWTzNKZjNDaEFIZVNySThzSHU0VGpEUzdnWXpOWFBNT3VKVXh1bnRJenl4UUxzcDhmWTduT2p5cmV0alRFU3ljWDlfSk83c0NfVDVVMU41UW1xTElldTdCVVBoYUpMRG92cjh3ZTdmQk5uUmlmY0ZvSzRs?oc=5",
-          "pubDate": "2025-12-22 19:01:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTN6OHpsdTJoT0lTTk9NNVZpZVBNbDRiOFlWTzNKZjNDaEFIZVNySThzSHU0VGpEUzdnWXpOWFBNT3VKVXh1bnRJenl4UUxzcDhmWTduT2p5cmV0alRFU3ljWDlfSk83c0NfVDVVMU41UW1xTElldTdCVVBoYUpMRG92cjh3ZTdmQk5uUmlmY0ZvSzRs?oc=5\" target=\"_blank\">ChatGPT launches a year-end review like Spotify Wrapped</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "title": "Continuously hardening ChatGPT Atlas against prompt injection attacks - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BeDVtWUpQWmljd2lscmZRTkFtUzl2Vi14SWxBWDFrZTI3UGdsQTlkYXZRMVdYQUN6dG9ROGZtSDhrdmJ5cEdzZzZjYVJqNm85NDV5bEdRSGtrbWNCejZBYm1abURVNHl2eWZKdmJXZ0FJTDlM?oc=5",
+          "pubDate": "2025-12-22 18:25:39",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9BeDVtWUpQWmljd2lscmZRTkFtUzl2Vi14SWxBWDFrZTI3UGdsQTlkYXZRMVdYQUN6dG9ROGZtSDhrdmJ5cEdzZzZjYVJqNm85NDV5bEdRSGtrbWNCejZBYm1abURVNHl2eWZKdmJXZ0FJTDlM?oc=5\" target=\"_blank\">Continuously hardening ChatGPT Atlas against prompt injection attacks</a>  OpenAI",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026 - Fast Company",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWVJVEw5ZUZGdE1LSUFrT1VKMUpGd0JBeTFyYksyeUpQWWllak5vd1IwN0RwR2tnaHoxVVdrcjUzWmVxWlRBby1ObW1PZ1RXNGdQZjl2dmhpY1ZYSWkzQXZkTXJIRjZDVmFTU0hxRTZ3b3RZMTY3SERXbUJWOHVBZF9IemRNaUJZOUVPdU1Ya3lBUGhQNVE?oc=5",
+          "pubDate": "2025-12-22 16:48:19",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWVJVEw5ZUZGdE1LSUFrT1VKMUpGd0JBeTFyYksyeUpQWWllak5vd1IwN0RwR2tnaHoxVVdrcjUzWmVxWlRBby1ObW1PZ1RXNGdQZjl2dmhpY1ZYSWkzQXZkTXJIRjZDVmFTU0hxRTZ3b3RZMTY3SERXbUJWOHVBZF9IemRNaUJZOUVPdU1Ya3lBUGhQNVE?oc=5\" target=\"_blank\">I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026</a>  Fast Company",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
           "title": "Some ChatGPT Users With Autism Are Upset About OpenAI Sidelining Its Previous Model - Forbes",
@@ -80,7 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNoN1YtMDBCVFRBQXRobEQzV3JJeDdRb21PSHc0R0xnYnVSQndWdlMxZUpMOHdyeVBxei0xekw2UVFJRGFQcDIyQnBuUWptc0I3SE15YTh4dENvOFVBVFNibXB3LVc2c3N3ZkNWejZPVFdDYXo3SzRNcndsQURFSS14Q0F1SEdqWlJNQVhWT2labXdORnJmVnFjSnFqa3ZvYWdQc2hPWQ?oc=5",
           "pubDate": "2025-12-20 20:34:07",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNoN1YtMDBCVFRBQXRobEQzV3JJeDdRb21PSHc0R0xnYnVSQndWdlMxZUpMOHdyeVBxei0xekw2UVFJRGFQcDIyQnBuUWptc0I3SE15YTh4dENvOFVBVFNibXB3LVc2c3N3ZkNWejZPVFdDYXo3SzRNcndsQURFSS14Q0F1SEdqWlJNQVhWT2labXdORnJmVnFjSnFqa3ZvYWdQc2hPWQ?oc=5\" target=\"_blank\">OpenAI allows users to directly adjust ChatGPT’s enthusiasm level</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         }
       ]
     },
@@ -98,7 +98,7 @@
         {
           "title": "Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do' - TechRadar",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5",
-          "pubDate": "2025-12-19 04:00:00",
+          "pubDate": "2025-12-19 04:06:12",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkVrNU1KNE81MlFFU0t2UldNQzZCbzM1TkMyaEp1UjdqV05zZFpicXNMODdtTlBKTmFwSndiT3dLRGdOUzR6YTM2a0MzOTFaUVZDZi1Bb0M3VUpBeExGVkJqeU9TNjd2d3p0Y0ZMMDlOY19tVWEtVHJ1dGVjcWl0WFdkbWxVSTlEa1RqdW1vNjlIT0hMUkFsREJpZmpCTXRzTlZJODI2SUVrWHo4TkoyazZIanM3Zw?oc=5\" target=\"_blank\">Microsoft AI CEO admits Gemini 'can do things that Copilot can’t do'</a>  TechRadar",
           "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
@@ -134,21 +134,21 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0k2czdZTFlTOS00cjM5NFNmM1RkdC1JdFFFQ3NKTWZJR1NuMjdKSXlpR3E2TFZKTUkyTU80LWlZbG1NS1QycG0zTFVsUlJFVXdmZXpuQkhqM3pMc2Y5RndydkVsZGFGMnlWOWc3WlZwdEZnbmx3ZFRhRVdtc0s5VW1QZmtNYWpqOWFJN3FWYlJxUUFOcFZaQTNYYjlBUjFl?oc=5",
           "pubDate": "2025-12-21 10:23:44",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0k2czdZTFlTOS00cjM5NFNmM1RkdC1JdFFFQ3NKTWZJR1NuMjdKSXlpR3E2TFZKTUkyTU80LWlZbG1NS1QycG0zTFVsUlJFVXdmZXpuQkhqM3pMc2Y5RndydkVsZGFGMnlWOWc3WlZwdEZnbmx3ZFRhRVdtc0s5VW1QZmtNYWpqOWFJN3FWYlJxUUFOcFZaQTNYYjlBUjFl?oc=5\" target=\"_blank\">Anthropic's Claude Opus 4.5 can tackle some tasks lasting nearly five hours</a>  the-decoder.com",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension - PCMag",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1M1YXdfNlo0U29FZUZqQ3hINTh3TEw3T1QxLWJjMzd2dXpyWUdweWQtc052SjRJd0IwZkpfQnFRV2ZlY3NFWWlvLWxyamNLajZqOEYxZXk0V3VIQzFKS3pzMXd4WDVpcGgybC1GS2c2UmVCc21hR2h2UzJKUFhSTGxlZ2lDaW1zeTVjdlQ4OF8?oc=5",
           "pubDate": "2025-12-20 19:06:34",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1M1YXdfNlo0U29FZUZqQ3hINTh3TEw3T1QxLWJjMzd2dXpyWUdweWQtc052SjRJd0IwZkpfQnFRV2ZlY3NFWWlvLWxyamNLajZqOEYxZXk0V3VIQzFKS3pzMXd4WDVpcGgybC1GS2c2UmVCc21hR2h2UzJKUFhSTGxlZ2lDaW1zeTVjdlQ4OF8?oc=5\" target=\"_blank\">Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension</a>  PCMag",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "Introducing Bloom: an open source tool for automated behavioral evaluations - Anthropic",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWVVGZmZvbWRFYU1oZUFNd1BfWlZuT3FoaVNSUlp5Y0RjSUxfWlZWTmdJcGtsZ0NxblU0MkZTaXo1NVh2MDVGcWRXcHdkMVB3d3c?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWVVGZmZvbWRFYU1oZUFNd1BfWlZuT3FoaVNSUlp5Y0RjSUxfWlZWTmdJcGtsZ0NxblU0MkZTaXo1NVh2MDVGcWRXcHdkMVB3d3c?oc=5\" target=\"_blank\">Introducing Bloom: an open source tool for automated behavioral evaluations</a>  Anthropic",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
           "title": "Anthropic wants to tame workplace AI - Axios",
@@ -159,10 +159,10 @@
         },
         {
           "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNUTd5OTIyVGFDX1I1VER0NzhTUFljZmdlLXVOTDFaZVcydlVVMjluN0VPekdXTTV5WWl2OUNqR2NkT2VEREVDNk80eGVHSGgxOUJ5ZkNfUFRfODhDUjJKSXBqZ2c5RkhhanRuQjczTkhnMFBWek9fWWhnNkY1UVJQV0kxN1RXY3Q2clR2emJtTDNwQjhkUUxzUkpTZ2kzZWtzYnFndF9kNmNoTFNYSGJwUEVYWV9ZNFUwOUFXbEh0YUxYcHlrMk5xek9wRGZ2M01RanA0ZTAxdUM1YlJweS1HZ1JtUzBrTUhueEpxSXJITjR5blpFcmZhMzBDMFBWNm1HdUpLUjNLV0tWVVM5MmZCa1ZTaHJ3RU9UTGtCNUY5MTItSmpSTFpoSFNIbmMxYjBxTHA2Sld5RmxfSmJFX3BDdG4xV2FsYWdBTURGbUJnZDFjOEZ6aUszNEdSOVVpQXJYM0RfSGtoUlZja1hGcWx1blpKR1pBWEh0VnBPMGlfYWFPS1ZxUFdlNGJR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOVVNMaDFZR2pBNVUyV1h3VXh6NHM0XzRlVjR3ODY5cWs4dld2NkthV0oyRkVtUXYzVGFVU0FPZXExbEI2OTY2TUJwWmQ5c3MtLVpLbjN0SHZqZDdyaGlvQVZiSXdOQ1BzbnBSVFhxWkEzVmZSMy1pSHBPU0J6WXpnQWJQbWtHQjRPR2NvczFHYmluZXBKenltajdTaF9VWTIxZHBLZy16bFdhak9OUTdoUFF2SEtVWnJ2anA0bkpFLV8wUlRsRlNxMDRNNnppZTJfRUZFTG1FWS1VdXZGV3JSSDFod1dreGZORnNkTWdyODQ2ZXdOT2RSWHkxRWNiV25UcDJhdTVXdWJWU3AyQnhFM3JneUcxQUx1S2xiZVZEZEl6a2ExSWgyNFNyVWV0S0YyQUVNWXN3UDI4VG9CRm0wSDhMamFmTU16d08zY2R5ZmNQNkZnZ0d6SWo3OXkwNEpXLTJ3b09nMGRHQUNRWHpJU0pvbFJxZXIybFp4dmp5MGxCamZqOGFidVdR?oc=5",
           "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxNUTd5OTIyVGFDX1I1VER0NzhTUFljZmdlLXVOTDFaZVcydlVVMjluN0VPekdXTTV5WWl2OUNqR2NkT2VEREVDNk80eGVHSGgxOUJ5ZkNfUFRfODhDUjJKSXBqZ2c5RkhhanRuQjczTkhnMFBWek9fWWhnNkY1UVJQV0kxN1RXY3Q2clR2emJtTDNwQjhkUUxzUkpTZ2kzZWtzYnFndF9kNmNoTFNYSGJwUEVYWV9ZNFUwOUFXbEh0YUxYcHlrMk5xek9wRGZ2M01RanA0ZTAxdUM1YlJweS1HZ1JtUzBrTUhueEpxSXJITjR5blpFcmZhMzBDMFBWNm1HdUpLUjNLV0tWVVM5MmZCa1ZTaHJ3RU9UTGtCNUY5MTItSmpSTFpoSFNIbmMxYjBxTHA2Sld5RmxfSmJFX3BDdG4xV2FsYWdBTURGbUJnZDFjOEZ6aUszNEdSOVVpQXJYM0RfSGtoUlZja1hGcWx1blpKR1pBWEh0VnBPMGlfYWFPS1ZxUFdlNGJR?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxOVVNMaDFZR2pBNVUyV1h3VXh6NHM0XzRlVjR3ODY5cWs4dld2NkthV0oyRkVtUXYzVGFVU0FPZXExbEI2OTY2TUJwWmQ5c3MtLVpLbjN0SHZqZDdyaGlvQVZiSXdOQ1BzbnBSVFhxWkEzVmZSMy1pSHBPU0J6WXpnQWJQbWtHQjRPR2NvczFHYmluZXBKenltajdTaF9VWTIxZHBLZy16bFdhak9OUTdoUFF2SEtVWnJ2anA0bkpFLV8wUlRsRlNxMDRNNnppZTJfRUZFTG1FWS1VdXZGV3JSSDFod1dreGZORnNkTWdyODQ2ZXdOT2RSWHkxRWNiV25UcDJhdTVXdWJWU3AyQnhFM3JneUcxQUx1S2xiZVZEZEl6a2ExSWgyNFNyVWV0S0YyQUVNWXN3UDI4VG9CRm0wSDhMamFmTU16d08zY2R5ZmNQNkZnZ0d6SWo3OXkwNEpXLTJ3b09nMGRHQUNRWHpJU0pvbFJxZXIybFp4dmp5MGxCamZqOGFidVdR?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         }
       ]
     },
@@ -171,39 +171,39 @@
       "displayName": "Amazon",
       "news": [
         {
-          "title": "AWS Extends Generative AI Capabilities to Bahrain with Amazon Bedrock - cairoscene.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVN6TVVlaXRFeE0xMno2LUdkdXJQeUo4emRmTHlHQ2pVa1V2RFEtXzlBVFRrSk5YOGZxNGpEcmhSNjJUMHhQVll1T3FFNUl1aXR3c1JpbHh1dDZOSklacXdhaG03TF9ZN3BhOVNZTmlLSUpRbEJyenhvU3Q0TDM5MnQ1ZExmX1RBbzJWNGpmNks3SXJ0WURteWNkT1NmVHVwWnBv?oc=5",
-          "pubDate": "2025-12-21 11:28:53",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVN6TVVlaXRFeE0xMno2LUdkdXJQeUo4emRmTHlHQ2pVa1V2RFEtXzlBVFRrSk5YOGZxNGpEcmhSNjJUMHhQVll1T3FFNUl1aXR3c1JpbHh1dDZOSklacXdhaG03TF9ZN3BhOVNZTmlLSUpRbEJyenhvU3Q0TDM5MnQ1ZExmX1RBbzJWNGpmNks3SXJ0WURteWNkT1NmVHVwWnBv?oc=5\" target=\"_blank\">AWS Extends Generative AI Capabilities to Bahrain with Amazon Bedrock</a>  cairoscene.com",
-          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
+          "title": "Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWZ3Zy1CWnNCZXNRUWRuQ3ljcmhtd2FIWHhBZDNRUXE1OXNUei10Z0lHT0dPYWZUTVYtcFMyd1RXRFBreXRSNFVpZ2lQNnlsa2NERVAtQXdLS09wbXZveXVONUVVdjJHcmp3T25YblBlNlV5WXBfNXFocTl6TlJPTVJpUmY3MkgzTi1tYmM0LWdyV1h4bzJwOE1LLUxXd21pSFBhTndmVlFMZ0dEcHM5QUFSU0t2QXBIaFJtNzJfbnJJVkxE?oc=5",
+          "pubDate": "2025-12-22 18:26:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWZ3Zy1CWnNCZXNRUWRuQ3ljcmhtd2FIWHhBZDNRUXE1OXNUei10Z0lHT0dPYWZUTVYtcFMyd1RXRFBreXRSNFVpZ2lQNnlsa2NERVAtQXdLS09wbXZveXVONUVVdjJHcmp3T25YblBlNlV5WXBfNXFocTl6TlJPTVJpUmY3MkgzTi1tYmM0LWdyV1h4bzJwOE1LLUxXd21pSFBhTndmVlFMZ0dEcHM5QUFSU0t2QXBIaFJtNzJfbnJJVkxE?oc=5\" target=\"_blank\">Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+        },
+        {
+          "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblJCOVdaSlV4Zi1ZTFJ6LXdSZXhnS0M1bC1lZEVsYjl0OUZ4Zmw4X01tRzRKbzBESDVaUW40RzBLYU93NHNCMS1iVS1jU1NlZEdKVEhvTV8tajR5TWVjaGM5bUd6Smh2bWhaMWhJTjJFM1IxcG1kNHZUWWNNTml6SWtGZlh2YlVaME9JRlZDbzJzYzctS2MwbGppT3R2WDBkQ0lZVTJlTVg?oc=5\" target=\"_blank\">Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
           "title": "Meet new Amazon Nova AI models that help build highly reliable AI agents - About Amazon",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5\" target=\"_blank\">Meet new Amazon Nova AI models that help build highly reliable AI agents</a>  About Amazon",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
-        },
-        {
-          "title": "Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmRLNGtQZXlDWThxQWk2M2xEV0g4QXp5TksxRDBoNFkyamF2RzJSNWRoTGxuZkt5cWF1MzB6aVVpZENHblpOVVZELVU3R3htNFJzcElqT2swR3B3N3ZFYUlvX1pIWW5KdmkwWi1hZzl1T3g5eXhvWll6cVZoUDU2WFA3czVJb0xmdVVXQnJ6cGlFNTZBRTkySzY5ZVF5eUJ4RXp6RlNKY2NkX2RWMUR2amxQa2FHU19LN2ZKdmFpZFZQeXlMUlQwOVR0UFNOVkFu?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmRLNGtQZXlDWThxQWk2M2xEV0g4QXp5TksxRDBoNFkyamF2RzJSNWRoTGxuZkt5cWF1MzB6aVVpZENHblpOVVZELVU3R3htNFJzcElqT2swR3B3N3ZFYUlvX1pIWW5KdmkwWi1hZzl1T3g5eXhvWll6cVZoUDU2WFA3czVJb0xmdVVXQnJ6cGlFNTZBRTkySzY5ZVF5eUJ4RXp6RlNKY2NkX2RWMUR2amxQa2FHU19LN2ZKdmFpZFZQeXlMUlQwOVR0UFNOVkFu?oc=5\" target=\"_blank\">Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
-        },
-        {
-          "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5",
-          "pubDate": "2025-11-24 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5\" target=\"_blank\">Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
         },
         {
           "title": "Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5",
           "pubDate": "2025-11-24 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnVaRm1iTjZXek9tU0NvTGxzcnIzRUdsQjVmbWk4TFY1WFAwMFZOazFZUUdmWXp6ZHN1UnFXQTZJd2Z0YVJVX0ljZER0VlVxYVlEN1JXdzFxRWY5LWY3TFRCRktfYTBrVU5xdnlfRVpvSHptcFRLVk5jaDZtNlQybmRIa1NTZnpUMDYwZg?oc=5\" target=\"_blank\">Claude Opus 4.5 now in Amazon Bedrock | Artificial Intelligence</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+        },
+        {
+          "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5",
+          "pubDate": "2025-11-24 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5\" target=\"_blank\">Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
         }
       ]
     },
@@ -212,10 +212,10 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "Meta AI glasses adds 'conversation focus' feature - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5",
-          "pubDate": "2025-12-22 23:57:35",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5\" target=\"_blank\">Meta AI glasses adds 'conversation focus' feature</a>  Mashable",
+          "title": "What Is the Difference Between ChatGPT, Gemini, Claude, and LLaMA? - Blockchain Council",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXZ0YUF1VWV5Q2tsb000Z3p3ZmcydEpfNDhzWDh2dDdSNXBLdVJibk96UFUwOGJHaVpybnA3YmJYNjFaclNlSU92Y0YzQ0h5cERZZ2hXeERjXzZCbkt4VVE0VjZ3bTgtTkJvMU1LeklfZ1IxSVF5emhKdGJmN2RCbQ?oc=5",
+          "pubDate": "2025-12-23 09:47:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXZ0YUF1VWV5Q2tsb000Z3p3ZmcydEpfNDhzWDh2dDdSNXBLdVJibk96UFUwOGJHaVpybnA3YmJYNjFaclNlSU92Y0YzQ0h5cERZZ2hXeERjXzZCbkt4VVE0VjZ3bTgtTkJvMU1LeklfZ1IxSVF5emhKdGJmN2RCbQ?oc=5\" target=\"_blank\">What Is the Difference Between ChatGPT, Gemini, Claude, and LLaMA?</a>  Blockchain Council",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
@@ -226,25 +226,25 @@
           "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
-          "title": "Meta AI Open-Sourced Perception Encoder Audiovisual (PE-AV): The Audiovisual Encoder Powering SAM Audio And Large Scale Multimodal Retrieval - MarkTechPost",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNUVRYTI2d3YxTEllbWM1UlJkZThVamRPZzdub3c2amtIVDVWNHdnU1h3T0FFa2FxaEYwYlU1OC1jTTBjdnkwMTBiTVFhLVJJQXVNaHdCUmR4N05sY1Z0TEVvQkN5cGI1RjdJSDZUZ3pTOU00ZVlJOWpTMkVHU1l0OXQ3QnNXbzJvR0hMV1RfMmIxaUtsQWkzanVHYlhHZE1kVXVhTS1QY2ZocWVyOUVQYXRHYXQ3OV9TSGxaa1B4LVRrZ0ZQRHY4LXo2UTFVOFZ4amtualRva25TRE1yek02NXdvWkJaU20tU3cxU2FXM2hfRDlCUFBkNG50d3dHdW1Udnd2WS1sWVBCUdIBjwJBVV95cUxOdW1pNVczRlVSN3EtMFkwZkZhOW04bnktSjdkUWFSZk42X2VSb3J2NGpHbU01cGJXU2t0SlNfXzd1UG1yRWszUXg0YkdSWFF6X0FvamNZMnFpMDZQbG1HY1Y4OTFpb0tockt5dWtvR29FV2U5cDBFQmpUSHREMlByMjhFeEx5OXUtamh6MmpuZXBQbl96OXdxT2w2X3ZhMjUxM2VBNUh2R1VaOHpyYkxSZE5LWGRfMlVBNU5FMmxDU3l1Qkw5ZTZ5d3ctY0pfZ0s3Z1NZeUNkclJBZWdZbU00TnpUa2FnVDZuOG5xajB6Uk5TOUM0dHRwbW9KM2tyajY3eERiakRFZ0pFNFdCcnB3?oc=5",
-          "pubDate": "2025-12-22 20:32:12",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPNUVRYTI2d3YxTEllbWM1UlJkZThVamRPZzdub3c2amtIVDVWNHdnU1h3T0FFa2FxaEYwYlU1OC1jTTBjdnkwMTBiTVFhLVJJQXVNaHdCUmR4N05sY1Z0TEVvQkN5cGI1RjdJSDZUZ3pTOU00ZVlJOWpTMkVHU1l0OXQ3QnNXbzJvR0hMV1RfMmIxaUtsQWkzanVHYlhHZE1kVXVhTS1QY2ZocWVyOUVQYXRHYXQ3OV9TSGxaa1B4LVRrZ0ZQRHY4LXo2UTFVOFZ4amtualRva25TRE1yek02NXdvWkJaU20tU3cxU2FXM2hfRDlCUFBkNG50d3dHdW1Udnd2WS1sWVBCUdIBjwJBVV95cUxOdW1pNVczRlVSN3EtMFkwZkZhOW04bnktSjdkUWFSZk42X2VSb3J2NGpHbU01cGJXU2t0SlNfXzd1UG1yRWszUXg0YkdSWFF6X0FvamNZMnFpMDZQbG1HY1Y4OTFpb0tockt5dWtvR29FV2U5cDBFQmpUSHREMlByMjhFeEx5OXUtamh6MmpuZXBQbl96OXdxT2w2X3ZhMjUxM2VBNUh2R1VaOHpyYkxSZE5LWGRfMlVBNU5FMmxDU3l1Qkw5ZTZ5d3ctY0pfZ0s3Z1NZeUNkclJBZWdZbU00TnpUa2FnVDZuOG5xajB6Uk5TOUM0dHRwbW9KM2tyajY3eERiakRFZ0pFNFdCcnB3?oc=5\" target=\"_blank\">Meta AI Open-Sourced Perception Encoder Audiovisual (PE-AV): The Audiovisual Encoder Powering SAM Audio And Large Scale Multimodal Retrieval</a>  MarkTechPost",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
-        },
-        {
           "title": "Clear the Shelters: Meet Llama, the cuddly dog in need of a forever home - NBC10 Philadelphia",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm9TZlVGd0Vkb0dlWktjbllpb3BONzd1N2prYUR5eWhTTTZCWHhrd28zdG5nLVR2NDFQZU5DcWlpQXJQbDBtbWhHdlFLRFpsbElQUUVXc2VzYzUwVTE2bFdraE03a25rSFBSRTk3NEFzMVZMSG05bmRqUHFYMEhwM3RPeFJhbjJhS3hWcnZ3WTUySDROaTVDWGRMRkVrakJKVVo0dy1JOVE5cTNGWkJkSHlPMDZqMS1qVGxQNWhCbEFtY3lkTTZlUVZKMTFLTURDWGfSAdoBQVVfeXFMT0JfYll6OUVuTldXWTBqdU9ySUhLWnh2RTBxdVdrRzlNYmxiMERXejB3NWx0OXkyZzhnMFdpOThWTk9Pay1STjZORzlQeGJVUEgzQjBaM2VRNlpKVXJYZ1BBWkxiQTBRZ2VrdUoxdHJMMFUwQUhKNk9KMWR5eDlZZ1N3c1huM0lyMkgzWS1rV0twUFUtTHhyVTEyVk85SWpvcllrZXFEaW5nTklIdVRRSF9NVE9EdmJDWHB2cmI1UVQ1T00yeEk0TVdJSjhBVm1ac19tMExtRUZSZnc?oc=5",
           "pubDate": "2025-12-20 12:33:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm9TZlVGd0Vkb0dlWktjbllpb3BONzd1N2prYUR5eWhTTTZCWHhrd28zdG5nLVR2NDFQZU5DcWlpQXJQbDBtbWhHdlFLRFpsbElQUUVXc2VzYzUwVTE2bFdraE03a25rSFBSRTk3NEFzMVZMSG05bmRqUHFYMEhwM3RPeFJhbjJhS3hWcnZ3WTUySDROaTVDWGRMRkVrakJKVVo0dy1JOVE5cTNGWkJkSHlPMDZqMS1qVGxQNWhCbEFtY3lkTTZlUVZKMTFLTURDWGfSAdoBQVVfeXFMT0JfYll6OUVuTldXWTBqdU9ySUhLWnh2RTBxdVdrRzlNYmxiMERXejB3NWx0OXkyZzhnMFdpOThWTk9Pay1STjZORzlQeGJVUEgzQjBaM2VRNlpKVXJYZ1BBWkxiQTBRZ2VrdUoxdHJMMFUwQUhKNk9KMWR5eDlZZ1N3c1huM0lyMkgzWS1rV0twUFUtTHhyVTEyVk85SWpvcllrZXFEaW5nTklIdVRRSF9NVE9EdmJDWHB2cmI1UVQ1T00yeEk0TVdJSjhBVm1ac19tMExtRUZSZnc?oc=5\" target=\"_blank\">Clear the Shelters: Meet Llama, the cuddly dog in need of a forever home</a>  NBC10 Philadelphia",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "Tech check: Why I built Lenny, the Llama Chat™—and why every learning team needs one - Chief Learning Officer",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVFMS2JmOUhYLUYyU2VFTW4yY0ktSG9TZno3ZnBsV0RWUkxmcWU2SmVIN05DT1hwajlXTHNtaVdlZHJMOG8wMS1va1huQTNJbTZpWWJ1eVo5ZGMyU0Zvd0JLSTRvYjBycWd1SW9YUlJ6czVQU3pBSDB6T2xVeFFlNkFISHcxTGRXNS1CUVhRTTlWM2ZwZjVNakpzcjByV21BeFRfX1k3VGtuZW5OWHF2eEE4TWdrMmpfRkN1TW1QcmdBNld5VGZ4TFF3?oc=5",
           "pubDate": "2025-12-19 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVFMS2JmOUhYLUYyU2VFTW4yY0ktSG9TZno3ZnBsV0RWUkxmcWU2SmVIN05DT1hwajlXTHNtaVdlZHJMOG8wMS1va1huQTNJbTZpWWJ1eVo5ZGMyU0Zvd0JLSTRvYjBycWd1SW9YUlJ6czVQU3pBSDB6T2xVeFFlNkFISHcxTGRXNS1CUVhRTTlWM2ZwZjVNakpzcjByV21BeFRfX1k3VGtuZW5OWHF2eEE4TWdrMmpfRkN1TW1QcmdBNld5VGZ4TFF3?oc=5\" target=\"_blank\">Tech check: Why I built Lenny, the Llama Chat™—and why every learning team needs one</a>  Chief Learning Officer",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+        },
+        {
+          "title": "Meta AI glasses adds 'conversation focus' feature - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5",
+          "pubDate": "2025-12-18 20:53:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RGJuSGlpbU9TNjhWWklSd2xFZm1ibFNtWXY4SkFLNGVNWFR5OUdfU2pVVFZoaldodXM4RmJpTzJXMUxSdjN6RXdJbjRHb2dneF9MR1BIQ1ltZ19YMVVSM1VsRVRyYWUtQlZpc0x5WEs?oc=5\" target=\"_blank\">Meta AI glasses adds 'conversation focus' feature</a>  Mashable",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -253,6 +253,27 @@
       "displayName": "xAI",
       "news": [
         {
+          "title": "Elon Musk’s Grok AI to be used in U.S. War Department’s bespoke AI platform - Teslarati",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMUJ3QXk0d04wWGlYcmpMQk9mMW1BaG1aMjF6ZWNWUW53NEM1ZVBDQTdjSkNFenBGbS1ZTEF2bFlHQndGWl9HTVNNVEs2UnVqN1ItQms2REttQkNvOTd3dC1KcHpfVk9UcTdUYnNSNUZxMWdPNzdsQUs3MlBBamc?oc=5",
+          "pubDate": "2025-12-23 09:28:55",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMUJ3QXk0d04wWGlYcmpMQk9mMW1BaG1aMjF6ZWNWUW53NEM1ZVBDQTdjSkNFenBGbS1ZTEF2bFlHQndGWl9HTVNNVEs2UnVqN1ItQms2REttQkNvOTd3dC1KcHpfVk9UcTdUYnNSNUZxMWdPNzdsQUs3MlBBamc?oc=5\" target=\"_blank\">Elon Musk’s Grok AI to be used in U.S. War Department’s bespoke AI platform</a>  Teslarati",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+        },
+        {
+          "title": "Grok’s Going to War: The Pentagon Adds Musk’s xAI to Its New AI System - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmFEd2w4NC12U1EweDVPQmFpWnY1NThQeFo4NTdvRXlUVEhMa2IwM1FleGljOTVZUzFsQVJLRXFYd0U2NHJHSU5XakpUTWpLbTc0VHIxSGo3VmNYSFJacDBMSEUtV3VjUzZORTFsR0IwVmM1c2FPVG04blZxQ3hQT1lPVmJSMWpCaUo5VzZsVV9OZGtCVEhoX2t4M3JEdw?oc=5",
+          "pubDate": "2025-12-23 08:17:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZmFEd2w4NC12U1EweDVPQmFpWnY1NThQeFo4NTdvRXlUVEhMa2IwM1FleGljOTVZUzFsQVJLRXFYd0U2NHJHSU5XakpUTWpLbTc0VHIxSGo3VmNYSFJacDBMSEUtV3VjUzZORTFsR0IwVmM1c2FPVG04blZxQ3hQT1lPVmJSMWpCaUo5VzZsVV9OZGtCVEhoX2t4M3JEdw?oc=5\" target=\"_blank\">Grok’s Going to War: The Pentagon Adds Musk’s xAI to Its New AI System</a>  TipRanks",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "US Department of War enters in an agreement with Elon Musk's xAI - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRU9fYUNXMmtQMGIyRkk2VE5JVEJXLU1kZkZ1TE1NUHVHVUJfRUl2Q1c0OUU0YVI2Y0NHMnBMQVFYWVEwcTNjakhxbGFFV0hOeVlwTW5zMGdwY01INHBtSGRqN3lqQkc0ZmxwOGhWRy1lS05VeFE1emZkeTJoa2FpRXRydU52MF9NU3dzdkp2V2h2TnlTVjlxRXdWMzQ2VndmcFh6clU1VFVteE5GYW9YcXBYNVNKN3U0ZkNEVS1JTWQ0eWxQSEViNDZ4VTRhTkRZSngzMzU1V0ZtWjTSAeABQVVfeXFMUEUySEdQanY5bTNGQUYwLUQ0QUxHdkl2clFfeDFYMzZ2dXJVaVhsbHhzVWdhTFFPTG9OeTc3aWQxUFF2OHVnX1pjOXhrdlVGMXZ4Skh6Y0FzcUtPTlc1dW5mYldUTFZsMUlTVlJqMEZ5d0JGOEF2RUdBQ2hKMWFrRDBhYmlJdFUxOUVQM2ZmMWstcmNCSVlXVS0zckxtVldTQnBpUWdOa2dBV3J2ZEhjUmFBN3BBNjl4ZC1haW05UWtBSDRNTUxXLXgwdFctZHF4R2ZKVlNoaDZzeUhxRl9OdlI?oc=5",
+          "pubDate": "2025-12-23 07:48:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRU9fYUNXMmtQMGIyRkk2VE5JVEJXLU1kZkZ1TE1NUHVHVUJfRUl2Q1c0OUU0YVI2Y0NHMnBMQVFYWVEwcTNjakhxbGFFV0hOeVlwTW5zMGdwY01INHBtSGRqN3lqQkc0ZmxwOGhWRy1lS05VeFE1emZkeTJoa2FpRXRydU52MF9NU3dzdkp2V2h2TnlTVjlxRXdWMzQ2VndmcFh6clU1VFVteE5GYW9YcXBYNVNKN3U0ZkNEVS1JTWQ0eWxQSEViNDZ4VTRhTkRZSngzMzU1V0ZtWjTSAeABQVVfeXFMUEUySEdQanY5bTNGQUYwLUQ0QUxHdkl2clFfeDFYMzZ2dXJVaVhsbHhzVWdhTFFPTG9OeTc3aWQxUFF2OHVnX1pjOXhrdlVGMXZ4Skh6Y0FzcUtPTlc1dW5mYldUTFZsMUlTVlJqMEZ5d0JGOEF2RUdBQ2hKMWFrRDBhYmlJdFUxOUVQM2ZmMWstcmNCSVlXVS0zckxtVldTQnBpUWdOa2dBV3J2ZEhjUmFBN3BBNjl4ZC1haW05UWtBSDRNTUxXLXgwdFctZHF4R2ZKVlNoaDZzeUhxRl9OdlI?oc=5\" target=\"_blank\">US Department of War enters in an agreement with Elon Musk's xAI</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+        },
+        {
           "title": "Pentagon taps Musk's xAI to boost sensitive government workflows, support military operations - Fox News",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFk1RWVXak1VbmpBVnlPLTlBSDNYWFZyYVp5RkZUNGFLNHlicVA5MG9FRGZlbnpfU1A3bmRuWGxrWXVYSi1CQzcwRjV4UlVIclY2Qk54X2hlajlnV3ZJMUFIUTVCOGs2d2h0OGpkc3hmVjE0ZmFKaG0wUkhSLW9ZeU1uUzR5ejdHUnVjX3VyOHNyS0ItQ1E0aHg2ZWcwUF8tdmZ3M1ZtcS1oZ3JvNkdwcnc4Wk1sU2hxaU9tTE1B0gHDAUFVX3lxTE1McW1pYzVLTFR6OFItcmdkRWUxcjBnem9RRUNoTHpYTWVZSF9wSGV2UnMwYnBvS1ZGY0JvNmdkY2RoTGU5Mlo5WnhaTnRkaVlrMVNGM3doZjNJeXlmYTBjT2lMZjQzSkZ1SGhOU1oxNTN3RWhGNlRkemJJNFc1RGJxNkUzYlNGQzZRWEM5a2ZWeldmWU1GcmVfV2xCOURWNzd6S21uR0FjcGVTYmJXZElRTmtYRXk5S1pkTmd5QXBHQmhtUQ?oc=5",
           "pubDate": "2025-12-23 01:35:06",
@@ -260,32 +281,11 @@
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
-          "title": "🇺🇸 PENTAGON SIGNS AGREEMENT WITH XAI TO DEPLOY GROK ACROSS 3 MILLION MILITARY AND CIVILIAN PERSONNEL The War Department officially entered into an agreement with xAI to integrate its frontier AI capabilities into GenAImil, the Pentag - x.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yc2czQ053VEJhYlBzcTFVbFpoZUVUN0I3VERKSlpHSWxkTzAwZHIwWGtrTEhjaDBVdk5MLWdzdE1ta215RXNWYm1FaGxJWUZweFNVSnJKNkVQdnV1aGVzSEFn?oc=5",
-          "pubDate": "2025-12-22 23:17:19",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yc2czQ053VEJhYlBzcTFVbFpoZUVUN0I3VERKSlpHSWxkTzAwZHIwWGtrTEhjaDBVdk5MLWdzdE1ta215RXNWYm1FaGxJWUZweFNVSnJKNkVQdnV1aGVzSEFn?oc=5\" target=\"_blank\">🇺🇸 PENTAGON SIGNS AGREEMENT WITH XAI TO DEPLOY GROK ACROSS 3 MILLION MILITARY AND CIVILIAN PERSONNEL The War Department officially entered into an agreement with xAI to integrate its frontier AI capabilities into GenAImil, the Pentag</a>  x.com",
+          "title": "Supporting the DOW's mission with AI - xAI",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQ3hSNjZPZm9yanFjTy1FWG5iQzhodFVzTUF4WEZpRHhRdU5TZnFzOHhJSThXOEJJcEZuSVdienJwaVc4aTdEelBZQmI?oc=5",
+          "pubDate": "2025-12-22 21:38:41",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQ3hSNjZPZm9yanFjTy1FWG5iQzhodFVzTUF4WEZpRHhRdU5TZnFzOHhJSThXOEJJcEZuSVdienJwaVc4aTdEelBZQmI?oc=5\" target=\"_blank\">Supporting the DOW's mission with AI</a>  xAI",
           "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "🚨🇺🇸BREAKING: WAR DEPARTMENT ADOPTS xAI: THE NEXT PHASE OF AMERICA’S AI ARSENAL The War Department just announced a deal with xAI to bring its frontier-grade Grok models to GenAI. mil, expanding the military’s use of artificial intelligence - x.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tdUhfakVrQ1BRLTNmMUpsd0tVakQxU3ZKY0wtS2JsdnN2clN1bl9VRlBJY3VKQkFTQVRvb0Y5WDV0c0tDMjBUbTZpUWJobERDMW4zMjdZM3ZrYWVYbjVZRnVn?oc=5",
-          "pubDate": "2025-12-22 21:10:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tdUhfakVrQ1BRLTNmMUpsd0tVakQxU3ZKY0wtS2JsdnN2clN1bl9VRlBJY3VKQkFTQVRvb0Y5WDV0c0tDMjBUbTZpUWJobERDMW4zMjdZM3ZrYWVYbjVZRnVn?oc=5\" target=\"_blank\">🚨🇺🇸BREAKING: WAR DEPARTMENT ADOPTS xAI: THE NEXT PHASE OF AMERICA’S AI ARSENAL The War Department just announced a deal with xAI to bring its frontier-grade Grok models to GenAI. mil, expanding the military’s use of artificial intelligence</a>  x.com",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
-        },
-        {
-          "title": "Why xAI Has an Uphill Battle Selling Grok to Businesses - The Information",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5",
-          "pubDate": "2025-12-15 16:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3JTZm1nRGNjQ3BsYWVFUkVvUXZsWlVBMVRnajIwbW5sd0lVb1lIRXctYTFLRkdvYlQwX1BWYm4tUUhRbUFsVnFKQU9DQ3c2OGtqcUlsalhfNU5mb1hmb2ZONElySm5rc004eVNrbXkxTjdwTWh5VmRCeWEweXhoNEMyb3RxSVlF?oc=5\" target=\"_blank\">Why xAI Has an Uphill Battle Selling Grok to Businesses</a>  The Information",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
-        },
-        {
-          "title": "Grok 4.1 - xAI",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5",
-          "pubDate": "2025-11-17 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTFBfZW9kTXlxUk9JeG4xeEt1ZnhGc0ZBaHdDOEVoNHg4XzhpYzB3eFEzbFBUX2pzdkRFQnFyVF9IMA?oc=5\" target=\"_blank\">Grok 4.1</a>  xAI",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         }
       ]
     }
