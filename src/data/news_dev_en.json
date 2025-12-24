@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-24T09:44:49.357Z",
+  "fetchedAt": "2025-12-24T15:43:04.209Z",
   "locale": "en",
   "companies": [
     {
@@ -11,14 +11,7 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5",
           "pubDate": "2025-12-24 01:59:39",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5\" target=\"_blank\">Cursor Unveils In-House Model as AI IDEs Go Full-Stack</a>  Hackernoon",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "ClickUp Acquires Cursor Competitor Codegen to Supercharge AI Super Agents - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUThrQS1TTXRCVWlFZTBXaF82dXIzZFNxRnJJYXRuRkRnMndYSllVWFZrZFBOVnBCOTk4WDNDMUpLNmJsTG5KTVU0TmUtblltd0ZDSUtUSF9pOG5jbmFIY2FBYm1VVjNENjU4SU9JVmdINnM2b3ZFTTlmdVI3Zi1oMVY5Z0plZ2ZtcTFjd0FmUnpUQQ?oc=5",
-          "pubDate": "2025-12-23 17:11:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUThrQS1TTXRCVWlFZTBXaF82dXIzZFNxRnJJYXRuRkRnMndYSllVWFZrZFBOVnBCOTk4WDNDMUpLNmJsTG5KTVU0TmUtblltd0ZDSUtUSF9pOG5jbmFIY2FBYm1VVjNENjU4SU9JVmdINnM2b3ZFTTlmdVI3Zi1oMVY5Z0plZ2ZtcTFjd0FmUnpUQQ?oc=5\" target=\"_blank\">ClickUp Acquires Cursor Competitor Codegen to Supercharge AI Super Agents</a>  Yahoo Finance",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
@@ -32,6 +25,13 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
           "pubDate": "2025-12-19 21:51:22",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "Scoop: Cursor buys code review platform Graphite - Axios",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5",
+          "pubDate": "2025-12-19 17:42:37",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5\" target=\"_blank\">Scoop: Cursor buys code review platform Graphite</a>  Axios",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
           "pubDate": "2025-12-19 15:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -93,35 +93,35 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONllMdTJXZEtNcVdtZnBlRG5WcEc4N3NETmswWk9nZldrRVlEYmdEVDEweTRrUEFkMlJ5aTN1UURHbzJibnNRVFNjazhFQTdDTTFTUUhRaG5pVWhZQTQ1a0FOSjYwekZqNkNoSzVmQmx6eFMyZktUdkxPUExLOXc2OTNneGJXTVQ3b2Iw?oc=5",
           "pubDate": "2025-12-22 18:22:39",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONllMdTJXZEtNcVdtZnBlRG5WcEc4N3NETmswWk9nZldrRVlEYmdEVDEweTRrUEFkMlJ5aTN1UURHbzJibnNRVFNjazhFQTdDTTFTUUhRaG5pVWhZQTQ1a0FOSjYwekZqNkNoSzVmQmx6eFMyZktUdkxPUExLOXc2OTNneGJXTVQ3b2Iw?oc=5\" target=\"_blank\">VSCode Abandoning IntelliCode</a>  i-programmer.info",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "I ditched VS Code for Google’s Antigravity, and I’m not going back - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeE9Oa0d5UV9vcDZISmZMZklRR2p2S21GQWRNdVpiTkZsTm8xZS1HeEc3T2JYZXc5S2lWSkpQeWJCMjI2SkFUcUZ6UlYxMmlfQmhoeWhmUkwwN3RuSk16OU4ydXhmR0FwSlNUWDhHN0E2bzVFLXBqUXFId2dIY3RwR1hKdjRQSkpIeVhhSXNnQUlJTXM0?oc=5",
-          "pubDate": "2025-12-21 14:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPeE9Oa0d5UV9vcDZISmZMZklRR2p2S21GQWRNdVpiTkZsTm8xZS1HeEc3T2JYZXc5S2lWSkpQeWJCMjI2SkFUcUZ6UlYxMmlfQmhoeWhmUkwwN3RuSk16OU4ydXhmR0FwSlNUWDhHN0E2bzVFLXBqUXFId2dIY3RwR1hKdjRQSkpIeVhhSXNnQUlJTXM0?oc=5\" target=\"_blank\">I ditched VS Code for Google’s Antigravity, and I’m not going back</a>  How-To Geek",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
+          "pubDate": "2025-12-17 19:56:08",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "Visual Studio Code adds multi-agent orchestration - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5",
           "pubDate": "2025-12-12 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5\" target=\"_blank\">Visual Studio Code adds multi-agent orchestration</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Malware Discovered in 19 Visual Studio Code Extensions - Infosecurity Magazine",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5",
           "pubDate": "2025-12-11 16:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5\" target=\"_blank\">Malware Discovered in 19 Visual Studio Code Extensions</a>  Infosecurity Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Google Colab is Coming to VS Code - blog.google",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySVMxZkVPTTdRWF9Vb004bDhKM2dGMndyNkgzYl9DSHp4VEZIN1JrZl9seHFNRHJmNVRJZW03MmdkTTlSVnVxSGptbDN3QzRfSjVDY2NnbURJNmZoQUswSGtrY1ZfNjA1ajdrU0sxWEFKMHdUbjRB?oc=5",
           "pubDate": "2025-11-13 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySVMxZkVPTTdRWF9Vb004bDhKM2dGMndyNkgzYl9DSHp4VEZIN1JrZl9seHFNRHJmNVRJZW03MmdkTTlSVnVxSGptbDN3QzRfSjVDY2NnbURJNmZoQUswSGtrY1ZfNjA1ajdrU0sxWEFKMHdUbjRB?oc=5\" target=\"_blank\">Google Colab is Coming to VS Code</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -180,7 +180,7 @@
         {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
-          "pubDate": "2025-12-15 17:27:49",
+          "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
