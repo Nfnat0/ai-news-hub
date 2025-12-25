@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-25T09:44:02.418Z",
+  "fetchedAt": "2025-12-25T15:41:44.201Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor Unveils In-House Model as AI IDEs Go Full-Stack - Hackernoon",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5",
-          "pubDate": "2025-12-24 01:59:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5\" target=\"_blank\">Cursor Unveils In-House Model as AI IDEs Go Full-Stack</a>  Hackernoon",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "title": "Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0RqTnA0WExFVlBrQnpZdGZqeVQ0UmtPWTRaOXdjUWRBRGhNVmJEWFpuekVBdjNsUFNubmk1cHV3VUtjbTZMQVBEQkJxRTNRbzAwbTE4WVZfZGRMWkE4R3ZJX3pPR0RCd0tMZ2NFSkRnOEg5UU1ZMEc1NzhxUE42R0YwenQxc01UX2Q5ZFlKTlYtRkRMSGdNdW9UUXhKZDdOR2xZS1NQQ28xdWJXXzNOM3J2NFdEblU?oc=5",
+          "pubDate": "2025-12-25 09:04:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0RqTnA0WExFVlBrQnpZdGZqeVQ0UmtPWTRaOXdjUWRBRGhNVmJEWFpuekVBdjNsUFNubmk1cHV3VUtjbTZMQVBEQkJxRTNRbzAwbTE4WVZfZGRMWkE4R3ZJX3pPR0RCd0tMZ2NFSkRnOEg5UU1ZMEc1NzhxUE42R0YwenQxc01UX2Q5ZFlKTlYtRkRMSGdNdW9UUXhKZDdOR2xZS1NQQ28xdWJXXzNOM3J2NFdEblU?oc=5\" target=\"_blank\">Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "Cursor’s Graphite Deal Aims to Close the Loop From Writing Code to Merging It - Hackernoon",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDBXcUdkU0NEcVdUMlA5VWYzVndMMEZYMFp5eThNb09MOF9ZalRkRnFTb0lmSnBuVm16RmdnXzRhTDA1Mk5JSGVMOHdISnNzUFBIdUZTbVY2YjhhYWladmhXQ283MmxkQlZTVzFWRHVNRUZXYlV6Tld1Ujd4MlFqYWJpTngtR2J1T1EtYjRCclJRdkVNYUJDMDFSQi1JaDJC?oc=5",
+          "pubDate": "2025-12-25 04:36:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDBXcUdkU0NEcVdUMlA5VWYzVndMMEZYMFp5eThNb09MOF9ZalRkRnFTb0lmSnBuVm16RmdnXzRhTDA1Mk5JSGVMOHdISnNzUFBIdUZTbVY2YjhhYWladmhXQ283MmxkQlZTVzFWRHVNRUZXYlV6Tld1Ujd4MlFqYWJpTngtR2J1T1EtYjRCclJRdkVNYUJDMDFSQi1JaDJC?oc=5\" target=\"_blank\">Cursor’s Graphite Deal Aims to Close the Loop From Writing Code to Merging It</a>  Hackernoon",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
           "pubDate": "2025-12-20 19:50:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
           "pubDate": "2025-12-19 21:51:22",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Scoop: Cursor buys code review platform Graphite - Axios",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5",
           "pubDate": "2025-12-19 17:42:37",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW41NlJPNHBGNVRmSU1hWUFSTUNTcmhfVGlvczdzX3JGM1l6dDN1dXFpQzhwNnlPQ0ZNT1l0NzkwV2MtcnhhRHkxU2RieTlnZWNlRFFINXBvdVRhTjFSbUNLRXFxQmlCLWt0dnZLOFFIV0k4S2VhaXJrR3RNWHdwTnBnT0hON1hKeVVUOEV0OXJ2bVZxZFRyT2EzZlVLdHVnendIMnVwOA?oc=5\" target=\"_blank\">Scoop: Cursor buys code review platform Graphite</a>  Axios",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
-        },
-        {
-          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
-          "pubDate": "2025-12-19 15:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5\" target=\"_blank\">How to use GitHub Copilot Spaces to debug issues faster</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security - The GitHub Blog",
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0xSWkNoNkt5a3ZMZzE2S2lRRWRpSjRrSkZvZ0VSakNMcjhEVzZPU0VEb1BPbXlNcTlaTWJnWmRTNll5UW9aYmtuY19VMGxyVXFGWUZYOUk2X1lMY1F2NDhtTzBsQklqZktYZkFNc0NCd21RX052NE1DRUduTTZIM2I0WXVCVVlkQW1SZHZVYklwQUVfYmJXQ05QZDNwTjNwMUo4Z1ZMc29LV21RU1U2T2x5WkFKU1JkQWNjTTlYMA?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0xSWkNoNkt5a3ZMZzE2S2lRRWRpSjRrSkZvZ0VSakNMcjhEVzZPU0VEb1BPbXlNcTlaTWJnWmRTNll5UW9aYmtuY19VMGxyVXFGWUZYOUk2X1lMY1F2NDhtTzBsQklqZktYZkFNc0NCd21RX052NE1DRUduTTZIM2I0WXVCVVlkQW1SZHZVYklwQUVfYmJXQ05QZDNwTjNwMUo4Z1ZMc29LV21RU1U2T2x5WkFKU1JkQWNjTTlYMA?oc=5\" target=\"_blank\">Evolving GitHub Copilot’s next edit suggestions through custom model training</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "Raptor mini is rolling out in public preview for GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVBNcWE2VXBoS2w1a2haelJHQk9aazBBM0Z4WTFIdm1CVERSYW5IYWlfX05MRGJIWXBCaTNCODFHZjNoZjVLM1M0bVpfWFVzS1M5NFMzeDN5VVFfRXZFdVg0TUpiN2NKb2JkTjRyUno5d19Zd2NlVkVoUnRoS3VpaFRGR05DbUhaMV9IS3duTGI3QjVoY0ZfbHA3SUpxaFlheHo2VnVHQi0?oc=5",
-          "pubDate": "2025-11-10 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVBNcWE2VXBoS2w1a2haelJHQk9aazBBM0Z4WTFIdm1CVERSYW5IYWlfX05MRGJIWXBCaTNCODFHZjNoZjVLM1M0bVpfWFVzS1M5NFMzeDN5VVFfRXZFdVg0TUpiN2NKb2JkTjRyUno5d19Zd2NlVkVoUnRoS3VpaFRGR05DbUhaMV9IS3duTGI3QjVoY0ZfbHA3SUpxaFlheHo2VnVHQi0?oc=5\" target=\"_blank\">Raptor mini is rolling out in public preview for GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "title": "How we’re making GitHub Copilot smarter with fewer tools - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGtuWFNTQUo5b0RVRENmUFQya183RGhqYkZVcWV1eUNINVRmSWxoamMzaEVxVnNoYV8yalZSVlJ4SmUtSlR6MmpSbW5OdDZINEU1YVJOOHY5MEpBNElsb0NLaERJZWx0eWJmQ0hUeF82Y1d6amtUY2VjaUd5LTFQRmpDbHZud1VaSDRPZS1KdHhiQVZpaENwckNLd0t0bEdNQkxF?oc=5",
+          "pubDate": "2025-11-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGtuWFNTQUo5b0RVRENmUFQya183RGhqYkZVcWV1eUNINVRmSWxoamMzaEVxVnNoYV8yalZSVlJ4SmUtSlR6MmpSbW5OdDZINEU1YVJOOHY5MEpBNElsb0NLaERJZWx0eWJmQ0hUeF82Y1d6amtUY2VjaUd5LTFQRmpDbHZud1VaSDRPZS1KdHhiQVZpaENwckNLd0t0bEdNQkxF?oc=5\" target=\"_blank\">How we’re making GitHub Copilot smarter with fewer tools</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -155,14 +155,14 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5",
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         }
       ]
     },
