@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-26T06:54:11.534Z",
+  "fetchedAt": "2025-12-26T13:08:02.396Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,31 +7,31 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "年末年始に\"完全無料\"で学ぶ 〜AIエージェント \"Cursor\" × 非エンジニア・ビジネスプロフェッショナル向け実践4Daysワークショップ開催〜 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FbzJ0TU5vNVpGZ0RvYkFxTWpuN21obHhrT2VycHlvZkMyeW5TZ2NvQlBYTEpBVDNOd25HUUhRZ0VlSW1yeGZhbVVITmc4ZEhNTXNPU3lYN2d6cDZ1RENuMjlGemx0ME5xY1E?oc=5",
+          "pubDate": "2025-12-26 06:10:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1FbzJ0TU5vNVpGZ0RvYkFxTWpuN21obHhrT2VycHlvZkMyeW5TZ2NvQlBYTEpBVDNOd25HUUhRZ0VlSW1yeGZhbVVITmc4ZEhNTXNPU3lYN2d6cDZ1RENuMjlGemx0ME5xY1E?oc=5\" target=\"_blank\">年末年始に\"完全無料\"で学ぶ 〜AIエージェント \"Cursor\" × 非エンジニア・ビジネスプロフェッショナル向け実践4Daysワークショップ開催〜</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
           "title": "1PasswordとCursorが連携、AI開発向け安全なシークレット管理を実現 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04RmxWNG9BYzBYenBieGI4ZXBVUmlISl9tbXh4ZDZSMzc0WnJyUEQ0Q25OemswWDNrQTRVQy11VWtuT0YteGVfZ0VBcUxzdw?oc=5",
           "pubDate": "2025-12-24 10:02:49",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE04RmxWNG9BYzBYenBieGI4ZXBVUmlISl9tbXh4ZDZSMzc0WnJyUEQ0Q25OemswWDNrQTRVQy11VWtuT0YteGVfZ0VBcUxzdw?oc=5\" target=\"_blank\">1PasswordとCursorが連携、AI開発向け安全なシークレット管理を実現</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nS2FKRWxQX3Jnc2FuaWFVU3IwcHpDSEpfS08yUUVmTWNUR1loamRtQVZHSjg4SVN0TkdTQ050TU03RThVS1JWbjFLb3JXU1RHdkpZUlp5X0lzbjktQWV4bEJXemo5aDZxSjNKSmZseS1sMzJaWmk3QU5YTQ?oc=5",
           "pubDate": "2025-12-23 13:19:12",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5nS2FKRWxQX3Jnc2FuaWFVU3IwcHpDSEpfS08yUUVmTWNUR1loamRtQVZHSjg4SVN0TkdTQ050TU03RThVS1JWbjFLb3JXU1RHdkpZUlp5X0lzbjktQWV4bEJXemo5aDZxSjNKSmZseS1sMzJaWmk3QU5YTQ?oc=5\" target=\"_blank\">パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "noteが全職種にAIコードエディタ「Cursor」導入、非エンジニアも開発への参加が可能に（Web担当者Forum） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KakVVdVJEX3VjRzZRU0IxN0txdzdvYXhQTFFIb3IyQ1lUa082RVhxLU9fM2g0aV9KVmN3Q290eEFvYUdaOGVRcU9hbzlDRVFSc2lpeXlGcHctWXJqWlExUmg3QzRUc1BFNmg3Y2ExMVppMXlLMzVFNlVxdkVPcUE?oc=5",
           "pubDate": "2025-12-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9KakVVdVJEX3VjRzZRU0IxN0txdzdvYXhQTFFIb3IyQ1lUa082RVhxLU9fM2g0aV9KVmN3Q290eEFvYUdaOGVRcU9hbzlDRVFSc2lpeXlGcHctWXJqWlExUmg3QzRUc1BFNmg3Y2ExMVppMXlLMzVFNlVxdkVPcUE?oc=5\" target=\"_blank\">noteが全職種にAIコードエディタ「Cursor」導入、非エンジニアも開発への参加が可能に（Web担当者Forum）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
-        },
-        {
-          "title": "note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5",
-          "pubDate": "2025-12-08 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE03LUtoWV8yTS15V3VnLVlCVGsxSDk2UFB4NXNkRkxtTXVZUnI0WTBreW1hQm00ZWVhb1FoQUcxQ3FJN29BajhEbTVYaXFsajc5SXBoUXc1R3FoeFF5Tl9DdEhkb2NUMFR4dlFmM1NOUQ?oc=5\" target=\"_blank\">note、AIコードエディタ「Cursor」を導入 非エンジニアを含む全社員が利用可能に</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -48,18 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub Copilot ChatではじめるJavaScript開発 第7回 Copilot Chatでアプリのテストを書く - ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSkV4VHg2T3M3ZW8yVklXZW80QlVaY1R3cFNEbk1KdDBhdDBqWTIyRWhWMEdUMmJMM3lYLV9qQzVnckdFNXluajVZVEtMRVRudm1aMzc5UVV4TldXdHVkQ1g3NjRlWmd3TVV2d0MwSlFjQ3pZX09Z0gF8QVVfeXFMTWEzZW1jdHFJQ0dHRGVOWFk0LVp3RmxaM0dNZlpiSThSLVh2OTFfRXdYcFB0M3NJZ2tsUkpXdGsyWUp2YUtSSS1qYUhnczdWSVR5ZVkxZnd0bUxZUFNsSFM3LWlNYWxEZUZzNTl2NkxfdGt4U1BSQzFWdzVIQg?oc=5",
+          "pubDate": "2025-12-26 04:47:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSkV4VHg2T3M3ZW8yVklXZW80QlVaY1R3cFNEbk1KdDBhdDBqWTIyRWhWMEdUMmJMM3lYLV9qQzVnckdFNXluajVZVEtMRVRudm1aMzc5UVV4TldXdHVkQ1g3NjRlWmd3TVV2d0MwSlFjQ3pZX09Z0gF8QVVfeXFMTWEzZW1jdHFJQ0dHRGVOWFk0LVp3RmxaM0dNZlpiSThSLVh2OTFfRXdYcFB0M3NJZ2tsUkpXdGsyWUp2YUtSSS1qYUhnczdWSVR5ZVkxZnd0bUxZUFNsSFM3LWlNYWxEZUZzNTl2NkxfdGt4U1BSQzFWdzVIQg?oc=5\" target=\"_blank\">GitHub Copilot ChatではじめるJavaScript開発 第7回 Copilot Chatでアプリのテストを書く</a>  ｄメニューニュース",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+        },
+        {
           "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
           "pubDate": "2025-12-25 22:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2)</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81T3YyX3F6dDYzdzV3c0NQNnZpb3dLZU83N1VUVDdXb2hrMDh2TzhONGpoU29YRmNPaWN2R1pQd3Y1OHBLZDd0N2dkSURZWWZtTkFfSnBRRnV5N0doLWwtWg?oc=5",
-          "pubDate": "2025-12-25 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE81T3YyX3F6dDYzdzV3c0NQNnZpb3dLZU83N1VUVDdXb2hrMDh2TzhONGpoU29YRmNPaWN2R1pQd3Y1OHBLZDd0N2dkSURZWWZtTkFfSnBRRnV5N0doLWwtWg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 02:33:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">プランでパブリックプレビュー提供開始</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5",
-          "pubDate": "2025-12-08 08:00:00",
+          "pubDate": "2025-12-08 00:04:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5\" target=\"_blank\">GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -89,25 +89,25 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5",
+          "pubDate": "2025-12-26 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5\" target=\"_blank\">VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート - Publickey",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUko3em05bnVwZExFcFZMcXVHLWxXbDNFRGRfcDhMOFplTW5RVWFfYnRHclcwTjRxR0xJZm9aV0RRWGlHUXFUc0xacWZ6QnpVa2ZqQVlLZEdIV19BbkdmS0ZTTG1uaDJUT3pmQmVYZzg0dzRwS1M1Q1lzTmZhd2NGTQ?oc=5",
           "pubDate": "2025-12-21 14:00:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUko3em05bnVwZExFcFZMcXVHLWxXbDNFRGRfcDhMOFplTW5RVWFfYnRHclcwTjRxR0xJZm9aV0RRWGlHUXFUc0xacWZ6QnpVa2ZqQVlLZEdIV19BbkdmS0ZTTG1uaDJUT3pmQmVYZzg0dzRwS1M1Q1lzTmZhd2NGTQ?oc=5\" target=\"_blank\">Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "ワークツリーでの複数バックグラウンドエージェント動作⁠ - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5",
-          "pubDate": "2025-12-19 06:37:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5\" target=\"_blank\">ワークツリーでの複数バックグラウンドエージェント動作⁠</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化（窓の杜） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMlZMYlpNc3dLUVFpX21aX0Uwa2doNFczeV8wQ1UzTE5kTGpfRmJkd29CejE3V0ZDRGtmUUd1Z08tbDg1dXM2b0lPOGdISDBPTnpTSm8td2ppZG5paEdRanVzYUtQaUoxNzdyZ0dUZnNud1NmY2xHaVdaWFRYTFU?oc=5",
           "pubDate": "2025-12-12 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMlZMYlpNc3dLUVFpX21aX0Uwa2doNFczeV8wQ1UzTE5kTGpfRmJkd29CejE3V0ZDRGtmUUd1Z08tbDg1dXM2b0lPOGdISDBPTnpTSm8td2ppZG5paEdRanVzYUtQaUoxNzdyZ0dUZnNud1NmY2xHaVdaWFRYTFU?oc=5\" target=\"_blank\">「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化（窓の杜）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化 - 窓の杜",
@@ -121,7 +121,7 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUhTc1JmNWRMR0Zvam1VUzE0YzNraFZmNVpzTTFzNkFTOWgyVDNSYXNlRERVeFc1RC1WZk9FczEzMVp4dFhoWGxLV0Z4S1JmX0VJaERGLUN3TDlNYkxzMFJidno4WUt6M21WQWxtbDE0c2poTC1jeWZLdUdFZk5aY18wOHE?oc=5",
           "pubDate": "2025-12-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUhTc1JmNWRMR0Zvam1VUzE0YzNraFZmNVpzTTFzNkFTOWgyVDNSYXNlRERVeFc1RC1WZk9FczEzMVp4dFhoWGxLV0Z4S1JmX0VJaERGLUN3TDlNYkxzMFJidno4WUt6M21WQWxtbDE0c2poTC1jeWZLdUdFZk5aY18wOHE?oc=5\" target=\"_blank\">悪性拡張機能のVS Codeマーケットプレイスへの公開は容易、研究者が実証</a>  株式会社マキナレコード",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
