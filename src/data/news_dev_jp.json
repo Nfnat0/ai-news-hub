@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-25T18:50:34.027Z",
+  "fetchedAt": "2025-12-26T02:27:29.171Z",
   "locale": "jp",
   "companies": [
     {
@@ -48,11 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "アスキー×マイクロソフト「GitHub Copilot Quest：Hack the Legacy」ハッカソンイベント【動画レポ】 - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMkFZQjg1aE4zZWtTSW5KVW9neDllSHRZcnFKQ0NGMmREa2hXTjYyTDJvMEJyOUVFemJuZmxrajR0d3VjVWJrMDNiTG93M09vYVdwVw?oc=5",
-          "pubDate": "2025-12-25 10:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMkFZQjg1aE4zZWtTSW5KVW9neDllSHRZcnFKQ0NGMmREa2hXTjYyTDJvMEJyOUVFemJuZmxrajR0d3VjVWJrMDNiTG93M09vYVdwVw?oc=5\" target=\"_blank\">アスキー×マイクロソフト「GitHub Copilot Quest：Hack the Legacy」ハッカソンイベント【動画レポ】</a>  ASCII.jp",
+          "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
+          "pubDate": "2025-12-25 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2)</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
+          "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81T3YyX3F6dDYzdzV3c0NQNnZpb3dLZU83N1VUVDdXb2hrMDh2TzhONGpoU29YRmNPaWN2R1pQd3Y1OHBLZDd0N2dkSURZWWZtTkFfSnBRRnV5N0doLWwtWg?oc=5",
+          "pubDate": "2025-12-25 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE81T3YyX3F6dDYzdzV3c0NQNnZpb3dLZU83N1VUVDdXb2hrMDh2TzhONGpoU29YRmNPaWN2R1pQd3Y1OHBLZDd0N2dkSURZWWZtTkFfSnBRRnV5N0doLWwtWg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ</a>  ASCII.jp",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
@@ -62,13 +69,6 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
-          "title": "GitHub Copilot ProとPro+で「Copilot memory」パブリックプレビュー開始 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMThyYkVoMHY3QU9nRE5Gek1xd3hsamo0WXJ3RG9CVkdKSnVRbzdtNlZNMkJCNTZCeHBkalN2VUdQXzM2VndmNXpaYmtQZw?oc=5",
-          "pubDate": "2025-12-22 23:10:44",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMThyYkVoMHY3QU9nRE5Gek1xd3hsamo0WXJ3RG9CVkdKSnVRbzdtNlZNMkJCNTZCeHBkalN2VUdQXzM2VndmNXpaYmtQZw?oc=5\" target=\"_blank\">GitHub Copilot ProとPro+で「Copilot memory」パブリックプレビュー開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
           "title": "プランでパブリックプレビュー提供開始 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 02:33:00",
@@ -76,11 +76,11 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
-          "title": "GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5",
-          "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5\" target=\"_blank\">GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "title": "GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5",
+          "pubDate": "2025-12-08 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUERUeDEwcUtzdEVFakpDN2VWWU5iMEtFYzJFWVptRnk2cWpfQ2pTVWwwR1J4dDVmcDEwX1hITjhIQW5ncFNZVlFaUy1uZw?oc=5\" target=\"_blank\">GitHub、Visual Studio 2026でGitHub Copilotの新機能を提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -117,10 +117,10 @@
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
-          "title": "Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見 - 株式会社マキナレコード",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5\" target=\"_blank\">Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見</a>  株式会社マキナレコード",
+          "title": "悪性拡張機能のVS Codeマーケットプレイスへの公開は容易、研究者が実証 - 株式会社マキナレコード",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUhTc1JmNWRMR0Zvam1VUzE0YzNraFZmNVpzTTFzNkFTOWgyVDNSYXNlRERVeFc1RC1WZk9FczEzMVp4dFhoWGxLV0Z4S1JmX0VJaERGLUN3TDlNYkxzMFJidno4WUt6M21WQWxtbDE0c2poTC1jeWZLdUdFZk5aY18wOHE?oc=5",
+          "pubDate": "2025-12-09 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUhTc1JmNWRMR0Zvam1VUzE0YzNraFZmNVpzTTFzNkFTOWgyVDNSYXNlRERVeFc1RC1WZk9FczEzMVp4dFhoWGxLV0Z4S1JmX0VJaERGLUN3TDlNYkxzMFJidno4WUt6M21WQWxtbDE0c2poTC1jeWZLdUdFZk5aY18wOHE?oc=5\" target=\"_blank\">悪性拡張機能のVS Codeマーケットプレイスへの公開は容易、研究者が実証</a>  株式会社マキナレコード",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         }
       ]
@@ -171,39 +171,39 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "GPT-5の登場で何が変わった？ 2025年の生成AIニュース総まとめ - Asteria Corporation",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNmdmSEJiQ0tMcEFZTWg4SHgwRE5MZGsxS0RFUzVXbHBkRHVIZ2JHUERyMmlqQlNfdVotbW5wV0M5UFVObFJSUXlwQ2NaZDBlLTk0cFVYTHBTZw?oc=5",
-          "pubDate": "2025-12-25 10:34:16",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uNmdmSEJiQ0tMcEFZTWg4SHgwRE5MZGsxS0RFUzVXbHBkRHVIZ2JHUERyMmlqQlNfdVotbW5wV0M5UFVObFJSUXlwQ2NaZDBlLTk0cFVYTHBTZw?oc=5\" target=\"_blank\">GPT-5の登場で何が変わった？ 2025年の生成AIニュース総まとめ</a>  Asteria Corporation",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
           "title": "企業データを Google の新しい Antigravity IDE に接続する - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0lMYlR4MWc5aC0yeVlWbnhnMkNzZ1RrNDJ5UWhWTjNNc2xlUmNuQUNuQ1Y4M2RDc3JWdVVoSEsyZjBQR3JrMUxnaHM3N0pqZXM5M1BJZG1fa0xTYkZMZVBmVG8wMWpfdjBZR3AzMzJmNk9kTF9mRFlSVGoxOXZVX21zVjMtQzdhMkdoVm1YWlZHZlc5QzBpQUs3N0pQd3djSDhmUGVxWE9yZ0lnRFBaUjR1RTJsVzlYN1E?oc=5",
           "pubDate": "2025-12-25 02:30:51",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0lMYlR4MWc5aC0yeVlWbnhnMkNzZ1RrNDJ5UWhWTjNNc2xlUmNuQUNuQ1Y4M2RDc3JWdVVoSEsyZjBQR3JrMUxnaHM3N0pqZXM5M1BJZG1fa0xTYkZMZVBmVG8wMWpfdjBZR3AzMzJmNk9kTF9mRFlSVGoxOXZVX21zVjMtQzdhMkdoVm1YWlZHZlc5QzBpQUs3N0pQd3djSDhmUGVxWE9yZ0lnRFBaUjR1RTJsVzlYN1E?oc=5\" target=\"_blank\">企業データを Google の新しい Antigravity IDE に接続する</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Geminiが安い、「Google AI Pro」セール中 年額3万4800円→1万4500円に 新規ユーザー向け - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OdVBhQWY1SjhvZG9VOThtckppVTRuSXNoVDZsLTcxWmVYRVJuS2RQWDVaaTNpYllERnhGRlVlTGNIUXJxZjFiZTBvUENZeTQtSlgyM3hNY0ZkRzNia0hHdS1LZ2tuR000MWxhNF9Pcw?oc=5",
+          "pubDate": "2025-12-24 08:38:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5OdVBhQWY1SjhvZG9VOThtckppVTRuSXNoVDZsLTcxWmVYRVJuS2RQWDVaaTNpYllERnhGRlVlTGNIUXJxZjFiZTBvUENZeTQtSlgyM3hNY0ZkRzNia0hHdS1LZ2tuR000MWxhNF9Pcw?oc=5\" target=\"_blank\">Geminiが安い、「Google AI Pro」セール中 年額3万4800円→1万4500円に 新規ユーザー向け</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
           "title": "Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更 - HelenTech",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5",
           "pubDate": "2025-12-06 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUGpVSHR5OG95YlctbUhydk1CUkNiV2hmeU9rOENBVnQtaEhBX2dhZzNyN0huWE9VdDdrbzRhMjU4VzBUa09R?oc=5\" target=\"_blank\">Google Antigravity、AI Pro / Ultra ユーザーの利用上限が拡大。無料プランも週次制限に変更</a>  HelenTech",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる - Impress Watch",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5\" target=\"_blank\">無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
