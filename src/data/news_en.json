@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-26T09:21:55.770Z",
+  "fetchedAt": "2025-12-26T15:20:43.385Z",
   "locale": "en",
   "companies": [
     {
@@ -7,31 +7,31 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5",
-          "pubDate": "2025-12-25 14:00:36",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5\" target=\"_blank\">I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t</a>  The Verge",
+          "title": "I turned NotebookLM into my personal finance coach — and it called out my worst money habits - Android Police",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON1BkYkNoSTZ3NVdkejQ2VnVHdlZSNE9WcV9jbXQ3WGwtMjdBX2NoTTk5OEd5NWtYZmVKTjhFbWRNQUlSQ1k0UUR1TkhUNFFaX2JtOU9ZWnMyQVpCcHY1NnRHaXBaQmhSMXVPWWNCOEpKNWRHTk82QlhDblNlWlZNcG42NUI?oc=5",
+          "pubDate": "2025-12-26 11:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON1BkYkNoSTZ3NVdkejQ2VnVHdlZSNE9WcV9jbXQ3WGwtMjdBX2NoTTk5OEd5NWtYZmVKTjhFbWRNQUlSQ1k0UUR1TkhUNFFaX2JtOU9ZWnMyQVpCcHY1NnRHaXBaQmhSMXVPWWNCOEpKNWRHTk82QlhDblNlWlZNcG42NUI?oc=5\" target=\"_blank\">I turned NotebookLM into my personal finance coach — and it called out my worst money habits</a>  Android Police",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
-          "title": "What Gemini features you get with Google AI Pro and AI Ultra [December 2025] - 9to5Google",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSW8zYkUweDh3NFhod2xwRTJEQkNsX2ZQOUFDbF9kV1NDZjhyWjkyQjdNNEZKb0I3cDFfRGZUd24tVk5nc3QtQlhocnhxVV9ES2pneXctRU0tNk5YcF80WmprOW5uTXo5MTJzTHBkTXA?oc=5",
-          "pubDate": "2025-12-25 02:20:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSW8zYkUweDh3NFhod2xwRTJEQkNsX2ZQOUFDbF9kV1NDZjhyWjkyQjdNNEZKb0I3cDFfRGZUd24tVk5nc3QtQlhocnhxVV9ES2pneXctRU0tNk5YcF80WmprOW5uTXo5MTJzTHBkTXA?oc=5\" target=\"_blank\">What Gemini features you get with Google AI Pro and AI Ultra [December 2025]</a>  9to5Google",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "title": "I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5",
+          "pubDate": "2025-12-25 14:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5\" target=\"_blank\">I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "Here’s where you can use Nano Banana Pro - blog.google",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYnlsbnp2Q3BTM25PcmFyNnNpZFl6VGJpeE1RRy04bmFGV0NLa0FSS3pSdEoyY3dXVHBtRXVBc3VCcUdKTjZTX0xrRXZKX182a1FnNHJEZnAzeDE0WFZObWtiZVc5azRzeHUxT2VTSDl6SlE?oc=5",
           "pubDate": "2025-12-23 17:04:54",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYnlsbnp2Q3BTM25PcmFyNnNpZFl6VGJpeE1RRy04bmFGV0NLa0FSS3pSdEoyY3dXVHBtRXVBc3VCcUdKTjZTX0xrRXZKX182a1FnNHJEZnAzeDE0WFZObWtiZVc5azRzeHUxT2VTSDl6SlE?oc=5\" target=\"_blank\">Here’s where you can use Nano Banana Pro</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
-          "title": "I Love NotebookLM, but This Open-Source Version Could Tempt Me to Switch - CNET",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmZpSVlOYmVsaGZVZ0d4em52YTMyc1dRaHUwdUJZN0lIbXlMNkkxZHRtM1IzU1c5Tk5aWXlKTDU4cy00b3c0Z211aThMN25sdmVlcUI0eVNJT0tVdjhfS1I0Rm15TWNGR0NmM2xxUGNoaXhWdW1ReE9lUklESE1yRE1PRWRJeHg3dC14SE1jdnp4MzVUYllrRTRUSVB3cVVtZkdPZFZZWEdNREc2TFplNjBvaXV4eFVYX0dZbA?oc=5",
-          "pubDate": "2025-12-23 12:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZmZpSVlOYmVsaGZVZ0d4em52YTMyc1dRaHUwdUJZN0lIbXlMNkkxZHRtM1IzU1c5Tk5aWXlKTDU4cy00b3c0Z211aThMN25sdmVlcUI0eVNJT0tVdjhfS1I0Rm15TWNGR0NmM2xxUGNoaXhWdW1ReE9lUklESE1yRE1PRWRJeHg3dC14SE1jdnp4MzVUYllrRTRUSVB3cVVtZkdPZFZZWEdNREc2TFplNjBvaXV4eFVYX0dZbA?oc=5\" target=\"_blank\">I Love NotebookLM, but This Open-Source Version Could Tempt Me to Switch</a>  CNET",
+          "title": "Gemini on Android Auto is an update drivers seem to love or hate – what do you think? [Poll] - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODg4NWFhSmlmUEtlb1V6SGRFSEY1TGQ0bVNUeHNVQmdoRllsOGZnZC1WMnRPR0RmU0c4WWpOMDZNVk80a1UyMFZ5UkQtYW1Rbk5BdXpGMTBmaXJRNUhka0lHeUowc2ZlRVFWR0dHb0hiY3FudWptX1FpUm1MLXdHck5JU2lCQQ?oc=5",
+          "pubDate": "2025-12-23 16:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNODg4NWFhSmlmUEtlb1V6SGRFSEY1TGQ0bVNUeHNVQmdoRllsOGZnZC1WMnRPR0RmU0c4WWpOMDZNVk80a1UyMFZ5UkQtYW1Rbk5BdXpGMTBmaXJRNUhka0lHeUowc2ZlRVFWR0dHb0hiY3FudWptX1FpUm1MLXdHck5JU2lCQQ?oc=5\" target=\"_blank\">Gemini on Android Auto is an update drivers seem to love or hate – what do you think? [Poll]</a>  9to5Google",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CSzZLVUsyUHR2RXM4cDdweDdmM3lXbHFWclFYZjdla21RVDFFUEFmOTk0S1BXLWVFNGptTUVOVWdiMXNQUTdsS0VNZmo2ZW4t?oc=5",
           "pubDate": "2025-12-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CSzZLVUsyUHR2RXM4cDdweDdmM3lXbHFWclFYZjdla21RVDFFUEFmOTk0S1BXLWVFNGptTUVOVWdiMXNQUTdsS0VNZmo2ZW4t?oc=5\" target=\"_blank\">Google Gemini vs ChatGPT: Which AI Assistant Wins in 2026?</a>  Backlinko",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -47,6 +47,13 @@
       "company": "openai",
       "displayName": "OpenAI",
       "news": [
+        {
+          "title": "ChatGPT's GPT-5.2 is here, and it feels rushed - Fox News",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQ0M0OGU3NVBrWTUwRlhMVTRXVmVlV3ZfUEo2eDFyZ2dib3hyeVIzUjNVaWFyaFBQVlNWMFhpbi1RdUJzQkduYmxGdWNUcnktTzdlRl81UGhGd0p6UGFQTmc4eGlxcnY2Vy1CbGdHcTXSAXZBVV95cUxPcTdNRHFTX1N1Q3JkLXFVYnc0WUtDc3RXdlhwbjNEUlk0THc0LXFBNVhTVmE0SnJSMTVhcm1VUnhTR1FYbkRYeWJsb3Z2ajltbTAwRlVLMDBEY2RQTEVaWllQdlcwQjBnVzZCT0QwSHBYMm1hZ3pR?oc=5",
+          "pubDate": "2025-12-26 13:37:53",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQ0M0OGU3NVBrWTUwRlhMVTRXVmVlV3ZfUEo2eDFyZ2dib3hyeVIzUjNVaWFyaFBQVlNWMFhpbi1RdUJzQkduYmxGdWNUcnktTzdlRl81UGhGd0p6UGFQTmc4eGlxcnY2Vy1CbGdHcTXSAXZBVV95cUxPcTdNRHFTX1N1Q3JkLXFVYnc0WUtDc3RXdlhwbjNEUlk0THc0LXFBNVhTVmE0SnJSMTVhcm1VUnhTR1FYbkRYeWJsb3Z2ajltbTAwRlVLMDBEY2RQTEVaWllQdlcwQjBnVzZCT0QwSHBYMm1hZ3pR?oc=5\" target=\"_blank\">ChatGPT's GPT-5.2 is here, and it feels rushed</a>  Fox News",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
         {
           "title": "Report: OpenAI explores ways to make money from ChatGPT with conversational ads - SiliconANGLE",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWY2S2YzY09MMXZmUjVvbWg5VkJlOVBtZVRxbUdvemdPZEdBZlJ4Zlo1aUYyQTBEcHVpVEhWVWFZdE1HVVFteFN5by1zR2JBSXoyTzhtT3pwM3psbEJvOWRmVjRZVUVuUk9tVTRtczctWmJCRVpHc0tWVy1XNnh6bzl1R01WN3hJYm40em9kc0RLdmRKWjAwWXFqM2lxSmZ2ckE?oc=5",
@@ -74,13 +81,6 @@
           "pubDate": "2025-12-24 14:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUE1HZHAzd1d4ZDhIU1JLdW44Rjg0QUJMN3U4TGdQRzBpckZsV0k3cEpWcnZ6V3B2VzRncG1DY2FPZFVDQXlPSDZXSnNsSk5kenk3Wl9tTDFzODBBSllVMkF1V0RqaS1aMVhmTmI4azVpQzhaSjFQUmlTZ0tRWGhadDlR?oc=5\" target=\"_blank\">OpenAI’s Ads Push Starts Taking Shape</a>  The Information",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
-        },
-        {
-          "title": "Continuously hardening ChatGPT Atlas against prompt injection attacks - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BeDVtWUpQWmljd2lscmZRTkFtUzl2Vi14SWxBWDFrZTI3UGdsQTlkYXZRMVdYQUN6dG9ROGZtSDhrdmJ5cEdzZzZjYVJqNm85NDV5bEdRSGtrbWNCejZBYm1abURVNHl2eWZKdmJXZ0FJTDlM?oc=5",
-          "pubDate": "2025-12-22 18:25:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9BeDVtWUpQWmljd2lscmZRTkFtUzl2Vi14SWxBWDFrZTI3UGdsQTlkYXZRMVdYQUN6dG9ROGZtSDhrdmJ5cEdzZzZjYVJqNm85NDV5bEdRSGtrbWNCejZBYm1abURVNHl2eWZKdmJXZ0FJTDlM?oc=5\" target=\"_blank\">Continuously hardening ChatGPT Atlas against prompt injection attacks</a>  OpenAI",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -89,10 +89,10 @@
       "displayName": "Microsoft",
       "news": [
         {
-          "title": "Microsoft Stock (MSFT) News Today: CEO Steps In on Copilot, AI Spending Scrutiny, and 2026 Analyst Forecasts in a Holiday-Thin Session - ts2.tech",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY2g0YlBnYm5LcTlRelAzOVA3ZDhnQ1k5Y1VONW5rY1IycXlZZUk1OEd0RnVZSDhnWEpIQWY3NGd0RGJuYjNnMU5QT3Iya2swaVhZa2xZZlU2QkRGY1RfNjZMZmxFQ1F5a0luZE56MHZsZlQwMFhhb092cnNWUGtXSTY2U1E4TVNIYmtNdHFVeEdnR0V1cy0xYlRHWnZvcVdBTnpfRlhvb2VsQl9OVEEtRXRqOTc2MDNlc2RzempmcnpsS3lwblc3Y3lYOG9mbHV5Q3BZcjdkNjFIRnFPN1ctOEcwU3U?oc=5",
-          "pubDate": "2025-12-24 14:58:51",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY2g0YlBnYm5LcTlRelAzOVA3ZDhnQ1k5Y1VONW5rY1IycXlZZUk1OEd0RnVZSDhnWEpIQWY3NGd0RGJuYjNnMU5QT3Iya2swaVhZa2xZZlU2QkRGY1RfNjZMZmxFQ1F5a0luZE56MHZsZlQwMFhhb092cnNWUGtXSTY2U1E4TVNIYmtNdHFVeEdnR0V1cy0xYlRHWnZvcVdBTnpfRlhvb2VsQl9OVEEtRXRqOTc2MDNlc2RzempmcnpsS3lwblc3Y3lYOG9mbHV5Q3BZcjdkNjFIRnFPN1ctOEcwU3U?oc=5\" target=\"_blank\">Microsoft Stock (MSFT) News Today: CEO Steps In on Copilot, AI Spending Scrutiny, and 2026 Analyst Forecasts in a Holiday-Thin Session</a>  ts2.tech",
+          "title": "Microsoft Ai - More News on LatestLY - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRlIzVkY2dUNnSm9fVFpVNXg5UGpiM0t4MUZVbUhSZnkxX29oeVZabXRMSDhxanZmUE1Fb0dEc3VWZHYtX2JLTVBmRmNmeTlmZjAwbVhQVE1OUVhqc0hQYVlZaUNkdU9QQ1c0eDZn?oc=5",
+          "pubDate": "2025-12-26 07:20:47",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRlIzVkY2dUNnSm9fVFpVNXg5UGpiM0t4MUZVbUhSZnkxX29oeVZabXRMSDhxanZmUE1Fb0dEc3VWZHYtX2JLTVBmRmNmeTlmZjAwbVhQVE1OUVhqc0hQYVlZaUNkdU9QQ1c0eDZn?oc=5\" target=\"_blank\">Microsoft Ai - More News on LatestLY</a>  LatestLY",
           "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
@@ -137,17 +137,24 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
-          "title": "An AI Chatbot Tried To Contact The FBI - Here's Why - bgr.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYVFNcFFkN1J1WlEzOVB3UlhSV1prV0x5alpUcE9KU2Y2aDY2S19HbXROY09CXzVKUzFmWExPZVpPWEJMRnZmSGJRRmFWaXVPUjNXc29zVGZZYUxSQmVhMDFZN3A2QTNYTHZXMQ?oc=5",
-          "pubDate": "2025-12-23 15:17:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5QYVFNcFFkN1J1WlEzOVB3UlhSV1prV0x5alpUcE9KU2Y2aDY2S19HbXROY09CXzVKUzFmWExPZVpPWEJMRnZmSGJRRmFWaXVPUjNXc29zVGZZYUxSQmVhMDFZN3A2QTNYTHZXMQ?oc=5\" target=\"_blank\">An AI Chatbot Tried To Contact The FBI - Here's Why</a>  bgr.com",
+          "title": "GitHub repository offers more than 50 customizable Claude Skills - the-decoder.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR09pWjVyaW9PVjJURVdHT1MzVzZhRnNkdjMzMlg1dXI2QTFRcU5nTTV0Yng1eGd1RkNmQ1JPWUF0elhXT0lPTjNRdFFxd19RY0FxeDhERTRjN1hySUVmT1E3eEtiNDNKTWFLMENZdTNxeTVSN0FDck9tM3pib0JfajZTOW5oZjBncDBkaExPeEtXcTQ?oc=5",
+          "pubDate": "2025-12-23 17:35:54",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNR09pWjVyaW9PVjJURVdHT1MzVzZhRnNkdjMzMlg1dXI2QTFRcU5nTTV0Yng1eGd1RkNmQ1JPWUF0elhXT0lPTjNRdFFxd19RY0FxeDhERTRjN1hySUVmT1E3eEtiNDNKTWFLMENZdTNxeTVSN0FDck9tM3pib0JfajZTOW5oZjBncDBkaExPeEtXcTQ?oc=5\" target=\"_blank\">GitHub repository offers more than 50 customizable Claude Skills</a>  the-decoder.com",
           "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
           "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQYjJUWXg0Sng3OHlvTnJ3VmNmWE4wLUpzTHY4NVhwdzJVaXRfNmxnWlQzY0hFMjhMaXR0M3BPNUVJRjI3Nk9NSG9rbWhma05ybE9JQU9PVjU2X2NpUWV6OVJENEYxMVQxZEdzY0E4SmVZOXJCWGI5SEJ3V2lPNjJ0ZWFYODZFaWk5YV9ucmZ3cmRyOEZmWTJZZlVwR21CMnJwdWFjX01yb1g2aHdrVnZOUW9ZMWY1RVJGS0dEeEV4aGtpNGdWSUVBTUF6RkdVTnVDTlhlczMyRXhpcUJJWUVOMjVHSVI1Z3dVcHcxWWswVE1YXzY5ekc4QzZpeWZYeFpsR1pKNjdYMF9VRFRPVF9pMGI5Vll6S0F0ZjBUZ3FpLWRCZ0ZrZWZySE5EVmN3d0trQkRYbjBOUFhwRkdGYk1LY0x2QXdPQ2gwQ1BjOU92cm1qMDdITTExOEFJVndfSDE3WTgzYkYtV1E3dGFwa29ueEdzZkgtdzNDZzkxTl9HdGNrV2owR0xneDN3?oc=5",
-          "pubDate": "2025-12-18 10:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxQYjJUWXg0Sng3OHlvTnJ3VmNmWE4wLUpzTHY4NVhwdzJVaXRfNmxnWlQzY0hFMjhMaXR0M3BPNUVJRjI3Nk9NSG9rbWhma05ybE9JQU9PVjU2X2NpUWV6OVJENEYxMVQxZEdzY0E4SmVZOXJCWGI5SEJ3V2lPNjJ0ZWFYODZFaWk5YV9ucmZ3cmRyOEZmWTJZZlVwR21CMnJwdWFjX01yb1g2aHdrVnZOUW9ZMWY1RVJGS0dEeEV4aGtpNGdWSUVBTUF6RkdVTnVDTlhlczMyRXhpcUJJWUVOMjVHSVI1Z3dVcHcxWWswVE1YXzY5ekc4QzZpeWZYeFpsR1pKNjdYMF9VRFRPVF9pMGI5Vll6S0F0ZjBUZ3FpLWRCZ0ZrZWZySE5EVmN3d0trQkRYbjBOUFhwRkdGYk1LY0x2QXdPQ2gwQ1BjOU92cm1qMDdITTExOEFJVndfSDE3WTgzYkYtV1E3dGFwa29ueEdzZkgtdzNDZzkxTl9HdGNrV2owR0xneDN3?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNOTBpUVNlNFRUSXJlQjNJQUd1aF9kWWtsaUxyQTM2ZHp0Q3RTTFBQZ0pVb3RSa2ZFamVENjRiRFR3Q3VWQXJySUYyUW5WMjhaWU11c1drOERHQnFBcjdpbk1mMUxCWnl1Y0R1T3ctcXBSaUVmb0w1SzlzRG5sak5GQ1lwTkV1S2dscWlVcHJFN2FqM2FVVGVaalp2Y2dzMm95dFZRcE5JSUlDa1ZBT3AzaUt6T1lzczhQWV92R2RIUmxFWXIyQ3piOHRTLW01MUdKdmdRSnE2MmlzUXVJbmtYa0NWZFpxaVg4WkJYOWNxWWJFb0lZaWZfYzdFSlhXcWo4eVdJOXVvU1VSUFpGaWtaTDlRdjFCdFlXOV8xTng0aFFEcFFCSXNwSnd2MUlqUGhlOWFiMEVKYXVBSVRYY1BFaEZTSnVMVXFfay1MeUtTMXd3YVYwaVdCY0h3NjFwNlBYSkIyX3JvMHltc3VvQ2tWQ3hBZHBKbS1fR052VVhKa3lETGpucWNQV2FB?oc=5",
+          "pubDate": "2025-12-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxNOTBpUVNlNFRUSXJlQjNJQUd1aF9kWWtsaUxyQTM2ZHp0Q3RTTFBQZ0pVb3RSa2ZFamVENjRiRFR3Q3VWQXJySUYyUW5WMjhaWU11c1drOERHQnFBcjdpbk1mMUxCWnl1Y0R1T3ctcXBSaUVmb0w1SzlzRG5sak5GQ1lwTkV1S2dscWlVcHJFN2FqM2FVVGVaalp2Y2dzMm95dFZRcE5JSUlDa1ZBT3AzaUt6T1lzczhQWV92R2RIUmxFWXIyQ3piOHRTLW01MUdKdmdRSnE2MmlzUXVJbmtYa0NWZFpxaVg4WkJYOWNxWWJFb0lZaWZfYzdFSlhXcWo4eVdJOXVvU1VSUFpGaWtaTDlRdjFCdFlXOV8xTng0aFFEcFFCSXNwSnd2MUlqUGhlOWFiMEVKYXVBSVRYY1BFaEZTSnVMVXFfay1MeUtTMXd3YVYwaVdCY0h3NjFwNlBYSkIyX3JvMHltc3VvQ2tWQ3hBZHBKbS1fR052VVhKa3lETGpucWNQV2FB?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Project Vend: Phase two - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nTkxUNW1LZXRrTU9nX1lkM2hYM19fSTU1ZHozc0xnQTBFOUJHYnY0eGZ4emJUc0h0ZTlSbHJtWGh1MVotMjFPUnNnSk5wRWRoUDU2STJ3SWd2UDAxY2c?oc=5",
+          "pubDate": "2025-12-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nTkxUNW1LZXRrTU9nX1lkM2hYM19fSTU1ZHozc0xnQTBFOUJHYnY0eGZ4emJUc0h0ZTlSbHJtWGh1MVotMjFPUnNnSk5wRWRoUDU2STJ3SWd2UDAxY2c?oc=5\" target=\"_blank\">Project Vend: Phase two</a>  Anthropic",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
@@ -156,13 +163,6 @@
           "pubDate": "2025-12-03 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5CQUowX2FQVEJyMHc3WWEyajZOS3UzcmthbFVudnBOekZJZ0IzakJoY0FXdExfU3pjQ2ZuY3o1ZEstZnRsNnN5emdQcXhieXJIQVAzMGxkdWVkaUJ0V2RURnJ2YUQ3eFNHbnlNYk1BRGtldGxx?oc=5\" target=\"_blank\">Anthropic’s “Soul Overview” for Claude Has Leaked</a>  Futurism",
           "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
-        },
-        {
-          "title": "Introducing Claude Opus 4.5 - Anthropic",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OWN3YndfcE4tUnBWQ01XX0RYWWIzVTJienN4Q2NTY0xOMF9Ra1BEOWR4WW8xdGRfck5KdHVjZXZObDVObTd6RE4xMklVMTlJZGJ6ZndTT3JnUQ?oc=5",
-          "pubDate": "2025-11-24 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OWN3YndfcE4tUnBWQ01XX0RYWWIzVTJienN4Q2NTY0xOMF9Ra1BEOWR4WW8xdGRfck5KdHVjZXZObDVObTd6RE4xMklVMTlJZGJ6ZndTT3JnUQ?oc=5\" target=\"_blank\">Introducing Claude Opus 4.5</a>  Anthropic",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         }
       ]
     },
@@ -212,39 +212,39 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "Presidente Electo De Honduras Llama A La Unidad Y La Paz - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQc3pTN1pEcVNianJPMVFMWDZ4R0Y0aXFEaUJRMlB2SjNpaFh2bVdyZGNKWEluUkdaUUw2SHg5M2lVZ3Q3djdvbms1NDRWVzg2cE5VYzNhVF82UGJkQWpncURXaVFtbWRLXzlMNzFmQU1ibTNwdmh3eW5nOWQtY2RhbDl2d0MyN2RycGNPY0F3Z2dIbUl4bE1idTVXRjd3elhwRGRLN2RFcG5faThwM2tTT1I2cTFMTDd1WHF0ZEI1N0RreGlERjVyb3BJSEQxcVBnQTlwUTRFMUFMYTFnMXY3a2czQUV2dDR3SFVRdHFlRVF4YmJZSDVXNmc1OUtjWkc1YzgycWdXNno1clpsOUVQRFdDcVJfUTF5cGVaVDZEOXc4RnVyU08yN1J3cFZGWFhobVJzZEpacVU5cEVib285LWZvTFBtTVpzbS11Y1ZLczQwLVVnT3JMOTNFeDFYcy16RkF6dW50Z1FZLWNlS1ZpRmVHYm9seWJ1UzhHdUdPM2JMNkJIc0Fya3BaaXZoNVVHS0xHTXhXRl92ckxJVDlCeEt3Unh4QVo3b1E?oc=5",
-          "pubDate": "2025-12-25 18:13:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqgNBVV95cUxQc3pTN1pEcVNianJPMVFMWDZ4R0Y0aXFEaUJRMlB2SjNpaFh2bVdyZGNKWEluUkdaUUw2SHg5M2lVZ3Q3djdvbms1NDRWVzg2cE5VYzNhVF82UGJkQWpncURXaVFtbWRLXzlMNzFmQU1ibTNwdmh3eW5nOWQtY2RhbDl2d0MyN2RycGNPY0F3Z2dIbUl4bE1idTVXRjd3elhwRGRLN2RFcG5faThwM2tTT1I2cTFMTDd1WHF0ZEI1N0RreGlERjVyb3BJSEQxcVBnQTlwUTRFMUFMYTFnMXY3a2czQUV2dDR3SFVRdHFlRVF4YmJZSDVXNmc1OUtjWkc1YzgycWdXNno1clpsOUVQRFdDcVJfUTF5cGVaVDZEOXc4RnVyU08yN1J3cFZGWFhobVJzZEpacVU5cEVib285LWZvTFBtTVpzbS11Y1ZLczQwLVVnT3JMOTNFeDFYcy16RkF6dW50Z1FZLWNlS1ZpRmVHYm9seWJ1UzhHdUdPM2JMNkJIc0Fya3BaaXZoNVVHS0xHTXhXRl92ckxJVDlCeEt3Unh4QVo3b1E?oc=5\" target=\"_blank\">Presidente Electo De Honduras Llama A La Unidad Y La Paz</a>  Barron's",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "title": "What Is Meta AI? How It Works Across Facebook, Instagram, and WhatsApp - extremetech.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0RIQ2pTQ1V5cWNVN1ptdTRRZkgxX3pjM0RVdS1PMXNWN2xteWhoUWE4WGVySjlvdWd5XzZ4ZjJfUUlLM2lYUEZFdGJUcHB2akdfYlVJaUtBUW9GZGxuaWhWV0VRX1ZmdWxJcWlqOUZfZERqeUNfREJCZXhqZUlLR29aVVJ4cVVLWFppOGp4dkFCV3dYQ00tMWJBVGtuMDBXc3JYMnR2WS0?oc=5",
+          "pubDate": "2025-12-26 12:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0RIQ2pTQ1V5cWNVN1ptdTRRZkgxX3pjM0RVdS1PMXNWN2xteWhoUWE4WGVySjlvdWd5XzZ4ZjJfUUlLM2lYUEZFdGJUcHB2akdfYlVJaUtBUW9GZGxuaWhWV0VRX1ZmdWxJcWlqOUZfZERqeUNfREJCZXhqZUlLR29aVVJ4cVVLWFppOGp4dkFCV3dYQ00tMWJBVGtuMDBXc3JYMnR2WS0?oc=5\" target=\"_blank\">What Is Meta AI? How It Works Across Facebook, Instagram, and WhatsApp</a>  extremetech.com",
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
-          "title": "Meta’s new AI roadmap: Mango and Avocado models - ContentGrip",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seTFHcVRvTG81RTJqZXoxYnhBMzdaY2F2OHl2dTIyUHVkZUFmXzJ6aS12OWowa2pGVWVYNmE1MTFweGFsb2hVSTlHMFVaaWVpVHBuS2hEcFV3TEloVi1hWVFfUkFOUy04?oc=5",
-          "pubDate": "2025-12-25 12:05:27",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seTFHcVRvTG81RTJqZXoxYnhBMzdaY2F2OHl2dTIyUHVkZUFmXzJ6aS12OWowa2pGVWVYNmE1MTFweGFsb2hVSTlHMFVaaWVpVHBuS2hEcFV3TEloVi1hWVFfUkFOUy04?oc=5\" target=\"_blank\">Meta’s new AI roadmap: Mango and Avocado models</a>  ContentGrip",
+          "title": "The Llama series of models from Meta - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnh6VUQwMlJJbmowV1lhRi1MODFSSkZmQlZGY2d1VUpjQUV5NFN3cFNveWxIcDVPLWlKak53ZU9fZ2pMV3lkekRMeWxlWE5qSmZBYVNJdjVWN29ZbGZJamdlMnpRbXpvN256S05vLUNnMXVqV2ZqdmlQS1JxWXZ4T2FRZndNeEgtZUxsUE94c1VJd2Jzc3N1UkFNWm1sMXfSAZ8BQVVfeXFMTjZ4elVEMDJSSW5qMFdZYUYtTDgxUkpGZkJWRmNndVVKY0FFeTRTd3BTb3lsSHA1Ty1pSmpOd2VPX2dqTFd5ZHpETHlsZVhOakpmQWFTSXY1VjdvWWxmSWpnZTJ6UW16bzduektOby1DZzF1aldmanZpUEtScVl2eE9hUWZ3TXhILWVMbFBPeHNVSXdic3NzdVJBTVptbDF3?oc=5",
+          "pubDate": "2025-12-26 11:02:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONnh6VUQwMlJJbmowV1lhRi1MODFSSkZmQlZGY2d1VUpjQUV5NFN3cFNveWxIcDVPLWlKak53ZU9fZ2pMV3lkekRMeWxlWE5qSmZBYVNJdjVWN29ZbGZJamdlMnpRbXpvN256S05vLUNnMXVqV2ZqdmlQS1JxWXZ4T2FRZndNeEgtZUxsUE94c1VJd2Jzc3N1UkFNWm1sMXfSAZ8BQVVfeXFMTjZ4elVEMDJSSW5qMFdZYUYtTDgxUkpGZkJWRmNndVVKY0FFeTRTd3BTb3lsSHA1Ty1pSmpOd2VPX2dqTFd5ZHpETHlsZVhOakpmQWFTSXY1VjdvWWxmSWpnZTJ6UW16bzduektOby1DZzF1aldmanZpUEtScVl2eE9hUWZ3TXhILWVMbFBPeHNVSXdic3NzdVJBTVptbDF3?oc=5\" target=\"_blank\">The Llama series of models from Meta</a>  Times of India",
           "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+        },
+        {
+          "title": "5 AI advertising controversies that turned heads this year, from Meta's AI granny to Coca-Cola's shape-shifting trucks - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlBPc1R3LUctZ0VmbDhvS2JfZW50ZUs1TGlOQ0ZGUl9MbXRGaWI4VHJrdU1Eamk4OFpaTE0tTkFPaWNiVFpTeGZpdDV1QTBiOG1BZWxUNnVZU2hnWkFNeDlOSEFmNVVrVHdUR3dIamZVcTF6S2YwVEd0dURtUzhVd0pEa2o3NVR3bnBKVmFGSFgtYk1yVktoT0d1UnI2b2lJ?oc=5",
+          "pubDate": "2025-12-26 10:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlBPc1R3LUctZ0VmbDhvS2JfZW50ZUs1TGlOQ0ZGUl9MbXRGaWI4VHJrdU1Eamk4OFpaTE0tTkFPaWNiVFpTeGZpdDV1QTBiOG1BZWxUNnVZU2hnWkFNeDlOSEFmNVVrVHdUR3dIamZVcTF6S2YwVEd0dURtUzhVd0pEa2o3NVR3bnBKVmFGSFgtYk1yVktoT0d1UnI2b2lJ?oc=5\" target=\"_blank\">5 AI advertising controversies that turned heads this year, from Meta's AI granny to Coca-Cola's shape-shifting trucks</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
           "title": "Holiday travel anxiety? Portland airport has therapy llamas and service dogs for that - Oregon Public Broadcasting - OPB",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzMzdGtVclpCbU9nVFpJUTlpcEI3T2xiSm04Z2JNUjZyTmNvNHBCbHlyYWxfSkV3VjMxbnZiQ0c5RVB4MXVqYnR6MzZrYUhiWlg3OUdpLWViUWplQlBvQTZnU1lBNHo3SG1xMVphRTJvVlBMX2NocmMwY2tTYW9TQlQ3Q2ZCcklPa0l5bV9rU1ZjbXBnMFE?oc=5",
           "pubDate": "2025-12-24 14:06:20",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTzMzdGtVclpCbU9nVFpJUTlpcEI3T2xiSm04Z2JNUjZyTmNvNHBCbHlyYWxfSkV3VjMxbnZiQ0c5RVB4MXVqYnR6MzZrYUhiWlg3OUdpLWViUWplQlBvQTZnU1lBNHo3SG1xMVphRTJvVlBMX2NocmMwY2tTYW9TQlQ3Q2ZCcklPa0l5bV9rU1ZjbXBnMFE?oc=5\" target=\"_blank\">Holiday travel anxiety? Portland airport has therapy llamas and service dogs for that</a>  Oregon Public Broadcasting - OPB",
-          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
-        },
-        {
-          "title": "After Meta’s AI spending spree, is it time for another ‘year of efficiency’? - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQVc3TEdGb042Y0h6ZmlnMjNBUm5TNkZTVjRIcGZjQ1BKTzlVVDY5azVOUzJJam9FQjNoSHB4S1lHUm5OSF9xNXRtWEV1TFAtNk5HUlR1SHVRamFyQ0tMVlRTYnJmdkRQc0RMcEFNOFBRTlB1WGJ3YWE4V3BlOExDaXJsVEFuQU5Sd3FpOUVqdUlpQ0wwcV8xa1NQRl9KQUFCX3BYMlkzZW02RHl6SERPTml0VWEyXzBZbVFaRXpHalFRUGVDc2pCZGl5dW03X3lKVVluTVpOVjJsNDdYRnF5bXdqSHVpY3dMZi1aQ2Y3Z0k3bGJFREhVdTJVSzFER3BVVVdmclpUT1lMbmplM1hmaXpqMDMwUzd2eF85NkdienhiakFTSzhHUlJqRG5KdjY5TC1mNno5SzN0T05JVGxRVmkwWV9GN3kwbkNjTjhwR21RdE03UE9Fd1I3MjFOdnM3REdqVDYxSXBRSlI2OXpYcGxYdk5jMUM1dk5ZckNvZmg3Y3Mxbm9FWEliM2J5ekRzMDdHazBhTm51THc5dDNZczFkbXZFcEV2WmtYc2psODU0ZjZsMmNNTjJB?oc=5",
-          "pubDate": "2025-12-24 13:35:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNQVc3TEdGb042Y0h6ZmlnMjNBUm5TNkZTVjRIcGZjQ1BKTzlVVDY5azVOUzJJam9FQjNoSHB4S1lHUm5OSF9xNXRtWEV1TFAtNk5HUlR1SHVRamFyQ0tMVlRTYnJmdkRQc0RMcEFNOFBRTlB1WGJ3YWE4V3BlOExDaXJsVEFuQU5Sd3FpOUVqdUlpQ0wwcV8xa1NQRl9KQUFCX3BYMlkzZW02RHl6SERPTml0VWEyXzBZbVFaRXpHalFRUGVDc2pCZGl5dW03X3lKVVluTVpOVjJsNDdYRnF5bXdqSHVpY3dMZi1aQ2Y3Z0k3bGJFREhVdTJVSzFER3BVVVdmclpUT1lMbmplM1hmaXpqMDMwUzd2eF85NkdienhiakFTSzhHUlJqRG5KdjY5TC1mNno5SzN0T05JVGxRVmkwWV9GN3kwbkNjTjhwR21RdE03UE9Fd1I3MjFOdnM3REdqVDYxSXBRSlI2OXpYcGxYdk5jMUM1dk5ZckNvZmg3Y3Mxbm9FWEliM2J5ekRzMDdHazBhTm51THc5dDNZczFkbXZFcEV2WmtYc2psODU0ZjZsMmNNTjJB?oc=5\" target=\"_blank\">After Meta’s AI spending spree, is it time for another ‘year of efficiency’?</a>  MarketWatch",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
           "title": "‘They make it better’: Portland airport welcomes therapy llamas, dogs, to ease holiday travel stress - OregonLive.com",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQby0xbUZpTGpqVVRYc2xRSGN3TDBOSFdKV1RBU1RrVkMtUi13ZFhSVVFjU28xYWZLaG13dHEtSjdnbTBISDdaV3J1RjVUTl90MVBwRTdOWmYzRGQtUTQ4U0lNcVhQbHNGTlQyT3N2VGN3M3pXdi1XcVFmS0FHa0lWdllncHRDSW4wUTJQaHU5QThKTjhTdVBhanRsalI2X09aMEZuUnlFVjk0WUVDcURwSHJDYnh1NlplVTBwV3NMQnlmZTZrY2RHOW90ZTE3VUg3aktjS0hIRDlQSHd20gHwAUFVX3lxTFBYWlU0TmEtNV9xRG14YzZuOGNaOTlxR1AyY3c0TzRsTUtwMVo0Zl9IWlpQZXRlZ1dnYlRiOUREdENRT25yekFZM0ItTm5YaUVjVFRzU2dXTkhlVTRQTXlLWkdVZzFlbnlNVGt3clN0bDUyaUpvYUx4R1A0NEdHblFNUHJCdnJMbllXbU5fQ0t5bTJaSnlZaHM0Tkx0SDJuZXhsZi0wZk80UlEzUENrMFl4cTFac29nbTZjUHUtR2tBeVl1QXA2dVFwTmZKc2NabDhTckFQa0tHZTNtSlJwOG1NV3M0ZWh1eWZWTXhtU0E4Qg?oc=5",
           "pubDate": "2025-12-24 01:47:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQby0xbUZpTGpqVVRYc2xRSGN3TDBOSFdKV1RBU1RrVkMtUi13ZFhSVVFjU28xYWZLaG13dHEtSjdnbTBISDdaV3J1RjVUTl90MVBwRTdOWmYzRGQtUTQ4U0lNcVhQbHNGTlQyT3N2VGN3M3pXdi1XcVFmS0FHa0lWdllncHRDSW4wUTJQaHU5QThKTjhTdVBhanRsalI2X09aMEZuUnlFVjk0WUVDcURwSHJDYnh1NlplVTBwV3NMQnlmZTZrY2RHOW90ZTE3VUg3aktjS0hIRDlQSHd20gHwAUFVX3lxTFBYWlU0TmEtNV9xRG14YzZuOGNaOTlxR1AyY3c0TzRsTUtwMVo0Zl9IWlpQZXRlZ1dnYlRiOUREdENRT25yekFZM0ItTm5YaUVjVFRzU2dXTkhlVTRQTXlLWkdVZzFlbnlNVGt3clN0bDUyaUpvYUx4R1A0NEdHblFNUHJCdnJMbllXbU5fQ0t5bTJaSnlZaHM0Tkx0SDJuZXhsZi0wZk80UlEzUENrMFl4cTFac29nbTZjUHUtR2tBeVl1QXA2dVFwTmZKc2NabDhTckFQa0tHZTNtSlJwOG1NV3M0ZWh1eWZWTXhtU0E4Qg?oc=5\" target=\"_blank\">‘They make it better’: Portland airport welcomes therapy llamas, dogs, to ease holiday travel stress</a>  OregonLive.com",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         }
       ]
     },
@@ -257,14 +257,14 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wbTJfdnFzWVF3WEh5T1IzWDJvVjdxYU1GbEVBbDhHSmc0X1ZLMGxldzl6M2RLdXp2M1g2b2IxTDVycG4xUkRtaTc3c2tGd25Ybk5CV05yWHRfT0dhSzZSV0J3?oc=5",
           "pubDate": "2025-12-24 21:53:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wbTJfdnFzWVF3WEh5T1IzWDJvVjdxYU1GbEVBbDhHSmc0X1ZLMGxldzl6M2RLdXp2M1g2b2IxTDVycG4xUkRtaTc3c2tGd25Ybk5CV05yWHRfT0dhSzZSV0J3?oc=5\" target=\"_blank\">🇺🇸 GROK IS COOKING GEMINI AND USERS ARE SWITCHING FAST Grok now has more daily active users in the U.S. than Gemini, a big signal that people are actively choosing which AI they actually want to open every day. It also holds a 4.9 stars and + rati</a>  x.com",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "Elon Musk’s AI Grok to be used by US military in controversial move - the-independent.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHFyelBtU05DZ0FHMEMyNnBtZFZkaXFOeUpvSUl6aGV3NExmNW5UcDNFNlUxb0gxMG13czhacGh2V0lMZ2hGMGhKTmZMVEE5MzVOdnJ0TWlfRG55QW0tQ3BEYlgycm1KZGhaTGtCeEZXZ0lMUC13Nm1LVGZoSXFuLVFCQUQxWTZYN0pCaVlsZEtVZXUweGczZUR1V0M?oc=5",
           "pubDate": "2025-12-24 14:38:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHFyelBtU05DZ0FHMEMyNnBtZFZkaXFOeUpvSUl6aGV3NExmNW5UcDNFNlUxb0gxMG13czhacGh2V0lMZ2hGMGhKTmZMVEE5MzVOdnJ0TWlfRG55QW0tQ3BEYlgycm1KZGhaTGtCeEZXZ0lMUC13Nm1LVGZoSXFuLVFCQUQxWTZYN0pCaVlsZEtVZXUweGczZUR1V0M?oc=5\" target=\"_blank\">Elon Musk’s AI Grok to be used by US military in controversial move</a>  the-independent.com",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "Pentagon will add xAI's Grok to its AI service in early 2026 (X.AI:Private) - Seeking Alpha",
@@ -274,18 +274,18 @@
           "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
-          "title": "Pentagon taps Musk's xAI to boost sensitive government workflows, support military operations - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFk1RWVXak1VbmpBVnlPLTlBSDNYWFZyYVp5RkZUNGFLNHlicVA5MG9FRGZlbnpfU1A3bmRuWGxrWXVYSi1CQzcwRjV4UlVIclY2Qk54X2hlajlnV3ZJMUFIUTVCOGs2d2h0OGpkc3hmVjE0ZmFKaG0wUkhSLW9ZeU1uUzR5ejdHUnVjX3VyOHNyS0ItQ1E0aHg2ZWcwUF8tdmZ3M1ZtcS1oZ3JvNkdwcnc4Wk1sU2hxaU9tTE1B0gHDAUFVX3lxTE1McW1pYzVLTFR6OFItcmdkRWUxcjBnem9RRUNoTHpYTWVZSF9wSGV2UnMwYnBvS1ZGY0JvNmdkY2RoTGU5Mlo5WnhaTnRkaVlrMVNGM3doZjNJeXlmYTBjT2lMZjQzSkZ1SGhOU1oxNTN3RWhGNlRkemJJNFc1RGJxNkUzYlNGQzZRWEM5a2ZWeldmWU1GcmVfV2xCOURWNzd6S21uR0FjcGVTYmJXZElRTmtYRXk5S1pkTmd5QXBHQmhtUQ?oc=5",
-          "pubDate": "2025-12-23 01:35:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObFk1RWVXak1VbmpBVnlPLTlBSDNYWFZyYVp5RkZUNGFLNHlicVA5MG9FRGZlbnpfU1A3bmRuWGxrWXVYSi1CQzcwRjV4UlVIclY2Qk54X2hlajlnV3ZJMUFIUTVCOGs2d2h0OGpkc3hmVjE0ZmFKaG0wUkhSLW9ZeU1uUzR5ejdHUnVjX3VyOHNyS0ItQ1E0aHg2ZWcwUF8tdmZ3M1ZtcS1oZ3JvNkdwcnc4Wk1sU2hxaU9tTE1B0gHDAUFVX3lxTE1McW1pYzVLTFR6OFItcmdkRWUxcjBnem9RRUNoTHpYTWVZSF9wSGV2UnMwYnBvS1ZGY0JvNmdkY2RoTGU5Mlo5WnhaTnRkaVlrMVNGM3doZjNJeXlmYTBjT2lMZjQzSkZ1SGhOU1oxNTN3RWhGNlRkemJJNFc1RGJxNkUzYlNGQzZRWEM5a2ZWeldmWU1GcmVfV2xCOURWNzd6S21uR0FjcGVTYmJXZElRTmtYRXk5S1pkTmd5QXBHQmhtUQ?oc=5\" target=\"_blank\">Pentagon taps Musk's xAI to boost sensitive government workflows, support military operations</a>  Fox News",
+          "title": "Grok’s Going to War: The Pentagon Adds Musk’s xAI to Its New AI System - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmFEd2w4NC12U1EweDVPQmFpWnY1NThQeFo4NTdvRXlUVEhMa2IwM1FleGljOTVZUzFsQVJLRXFYd0U2NHJHSU5XakpUTWpLbTc0VHIxSGo3VmNYSFJacDBMSEUtV3VjUzZORTFsR0IwVmM1c2FPVG04blZxQ3hQT1lPVmJSMWpCaUo5VzZsVV9OZGtCVEhoX2t4M3JEdw?oc=5",
+          "pubDate": "2025-12-23 08:17:43",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZmFEd2w4NC12U1EweDVPQmFpWnY1NThQeFo4NTdvRXlUVEhMa2IwM1FleGljOTVZUzFsQVJLRXFYd0U2NHJHSU5XakpUTWpLbTc0VHIxSGo3VmNYSFJacDBMSEUtV3VjUzZORTFsR0IwVmM1c2FPVG04blZxQ3hQT1lPVmJSMWpCaUo5VzZsVV9OZGtCVEhoX2t4M3JEdw?oc=5\" target=\"_blank\">Grok’s Going to War: The Pentagon Adds Musk’s xAI to Its New AI System</a>  TipRanks",
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
-          "title": "Supporting the DOW's mission with AI - xAI",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQ3hSNjZPZm9yanFjTy1FWG5iQzhodFVzTUF4WEZpRHhRdU5TZnFzOHhJSThXOEJJcEZuSVdienJwaVc4aTdEelBZQmI?oc=5",
-          "pubDate": "2025-12-22 21:38:41",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQ3hSNjZPZm9yanFjTy1FWG5iQzhodFVzTUF4WEZpRHhRdU5TZnFzOHhJSThXOEJJcEZuSVdienJwaVc4aTdEelBZQmI?oc=5\" target=\"_blank\">Supporting the DOW's mission with AI</a>  xAI",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "title": "US Department of War enters in an agreement with Elon Musk's xAI - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRU9fYUNXMmtQMGIyRkk2VE5JVEJXLU1kZkZ1TE1NUHVHVUJfRUl2Q1c0OUU0YVI2Y0NHMnBMQVFYWVEwcTNjakhxbGFFV0hOeVlwTW5zMGdwY01INHBtSGRqN3lqQkc0ZmxwOGhWRy1lS05VeFE1emZkeTJoa2FpRXRydU52MF9NU3dzdkp2V2h2TnlTVjlxRXdWMzQ2VndmcFh6clU1VFVteE5GYW9YcXBYNVNKN3U0ZkNEVS1JTWQ0eWxQSEViNDZ4VTRhTkRZSngzMzU1V0ZtWjTSAeABQVVfeXFMUEUySEdQanY5bTNGQUYwLUQ0QUxHdkl2clFfeDFYMzZ2dXJVaVhsbHhzVWdhTFFPTG9OeTc3aWQxUFF2OHVnX1pjOXhrdlVGMXZ4Skh6Y0FzcUtPTlc1dW5mYldUTFZsMUlTVlJqMEZ5d0JGOEF2RUdBQ2hKMWFrRDBhYmlJdFUxOUVQM2ZmMWstcmNCSVlXVS0zckxtVldTQnBpUWdOa2dBV3J2ZEhjUmFBN3BBNjl4ZC1haW05UWtBSDRNTUxXLXgwdFctZHF4R2ZKVlNoaDZzeUhxRl9OdlI?oc=5",
+          "pubDate": "2025-12-23 07:48:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRU9fYUNXMmtQMGIyRkk2VE5JVEJXLU1kZkZ1TE1NUHVHVUJfRUl2Q1c0OUU0YVI2Y0NHMnBMQVFYWVEwcTNjakhxbGFFV0hOeVlwTW5zMGdwY01INHBtSGRqN3lqQkc0ZmxwOGhWRy1lS05VeFE1emZkeTJoa2FpRXRydU52MF9NU3dzdkp2V2h2TnlTVjlxRXdWMzQ2VndmcFh6clU1VFVteE5GYW9YcXBYNVNKN3U0ZkNEVS1JTWQ0eWxQSEViNDZ4VTRhTkRZSngzMzU1V0ZtWjTSAeABQVVfeXFMUEUySEdQanY5bTNGQUYwLUQ0QUxHdkl2clFfeDFYMzZ2dXJVaVhsbHhzVWdhTFFPTG9OeTc3aWQxUFF2OHVnX1pjOXhrdlVGMXZ4Skh6Y0FzcUtPTlc1dW5mYldUTFZsMUlTVlJqMEZ5d0JGOEF2RUdBQ2hKMWFrRDBhYmlJdFUxOUVQM2ZmMWstcmNCSVlXVS0zckxtVldTQnBpUWdOa2dBV3J2ZEhjUmFBN3BBNjl4ZC1haW05UWtBSDRNTUxXLXgwdFctZHF4R2ZKVlNoaDZzeUhxRl9OdlI?oc=5\" target=\"_blank\">US Department of War enters in an agreement with Elon Musk's xAI</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
     }
