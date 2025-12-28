@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2025-12-27T21:38:25.987Z",
+  "fetchedAt": "2025-12-28T04:31:14.238Z",
   "locale": "en",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
-        {
-          "title": "Cursor CEO Warns of ‘Vibe Coding’ Risks in AI Development - WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUdkX2wzUVJPWEgxWmdpbXNsLXVuTHFZbXV0RThnazNoTE1HbVpzamtsSW1udkw4bmlxbVVYdXR2THRKX09tM0p0bVljam1McHJURVlWaVRPTExSMmlDZ0ZOU0VJSzR1SXZlc19CN0lRamItUTk3X0JubG4yZjRXOXpVVFVPUzdETzdr?oc=5",
-          "pubDate": "2025-12-27 13:01:32",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUdkX2wzUVJPWEgxWmdpbXNsLXVuTHFZbXV0RThnazNoTE1HbVpzamtsSW1udkw4bmlxbVVYdXR2THRKX09tM0p0bVljam1McHJURVlWaVRPTExSMmlDZ0ZOU0VJSzR1SXZlc19CN0lRamItUTk3X0JubG4yZjRXOXpVVFVPUzdETzdr?oc=5\" target=\"_blank\">Cursor CEO Warns of ‘Vibe Coding’ Risks in AI Development</a>  WebProNews",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
         {
           "title": "Cursor CEO warns vibe coding builds 'shaky foundations' and eventually 'things start to crumble - Fortune",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3dXVThEck1JRTJ3UTd5R2lzSXM0R0djZW81bVUxc2pOdFN2OWd5ZlktR3lteGRnWkY0TTRHLU5CMnRIeE1FZXQ4NlJCQl9oVldTLTNQRmFOcnRtQTJNMkxTV0dEWnczN1FsTmJ3dzBFdHFNaHFFXzNDLWdBUXl2WmQxZmJRRkpERExERjcwVzZMNkg3c0tJam9xNG5Ya3JTV09B?oc=5",
@@ -21,11 +14,11 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "Cursor Unveils In-House Model as AI IDEs Go Full-Stack - Hackernoon",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5",
-          "pubDate": "2025-12-24 01:59:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZJMmd6Z1hCdDB4dTVkZmJaQ3otYUlPUnhLeTRpWTRuVU9zSWFYTXhhdHg1WW9jeDVRRlpDRUJoOTJyUmo2NWJPczFZUThCNkFqS0gxUjl6M1c0eFVxbC1YMmU4VWV3OUdzb3plWFFBZkw5SzFZQzZLUFJHbjVwU1hEcw?oc=5\" target=\"_blank\">Cursor Unveils In-House Model as AI IDEs Go Full-Stack</a>  Hackernoon",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "title": "Cursor’s Graphite Deal Aims to Close the Loop From Writing Code to Merging It - Hackernoon",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDBXcUdkU0NEcVdUMlA5VWYzVndMMEZYMFp5eThNb09MOF9ZalRkRnFTb0lmSnBuVm16RmdnXzRhTDA1Mk5JSGVMOHdISnNzUFBIdUZTbVY2YjhhYWladmhXQ283MmxkQlZTVzFWRHVNRUZXYlV6Tld1Ujd4MlFqYWJpTngtR2J1T1EtYjRCclJRdkVNYUJDMDFSQi1JaDJC?oc=5",
+          "pubDate": "2025-12-25 04:36:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDBXcUdkU0NEcVdUMlA5VWYzVndMMEZYMFp5eThNb09MOF9ZalRkRnFTb0lmSnBuVm16RmdnXzRhTDA1Mk5JSGVMOHdISnNzUFBIdUZTbVY2YjhhYWladmhXQ283MmxkQlZTVzFWRHVNRUZXYlV6Tld1Ujd4MlFqYWJpTngtR2J1T1EtYjRCclJRdkVNYUJDMDFSQi1JaDJC?oc=5\" target=\"_blank\">Cursor’s Graphite Deal Aims to Close the Loop From Writing Code to Merging It</a>  Hackernoon",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Latham &amp; Watkins Advises Graphite in Acquisition by Cursor - Latham &amp; Watkins LLP",
@@ -39,7 +32,14 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
           "pubDate": "2025-12-20 19:50:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
+          "pubDate": "2025-12-11 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -130,17 +130,17 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services",
+          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5",
           "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services",
+          "title": "Transform DevOps practice with Kiro AI-powered agents - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5",
           "pubDate": "2025-12-10 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
