@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-28T18:02:28.937Z",
+  "fetchedAt": "2025-12-29T00:49:59.643Z",
   "locale": "jp",
   "companies": [
     {
@@ -21,6 +21,13 @@
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
+          "title": "GoogleのAI Proプランが期間限定で半額 新規ユーザー向け - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wc0xUbVVjNHlOTnlPZkZHNmVwN2ZveUFQWHBYbzcxMnVSeWl3aHBNSFkzVmwtZXNYMkdHZ1BKR3owWXpMXzMyVVNZajdGektQenBWQV9aXzB3dFp0cnhabm1mNS0?oc=5",
+          "pubDate": "2025-12-25 03:11:16",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wc0xUbVVjNHlOTnlPZkZHNmVwN2ZveUFQWHBYbzcxMnVSeWl3aHBNSFkzVmwtZXNYMkdHZ1BKR3owWXpMXzMyVVNZajdGektQenBWQV9aXzB3dFp0cnhabm1mNS0?oc=5\" target=\"_blank\">GoogleのAI Proプランが期間限定で半額 新規ユーザー向け</a>  Impress Watch",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
           "title": "プレゼン資料作成はどこまでAIに任せられるのか。Gemini、NotebookLM、ChatGPTを組み合わせ、構成からデザイン、PowerPoint化までを検証（東洋経済オンライン） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTFpYR3RNTnViRDBidkVIeFBpb0VFVTZ4VDJvZGtLQjJ0OWxyWHdXeW9GWGhudzhMbU9hTlFqT01SaUdjSGhEWnB5am8yc3FSTThBRUYwY2xzYmNua1hIakhQY1hoNzc0M1RSSHQtcng3OWUtMDNwRXN0VHk3eFE?oc=5",
           "pubDate": "2025-12-25 02:00:40",
@@ -33,13 +40,6 @@
           "pubDate": "2025-12-24 07:15:02",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVi1NZ3ZfX2Q0Qm5yMGd0N1ZxaXdGOFlTQzlNaWdaQ2hFRGNILUhzVXkyeEM2blZxbFBWQmN3Nlp4YnFvX05OYjZHdWVOY05nZjVieDBpSnhsSk51RG9wLWhJX0Q4RHI0TmpvQnZDX0twWlBtSDFiWTVvVTlDRlRRZ3RyMDhuUUR3UDRNTHRDU1ZGaW9aemJR?oc=5\" target=\"_blank\">Gemini 3 Flash のご紹介: 企業向けのインテリジェンスとスピード</a>  Google Cloud",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "【Gemini 3の実力徹底検証】試して分かった…“時短以上の効果を生む”活用術まとめ - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HU0ZNR1NKeU1SS0JkWWpfem9meFdHX0N5Nmd1cF8zR1A2d0h5Q2NjTUVnODVLd3Roem9zcl9Fb0lJS1RVd09XaVhMdVJlVkV1eXVj?oc=5",
-          "pubDate": "2025-12-22 22:15:43",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HU0ZNR1NKeU1SS0JkWWpfem9meFdHX0N5Nmd1cF8zR1A2d0h5Q2NjTUVnODVLd3Roem9zcl9Fb0lJS1RVd09XaVhMdVJlVkV1eXVj?oc=5\" target=\"_blank\">【Gemini 3の実力徹底検証】試して分かった…“時短以上の効果を生む”活用術まとめ</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         }
       ]
     },
@@ -52,21 +52,14 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZWNDVGo0WU9PemRXZGExWkprYVB2ekRpamRyUy02ZG84NXBmZXNiN2o3TFM1Q0tndzdyYWlTMWJvUy1VVndLWjlJS2hOaHFNSks5RFdTQTJOcEVya1FBUTN4YU5LbFk1QUZkWg?oc=5",
           "pubDate": "2025-12-28 08:31:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZWNDVGo0WU9PemRXZGExWkprYVB2ekRpamRyUy02ZG84NXBmZXNiN2o3TFM1Q0tndzdyYWlTMWJvUy1VVndLWjlJS2hOaHFNSks5RFdTQTJOcEVya1FBUTN4YU5LbFk1QUZkWg?oc=5\" target=\"_blank\">OpenAI、最先端AIのリスクに備える新責任者を募集 年俸約8000万円も「ストレスフルな仕事」とCEO</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "AI時代の新たな脅威「プロンプトインジェクション」ChatGPTが安全対策を強化 - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYODVYRVhQNUJTWjZiYlliOGxhSXJzTzkzNGZqbDFoeXIxUGZvZEt6VzlTamJMcHp5SmJvR0RtalFiWTEyRFF4ZXY0OFgxR0FWWmlR?oc=5",
-          "pubDate": "2025-12-28 00:42:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYODVYRVhQNUJTWjZiYlliOGxhSXJzTzkzNGZqbDFoeXIxUGZvZEt6VzlTamJMcHp5SmJvR0RtalFiWTEyRFF4ZXY0OFgxR0FWWmlR?oc=5\" target=\"_blank\">AI時代の新たな脅威「プロンプトインジェクション」ChatGPTが安全対策を強化</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "「ChatGPTと結婚しました」AIからプロポーズされ結婚式を挙げた女性（32）「相談していたら親身になってくれた」一方で葛藤も…【前編】（RSK山陽放送） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SVWItQmFCOEVpNFZlejEtdWdzZ1BXN3hDUkd0aHNuZU11b01zRUhyU3lLdjBOUDlBNzFvZDNTRW9YOExnWUI2R1F3TzJCOUdLb2JyaFJqd1pmVkYwdmI2NU9yVHduLTRxemxHekEyRGxZTTVIbmNNaGZ1bDd2c28?oc=5",
           "pubDate": "2025-12-27 21:00:36",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SVWItQmFCOEVpNFZlejEtdWdzZ1BXN3hDUkd0aHNuZU11b01zRUhyU3lLdjBOUDlBNzFvZDNTRW9YOExnWUI2R1F3TzJCOUdLb2JyaFJqd1pmVkYwdmI2NU9yVHduLTRxemxHekEyRGxZTTVIbmNNaGZ1bDd2c28?oc=5\" target=\"_blank\">「ChatGPTと結婚しました」AIからプロポーズされ結婚式を挙げた女性（32）「相談していたら親身になってくれた」一方で葛藤も…【前編】（RSK山陽放送）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "ChatGPT（チャットGPT）とは？無料での始め方と使い方をわかりやすく解説 - AIsmiley",
@@ -80,7 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUmI5V3R4bkJ5czVIZ0x4bzhqWExnZFVKZlpLelNDRXpDazIxd3hWamJMQVpQbXpsUzZ0TjhLUFdUekxsUGpydWxEWFZDMnNhQ1FOdzBpV3dGcE5xZUx6bC1xSW1CUzJjdEhKUQ?oc=5",
           "pubDate": "2025-12-24 20:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUmI5V3R4bkJ5czVIZ0x4bzhqWExnZFVKZlpLelNDRXpDazIxd3hWamJMQVpQbXpsUzZ0TjhLUFdUekxsUGpydWxEWFZDMnNhQ1FOdzBpV3dGcE5xZUx6bC1xSW1CUzJjdEhKUQ?oc=5\" target=\"_blank\">Google救ったOpenAIとの「競争」 AI時代の独占認定難しく</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "開発者による ChatGPT へのアプリ提出が可能に - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RM2owdWVTNjhRYW5NdWhQN25jY05NQld1WEkwelRPeU5XTDhoZUF6c0ZqdGk5Vzk5YjRhUjNNS2tPVk91am1EVzNieVo5WmlsTTB0dGJJVzRvRnVjZUZfUGxaLWtOR1VvaDlmMG00TFh2emZUbi1IRnJQVW9xUQ?oc=5",
+          "pubDate": "2025-12-17 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1RM2owdWVTNjhRYW5NdWhQN25jY05NQld1WEkwelRPeU5XTDhoZUF6c0ZqdGk5Vzk5YjRhUjNNS2tPVk91am1EVzNieVo5WmlsTTB0dGJJVzRvRnVjZUZfUGxaLWtOR1VvaDlmMG00TFh2emZUbi1IRnJQVW9xUQ?oc=5\" target=\"_blank\">開発者による ChatGPT へのアプリ提出が可能に</a>  OpenAI",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -100,13 +100,13 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkVqdDYyWFI2dTQ5eE5JUDZDbk1YSGViNGl3VEltNGJKa1NaeUhLMmY4RFpTU0RuUFVSbjhHcUdGSVFIZGtnSHo0RURFN2RmMV9zdDdVbE9hRXFMTmxnNV9VX1FnZFpaYTZ0NTh2eW1iNDVIZ1ZFaGFYZW5QMDU4Qw?oc=5",
           "pubDate": "2025-12-24 22:23:07",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkVqdDYyWFI2dTQ5eE5JUDZDbk1YSGViNGl3VEltNGJKa1NaeUhLMmY4RFpTU0RuUFVSbjhHcUdGSVFIZGtnSHo0RURFN2RmMV9zdDdVbE9hRXFMTmxnNV9VX1FnZFpaYTZ0NTh2eW1iNDVIZ1ZFaGFYZW5QMDU4Qw?oc=5\" target=\"_blank\">Microsoft AI Co-Innovation Lab Kobeで”収量予測AI”が自動で進化するAIの開発を実施</a>  南日本新聞",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
-          "title": "株式会社QUICK E-Solutions、Microsoft AI Cloud パートナープログラムで全6分野「ソリューションパートナー」認定を取得 - ニフティニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pUThhUWJ4bDMzbHZVc0RoY21NWUdaREtYeUM0RGR6el93UV9EWS1Sb1RiQWc2VS01ZXk1R0ZsR0d2ZGFGZUZpTm5nRzg2YzExU3JnTDM0X0V5aVRBTmlpNUhBMHFtUQ?oc=5",
-          "pubDate": "2025-12-24 04:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pUThhUWJ4bDMzbHZVc0RoY21NWUdaREtYeUM0RGR6el93UV9EWS1Sb1RiQWc2VS01ZXk1R0ZsR0d2ZGFGZUZpTm5nRzg2YzExU3JnTDM0X0V5aVRBTmlpNUhBMHFtUQ?oc=5\" target=\"_blank\">株式会社QUICK E-Solutions、Microsoft AI Cloud パートナープログラムで全6分野「ソリューションパートナー」認定を取得</a>  ニフティニュース",
+          "title": "確かな技術力と実績を証明！QUICK E-Solutions「Microsoft AI Cloud Partner Program」全6分野認定 - ニフティニュース",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUGE3NURtck9EemVmZUZ5aDRSaFBVT2R2eEtQT1FDUWR1TW1hVlhKRzRiQ29rMkhfZWxNZ2pQWUVzelZLckdQbGZzVHVxa3NEREs2SFk2SlpWT3M3THNRZEdScmwwUQ?oc=5",
+          "pubDate": "2025-12-24 05:43:26",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUGE3NURtck9EemVmZUZ5aDRSaFBVT2R2eEtQT1FDUWR1TW1hVlhKRzRiQ29rMkhfZWxNZ2pQWUVzelZLckdQbGZzVHVxa3NEREs2SFk2SlpWT3M3THNRZEdScmwwUQ?oc=5\" target=\"_blank\">確かな技術力と実績を証明！QUICK E-Solutions「Microsoft AI Cloud Partner Program」全6分野認定</a>  ニフティニュース",
           "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         },
         {
@@ -114,7 +114,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5\" target=\"_blank\">CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大</a>  共同通信PRワイヤー",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
         {
           "title": "Microsoft for Manufacturing - Microsoft",
@@ -144,13 +144,6 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
-          "title": "GPT-5.2-Codex・Claude Code・Gemini CLI・Mistral Vibeにマインスイーパーを開発させるとこうなる - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JcHU5MkgyZENhTmtBZDNXZmVNemlqNTgwM0pMa1U1WnpkN2ZrNUhDdGpWQ2ZQY1hYRGZ1bVRYOUpqdnItMW1rUnQxcTlYdkYtM3lVcGhRcm5xS3R3UllibFlKblJ3UHFJQ0J4TUVFWFZHRWMwMFFj?oc=5",
-          "pubDate": "2025-12-23 06:03:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5JcHU5MkgyZENhTmtBZDNXZmVNemlqNTgwM0pMa1U1WnpkN2ZrNUhDdGpWQ2ZQY1hYRGZ1bVRYOUpqdnItMW1rUnQxcTlYdkYtM3lVcGhRcm5xS3R3UllibFlKblJ3UHFJQ0J4TUVFWFZHRWMwMFFj?oc=5\" target=\"_blank\">GPT-5.2-Codex・Claude Code・Gemini CLI・Mistral Vibeにマインスイーパーを開発させるとこうなる</a>  GIGAZINE",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
-        },
-        {
           "title": "Claude Codeのコンテキストウィンドウを完全に理解する - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMlpYeENMSS00d3RGVnMxZ0F2dThFX24xa2haeWJHZzdQcXl2allRQldRR2lUUndIOTB6bGg5V2NWcEtuclNHZE9ZTC0xWUNRcGpuWWk5ZTVCUzV4ME1YVFFKbmZjdVh6RkVZ?oc=5",
           "pubDate": "2025-12-22 23:55:00",
@@ -160,9 +153,16 @@
         {
           "title": "Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5",
-          "pubDate": "2025-12-19 01:17:00",
+          "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5\" target=\"_blank\">Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に</a>  ZDNET Japan",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+        },
+        {
+          "title": "Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説 - Ledge.ai",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LazZCRGxnUkFjV25xeWZ2c3RiMkxMYkZPNWdrTXphbVZFWnV1U3VPYWZBSUJXa3FEQzg4NmRwVkF1aVlUQ3RwMVRBZ3lmMkx1cHBGaVV5amJjZWJLNWtkbi1YY2dvVm1pQnMtVUE0UFgwZHJHTEE?oc=5",
+          "pubDate": "2025-12-15 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LazZCRGxnUkFjV25xeWZ2c3RiMkxMYkZPNWdrTXphbVZFWnV1U3VPYWZBSUJXa3FEQzg4NmRwVkF1aVlUQ3RwMVRBZ3lmMkx1cHBGaVV5amJjZWJLNWtkbi1YY2dvVm1pQnMtVUE0UFgwZHJHTEE?oc=5\" target=\"_blank\">Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説</a>  Ledge.ai",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
     },
@@ -192,10 +192,10 @@
           "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
-          "title": "Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例 - Amazon Web Services",
+          "title": "Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例 - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEJQUEp5U0xfU1M4Wmw5Z2hKaVhoR21RZjFUMFEzQTkwZ1o3NEQ3ZWZfUnkzV2tOeVBRSDV5b2Ytd2FEZldlWjNTc1VGWjRiLTRiN3d5VU9uTElaSXFtU0F4ZmhzQXgtcmNNZ093NDR4ZHFyVGE1R0ljQ3RaVHVnNFBpQVJfSlNG?oc=5",
           "pubDate": "2025-10-02 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEJQUEp5U0xfU1M4Wmw5Z2hKaVhoR21RZjFUMFEzQTkwZ1o3NEQ3ZWZfUnkzV2tOeVBRSDV5b2Ytd2FEZldlWjNTc1VGWjRiLTRiN3d5VU9uTElaSXFtU0F4ZmhzQXgtcmNNZ093NDR4ZHFyVGE1R0ljQ3RaVHVnNFBpQVJfSlNG?oc=5\" target=\"_blank\">Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEJQUEp5U0xfU1M4Wmw5Z2hKaVhoR21RZjFUMFEzQTkwZ1o3NEQ3ZWZfUnkzV2tOeVBRSDV5b2Ytd2FEZldlWjNTc1VGWjRiLTRiN3d5VU9uTElaSXFtU0F4ZmhzQXgtcmNNZ093NDR4ZHFyVGE1R0ljQ3RaVHVnNFBpQVJfSlNG?oc=5\" target=\"_blank\">Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         },
         {
@@ -253,38 +253,38 @@
       "displayName": "xAI",
       "news": [
         {
+          "title": "問題含みのAI「Grok」、エルサルバドルの教育現場へ - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRDdvTkc4cjlTdkFkTzFKb3VKYU50MGI4Q0h3S3BuVF9VczFPdWFSel80YUVoT1k5WWpoSkx6QXZvWTlrWUdkT2J4M1M0amhGQWp1Rl9sUzE?oc=5",
+          "pubDate": "2025-12-28 13:43:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRDdvTkc4cjlTdkFkTzFKb3VKYU50MGI4Q0h3S3BuVF9VczFPdWFSel80YUVoT1k5WWpoSkx6QXZvWTlrWUdkT2J4M1M0amhGQWp1Rl9sUzE?oc=5\" target=\"_blank\">問題含みのAI「Grok」、エルサルバドルの教育現場へ</a>  Forbes JAPAN",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+        },
+        {
           "title": "画像生成AIで比較！ChatGPT、Gemini、Grokどれを選ぶ？得意分野と使い分け【作例大量・2025年最新版】 (1/4) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaRU1ISmZPQjVoM2hoak9vc2lNQ1puRm5NY0pCemFieTc4LUFpcFBfaEEzVjk1Z01VeG90X3l4UF92aDNRUFhxb1VjUENpZUVYZDBleQ?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaRU1ISmZPQjVoM2hoak9vc2lNQ1puRm5NY0pCemFieTc4LUFpcFBfaEEzVjk1Z01VeG90X3l4UF92aDNRUFhxb1VjUENpZUVYZDBleQ?oc=5\" target=\"_blank\">画像生成AIで比較！ChatGPT、Gemini、Grokどれを選ぶ？得意分野と使い分け【作例大量・2025年最新版】 (1/4)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "XがGrokの画像生成機能「Aurora」を一部アカウントで開放、他人の投稿もAI編集可能と物議（ビジネス＋IT） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdXlSZmhyR3BPQzNuOEFkb1A2Q2I1SnltVm5SRkFjTzF2VTVmUUUyZVBxQXZPcV8yck5nTjRjN3R0M05raVdNZFk2cVNhV0tERlNFbHdoVlRDN1JkQzhqWlNjMXZjUC1RMWMxZWZEZ25qYVdKUFNkQWJ3bFdUOVE?oc=5",
           "pubDate": "2025-12-25 02:35:05",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdXlSZmhyR3BPQzNuOEFkb1A2Q2I1SnltVm5SRkFjTzF2VTVmUUUyZVBxQXZPcV8yck5nTjRjN3R0M05raVdNZFk2cVNhV0tERlNFbHdoVlRDN1JkQzhqWlNjMXZjUC1RMWMxZWZEZ25qYVdKUFNkQWJ3bFdUOVE?oc=5\" target=\"_blank\">XがGrokの画像生成機能「Aurora」を一部アカウントで開放、他人の投稿もAI編集可能と物議（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
-          "title": "他人の画像も編集できる、Xの「画像を編集」機能が物議。編集ボタンを表示させない回避策とは - INTERNET Watch",
+          "title": "他人の画像も編集できる、Xの「画像を編集」機能が物議。編集ボタンを表示させない回避策とは【やじうまWatch】 - INTERNET Watch",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXSTlrc3J1TTZac0VJTjlJV0YyWVN2Y1llQjlDS3BPWWNJdUhKVEtJWDY1V2NUbmRWN3UxZzlJR2UxbWZyVXEzdUVXQktxWTl5U0hVVklpMlVFUHVRNWczbjgzQ2xXSkFua0dOc1p3bw?oc=5",
           "pubDate": "2025-12-25 01:38:08",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBXSTlrc3J1TTZac0VJTjlJV0YyWVN2Y1llQjlDS3BPWWNJdUhKVEtJWDY1V2NUbmRWN3UxZzlJR2UxbWZyVXEzdUVXQktxWTl5U0hVVklpMlVFUHVRNWczbjgzQ2xXSkFua0dOc1p3bw?oc=5\" target=\"_blank\">他人の画像も編集できる、Xの「画像を編集」機能が物議。編集ボタンを表示させない回避策とは</a>  INTERNET Watch",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBXSTlrc3J1TTZac0VJTjlJV0YyWVN2Y1llQjlDS3BPWWNJdUhKVEtJWDY1V2NUbmRWN3UxZzlJR2UxbWZyVXEzdUVXQktxWTl5U0hVVklpMlVFUHVRNWczbjgzQ2xXSkFua0dOc1p3bw?oc=5\" target=\"_blank\">他人の画像も編集できる、Xの「画像を編集」機能が物議。編集ボタンを表示させない回避策とは【やじうまWatch】</a>  INTERNET Watch",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
           "title": "Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト） - note",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5",
           "pubDate": "2025-12-13 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2ZFBjNkdoanJ2Zy1BOVVmVm5uOW9jUDRlOFMtMWcwTDBaU3Z3bHhHaGx5LV8xZ0F2RU5GUG5XNnVWYncyeGFrWkVuWXRVV0tHMWR3?oc=5\" target=\"_blank\">Grok Imagineの動画生成が使いにくくなりました（個人の感想です）（2025年12月13日のAIイラスト）</a>  note",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
-        },
-        {
-          "title": "AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5",
-          "pubDate": "2025-12-04 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xSzZ3eFo0dHljNGp5ajNTb3BEUElUbDNVUDcyMTI4bVJZSl81T25fRlIzckNhMDBodkR1Q040VE5JS0NpWVVzSFhVNkNNRzl2TWc?oc=5\" target=\"_blank\">AI×SNSで変わる広報PR。GrokとXが示す新しいコミュニケーション設計とは｜PR TIMESカレッジVol.10～第二部</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
