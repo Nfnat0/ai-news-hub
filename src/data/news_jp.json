@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-29T18:02:35.399Z",
+  "fetchedAt": "2025-12-30T00:44:44.002Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,10 +7,10 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "GoogleのAIバイブコーディングツール「Opal」がGeminiに搭載 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrQ3h5aVBrVUZLQm5ab2Z2cDBYYWFudF9LcTM0RGxPeEJFMXBoZzBsZGNqaGdiWEVOckdsSjNDcVdNcHlBN1o1SUxUVXdvQQ?oc=5",
-          "pubDate": "2025-12-29 01:01:14",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrQ3h5aVBrVUZLQm5ab2Z2cDBYYWFudF9LcTM0RGxPeEJFMXBoZzBsZGNqaGdiWEVOckdsSjNDcVdNcHlBN1o1SUxUVXdvQQ?oc=5\" target=\"_blank\">GoogleのAIバイブコーディングツール「Opal」がGeminiに搭載</a>  CodeZine",
+          "title": "【株式会社if】Google WorkspaceをAIで進化させる「Google Gemini 基礎コース」をTech Mentor法人研修にて提供開始 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02a2lPdUpJc1o1U3k0UDdWeGtBcWdNVHNGMXIzdlN4U2dZSFJHNUhOUE44RGY4aE1PdWxVaUpnU0J6dEJjWWc2aGVhaHBtTFZOekxkb29FT3ZNeVlwazBZNVlEQnA5ZVZXTkE?oc=5",
+          "pubDate": "2025-12-29 07:00:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02a2lPdUpJc1o1U3k0UDdWeGtBcWdNVHNGMXIzdlN4U2dZSFJHNUhOUE44RGY4aE1PdWxVaUpnU0J6dEJjWWc2aGVhaHBtTFZOekxkb29FT3ZNeVlwazBZNVlEQnA5ZVZXTkE?oc=5\" target=\"_blank\">【株式会社if】Google WorkspaceをAIで進化させる「Google Gemini 基礎コース」をTech Mentor法人研修にて提供開始</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
@@ -18,7 +18,7 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wb0N4eUR5UjZYV2pPOUt5M1RHbkFQeDY0MzdTSXQxdzFtVlkyNndfMVo2LVptNXZpNzlEdHJGX2l0UER5OW1hOHV4VGJBTGFmX25MMjVqa195Y1pUM1RvdzN3UkhDRmF5aWN2bnNWeW9nMnhrdzF5SkpBSkk?oc=5",
           "pubDate": "2025-12-27 09:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8wb0N4eUR5UjZYV2pPOUt5M1RHbkFQeDY0MzdTSXQxdzFtVlkyNndfMVo2LVptNXZpNzlEdHJGX2l0UER5OW1hOHV4VGJBTGFmX25MMjVqa195Y1pUM1RvdzN3UkhDRmF5aWN2bnNWeW9nMnhrdzF5SkpBSkk?oc=5\" target=\"_blank\">Geminiにこっそり追加された「マークアップ」が、地味に神アップデートだった</a>  ライフハッカー・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "【野田クリスタル×Gemini】ペットカードジェネレーターのやり方やアプリの作り方を解説 - 株式会社SHIFT AI",
@@ -32,7 +32,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTFpYR3RNTnViRDBidkVIeFBpb0VFVTZ4VDJvZGtLQjJ0OWxyWHdXeW9GWGhudzhMbU9hTlFqT01SaUdjSGhEWnB5am8yc3FSTThBRUYwY2xzYmNua1hIakhQY1hoNzc0M1RSSHQtcng3OWUtMDNwRXN0VHk3eFE?oc=5",
           "pubDate": "2025-12-25 02:00:40",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTFpYR3RNTnViRDBidkVIeFBpb0VFVTZ4VDJvZGtLQjJ0OWxyWHdXeW9GWGhudzhMbU9hTlFqT01SaUdjSGhEWnB5am8yc3FSTThBRUYwY2xzYmNua1hIakhQY1hoNzc0M1RSSHQtcng3OWUtMDNwRXN0VHk3eFE?oc=5\" target=\"_blank\">プレゼン資料作成はどこまでAIに任せられるのか。Gemini、NotebookLM、ChatGPTを組み合わせ、構成からデザイン、PowerPoint化までを検証（東洋経済オンライン）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Gemini 3 Flash のご紹介: 企業向けのインテリジェンスとスピード - Google Cloud",
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "ディズニーとOpenAIの提携が及ぼす影響 米メディアが解説 - 映画.com",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yMDIycm5xMThpZkJRM3FxZ1ZidmtSZnJMQzB6SWotSnhxLUx4b3N1dnpLWldWRmxEaDdyU1FxZC1NTDg1ZVJEd0xn?oc=5",
-          "pubDate": "2025-12-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yMDIycm5xMThpZkJRM3FxZ1ZidmtSZnJMQzB6SWotSnhxLUx4b3N1dnpLWldWRmxEaDdyU1FxZC1NTDg1ZVJEd0xn?oc=5\" target=\"_blank\">ディズニーとOpenAIの提携が及ぼす影響 米メディアが解説</a>  映画.com",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
-        },
-        {
-          "title": "OpenAI、「AIによる深刻な危害」に備える責任者を新設 リスクを予測し軽減 - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3lxTWNHRjRUdFgteEp5Y1ZwaHNTMXlMaElucFlscVBsVzdMTzlFNFR5YWF1WGh3eUF2bmdJSTBfcHN3M0t5RkVJcW13UnBrRmc?oc=5",
-          "pubDate": "2025-12-29 04:50:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xV3lxTWNHRjRUdFgteEp5Y1ZwaHNTMXlMaElucFlscVBsVzdMTzlFNFR5YWF1WGh3eUF2bmdJSTBfcHN3M0t5RkVJcW13UnBrRmc?oc=5\" target=\"_blank\">OpenAI、「AIによる深刻な危害」に備える責任者を新設 リスクを予測し軽減</a>  CNET Japan",
+          "title": "【2026年こそAIを使いこなす！】仕事力が爆上がりする“ChatGPT神プロンプト”5選！ - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEZHBEdjhPVnp1YkNQV3FxbTBuV2N4S2Y1MGdrckZ3S1BISWVxRWdTS3JlQ3BsbjRBTVFranRIOTNFVm1tcnVtT0dhbVfSAU9BVV95cUxNaEpVaTd4b2xSX21ZQ3pTMDNaNkU0WVExY2dfbkZVSEdQaDFiZW5xV1FNVkQ3Mnl4MWNQOGk3M09KSTQ1VmRxZEtwdklFWGtB?oc=5",
+          "pubDate": "2025-12-29 22:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEZHBEdjhPVnp1YkNQV3FxbTBuV2N4S2Y1MGdrckZ3S1BISWVxRWdTS3JlQ3BsbjRBTVFranRIOTNFVm1tcnVtT0dhbVfSAU9BVV95cUxNaEpVaTd4b2xSX21ZQ3pTMDNaNkU0WVExY2dfbkZVSEdQaDFiZW5xV1FNVkQ3Mnl4MWNQOGk3M09KSTQ1VmRxZEtwdklFWGtB?oc=5\" target=\"_blank\">【2026年こそAIを使いこなす！】仕事力が爆上がりする“ChatGPT神プロンプト”5選！</a>  ダイヤモンド・オンライン",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
-          "title": "OpenAI、年収8000万円超で「AIリスク」の責任者ポジションを募集（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZWRIWUNiV1huOTFycl8zNEJybFczOWt2cEphaVgtbjNyLTZnR0EzVFp3QU5fYmY3M1hmX04wQ2pQTkFBX3V0cmFoWDF6Z1JaVXp0UWdQUWotWXViYkxYTm5weHJVdGY3WGJPQ2hhSXNrbUVSMk1RWUFIM2gxZFk?oc=5",
-          "pubDate": "2025-12-29 04:00:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZWRIWUNiV1huOTFycl8zNEJybFczOWt2cEphaVgtbjNyLTZnR0EzVFp3QU5fYmY3M1hmX04wQ2pQTkFBX3V0cmFoWDF6Z1JaVXp0UWdQUWotWXViYkxYTm5weHJVdGY3WGJPQ2hhSXNrbUVSMk1RWUFIM2gxZFk?oc=5\" target=\"_blank\">OpenAI、年収8000万円超で「AIリスク」の責任者ポジションを募集（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "AI時代の新たな脅威「プロンプトインジェクション」ChatGPTが安全対策を強化 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYODVYRVhQNUJTWjZiYlliOGxhSXJzTzkzNGZqbDFoeXIxUGZvZEt6VzlTamJMcHp5SmJvR0RtalFiWTEyRFF4ZXY0OFgxR0FWWmlR?oc=5",
+          "pubDate": "2025-12-29 22:43:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYODVYRVhQNUJTWjZiYlliOGxhSXJzTzkzNGZqbDFoeXIxUGZvZEt6VzlTamJMcHp5SmJvR0RtalFiWTEyRFF4ZXY0OFgxR0FWWmlR?oc=5\" target=\"_blank\">AI時代の新たな脅威「プロンプトインジェクション」ChatGPTが安全対策を強化</a>  ビジネス+IT",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "OpenAI、最先端AIの安全対策幹部を募集 年収8700万円で - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNG5YQ1ZDOGRkRlA2WmQ5VWlLMno0U3BDbG5SSVlqT3JuMGRIYTRwSWtWaGl2MUwwS2Y2ME9XbUhhVTVJOXB5NVJ3dzIyb1RHSlR4MVUwRGpseHZmUWtnOWNzMDctLTVCbTNraQ?oc=5",
+          "pubDate": "2025-12-29 17:59:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNG5YQ1ZDOGRkRlA2WmQ5VWlLMno0U3BDbG5SSVlqT3JuMGRIYTRwSWtWaGl2MUwwS2Y2ME9XbUhhVTVJOXB5NVJ3dzIyb1RHSlR4MVUwRGpseHZmUWtnOWNzMDctLTVCbTNraQ?oc=5\" target=\"_blank\">OpenAI、最先端AIの安全対策幹部を募集 年収8700万円で</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話 - ギズモード・ジャパン",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVklSbldydVRwb0VyNlp2ZkpIZ2tYay05TzBaNFpSQk9nbk5NU2dybGhteENsWXRtY2RlRkJBV2R1ZVAwQlpfeGZ6VHJWNWlTSUc2VWVZYnFJODgwUDFPWVdJVWRjbjE5bDktU1l5TUlmY2xxUW00WlFSOVVkUmhwZUduYw?oc=5",
           "pubDate": "2025-12-29 01:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVklSbldydVRwb0VyNlp2ZkpIZ2tYay05TzBaNFpSQk9nbk5NU2dybGhteENsWXRtY2RlRkJBV2R1ZVAwQlpfeGZ6VHJWNWlTSUc2VWVZYnFJODgwUDFPWVdJVWRjbjE5bDktU1l5TUlmY2xxUW00WlFSOVVkUmhwZUduYw?oc=5\" target=\"_blank\">ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "Google救ったOpenAIとの「競争」 AI時代の独占認定難しく - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUmI5V3R4bkJ5czVIZ0x4bzhqWExnZFVKZlpLelNDRXpDazIxd3hWamJMQVpQbXpsUzZ0TjhLUFdUekxsUGpydWxEWFZDMnNhQ1FOdzBpV3dGcE5xZUx6bC1xSW1CUzJjdEhKUQ?oc=5",
-          "pubDate": "2025-12-24 20:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUmI5V3R4bkJ5czVIZ0x4bzhqWExnZFVKZlpLelNDRXpDazIxd3hWamJMQVpQbXpsUzZ0TjhLUFdUekxsUGpydWxEWFZDMnNhQ1FOdzBpV3dGcE5xZUx6bC1xSW1CUzJjdEhKUQ?oc=5\" target=\"_blank\">Google救ったOpenAIとの「競争」 AI時代の独占認定難しく</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "title": "OpenAIは、なぜGPT-5の「温かみ」を制御するのか？ 収益性と安全性のジレンマ - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xeWR1RURobl9ZdHpxaWc4QUgtMTFwNERIc1VaODB0M2VJWHlsX29nWEVraU4ycXd4RHFMSTJIbUpMR2JlTTFqYk1FdEZaa094WVJ5MzV6T2I?oc=5",
+          "pubDate": "2025-12-26 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xeWR1RURobl9ZdHpxaWc4QUgtMTFwNERIc1VaODB0M2VJWHlsX29nWEVraU4ycXd4RHFMSTJIbUpMR2JlTTFqYk1FdEZaa094WVJ5MzV6T2I?oc=5\" target=\"_blank\">OpenAIは、なぜGPT-5の「温かみ」を制御するのか？ 収益性と安全性のジレンマ</a>  Forbes JAPAN",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -89,13 +89,6 @@
       "displayName": "Microsoft",
       "news": [
         {
-          "title": "独自の Copilot AI を搭載した Buntar-3 偵察 UAV は、GPS なしで 4 時間飛行できます。 - Việt Báo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbk9VOVFTUUw5ODhWSmxhN0hoeGk3OFMxOHViQmlYQUpKbUpONDd0RThpWVdZMEw0MGpHeDY1NnV4R1pJZUV2TlpucXRhZGRUZkpXVXRTQ2paX1NLV1ZLV0xicGpReUg5bkI0ZW91cGhvd0dMVzVDTVRMVXZ1WUgySjhBSEd5NWNmcUh5QlJCVmowU05sZXV5aEZISHQzbHY2VG5nVmN6cnE?oc=5",
-          "pubDate": "2025-12-28 22:51:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbk9VOVFTUUw5ODhWSmxhN0hoeGk3OFMxOHViQmlYQUpKbUpONDd0RThpWVdZMEw0MGpHeDY1NnV4R1pJZUV2TlpucXRhZGRUZkpXVXRTQ2paX1NLV1ZLV0xicGpReUg5bkI0ZW91cGhvd0dMVzVDTVRMVXZ1WUgySjhBSEd5NWNmcUh5QlJCVmowU05sZXV5aEZISHQzbHY2VG5nVmN6cnE?oc=5\" target=\"_blank\">独自の Copilot AI を搭載した Buntar-3 偵察 UAV は、GPS なしで 4 時間飛行できます。</a>  Việt Báo",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
-        },
-        {
           "title": "Microsoft、AIエージェントで古いJavaScript/TypeScriptアプリ更新を自動化するツール公開 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2eFZpRWVzUEdvLUtOVFZzRkt6ZVctMmNKSlRjUU5zVUk2emV2Z1Q5WUp1WnYwV0M0SFlieE4wci1Ka2o3N1p5RVBQNWQ5bmZiWjM1bC1vdXVpcGpLc3hBbW1peXJ6N21wc1JzalNuUjg4Zw?oc=5",
           "pubDate": "2025-12-25 04:00:00",
@@ -103,11 +96,18 @@
           "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
+          "title": "Microsoft AI Co-Innovation Lab Kobeで”収量予測AI”が自動で進化するAIの開発を実施 - 南日本新聞",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkVqdDYyWFI2dTQ5eE5JUDZDbk1YSGViNGl3VEltNGJKa1NaeUhLMmY4RFpTU0RuUFVSbjhHcUdGSVFIZGtnSHo0RURFN2RmMV9zdDdVbE9hRXFMTmxnNV9VX1FnZFpaYTZ0NTh2eW1iNDVIZ1ZFaGFYZW5QMDU4Qw?oc=5",
+          "pubDate": "2025-12-24 22:23:07",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkVqdDYyWFI2dTQ5eE5JUDZDbk1YSGViNGl3VEltNGJKa1NaeUhLMmY4RFpTU0RuUFVSbjhHcUdGSVFIZGtnSHo0RURFN2RmMV9zdDdVbE9hRXFMTmxnNV9VX1FnZFpaYTZ0NTh2eW1iNDVIZ1ZFaGFYZW5QMDU4Qw?oc=5\" target=\"_blank\">Microsoft AI Co-Innovation Lab Kobeで”収量予測AI”が自動で進化するAIの開発を実施</a>  南日本新聞",
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+        },
+        {
           "title": "CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大 - 共同通信PRワイヤー",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5\" target=\"_blank\">CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大</a>  共同通信PRワイヤー",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
         {
           "title": "Microsoft for Manufacturing - Microsoft",
@@ -130,6 +130,13 @@
       "displayName": "Anthropic",
       "news": [
         {
+          "title": "GPT-5.2 / Claude 4.5 / Gemini 3など最先端7モデルを法人向け生成AIサービス「Tachyon 生成AI」に搭載 (2025年12月29日) - Excite エキサイト",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rekVZTUFBN2o2WWM1Qkt3RFg1cW5OSEZfbkFJbDVXMUZrVVJwbi1MTFZROTFzN0xGR0hZRmdzYW84VEFmbXA1WENwMUJ4T2FPMEJFRXA3dzlnTXVPeUV0eGRxZi1Da3h5VFBOZldYVlg1cXNX?oc=5",
+          "pubDate": "2025-12-29 11:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9rekVZTUFBN2o2WWM1Qkt3RFg1cW5OSEZfbkFJbDVXMUZrVVJwbi1MTFZROTFzN0xGR0hZRmdzYW84VEFmbXA1WENwMUJ4T2FPMEJFRXA3dzlnTXVPeUV0eGRxZi1Da3h5VFBOZldYVlg1cXNX?oc=5\" target=\"_blank\">GPT-5.2 / Claude 4.5 / Gemini 3など最先端7モデルを法人向け生成AIサービス「Tachyon 生成AI」に搭載 (2025年12月29日)</a>  Excite エキサイト",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+        },
+        {
           "title": "アクセンチュアが3万人の従業員に「Claude」研修 企業のAI導入を支援する新組織をAnthropicと共同設立 - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9La1dKY3lKME9TNUtjWnhRNFk5dUlKVF9ZTktvdkMyMmlMRFg2bnRVNWlTY2JBek5EejJ4czhVRm1zYl9UYThmbFRiX3Z0UVQteXk1X2tBblpvdmt0MTZ3MDFLNXRxY3FvdlZBRVg0NGJtOVR2YjUwMDRqcGcyUDQ?oc=5",
           "pubDate": "2025-12-25 00:34:21",
@@ -141,27 +148,20 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVVqakpQWkY4a0NwOUllQzU5MHpTNWYyS0tsWVlSZkczVklPbjMwdW9mX25xQVJsdzNrREQtdm5kOFNJOU9wcXB5bWRtN2JHTXpEcTVSX09PMGp4Z2c4YmhpVUJrd2ZqdWkxMEJPV1NfSmlNVmhpR211ZHM5aG8xSUQ4LVdneUtTem5UX0hJdkVaYS1FNVJxMVdWYUMyc2o1eXI4M1FVa3JxZw?oc=5",
           "pubDate": "2025-12-24 01:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVVqakpQWkY4a0NwOUllQzU5MHpTNWYyS0tsWVlSZkczVklPbjMwdW9mX25xQVJsdzNrREQtdm5kOFNJOU9wcXB5bWRtN2JHTXpEcTVSX09PMGp4Z2c4YmhpVUJrd2ZqdWkxMEJPV1NfSmlNVmhpR211ZHM5aG8xSUQ4LVdneUtTem5UX0hJdkVaYS1FNVJxMVdWYUMyc2o1eXI4M1FVa3JxZw?oc=5\" target=\"_blank\">Claude Codeの開発者がバイブコーディングの限界を解説</a>  Business Insider Japan",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Claude Codeのコンテキストウィンドウを完全に理解する - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMlpYeENMSS00d3RGVnMxZ0F2dThFX24xa2haeWJHZzdQcXl2allRQldRR2lUUndIOTB6bGg5V2NWcEtuclNHZE9ZTC0xWUNRcGpuWWk5ZTVCUzV4ME1YVFFKbmZjdVh6RkVZ?oc=5",
           "pubDate": "2025-12-22 23:55:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMlpYeENMSS00d3RGVnMxZ0F2dThFX24xa2haeWJHZzdQcXl2allRQldRR2lUUndIOTB6bGg5V2NWcEtuclNHZE9ZTC0xWUNRcGpuWWk5ZTVCUzV4ME1YVFFKbmZjdVh6RkVZ?oc=5\" target=\"_blank\">Claude Codeのコンテキストウィンドウを完全に理解する</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Rk5DWlFQdUVNNnIzTVVoWFM1R3ZLd01WNW4zVlZZbE5OZ3ZtLThYQjhTUGhuOF9wX0c4VHptajFRVHF2Rm5jcXhvM3hJTUV1bHVN?oc=5\" target=\"_blank\">Claudeの「Agent Skills」がアップグレード--作成スキルの管理、共有が容易に</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
-        },
-        {
-          "title": "Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説 - Ledge.ai",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LazZCRGxnUkFjV25xeWZ2c3RiMkxMYkZPNWdrTXphbVZFWnV1U3VPYWZBSUJXa3FEQzg4NmRwVkF1aVlUQ3RwMVRBZ3lmMkx1cHBGaVV5amJjZWJLNWtkbi1YY2dvVm1pQnMtVUE0UFgwZHJHTEE?oc=5",
-          "pubDate": "2025-12-15 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5LazZCRGxnUkFjV25xeWZ2c3RiMkxMYkZPNWdrTXphbVZFWnV1U3VPYWZBSUJXa3FEQzg4NmRwVkF1aVlUQ3RwMVRBZ3lmMkx1cHBGaVV5amJjZWJLNWtkbi1YY2dvVm1pQnMtVUE0UFgwZHJHTEE?oc=5\" target=\"_blank\">Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説</a>  Ledge.ai",
           "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
@@ -257,14 +257,14 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRDdvTkc4cjlTdkFkTzFKb3VKYU50MGI4Q0h3S3BuVF9VczFPdWFSel80YUVoT1k5WWpoSkx6QXZvWTlrWUdkT2J4M1M0amhGQWp1Rl9sUzE?oc=5",
           "pubDate": "2025-12-28 13:43:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRDdvTkc4cjlTdkFkTzFKb3VKYU50MGI4Q0h3S3BuVF9VczFPdWFSel80YUVoT1k5WWpoSkx6QXZvWTlrWUdkT2J4M1M0amhGQWp1Rl9sUzE?oc=5\" target=\"_blank\">問題含みのAI「Grok」、エルサルバドルの教育現場へ</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "画像生成AIで比較！ChatGPT、Gemini、Grokどれを選ぶ？得意分野と使い分け【作例大量・2025年最新版】 (1/4) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaRU1ISmZPQjVoM2hoak9vc2lNQ1puRm5NY0pCemFieTc4LUFpcFBfaEEzVjk1Z01VeG90X3l4UF92aDNRUFhxb1VjUENpZUVYZDBleQ?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaRU1ISmZPQjVoM2hoak9vc2lNQ1puRm5NY0pCemFieTc4LUFpcFBfaEEzVjk1Z01VeG90X3l4UF92aDNRUFhxb1VjUENpZUVYZDBleQ?oc=5\" target=\"_blank\">画像生成AIで比較！ChatGPT、Gemini、Grokどれを選ぶ？得意分野と使い分け【作例大量・2025年最新版】 (1/4)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "XがGrokの画像生成機能「Aurora」を一部アカウントで開放、他人の投稿もAI編集可能と物議（ビジネス＋IT） - Yahoo!ニュース",
