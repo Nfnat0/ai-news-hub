@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-29T21:18:47.152Z",
+  "fetchedAt": "2025-12-30T04:01:21.397Z",
   "locale": "en",
   "companies": [
     {
@@ -7,18 +7,32 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Google Chrome Tests Replacing Gemini Button With Browse With AI Button - Search Engine Roundtable",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1ZPQkdaY3N1ZTRfR1NZUng5YTA3TlVuOWlyVm9xNmNSUDFiOHhPclIyMzM5aWdhcEtjbHFuc2lIa09tV0VMS3Z1MnhKMWp0NFFJT3l5SlVKTTEyVzZJTU43R1FiWkpDa1gzRFJMY19ZUGNURjBvQXo5VTg4VTdzbw?oc=5",
-          "pubDate": "2025-12-29 12:21:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1ZPQkdaY3N1ZTRfR1NZUng5YTA3TlVuOWlyVm9xNmNSUDFiOHhPclIyMzM5aWdhcEtjbHFuc2lIa09tV0VMS3Z1MnhKMWp0NFFJT3l5SlVKTTEyVzZJTU43R1FiWkpDa1gzRFJMY19ZUGNURjBvQXo5VTg4VTdzbw?oc=5\" target=\"_blank\">Google Chrome Tests Replacing Gemini Button With Browse With AI Button</a>  Search Engine Roundtable",
+          "title": "GreenBanana SEO Analyzes Gemini 3 and Deep Think’s Impact on Google Search - Erie Times-News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnFQVTRLaTJMOHMwLWctaWp5STZXSGpfRl9makxVS2c4dUdZWXMzSXpCeXNSSDczd1BSX2ctbWFHUWMwV1BOZmFJSFpzSWc3NzhsMUtzUFN2RVNlSUVkaVI0YnpBYzMtNWhkdG1NOEQwWmQ3SU5Tcm0tTmdFczcySnBHR05wUmV0UmZOVkFYcWZQQjFKMTZNdHlRQVJqazk1YXpXSlVoNGhuQlB4dk5YMmtINVZfbm9hX0RNZy1rNTA?oc=5",
+          "pubDate": "2025-12-30 00:01:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnFQVTRLaTJMOHMwLWctaWp5STZXSGpfRl9makxVS2c4dUdZWXMzSXpCeXNSSDczd1BSX2ctbWFHUWMwV1BOZmFJSFpzSWc3NzhsMUtzUFN2RVNlSUVkaVI0YnpBYzMtNWhkdG1NOEQwWmQ3SU5Tcm0tTmdFczcySnBHR05wUmV0UmZOVkFYcWZQQjFKMTZNdHlRQVJqazk1YXpXSlVoNGhuQlB4dk5YMmtINVZfbm9hX0RNZy1rNTA?oc=5\" target=\"_blank\">GreenBanana SEO Analyzes Gemini 3 and Deep Think’s Impact on Google Search</a>  Erie Times-News",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
+          "title": "Gemini control to Android: Will we be talking to our phones more in 2026? - 9to5Google",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzQXIwZjhaNUlMUVV5UjlBSGNfZGZ5d2ItTldFYi00YlpteThxU2I1ODhtS2xDakJIWUpveTBYcjY4czZJOEtFVjhRcDJFcFN0RllJR3BVWWozQUYzNTdzdmxWMkpFc2Vp?oc=5",
+          "pubDate": "2025-12-29 22:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzQXIwZjhaNUlMUVV5UjlBSGNfZGZ5d2ItTldFYi00YlpteThxU2I1ODhtS2xDakJIWUpveTBYcjY4czZJOEtFVjhRcDJFcFN0RllJR3BVWWozQUYzNTdzdmxWMkpFc2Vp?oc=5\" target=\"_blank\">Gemini control to Android: Will we be talking to our phones more in 2026?</a>  9to5Google",
           "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
-          "title": "SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds - infoq.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WODl3YjFwMDd3cUNHcF9yZ21ia1FEdUEtSHJqVmIyVl9LdHFFanZ2SExTYkxxTzBOdnNQcmpHV2dJYS1HMVUzWmp0dTJVSVNCUW5SOVBmaW55Skc2Q3ZhS2hZUnYyQQ?oc=5",
-          "pubDate": "2025-12-29 11:06:28",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WODl3YjFwMDd3cUNHcF9yZ21ia1FEdUEtSHJqVmIyVl9LdHFFanZ2SExTYkxxTzBOdnNQcmpHV2dJYS1HMVUzWmp0dTJVSVNCUW5SOVBmaW55Skc2Q3ZhS2hZUnYyQQ?oc=5\" target=\"_blank\">SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds</a>  infoq.com",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "title": "Google Photos and Nano Banana are coming to Samsung TVs - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdF9EQVM5Mks4ZFozS3JuOFZqX1FxU05sTU5ONXVRdzBwZkRuMzBMaDRwNGlHN1J2SG53YnIxaGdkT1ByMlViZmpkUzBLeTl1S2s4WVRiQkRLaVBwYUg4bEluYlUtRDN4X0JpVGdXR0w0b2UxQ0FIc1EtdkFaTURMVm5B?oc=5",
+          "pubDate": "2025-12-29 20:12:26",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdF9EQVM5Mks4ZFozS3JuOFZqX1FxU05sTU5ONXVRdzBwZkRuMzBMaDRwNGlHN1J2SG53YnIxaGdkT1ByMlViZmpkUzBLeTl1S2s4WVRiQkRLaVBwYUg4bEluYlUtRDN4X0JpVGdXR0w0b2UxQ0FIc1EtdkFaTURMVm5B?oc=5\" target=\"_blank\">Google Photos and Nano Banana are coming to Samsung TVs</a>  Mashable",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "The latest AI news we announced in December - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GckRfZ2MwdndJX1VUdk5VWjc0ZUNiRzRYekwtNXdMRXNhNVp1cjU2ZXRpcHQ0X2pzd1NhcmliMkhZR2JxWHNZaUVNbU9mTkp2VHJoSUdfdmE3Q0dDTGZpdGJfSld4SW1rbjBLU2hfUXBwOHMy?oc=5",
+          "pubDate": "2025-12-29 18:17:51",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5GckRfZ2MwdndJX1VUdk5VWjc0ZUNiRzRYekwtNXdMRXNhNVp1cjU2ZXRpcHQ0X2pzd1NhcmliMkhZR2JxWHNZaUVNbU9mTkp2VHJoSUdfdmE3Q0dDTGZpdGJfSld4SW1rbjBLU2hfUXBwOHMy?oc=5\" target=\"_blank\">The latest AI news we announced in December</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade - WIRED",
@@ -26,20 +40,6 @@
           "pubDate": "2025-12-29 11:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDRlNWdfQVBrNG5ieHVXZlZWX0E4WFgzdnRjcUVtbVQ3UExuSzlGV2lvQVA0U1RkLXZad05DeGJ6WVhnTWFCRU1pVGpWUEJYRlE1MVNtNzdxd1BUMTRGSHVTaEZZbFVESWU2bVh2QndzYzNjUjJHMTlCYUNiSXVvc0lkSQ?oc=5\" target=\"_blank\">3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade</a>  WIRED",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t - The Verge",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5",
-          "pubDate": "2025-12-25 14:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9KT1ExckxDcWtsYWhFYzlUQ3B2VnFLaWZNckFFNVhsZHNPdWdZYndCX0FHdFdHV01FbmMxTXNJSFBGREwyVmFCaGp6ZHV4VVh2T3BTNzktd3JUSjhHdVd4TFdfbEc0TWdMRnpYcVVaamQ1aUVlaW4zN2xydVM?oc=5\" target=\"_blank\">I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Here’s where you can use Nano Banana Pro - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYnlsbnp2Q3BTM25PcmFyNnNpZFl6VGJpeE1RRy04bmFGV0NLa0FSS3pSdEoyY3dXVHBtRXVBc3VCcUdKTjZTX0xrRXZKX182a1FnNHJEZnAzeDE0WFZObWtiZVc5azRzeHUxT2VTSDl6SlE?oc=5",
-          "pubDate": "2025-12-23 17:04:54",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5pYnlsbnp2Q3BTM25PcmFyNnNpZFl6VGJpeE1RRy04bmFGV0NLa0FSS3pSdEoyY3dXVHBtRXVBc3VCcUdKTjZTX0xrRXZKX182a1FnNHJEZnAzeDE0WFZObWtiZVc5azRzeHUxT2VTSDl6SlE?oc=5\" target=\"_blank\">Here’s where you can use Nano Banana Pro</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         }
       ]
     },
@@ -48,18 +48,25 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "Photo of noose and the question that ...: New details emerge in the suicide of the teenager whose parents - Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWldGenhqNjJWRW9ydDFDMzRJQ29GcEkweG5YbkR3Z21aSkZabDh4aUc2ckNqMmtjRXlNSUhTNlN1N0ZrcGg0a2RTVzFSaGJTYk54YjRjV1pKcTBvemxnNVdrU3NDaTQ4Z1lMZF9falczWDdTbms4WDdCb2RLMVlVY25oUVhFNng2TmNDbXc3bkhvTGdha2ZZeEFBTGhxQV80Tm55bGxieFRBc3RXam9yRjRyVzFKVG5zTUs3cTdVNkRSeW5DTGduZkFFdVBnclMyNENWbjl3M3FIZEQzMzVXZjRweDdNU2tCZVBfbk1xMFRwbnVIN0NrNHV5VnZxdW1UQzhFOTg3MWZUalpfWmdObG1SMi00SG1Zbk4yQTFJU3F3cmVUanVENzV4NWpXeU53eUptRm9Zb1FWUdIBvwJBVV95cUxQd0dlQzRiemdfY1BxQ0NfcF9rSUdPRHRUOEpMZEdZZUVDYi1mSWl6eE9jbWtPTFBNU1FQM0ZhY2F0S2VXeHFKZERqMXcxdlpTYldlMkpzTnE1YWxpRHkxWElrZDVrSUZ5cmJIOVhiQzZxbjV6MmlHa20wVDlCQmNfSmp1emdyMTMzb0VOYnV0YVFudlZYMHFoTHh3V3NaZ3o1cktYZlJsQjJGOWliMVJhdWZiUk9Ja3E0LTBKdThyRkdxVkQ2VEJTLWpyZ3poQWxWSUNQQ1hRLWp1R3Z2TTZjVnZHNUdjd180RnBYaDJfS0dhXzZGM1l0ZnZzWDRjVkZLNnU4ZWoyVWtiSXlsWGZpcVRFcC1OTm1mTXdnSnJodGFyU0FuM3dEU2thYnVaVk1CSFlER2p5WUFOdGxld0FF?oc=5",
-          "pubDate": "2025-12-29 12:41:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOWldGenhqNjJWRW9ydDFDMzRJQ29GcEkweG5YbkR3Z21aSkZabDh4aUc2ckNqMmtjRXlNSUhTNlN1N0ZrcGg0a2RTVzFSaGJTYk54YjRjV1pKcTBvemxnNVdrU3NDaTQ4Z1lMZF9falczWDdTbms4WDdCb2RLMVlVY25oUVhFNng2TmNDbXc3bkhvTGdha2ZZeEFBTGhxQV80Tm55bGxieFRBc3RXam9yRjRyVzFKVG5zTUs3cTdVNkRSeW5DTGduZkFFdVBnclMyNENWbjl3M3FIZEQzMzVXZjRweDdNU2tCZVBfbk1xMFRwbnVIN0NrNHV5VnZxdW1UQzhFOTg3MWZUalpfWmdObG1SMi00SG1Zbk4yQTFJU3F3cmVUanVENzV4NWpXeU53eUptRm9Zb1FWUdIBvwJBVV95cUxQd0dlQzRiemdfY1BxQ0NfcF9rSUdPRHRUOEpMZEdZZUVDYi1mSWl6eE9jbWtPTFBNU1FQM0ZhY2F0S2VXeHFKZERqMXcxdlpTYldlMkpzTnE1YWxpRHkxWElrZDVrSUZ5cmJIOVhiQzZxbjV6MmlHa20wVDlCQmNfSmp1emdyMTMzb0VOYnV0YVFudlZYMHFoTHh3V3NaZ3o1cktYZlJsQjJGOWliMVJhdWZiUk9Ja3E0LTBKdThyRkdxVkQ2VEJTLWpyZ3poQWxWSUNQQ1hRLWp1R3Z2TTZjVnZHNUdjd180RnBYaDJfS0dhXzZGM1l0ZnZzWDRjVkZLNnU4ZWoyVWtiSXlsWGZpcVRFcC1OTm1mTXdnSnJodGFyU0FuM3dEU2thYnVaVk1CSFlER2p5WUFOdGxld0FF?oc=5\" target=\"_blank\">Photo of noose and the question that ...: New details emerge in the suicide of the teenager whose parents</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "title": "OpenAI offers $555,000 salary to protect humans from rogue AI - The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjhtMktTLTVUbjFDUmZQN2FxSC1iWXNXX3kzRTBjT21sZ051YnJ6NW96OW5UVGdRbkNCNXB0WDVzTlU2ZjREdUwxdWkwc0JLbTJSUTNVOEM2U3ZyaE91X2RxNGlpQ2RDUFJvYWdsdEFNNGowMHVBa0JfMGlUcTF0bXY2U0lOV1RMSmNGSG40YnpzVFNrMU4yXy1aX2ROOFdoaGxzVThFdzZYUjg?oc=5",
+          "pubDate": "2025-12-29 18:32:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjhtMktTLTVUbjFDUmZQN2FxSC1iWXNXX3kzRTBjT21sZ051YnJ6NW96OW5UVGdRbkNCNXB0WDVzTlU2ZjREdUwxdWkwc0JLbTJSUTNVOEM2U3ZyaE91X2RxNGlpQ2RDUFJvYWdsdEFNNGowMHVBa0JfMGlUcTF0bXY2U0lOV1RMSmNGSG40YnpzVFNrMU4yXy1aX2ROOFdoaGxzVThFdzZYUjg?oc=5\" target=\"_blank\">OpenAI offers $555,000 salary to protect humans from rogue AI</a>  The Telegraph",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "ChatGPT's Latest AI Image Generator Is Its Best Yet, But Nano Banana Pro Is Still Better - PCMag Middle East",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU55Tk1ybU5zSWxZMTVtc3pIWTM0Ykp6ZHFEdFYzc3hMcVVPcXNpT0F0aV9MSEozZGU1bFVnODRHWENNT3JDOTlPU0hIZXRlbXJUeXZSemttb3JaZlE0TS1VaERpbnZSU3l5ZEQ0djhpN2NncjhHbXRqeE5aWEdDbkJKRFYtWUhLSXVpdFNMWWRvbFY2V0lTVFlkZGtvYmt1cU5fYmlEQ1JLcWdzdW5RWTNYSlFVNF9tSThN?oc=5",
-          "pubDate": "2025-12-28 13:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU55Tk1ybU5zSWxZMTVtc3pIWTM0Ykp6ZHFEdFYzc3hMcVVPcXNpT0F0aV9MSEozZGU1bFVnODRHWENNT3JDOTlPU0hIZXRlbXJUeXZSemttb3JaZlE0TS1VaERpbnZSU3l5ZEQ0djhpN2NncjhHbXRqeE5aWEdDbkJKRFYtWUhLSXVpdFNMWWRvbFY2V0lTVFlkZGtvYmt1cU5fYmlEQ1JLcWdzdW5RWTNYSlFVNF9tSThN?oc=5\" target=\"_blank\">ChatGPT's Latest AI Image Generator Is Its Best Yet, But Nano Banana Pro Is Still Better</a>  PCMag Middle East",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "title": "OpenAI seeks new safety chief as Altman flags growing risks - theregister.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HdGl4YTZ2N2Voa0hueVNjVFZBQW5jeG5LM003SVBMT3FGS0ltTVRVY1VYV3NfbGhkSE85WjZBUlFDT1dCcllMTTVCcEU3VHRwNEh1X1UwMlRERV8wVXA3cUNZcE9YSm1DTWJZ?oc=5",
+          "pubDate": "2025-12-29 18:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1HdGl4YTZ2N2Voa0hueVNjVFZBQW5jeG5LM003SVBMT3FGS0ltTVRVY1VYV3NfbGhkSE85WjZBUlFDT1dCcllMTTVCcEU3VHRwNEh1X1UwMlRERV8wVXA3cUNZcE9YSm1DTWJZ?oc=5\" target=\"_blank\">OpenAI seeks new safety chief as Altman flags growing risks</a>  theregister.com",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "OpenAI Hardened ChatGPT Atlas Against Prompt Injection Attacks - CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NkE1d0kwNFkxQm9oMzVTVEJwYkdmb3pzLV9sUzVWaUhRdVNXZ1lzNEVUZU1OQmVZZVQtOWNMWVdBNU5Nb2Z3QXExYXZ1R2hDeU1vMzlYZF9VdWlkRmtsSGc1RURUcFVzN050NdIBckFVX3lxTE1MT0RYd3FIVWZPVFNBa01FWV9xUWdSNWhBcVJUc0FOVjE4LW5OMlZVd2RsTnpLSjV2YVlBTUZ4M0VRMnNvdC0zWjJBZl81RlR3YlhrOVVSWGo2SWJDMUNUNnRTZFlVdy1SQmoyQUZGSTZlZw?oc=5",
+          "pubDate": "2025-12-29 07:56:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NkE1d0kwNFkxQm9oMzVTVEJwYkdmb3pzLV9sUzVWaUhRdVNXZ1lzNEVUZU1OQmVZZVQtOWNMWVdBNU5Nb2Z3QXExYXZ1R2hDeU1vMzlYZF9VdWlkRmtsSGc1RURUcFVzN050NdIBckFVX3lxTE1MT0RYd3FIVWZPVFNBa01FWV9xUWdSNWhBcVJUc0FOVjE4LW5OMlZVd2RsTnpLSjV2YVlBTUZ4M0VRMnNvdC0zWjJBZl81RlR3YlhrOVVSWGo2SWJDMUNUNnRTZFlVdy1SQmoyQUZGSTZlZw?oc=5\" target=\"_blank\">OpenAI Hardened ChatGPT Atlas Against Prompt Injection Attacks</a>  CybersecurityNews",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "ChatGPT typed words like ‘suicide,’ ‘hanging’ with teen in grip of crisis - The Washington Post",
@@ -74,13 +81,6 @@
           "pubDate": "2025-12-27 09:46:54",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXhtS0g3NmVaa1pPTngwUHktZVYyYTQwTG5Wd0EwRlFuT3J6Zk50UlhfOU9GT05COGJPT2p6UFpzcWZVQmtqQ3ZZcXlldzA5NlR2UENCd3E1cTFpczZFSWdXbWNRakFabm1XMVg2aDNDZmpQd1NuaDZmb2ZqajZaUlhITTZnOC0teTNlUk5DTm54cjEzZ3hSX3dpTHJ0Rm0yVVF4cVB3a3BCWlAxVTdIVHMzM0QtNUNYRWwzTlFBWkFkMDJYazg4b181NkxMZENFM2xr0gHYAUFVX3lxTE9pTVNtRkdfWVFmdW1zWWdVamc5ZV9wOGRubnNQWlM1RDBqVWlsMS1nLTRoQ3IwemlwQjZHMWQ1NEdNWjdZQ0RTZ3IyUHlfSmFyczA1endKUnp1Vm9aNXJHUEF6UzVqaUhlZElXRjFhZ0tHQVNJUU1wSDczWHkxUHBQcUhMNFJEZDZHa2pjV0JEcjJMU2RXTVR2ZEpmVnNSSnVWUlBSS2UycFpJSmpDYTVpYTZQLTh6YTNqVEdTUWJSWktvdWZ0TXhXbVhSVjN0Q1YzOXNWclJRbQ?oc=5\" target=\"_blank\">OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers</a>  BleepingComputer",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
-        },
-        {
-          "title": "ChatGPT's GPT-5.2 is here, and it feels rushed - Fox News",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQ0M0OGU3NVBrWTUwRlhMVTRXVmVlV3ZfUEo2eDFyZ2dib3hyeVIzUjNVaWFyaFBQVlNWMFhpbi1RdUJzQkduYmxGdWNUcnktTzdlRl81UGhGd0p6UGFQTmc4eGlxcnY2Vy1CbGdHcTXSAXZBVV95cUxPcTdNRHFTX1N1Q3JkLXFVYnc0WUtDc3RXdlhwbjNEUlk0THc0LXFBNVhTVmE0SnJSMTVhcm1VUnhTR1FYbkRYeWJsb3Z2ajltbTAwRlVLMDBEY2RQTEVaWllQdlcwQjBnVzZCT0QwSHBYMm1hZ3pR?oc=5",
-          "pubDate": "2025-12-26 13:37:53",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQ0M0OGU3NVBrWTUwRlhMVTRXVmVlV3ZfUEo2eDFyZ2dib3hyeVIzUjNVaWFyaFBQVlNWMFhpbi1RdUJzQkduYmxGdWNUcnktTzdlRl81UGhGd0p6UGFQTmc4eGlxcnY2Vy1CbGdHcTXSAXZBVV95cUxPcTdNRHFTX1N1Q3JkLXFVYnc0WUtDc3RXdlhwbjNEUlk0THc0LXFBNVhTVmE0SnJSMTVhcm1VUnhTR1FYbkRYeWJsb3Z2ajltbTAwRlVLMDBEY2RQTEVaWllQdlcwQjBnVzZCT0QwSHBYMm1hZ3pR?oc=5\" target=\"_blank\">ChatGPT's GPT-5.2 is here, and it feels rushed</a>  Fox News",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -89,17 +89,17 @@
       "displayName": "Microsoft",
       "news": [
         {
+          "title": "Applied AI: Microsoft Offers Training Funds for Copilot AI Customers - The Information",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0F0TzZtQ2ZxZkJsUTRSTlFtTVRlWjVzbWtUVGctSUZpb0gwOG8ycTJqNTEzN0QxNUJEZl9JX2dwZ2VxV3UySDBRWm9RX0M0b0tSaXVYMnNjU1QybnFWMjdRQ3JtanlYTmlrNkZKR19YLWN3VWIwOGpUM0Yxd0NySDBuUjZnWFp3dTFLalpyb0FfdUpMejhLelY5aG41TndRa2Y5RVhn?oc=5",
+          "pubDate": "2025-12-29 19:29:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0F0TzZtQ2ZxZkJsUTRSTlFtTVRlWjVzbWtUVGctSUZpb0gwOG8ycTJqNTEzN0QxNUJEZl9JX2dwZ2VxV3UySDBRWm9RX0M0b0tSaXVYMnNjU1QybnFWMjdRQ3JtanlYTmlrNkZKR19YLWN3VWIwOGpUM0Yxd0NySDBuUjZnWFp3dTFLalpyb0FfdUpMejhLelY5aG41TndRa2Y5RVhn?oc=5\" target=\"_blank\">Applied AI: Microsoft Offers Training Funds for Copilot AI Customers</a>  The Information",
+          "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
+        },
+        {
           "title": "Microsoft Copilot AI Faces Backlash Over Performance Woes and Inaccuracies - WebProNews",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVQ4aFY5NmhXeXEzbVdkUDUxN2JudDZ0MHJTcC10SGxZaHppR21BY2poeFRWOWg2QmptTnZ3RmJBOVlrNnYyazRDdHVUX0pXYWhISGtla1A4cHIzcFcweDZKZWNsOEZGSjdvNjRkVk1YRGVkQ1lRRnJOaUpGS1dtd3A0NXBjajNURjVtLXNHS05rZzNaLVp4Z05PdTVRVW40Z2dwQg?oc=5",
           "pubDate": "2025-12-28 16:51:03",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVQ4aFY5NmhXeXEzbVdkUDUxN2JudDZ0MHJTcC10SGxZaHppR21BY2poeFRWOWg2QmptTnZ3RmJBOVlrNnYyazRDdHVUX0pXYWhISGtla1A4cHIzcFcweDZKZWNsOEZGSjdvNjRkVk1YRGVkQ1lRRnJOaUpGS1dtd3A0NXBjajNURjVtLXNHS05rZzNaLVp4Z05PdTVRVW40Z2dwQg?oc=5\" target=\"_blank\">Microsoft Copilot AI Faces Backlash Over Performance Woes and Inaccuracies</a>  WebProNews",
-          "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
-        },
-        {
-          "title": "Microsoft Ai - More News on LatestLY - LatestLY",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRlIzVkY2dUNnSm9fVFpVNXg5UGpiM0t4MUZVbUhSZnkxX29oeVZabXRMSDhxanZmUE1Fb0dEc3VWZHYtX2JLTVBmRmNmeTlmZjAwbVhQVE1OUVhqc0hQYVlZaUNkdU9QQ1c0eDZn?oc=5",
-          "pubDate": "2025-12-26 07:20:47",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRlIzVkY2dUNnSm9fVFpVNXg5UGpiM0t4MUZVbUhSZnkxX29oeVZabXRMSDhxanZmUE1Fb0dEc3VWZHYtX2JLTVBmRmNmeTlmZjAwbVhQVE1OUVhqc0hQYVlZaUNkdU9QQ1c0eDZn?oc=5\" target=\"_blank\">Microsoft Ai - More News on LatestLY</a>  LatestLY",
           "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
         },
         {
@@ -107,7 +107,7 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
           "pubDate": "2025-12-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>  The Verge",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
           "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
@@ -121,7 +121,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5",
           "pubDate": "2025-12-10 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5\" target=\"_blank\">Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</a>  extremetech.com",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         }
       ]
     },
@@ -130,24 +130,24 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "OpenAI and Anthropic double AI usage limits in holiday boost for developers: All you need to know - livemint.com",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDFnWGt6WWFMUmZ1N29xN2NWRE1TZWswSG5lNXViMERfOTZQVl96TEs5TlRGT3plTXhibTJVbFZlU1hzWElUOHk5dHJzVXhDZTFTaVN2c044eXNBWDdydW04dHU3YnR3YThCWU9fc0R3TEhLbHAtQkE5RUxIa0RjSVRDWUpIVThtMEg4ODdhYUYyLV9FaTdjTjJpNkpNdWZOSThlYS00bDA0bjNEQlJ0VVVZWmlDNnpEalRaYVRSNVpkZjhCeVdCQkUtZUJGUTdrQXBjNXc0RVZ5QThfMVY1bVVxOWRDWVVOUEZXVTdCSTlfUU9L0gH6AUFVX3lxTE9YWXI5N3E1dUlBVFF0LUxtcm55ekJwcWNmYmFkaHdZeVBoQXhNS0lyTUcwdmpjNGxDcGlCMG1aOUlPcWlFNjYwRlZ0RWZ1MGJoYTlxS0FFSEhCd1FyajRGaWRRNFgzaHVSQlVNT2lBT0xHV1JHN3RRR3VJT3pBbjRQa2NsYVdTck5KLTlyQ2dfLVRpVU5lY2Nya1NxZHpWcnJaSlBKLU1IS1NJSmJHUjVPTnlGVGZPNElISzZVTkhtZWQzOVc4dkdpUklWZjY1TTVWYzcyV0w5MFhyQzdyQ2EyZ2JZNk40bS1IWkc3UG1rdGtZY2hqNVVQbkE?oc=5",
-          "pubDate": "2025-12-27 03:02:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDFnWGt6WWFMUmZ1N29xN2NWRE1TZWswSG5lNXViMERfOTZQVl96TEs5TlRGT3plTXhibTJVbFZlU1hzWElUOHk5dHJzVXhDZTFTaVN2c044eXNBWDdydW04dHU3YnR3YThCWU9fc0R3TEhLbHAtQkE5RUxIa0RjSVRDWUpIVThtMEg4ODdhYUYyLV9FaTdjTjJpNkpNdWZOSThlYS00bDA0bjNEQlJ0VVVZWmlDNnpEalRaYVRSNVpkZjhCeVdCQkUtZUJGUTdrQXBjNXc0RVZ5QThfMVY1bVVxOWRDWVVOUEZXVTdCSTlfUU9L0gH6AUFVX3lxTE9YWXI5N3E1dUlBVFF0LUxtcm55ekJwcWNmYmFkaHdZeVBoQXhNS0lyTUcwdmpjNGxDcGlCMG1aOUlPcWlFNjYwRlZ0RWZ1MGJoYTlxS0FFSEhCd1FyajRGaWRRNFgzaHVSQlVNT2lBT0xHV1JHN3RRR3VJT3pBbjRQa2NsYVdTck5KLTlyQ2dfLVRpVU5lY2Nya1NxZHpWcnJaSlBKLU1IS1NJSmJHUjVPTnlGVGZPNElISzZVTkhtZWQzOVc4dkdpUklWZjY1TTVWYzcyV0w5MFhyQzdyQ2EyZ2JZNk40bS1IWkc3UG1rdGtZY2hqNVVQbkE?oc=5\" target=\"_blank\">OpenAI and Anthropic double AI usage limits in holiday boost for developers: All you need to know</a>  livemint.com",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
-        },
-        {
-          "title": "OpenAI, Anthropic Offer Double the Usage Limit to Select Users Till the New Year - Gadgets 360",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzd0U29jLWFtUGxadW5OajNoNE9wUndVRFFZbFh0MEk5UmdQQXdNVDFXd0FISk5Yamw2TC1PYll5bWFlUGh5UlRlcV9zNUhrTEo3U3BnYlZjcDZuQnZ5aENHeFAtQm5vNF9FU3diSEpLSXBwY0FtSzVPeFZIT3p5RXpUMHBNSkprYnNrZ2NUUkstRFRPRmMwZU53N0pkQ2ZRY25fY05qZm5jeXk4MHhacXBrSFRZN0NZblRsdUN2OUVrZ9IBxwFBVV95cUxOcVNKQzRsWU5Qc25feW5nREpoSnhMZFJGazJUcE1PTXRZZWl1MGNxWnpuaVJOZXRUbVZvU3hQRjNVSHA3QVh4V0cwNTI4eFo0WXRPaEN0dGEtMWdUTmFSNU1ZMXQ1bTRXcGlUV0RwTWxYeXJKX3pwRWVsMWtJbWtDWmtNRUIwOFgtcTljejZuREhmZ1JZOHI2T08tQzZvTVoyeUVYN09GTHI5ZVpwdmxGbXRZQkpxS0tkRmE4Vm1GeFo2NkZfbi1n?oc=5",
-          "pubDate": "2025-12-26 13:07:05",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzd0U29jLWFtUGxadW5OajNoNE9wUndVRFFZbFh0MEk5UmdQQXdNVDFXd0FISk5Yamw2TC1PYll5bWFlUGh5UlRlcV9zNUhrTEo3U3BnYlZjcDZuQnZ5aENHeFAtQm5vNF9FU3diSEpLSXBwY0FtSzVPeFZIT3p5RXpUMHBNSkprYnNrZ2NUUkstRFRPRmMwZU53N0pkQ2ZRY25fY05qZm5jeXk4MHhacXBrSFRZN0NZblRsdUN2OUVrZ9IBxwFBVV95cUxOcVNKQzRsWU5Qc25feW5nREpoSnhMZFJGazJUcE1PTXRZZWl1MGNxWnpuaVJOZXRUbVZvU3hQRjNVSHA3QVh4V0cwNTI4eFo0WXRPaEN0dGEtMWdUTmFSNU1ZMXQ1bTRXcGlUV0RwTWxYeXJKX3pwRWVsMWtJbWtDWmtNRUIwOFgtcTljejZuREhmZ1JZOHI2T08tQzZvTVoyeUVYN09GTHI5ZVpwdmxGbXRZQkpxS0tkRmE4Vm1GeFo2NkZfbi1n?oc=5\" target=\"_blank\">OpenAI, Anthropic Offer Double the Usage Limit to Select Users Till the New Year</a>  Gadgets 360",
+          "title": "Anthropic's Project Vend: When AI Takes the Reins of a Real-World Shop - QUASA Connect",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjVUS3lMeGpyOVBMeFQwX1B1Tmpvb2NjMEE2RDJ5cHhIZDh5bW1xYjY0aFNiei1CZmRod0dqSVRqSnljUXhmdVIzLWZ1cnVxZkRMY0lDbUROQ3VUbDZaVFlKSnExeVhKYW1zQkRjVmN3NkN2LU9DNlJxckhPc0RjbDRGVWFIQTFTQktId0tNVHd4VWtLdTU0?oc=5",
+          "pubDate": "2025-12-30 03:50:12",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjVUS3lMeGpyOVBMeFQwX1B1Tmpvb2NjMEE2RDJ5cHhIZDh5bW1xYjY0aFNiei1CZmRod0dqSVRqSnljUXhmdVIzLWZ1cnVxZkRMY0lDbUROQ3VUbDZaVFlKSnExeVhKYW1zQkRjVmN3NkN2LU9DNlJxckhPc0RjbDRGVWFIQTFTQktId0tNVHd4VWtLdTU0?oc=5\" target=\"_blank\">Anthropic's Project Vend: When AI Takes the Reins of a Real-World Shop</a>  QUASA Connect",
           "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
+          "title": "Anthropic Launches Claude Chrome Plugin for Paid Subscribers - Technobezz",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnVKU2cyVzRLSV9NVjF4N3FEMHZZVEFWbWtVdGY5VWIwWXk5ampJd05weE5ZUDNGMzNUZmpYX2ZxTjU0S09KQWVuZ1RWdHpMOHdBSXpuajNKajE5M0FueG5HaHBsOFBFb2R5X3ZuU2pFa0JzZVhqR3BzWXdfWnNhQnZiUUtNOUtBd3dOMUtkX2t1SDdlYUFock9tUzhCWEhFSlhUZE1HRDJrbUgx?oc=5",
+          "pubDate": "2025-12-30 03:46:33",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnVKU2cyVzRLSV9NVjF4N3FEMHZZVEFWbWtVdGY5VWIwWXk5ampJd05weE5ZUDNGMzNUZmpYX2ZxTjU0S09KQWVuZ1RWdHpMOHdBSXpuajNKajE5M0FueG5HaHBsOFBFb2R5X3ZuU2pFa0JzZVhqR3BzWXdfWnNhQnZiUUtNOUtBd3dOMUtkX2t1SDdlYUFock9tUzhCWEhFSlhUZE1HRDJrbUgx?oc=5\" target=\"_blank\">Anthropic Launches Claude Chrome Plugin for Paid Subscribers</a>  Technobezz",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
           "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars. - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOSnVCQ2E0Yk1TbVQyRWNGTzZaSmotYmYzQ0J6a2pOWTRtUnJoeUhUdVlnSjF5cjVWdG9kYTk0c3dMRXoydGJ6YVFKWnhTcFplbTZmTWZDQ0pMcFRYQWlRTFYybjVjc0Z2X2hULVZ4bVZrOGJuSTdpcUkzOW5Cc0tjTVFnWFNaSEJsRGdqZkFUaGQ1c0ZOdW1sY0ZZYzlIVS1lbm55R29BOEtveFptOTZLQU84dzhWaFVCeDNqRzFDTi1IZGdpcGZhaVZXU3RMT0YwQ1VaQjA4aWZWdU50QUh6dThfRmtwMUkyZ21hbDhsNWowa2FkTURPODFPVEpQc1A5cXVzakN3bVM4Ul9NT3B1Q2YtNlI2UEtHUXNZWW1YMVBWaEZBMkZiNW1ONVRfM2piVUZnb1l2NVE4ajJRQTU4X2pzYU81Um5qcnctSmpYNEVRdWE1a0VPRVR5clRsR1JmVE9xdllLeVZvdzVON0huaGhnUFJUNUhjeGxBODc2NUJjRElfTUJmbzJR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQU2dROUkxeEN0ZUxQeTRlOGJOS0ZFd291WVdOSnhoWTF6T0pvNk5iTnh5YUtSazBmN1R2clZsZXV4OWVnQUtQUmFfUzBuNWpKaG43bkh5OXh5RHVoX0dXRWNkMDhtWnVlaXQ4N3h0eGZIMEhlblNfM3NPeGVFMGtIU1RRV0taNmkxZTVScWtEYjBUSHVSUkJFei1mM0xTc2F1d3NiQWVnWmMxRmwtaDJaYUoxeU9wbXhvRXk4Ri1icF9ieHZ2SU5sRFFJU2UxVF9zMFNwYXlhOWpyMW1kRkJOX2FTVENpZmpTSmhYaktXTFd2M1hTTzNXRlZ5Z0dKY29IRU13U285Z0RSblRGS19sN1B4QWdDbkhsV0RHYVhfSHhTU1BSaEZ5RG5kMENrdmVQWEtwbUVKRGFwc1ZjTjA4clZfNHZKd1JKTDlMbVFGeXBDVnRxWnRidFJrUnpNLWtUZWlycUlJSVFFRy1wd1dvaFJZT0dDeTlhVHNiZkVWNGdDYXlRNHE3Rmxn?oc=5",
           "pubDate": "2025-12-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxOSnVCQ2E0Yk1TbVQyRWNGTzZaSmotYmYzQ0J6a2pOWTRtUnJoeUhUdVlnSjF5cjVWdG9kYTk0c3dMRXoydGJ6YVFKWnhTcFplbTZmTWZDQ0pMcFRYQWlRTFYybjVjc0Z2X2hULVZ4bVZrOGJuSTdpcUkzOW5Cc0tjTVFnWFNaSEJsRGdqZkFUaGQ1c0ZOdW1sY0ZZYzlIVS1lbm55R29BOEtveFptOTZLQU84dzhWaFVCeDNqRzFDTi1IZGdpcGZhaVZXU3RMT0YwQ1VaQjA4aWZWdU50QUh6dThfRmtwMUkyZ21hbDhsNWowa2FkTURPODFPVEpQc1A5cXVzakN3bVM4Ul9NT3B1Q2YtNlI2UEtHUXNZWW1YMVBWaEZBMkZiNW1ONVRfM2piVUZnb1l2NVE4ajJRQTU4X2pzYU81Um5qcnctSmpYNEVRdWE1a0VPRVR5clRsR1JmVE9xdllLeVZvdzVON0huaGhnUFJUNUhjeGxBODc2NUJjRElfTUJmbzJR?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxQU2dROUkxeEN0ZUxQeTRlOGJOS0ZFd291WVdOSnhoWTF6T0pvNk5iTnh5YUtSazBmN1R2clZsZXV4OWVnQUtQUmFfUzBuNWpKaG43bkh5OXh5RHVoX0dXRWNkMDhtWnVlaXQ4N3h0eGZIMEhlblNfM3NPeGVFMGtIU1RRV0taNmkxZTVScWtEYjBUSHVSUkJFei1mM0xTc2F1d3NiQWVnWmMxRmwtaDJaYUoxeU9wbXhvRXk4Ri1icF9ieHZ2SU5sRFFJU2UxVF9zMFNwYXlhOWpyMW1kRkJOX2FTVENpZmpTSmhYaktXTFd2M1hTTzNXRlZ5Z0dKY29IRU13U285Z0RSblRGS19sN1B4QWdDbkhsV0RHYVhfSHhTU1BSaEZ5RG5kMENrdmVQWEtwbUVKRGFwc1ZjTjA4clZfNHZKd1JKTDlMbVFGeXBDVnRxWnRidFJrUnpNLWtUZWlycUlJSVFFRy1wd1dvaFJZT0dDeTlhVHNiZkVWNGdDYXlRNHE3Rmxn?oc=5\" target=\"_blank\">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>  The Wall Street Journal",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
@@ -171,6 +171,13 @@
       "displayName": "Amazon",
       "news": [
         {
+          "title": "Amazon’s AI revolution: Your cart just became self-aware - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LLU1iNzRXWW14NWVFZnoxNzlGU0RZZHVvb18zMlZWNmduc0ZrRDJiMkNESW9ZU0YtbUtaeWJ0VlVOdHV1MkVCa0k5M09BVjVfTldxWHNLZ2lBMEF0YmtLS2VnYVdXeEluV1E4Q1RaRkpHQzNpX3ByYWtRZUpIdWs?oc=5",
+          "pubDate": "2025-12-29 15:23:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LLU1iNzRXWW14NWVFZnoxNzlGU0RZZHVvb18zMlZWNmduc0ZrRDJiMkNESW9ZU0YtbUtaeWJ0VlVOdHV1MkVCa0k5M09BVjVfTldxWHNLZ2lBMEF0YmtLS2VnYVdXeEluV1E4Q1RaRkpHQzNpX3ByYWtRZUpIdWs?oc=5\" target=\"_blank\">Amazon’s AI revolution: Your cart just became self-aware</a>  AOL.com",
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+        },
+        {
           "title": "Amazon AI chief to depart as company combines key units under new leadership - The Business Journals",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3M5WW14VHpPd1hoWkJ1TDkzMXN6U0FuWjhEOTVUOUlNOUVSR2ZvcWVxM2JoVjVSZWZFUTV5Y19OVDRmY3dadDZERWxSd2xPdWVldXhRb0tTZ3M3MDRtalR3c054TGl0NVpuOUZsVWhRcVlTRXNxQ2JPWVNUalFHYmJtWlN0Y09hRFdFNnhSRGR1NW1IcDBicXdNS2I0Zw?oc=5",
           "pubDate": "2025-12-29 04:37:00",
@@ -182,28 +189,21 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PQzI5QUpjNVpVVGcxZmtYSjdVbmR4cmF6ajgxT0hqUzFyTmMyNVNyTHdEcV93WC1mUGFrQTFDY2lIVEtyZ1piTHhDWVk5ZWNmYTFnTS1fR0lzVVB3d0Q4VldIclRWM0cySTFmbXp5V0E1NzJtdzM4?oc=5",
           "pubDate": "2025-12-26 14:25:09",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9PQzI5QUpjNVpVVGcxZmtYSjdVbmR4cmF6ajgxT0hqUzFyTmMyNVNyTHdEcV93WC1mUGFrQTFDY2lIVEtyZ1piTHhDWVk5ZWNmYTFnTS1fR0lzVVB3d0Q4VldIclRWM0cySTFmbXp5V0E1NzJtdzM4?oc=5\" target=\"_blank\">Hidden costs of advanced AI weigh on Capital One</a>  eMarketer",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
           "title": "Amazon’s AI Power Play: Peter DeSantis to Lead Unified AI and Silicon Group as Rohit Prasad Exits - FinancialContent",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1dHYnBta3JfSGhPNVpseldJOEhMNGZHVWV6RDltZDlraWFHOXd6bjBGZExrSHhMd2RIeElVR21ZN0VNd3NMbzNnLUJHSHZqYlZSYXk5cFU4Y01qd2xVZE01NFE1cTB2QVU3QVdnMXZRNGJVX0tfdTY3STExOU9sam5vSkdxcGJISXVOVkRTMUIzSnczNXhsUEFUQXVzaE9BdUdGbmRIakY2N1NQdVFnanB5X2oxN0l4dzNzQWpLZUhnWkJ1MHNTRHVzMlVxVTg1QmZfSFZCMDhNdHFtaFF1VGZjYlh6cGhQUG85SU1VRnlEZlRCcDB3c2Zn?oc=5",
           "pubDate": "2025-12-25 20:07:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1dHYnBta3JfSGhPNVpseldJOEhMNGZHVWV6RDltZDlraWFHOXd6bjBGZExrSHhMd2RIeElVR21ZN0VNd3NMbzNnLUJHSHZqYlZSYXk5cFU4Y01qd2xVZE01NFE1cTB2QVU3QVdnMXZRNGJVX0tfdTY3STExOU9sam5vSkdxcGJISXVOVkRTMUIzSnczNXhsUEFUQXVzaE9BdUdGbmRIakY2N1NQdVFnanB5X2oxN0l4dzNzQWpLZUhnWkJ1MHNTRHVzMlVxVTg1QmZfSFZCMDhNdHFtaFF1VGZjYlh6cGhQUG85SU1VRnlEZlRCcDB3c2Zn?oc=5\" target=\"_blank\">Amazon’s AI Power Play: Peter DeSantis to Lead Unified AI and Silicon Group as Rohit Prasad Exits</a>  FinancialContent",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
-        },
-        {
-          "title": "Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGtzZF9PcjhQaW41UVN2VEJSTWhRS2FNSFJWd2VyU0hUMmZrZTJXdHdlUGJFaGVUV19MYWtnVjhQdVJIVTdyT2lNMUpBeEVjZVkwZlZibzZpSzVXdVFUZ2MwS3laeXhPNjVHRS1oYy14X1dIU0F2ZDJaNFdPdlEzZ0tMR1ZTR3k2eEcxd295X0w5N28wejhHV1AtSFBTcGRHZksyM2ZfSUI?oc=5",
-          "pubDate": "2025-12-23 16:04:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGtzZF9PcjhQaW41UVN2VEJSTWhRS2FNSFJWd2VyU0hUMmZrZTJXdHdlUGJFaGVUV19MYWtnVjhQdVJIVTdyT2lNMUpBeEVjZVkwZlZibzZpSzVXdVFUZ2MwS3laeXhPNjVHRS1oYy14X1dIU0F2ZDJaNFdPdlEzZ0tMR1ZTR3k2eEcxd295X0w5N28wejhHV1AtSFBTcGRHZksyM2ZfSUI?oc=5\" target=\"_blank\">Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
-        },
-        {
-          "title": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies - About Amazon",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
-          "pubDate": "2025-11-24 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5\" target=\"_blank\">Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies</a>  About Amazon",
           "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+        },
+        {
+          "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation | Amazon Web Services - Amazon Web Services",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYlhsdHRZRG9ud21iTnBRVU5UQnBwdmhuN3o3ZVBvNzhMQS0xTXVJdEZmaTUwR09WS0NvalJxTDBZQmRBQk0xMTliTTNOR21xbWNqM2NZSDVweGR6cWVVNTBRZmt6ME5TU29xQXhnZzVnVldQZVctdGVkNy1QM2Zab3JvOE84bUdpOWhKXzA2VDJfcmJWOE1xWlN3dU5CYUs2Ujgxc2F4bGZvZUJNeVlnZTlRLXNCWkRub2oxdjE2M0NLZw?oc=5",
+          "pubDate": "2025-12-24 17:26:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYlhsdHRZRG9ud21iTnBRVU5UQnBwdmhuN3o3ZVBvNzhMQS0xTXVJdEZmaTUwR09WS0NvalJxTDBZQmRBQk0xMTliTTNOR21xbWNqM2NZSDVweGR6cWVVNTBRZmt6ME5TU29xQXhnZzVnVldQZVctdGVkNy1QM2Zab3JvOE84bUdpOWhKXzA2VDJfcmJWOE1xWlN3dU5CYUs2Ujgxc2F4bGZvZUJNeVlnZTlRLXNCWkRub2oxdjE2M0NLZw?oc=5\" target=\"_blank\">Programmatically creating an IDP solution with Amazon Bedrock Data Automation | Amazon Web Services</a>  Amazon Web Services",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
         }
       ]
     },
@@ -219,11 +219,11 @@
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
-          "title": "Llama Queen, Anyone? Molino Library Hosting Mug Swap - NorthEscambia.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjVSSjdhRVdOSkRqMUR5MS1nOXFlc0F3MjdJX3ZDeDd5ZDN0ajdHM3I1eHlaQVhBeURicnRDbkxxRnhudkpobWRnUFpiNFFodFc3Sjd5cEZqRTk0ZDV6VktKRGpqb2xGS2FkUm1ucmVhZ1h5c3M3b2lGZzM4Mk5QalFfcTJXV2tvczVuUmZPRng?oc=5",
-          "pubDate": "2025-12-27 06:24:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjVSSjdhRVdOSkRqMUR5MS1nOXFlc0F3MjdJX3ZDeDd5ZDN0ajdHM3I1eHlaQVhBeURicnRDbkxxRnhudkpobWRnUFpiNFFodFc3Sjd5cEZqRTk0ZDV6VktKRGpqb2xGS2FkUm1ucmVhZ1h5c3M3b2lGZzM4Mk5QalFfcTJXV2tvczVuUmZPRng?oc=5\" target=\"_blank\">Llama Queen, Anyone? Molino Library Hosting Mug Swap</a>  NorthEscambia.com",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "title": "Injured veterans say Meta's AI-powered glasses are a 'gamechanger' for people with disabilities - as it allows them to send texts and get directions by just using their voice - Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmFTbHBuV2hlYnRWX0xYQnVwbHg3cF9uRmJPYmFzQU5UNEEwMXU4QzFhdDRWOUZobkJnc19kWHlkR1c4ZG9nRG43RWVBQVNrVTNOWExGU05WbVdDa2ZoeW9jTHVHVjU3bXhsZVZGRlRPaHZoQW5ydjhycmlOdWtxaXJ1aTNsOEFtWWNaSUw4M0xBY2ZaeHVhaWhB0gGfAUFVX3lxTE1wTWFRYkN2ai1yVWUyYW43WVNkVi1mUVJuM3VyUmhpSTFqcXp4TjRDUXdaa1lwQnhNcEJOX1BLTDlyZERJd0JDVnV3UFkyd09WVXpYUzc0cHcyY2NMd291TFpKMEtPSWpFNFdYcnNxRk5FYjFSSHQ1XzZxSUtVSFBHd1BKLUYzbUE2Vk02VEZGSUtCT19jVDRsSUIxdlVRSQ?oc=5",
+          "pubDate": "2025-12-29 11:45:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmFTbHBuV2hlYnRWX0xYQnVwbHg3cF9uRmJPYmFzQU5UNEEwMXU4QzFhdDRWOUZobkJnc19kWHlkR1c4ZG9nRG43RWVBQVNrVTNOWExGU05WbVdDa2ZoeW9jTHVHVjU3bXhsZVZGRlRPaHZoQW5ydjhycmlOdWtxaXJ1aTNsOEFtWWNaSUw4M0xBY2ZaeHVhaWhB0gGfAUFVX3lxTE1wTWFRYkN2ai1yVWUyYW43WVNkVi1mUVJuM3VyUmhpSTFqcXp4TjRDUXdaa1lwQnhNcEJOX1BLTDlyZERJd0JDVnV3UFkyd09WVXpYUzc0cHcyY2NMd291TFpKMEtPSWpFNFdYcnNxRk5FYjFSSHQ1XzZxSUtVSFBHd1BKLUYzbUE2Vk02VEZGSUtCT19jVDRsSUIxdlVRSQ?oc=5\" target=\"_blank\">Injured veterans say Meta's AI-powered glasses are a 'gamechanger' for people with disabilities - as it allows them to send texts and get directions by just using their voice</a>  Daily Mail",
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "Meta AI bans are impacting SoCal business owners - Spectrum News",
@@ -244,7 +244,7 @@
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQby0xbUZpTGpqVVRYc2xRSGN3TDBOSFdKV1RBU1RrVkMtUi13ZFhSVVFjU28xYWZLaG13dHEtSjdnbTBISDdaV3J1RjVUTl90MVBwRTdOWmYzRGQtUTQ4U0lNcVhQbHNGTlQyT3N2VGN3M3pXdi1XcVFmS0FHa0lWdllncHRDSW4wUTJQaHU5QThKTjhTdVBhanRsalI2X09aMEZuUnlFVjk0WUVDcURwSHJDYnh1NlplVTBwV3NMQnlmZTZrY2RHOW90ZTE3VUg3aktjS0hIRDlQSHd20gHwAUFVX3lxTFBYWlU0TmEtNV9xRG14YzZuOGNaOTlxR1AyY3c0TzRsTUtwMVo0Zl9IWlpQZXRlZ1dnYlRiOUREdENRT25yekFZM0ItTm5YaUVjVFRzU2dXTkhlVTRQTXlLWkdVZzFlbnlNVGt3clN0bDUyaUpvYUx4R1A0NEdHblFNUHJCdnJMbllXbU5fQ0t5bTJaSnlZaHM0Tkx0SDJuZXhsZi0wZk80UlEzUENrMFl4cTFac29nbTZjUHUtR2tBeVl1QXA2dVFwTmZKc2NabDhTckFQa0tHZTNtSlJwOG1NV3M0ZWh1eWZWTXhtU0E4Qg?oc=5",
           "pubDate": "2025-12-24 01:47:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQby0xbUZpTGpqVVRYc2xRSGN3TDBOSFdKV1RBU1RrVkMtUi13ZFhSVVFjU28xYWZLaG13dHEtSjdnbTBISDdaV3J1RjVUTl90MVBwRTdOWmYzRGQtUTQ4U0lNcVhQbHNGTlQyT3N2VGN3M3pXdi1XcVFmS0FHa0lWdllncHRDSW4wUTJQaHU5QThKTjhTdVBhanRsalI2X09aMEZuUnlFVjk0WUVDcURwSHJDYnh1NlplVTBwV3NMQnlmZTZrY2RHOW90ZTE3VUg3aktjS0hIRDlQSHd20gHwAUFVX3lxTFBYWlU0TmEtNV9xRG14YzZuOGNaOTlxR1AyY3c0TzRsTUtwMVo0Zl9IWlpQZXRlZ1dnYlRiOUREdENRT25yekFZM0ItTm5YaUVjVFRzU2dXTkhlVTRQTXlLWkdVZzFlbnlNVGt3clN0bDUyaUpvYUx4R1A0NEdHblFNUHJCdnJMbllXbU5fQ0t5bTJaSnlZaHM0Tkx0SDJuZXhsZi0wZk80UlEzUENrMFl4cTFac29nbTZjUHUtR2tBeVl1QXA2dVFwTmZKc2NabDhTckFQa0tHZTNtSlJwOG1NV3M0ZWh1eWZWTXhtU0E4Qg?oc=5\" target=\"_blank\">‘They make it better’: Portland airport welcomes therapy llamas, dogs, to ease holiday travel stress</a>  OregonLive.com",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -253,18 +253,18 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "🚨 GROK EVERYWHERE: XAI IS SPEEDRUNNING THE AI ARMS RACE While the legacy players in Silicon Valley wait for quarterly board approvals, xAI is operating at terminal velocity. The 2025 roadmap reveals a relentless release cycle that kicked off with - x.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTEZDN21oa0FrdDlZd3gzNTEtUnRQX3ItcGtQaXlCN1huX21VZUk5X2NJRWctOUZWQjJZdEJodmIyanBndnN2X2pMcHphWWJxeVQ5Xy1WcWowZUs1dTBvbjRR?oc=5",
-          "pubDate": "2025-12-27 14:37:11",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTEZDN21oa0FrdDlZd3gzNTEtUnRQX3ItcGtQaXlCN1huX21VZUk5X2NJRWctOUZWQjJZdEJodmIyanBndnN2X2pMcHphWWJxeVQ5Xy1WcWowZUs1dTBvbjRR?oc=5\" target=\"_blank\">🚨 GROK EVERYWHERE: XAI IS SPEEDRUNNING THE AI ARMS RACE While the legacy players in Silicon Valley wait for quarterly board approvals, xAI is operating at terminal velocity. The 2025 roadmap reveals a relentless release cycle that kicked off with</a>  x.com",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "title": "Grok Spreads False Claims About Australia's Bondi Beach Shooting - Technobezz",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFI1YlZmbWRsaXhUZXhVZjFWUHpMcDRkZXRFN2U5QVBqOVlnT0tGdnFFQnZDWElFWDJndXN1eDl2Z1dYMlB2Y0JFYm5lRkFMQ2ZLdVBEMVA2NGQxV1lNTkdSUHd2WjVINWRxNnY0R1laNUtiTFk4MHprZ0NwaXVNeXR3SUw2cS1RcGtUbnRFbXdtVkVlOGxZdTE0WXhkamRBVVdRdFZ5cEwzQ1NB?oc=5",
+          "pubDate": "2025-12-30 03:21:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFI1YlZmbWRsaXhUZXhVZjFWUHpMcDRkZXRFN2U5QVBqOVlnT0tGdnFFQnZDWElFWDJndXN1eDl2Z1dYMlB2Y0JFYm5lRkFMQ2ZLdVBEMVA2NGQxV1lNTkdSUHd2WjVINWRxNnY0R1laNUtiTFk4MHprZ0NwaXVNeXR3SUw2cS1RcGtUbnRFbXdtVkVlOGxZdTE0WXhkamRBVVdRdFZ5cEwzQ1NB?oc=5\" target=\"_blank\">Grok Spreads False Claims About Australia's Bondi Beach Shooting</a>  Technobezz",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
-          "title": "ChatGPT loses traffic share as Google's Gemini, xAI's Grok gain ground: New report reveals changing AI landscape - livemint.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0FkMDJIVF9BSnNUeHRSM2l1ZHFXRGNQYy0ydjQ0U3VJTGtDbHp3Vkk4TFNsNmJvaGl4WDUwMWtGeEpWQi05MU5LRU9pVi1oc3lEbXhtU2JsWDc4ejYyaWZBWWNyeTk3Tl9yck5wLXpOZ2p6a3VpUjE4Y283R1RCcUlQS3FvMFpqd2EwTENvbzY5U2EyMFlDSXpwMlVFejVxSkMtMldiRjA5YlR0ajdadXR1X3lRZF9HdHphVTVoUUd5RnNNcThwMlpGSVFKa1BnRUtvWXVMZzhrWldkdEhr0gHkAUFVX3lxTE83TmNITFJWbFRtQVJoS2lnZktmdGNaWkdRWk8yQ1A1Mm1fT0pUNkdCN0xFYWdpbmU5ZmExY3FJTzZTWGFNQjFQdDJoV3VhVHRnbnhZX1hmNHU2eHJxTGZIdW5MNk90aV9OSWFLTERSR3N6cmMwci12QThDRHJXX25rZnNldXJKSkl2UTNVei1ST2IyeXVRWXMtMzAtbHZyVDJQT1VsUXNYaHNWTlh0dUZIWlpaaGgwdGxPSW83eEhoMWxQVmdHeVgwYUd1czZNUEpoSFdYN3NGYkNfVktYZVJEdVdZQQ?oc=5",
-          "pubDate": "2025-12-26 14:41:21",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0FkMDJIVF9BSnNUeHRSM2l1ZHFXRGNQYy0ydjQ0U3VJTGtDbHp3Vkk4TFNsNmJvaGl4WDUwMWtGeEpWQi05MU5LRU9pVi1oc3lEbXhtU2JsWDc4ejYyaWZBWWNyeTk3Tl9yck5wLXpOZ2p6a3VpUjE4Y283R1RCcUlQS3FvMFpqd2EwTENvbzY5U2EyMFlDSXpwMlVFejVxSkMtMldiRjA5YlR0ajdadXR1X3lRZF9HdHphVTVoUUd5RnNNcThwMlpGSVFKa1BnRUtvWXVMZzhrWldkdEhr0gHkAUFVX3lxTE83TmNITFJWbFRtQVJoS2lnZktmdGNaWkdRWk8yQ1A1Mm1fT0pUNkdCN0xFYWdpbmU5ZmExY3FJTzZTWGFNQjFQdDJoV3VhVHRnbnhZX1hmNHU2eHJxTGZIdW5MNk90aV9OSWFLTERSR3N6cmMwci12QThDRHJXX25rZnNldXJKSkl2UTNVei1ST2IyeXVRWXMtMzAtbHZyVDJQT1VsUXNYaHNWTlh0dUZIWlpaaGgwdGxPSW83eEhoMWxQVmdHeVgwYUd1czZNUEpoSFdYN3NGYkNfVktYZVJEdVdZQQ?oc=5\" target=\"_blank\">ChatGPT loses traffic share as Google's Gemini, xAI's Grok gain ground: New report reveals changing AI landscape</a>  livemint.com",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "title": "Elon Musk's xAI integrates Grok into X Chat for real-time encrypted assistance - Technobezz",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVdKbDQ3T3VXRExicXliUVNwRVBfOXlIVzJCRHRRejZkcmVlOGQ4MVpnTzJQSmFTV043UkJmajhTZVJrVDhGV1NWT3BHa2QtN1pQRW1SYm84YjlmRVJpYThOaHllSVM1d1ZVcVl1VVdkN2wtUEtCZTh0N2pwT2k4UGxGbWhZbU1nZmRQRU1lbGxUT0tKUHRqVmhYYmdQay13RkpSZ05XZGVBMWk0?oc=5",
+          "pubDate": "2025-12-30 02:31:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVdKbDQ3T3VXRExicXliUVNwRVBfOXlIVzJCRHRRejZkcmVlOGQ4MVpnTzJQSmFTV043UkJmajhTZVJrVDhGV1NWT3BHa2QtN1pQRW1SYm84YjlmRVJpYThOaHllSVM1d1ZVcVl1VVdkN2wtUEtCZTh0N2pwT2k4UGxGbWhZbU1nZmRQRU1lbGxUT0tKUHRqVmhYYmdQay13RkpSZ05XZGVBMWk0?oc=5\" target=\"_blank\">Elon Musk's xAI integrates Grok into X Chat for real-time encrypted assistance</a>  Technobezz",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
           "title": "Pentagon taps Musk's xAI to boost sensitive government workflows, support military operations - Fox News",
