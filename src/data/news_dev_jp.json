@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-30T18:53:17.374Z",
+  "fetchedAt": "2025-12-31T02:29:39.609Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,13 +11,6 @@
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNeUMyTnJ1dXFoODlVR002NjM2VXNXOG8wakpsMVJqdklQWnRHQU1NM3VEVksyVHJ1TmRqMjgwUlFCbWs0N0ZFazlQN2I2WDNVdmFuNGRfbjNSdDRjZ2F1UUxtcmZ4T0JxbjRscVo1Sk13aU96ZmVIaDZ1UVlMUFNSMEdvOV95ZzAxb1JuQXl5U3lhTDA2VUt0eC1mc1NNM3EtVEVWc3hmOEYxenRta1R6T1dXaktnNnBjcl9Yc19uYWlYVjJVcU03bVZhdGsyNG8yLWY3c3ZXRUFkSjlnQjRNNF8xRExibG9kZ0dDTC0ycUUyTFhWYlRoeFpZWmdubE1wMlpaQjN5QjhOR3hleGlTa0pjbWZRNGo3Q0V1dDYzLWJ6WDRJR082UHA3R28zUzJ5cnhZckVPUjhUVkFPMGZsX053Z01hNnpLZ096QkNrRjBEMVpWZEsybVJUR0NjMTVEQVhQVkxacGkxbTZaTnJ6TUN6X1c1Y2gwMlZXVUY0QVhNa1BzM25ZV2ZpNGc5ZUd6LVp1Q0hmV3pUMnZNNzRTbFRoelphX1NvS1hGMlBZUGNWWTczVGVvS2I0REdoSl9DeWRCWVJOQ1k?oc=5",
           "pubDate": "2025-12-29 16:57:58",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiyANBVV95cUxNeUMyTnJ1dXFoODlVR002NjM2VXNXOG8wakpsMVJqdklQWnRHQU1NM3VEVksyVHJ1TmRqMjgwUlFCbWs0N0ZFazlQN2I2WDNVdmFuNGRfbjNSdDRjZ2F1UUxtcmZ4T0JxbjRscVo1Sk13aU96ZmVIaDZ1UVlMUFNSMEdvOV95ZzAxb1JuQXl5U3lhTDA2VUt0eC1mc1NNM3EtVEVWc3hmOEYxenRta1R6T1dXaktnNnBjcl9Yc19uYWlYVjJVcU03bVZhdGsyNG8yLWY3c3ZXRUFkSjlnQjRNNF8xRExibG9kZ0dDTC0ycUUyTFhWYlRoeFpZWmdubE1wMlpaQjN5QjhOR3hleGlTa0pjbWZRNGo3Q0V1dDYzLWJ6WDRJR082UHA3R28zUzJ5cnhZckVPUjhUVkFPMGZsX053Z01hNnpLZ096QkNrRjBEMVpWZEsybVJUR0NjMTVEQVhQVkxacGkxbTZaTnJ6TUN6X1c1Y2gwMlZXVUY0QVhNa1BzM25ZV2ZpNGc5ZUd6LVp1Q0hmV3pUMnZNNzRTbFRoelphX1NvS1hGMlBZUGNWWTczVGVvS2I0REdoSl9DeWRCWVJOQ1k?oc=5\" target=\"_blank\">OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
-        },
-        {
-          "title": "1PasswordとCursorが連携、AI開発向け安全なシークレット管理を実現 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04RmxWNG9BYzBYenBieGI4ZXBVUmlISl9tbXh4ZDZSMzc0WnJyUEQ0Q25OemswWDNrQTRVQy11VWtuT0YteGVfZ0VBcUxzdw?oc=5",
-          "pubDate": "2025-12-28 07:43:40",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE04RmxWNG9BYzBYenBieGI4ZXBVUmlISl9tbXh4ZDZSMzc0WnJyUEQ0Q25OemswWDNrQTRVQy11VWtuT0YteGVfZ0VBcUxzdw?oc=5\" target=\"_blank\">1PasswordとCursorが連携、AI開発向け安全なシークレット管理を実現</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
@@ -26,6 +19,13 @@
           "pubDate": "2025-12-26 23:04:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5\" target=\"_blank\">「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "Cursor、コードデバッグを支援する「Debug Mode」をリリース - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJNGNkQUdvc1g1N1FlcXdpaHVSdFAxQ0NvenhabFI3ZkVMRzU2a0oxcGFGUWxza3FOS2swV0o4a3VBMXI5NUVzb2JKQ0J0UQ?oc=5",
+          "pubDate": "2025-12-11 04:30:50",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJNGNkQUdvc1g1N1FlcXdpaHVSdFAxQ0NvenhabFI3ZkVMRzU2a0oxcGFGUWxza3FOS2swV0o4a3VBMXI5NUVzb2JKQ0J0UQ?oc=5\" target=\"_blank\">Cursor、コードデバッグを支援する「Debug Mode」をリリース</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
@@ -48,13 +48,6 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot ChatではじめるJavaScript開発 第7回 Copilot Chatでアプリのテストを書く - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSkV4VHg2T3M3ZW8yVklXZW80QlVaY1R3cFNEbk1KdDBhdDBqWTIyRWhWMEdUMmJMM3lYLV9qQzVnckdFNXluajVZVEtMRVRudm1aMzc5UVV4TldXdHVkQ1g3NjRlWmd3TVV2d0MwSlFjQ3pZX09Z0gF8QVVfeXFMTWEzZW1jdHFJQ0dHRGVOWFk0LVp3RmxaM0dNZlpiSThSLVh2OTFfRXdYcFB0M3NJZ2tsUkpXdGsyWUp2YUtSSS1qYUhnczdWSVR5ZVkxZnd0bUxZUFNsSFM3LWlNYWxEZUZzNTl2NkxfdGt4U1BSQzFWdzVIQg?oc=5",
-          "pubDate": "2025-12-26 04:47:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSkV4VHg2T3M3ZW8yVklXZW80QlVaY1R3cFNEbk1KdDBhdDBqWTIyRWhWMEdUMmJMM3lYLV9qQzVnckdFNXluajVZVEtMRVRudm1aMzc5UVV4TldXdHVkQ1g3NjRlWmd3TVV2d0MwSlFjQ3pZX09Z0gF8QVVfeXFMTWEzZW1jdHFJQ0dHRGVOWFk0LVp3RmxaM0dNZlpiSThSLVh2OTFfRXdYcFB0M3NJZ2tsUkpXdGsyWUp2YUtSSS1qYUhnczdWSVR5ZVkxZnd0bUxZUFNsSFM3LWlNYWxEZUZzNTl2NkxfdGt4U1BSQzFWdzVIQg?oc=5\" target=\"_blank\">GitHub Copilot ChatではじめるJavaScript開発 第7回 Copilot Chatでアプリのテストを書く</a>  ｄメニューニュース",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
-        },
-        {
           "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
           "pubDate": "2025-12-25 22:00:00",
@@ -66,21 +59,28 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5",
           "pubDate": "2025-12-23 08:54:53",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5\" target=\"_blank\">GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜</a>  ソフトバンク",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "プランでパブリックプレビュー提供開始 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 02:33:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">プランでパブリックプレビュー提供開始</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+        },
+        {
+          "title": "GitHub Copilot Spacesに新機能、リンク経由で個人スペースの閲覧が可能に - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OZHdiREhsbnF4YjVZTWpzWmRpOWUtMVYxVzJCd01aOUFVVWZBMGlZZkpjR0JhN2l3MW9vMW14c0VIQ3N2b0xINGVZb05Wdw?oc=5",
+          "pubDate": "2025-12-02 23:05:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OZHdiREhsbnF4YjVZTWpzWmRpOWUtMVYxVzJCd01aOUFVVWZBMGlZZkpjR0JhN2l3MW9vMW14c0VIQ3N2b0xINGVZb05Wdw?oc=5\" target=\"_blank\">GitHub Copilot Spacesに新機能、リンク経由で個人スペースの閲覧が可能に</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "GitHub Copilot CLIが機能強化、最新AIモデルの追加やコード検索機能の強化など - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XV3pFTml2SnRESm84NUdIZHBpbVMtY285Q2I2Z1ltdktwWVVYUEhYU0dDbFVrZXU1d1BSeHVqLWd0UFZQdWFqbkpNc2cwUQ?oc=5",
-          "pubDate": "2025-11-20 23:01:34",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XV3pFTml2SnRESm84NUdIZHBpbVMtY285Q2I2Z1ltdktwWVVYUEhYU0dDbFVrZXU1d1BSeHVqLWd0UFZQdWFqbkpNc2cwUQ?oc=5\" target=\"_blank\">GitHub Copilot CLIが機能強化、最新AIモデルの追加やコード検索機能の強化など</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "title": "GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5",
+          "pubDate": "2025-10-29 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5\" target=\"_blank\">GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -117,10 +117,10 @@
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeWdlLUJFUU12QVhhX3QwRnN6ZHY2dUVtXzZOUEM1OE1wWnF2eUlZSFU3LVpFbzhjaFltQloxWEkxM19GaFlrdDEtcnZoYlJUN1BCQmVnNA?oc=5",
-          "pubDate": "2025-08-07 02:16:48",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeWdlLUJFUU12QVhhX3QwRnN6ZHY2dUVtXzZOUEM1OE1wWnF2eUlZSFU3LVpFbzhjaFltQloxWEkxM19GaFlrdDEtcnZoYlJUN1BCQmVnNA?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
+          "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
+          "pubDate": "2025-11-25 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -128,43 +128,7 @@
     {
       "company": "kiro",
       "displayName": "AWS Kiro",
-      "news": [
-        {
-          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
-        },
-        {
-          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
-        },
-        {
-          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
-          "pubDate": "2025-11-29 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
-        },
-        {
-          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
-          "pubDate": "2025-11-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
-        },
-        {
-          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
-          "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
-        }
-      ]
+      "news": []
     },
     {
       "company": "antigravity",
