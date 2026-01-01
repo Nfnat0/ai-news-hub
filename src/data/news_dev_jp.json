@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-01T06:55:36.859Z",
+  "fetchedAt": "2026-01-01T13:09:09.148Z",
   "locale": "jp",
   "companies": [
     {
@@ -9,9 +9,9 @@
         {
           "title": "OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで - MSN",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNeUMyTnJ1dXFoODlVR002NjM2VXNXOG8wakpsMVJqdklQWnRHQU1NM3VEVksyVHJ1TmRqMjgwUlFCbWs0N0ZFazlQN2I2WDNVdmFuNGRfbjNSdDRjZ2F1UUxtcmZ4T0JxbjRscVo1Sk13aU96ZmVIaDZ1UVlMUFNSMEdvOV95ZzAxb1JuQXl5U3lhTDA2VUt0eC1mc1NNM3EtVEVWc3hmOEYxenRta1R6T1dXaktnNnBjcl9Yc19uYWlYVjJVcU03bVZhdGsyNG8yLWY3c3ZXRUFkSjlnQjRNNF8xRExibG9kZ0dDTC0ycUUyTFhWYlRoeFpZWmdubE1wMlpaQjN5QjhOR3hleGlTa0pjbWZRNGo3Q0V1dDYzLWJ6WDRJR082UHA3R28zUzJ5cnhZckVPUjhUVkFPMGZsX053Z01hNnpLZ096QkNrRjBEMVpWZEsybVJUR0NjMTVEQVhQVkxacGkxbTZaTnJ6TUN6X1c1Y2gwMlZXVUY0QVhNa1BzM25ZV2ZpNGc5ZUd6LVp1Q0hmV3pUMnZNNzRTbFRoelphX1NvS1hGMlBZUGNWWTczVGVvS2I0REdoSl9DeWRCWVJOQ1k?oc=5",
-          "pubDate": "2025-12-29 16:57:58",
+          "pubDate": "2025-12-29 16:57:59",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiyANBVV95cUxNeUMyTnJ1dXFoODlVR002NjM2VXNXOG8wakpsMVJqdklQWnRHQU1NM3VEVksyVHJ1TmRqMjgwUlFCbWs0N0ZFazlQN2I2WDNVdmFuNGRfbjNSdDRjZ2F1UUxtcmZ4T0JxbjRscVo1Sk13aU96ZmVIaDZ1UVlMUFNSMEdvOV95ZzAxb1JuQXl5U3lhTDA2VUt0eC1mc1NNM3EtVEVWc3hmOEYxenRta1R6T1dXaktnNnBjcl9Yc19uYWlYVjJVcU03bVZhdGsyNG8yLWY3c3ZXRUFkSjlnQjRNNF8xRExibG9kZ0dDTC0ycUUyTFhWYlRoeFpZWmdubE1wMlpaQjN5QjhOR3hleGlTa0pjbWZRNGo3Q0V1dDYzLWJ6WDRJR082UHA3R28zUzJ5cnhZckVPUjhUVkFPMGZsX053Z01hNnpLZ096QkNrRjBEMVpWZEsybVJUR0NjMTVEQVhQVkxacGkxbTZaTnJ6TUN6X1c1Y2gwMlZXVUY0QVhNa1BzM25ZV2ZpNGc5ZUd6LVp1Q0hmV3pUMnZNNzRTbFRoelphX1NvS1hGMlBZUGNWWTczVGVvS2I0REdoSl9DeWRCWVJOQ1k?oc=5\" target=\"_blank\">OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -130,17 +130,17 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
-        },
-        {
           "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
           "pubDate": "2025-12-05 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+        },
+        {
+          "title": "Kiro autonomous agent の紹介 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9DX3NkQ0Y4ZDRLMTVrclFmcDhKWDU2SjliV2FfV3lrZHphQ1c5Wl9velpCNFU0dzUxQ3FmMTZpM2d5RXZTS0JKeW9aQUdJb0tNWFRIVnpuZk1xUVltXy10TElPam9vdlpzNl9RX0hKdm5KTElkZm5NalZyYw?oc=5\" target=\"_blank\">Kiro autonomous agent の紹介</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
@@ -182,7 +182,7 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5",
           "pubDate": "2025-12-27 05:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5\" target=\"_blank\">Google、Antigravity IDEで企業データへの安全なAI接続機能を実現</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "企業データを Google の新しい Antigravity IDE に接続する - Google Cloud",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5\" target=\"_blank\">無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
