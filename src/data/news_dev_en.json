@@ -1,11 +1,18 @@
 {
-  "fetchedAt": "2026-01-02T21:38:27.054Z",
+  "fetchedAt": "2026-01-03T04:06:48.948Z",
   "locale": "en",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
+        {
+          "title": "Cursor AI review: features, pricing, code quality, and verdict - Cybernews",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5",
+          "pubDate": "2026-01-02 13:12:07",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5\" target=\"_blank\">Cursor AI review: features, pricing, code quality, and verdict</a>  Cybernews",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
         {
           "title": "Meet the 13-year-old and his teen sister vibe coding and competing in Cursor's 24-hour hackathon - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGRINFFNa2NwdzZrTXdwRHI1NmJrcEczMUZseGwxVkplcVlkdGh0Y0hYcGF3MDRDQXBZZ0JLM0RobUZGRXA4eTdtMFcxeGRXenpjbVZTTFB2dnQ1S1d1eTJMaTM2Vk1FNEl3czBQQkZNVC0tMGU4YnZ6TkNSdUxyX3VNUExGODlnTUdnalY1M2ZKVHh4TkhzX1hmY29RUFp4QU1RVnln?oc=5",
@@ -14,31 +21,24 @@
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
-          "title": "CEO of Cursor, the company behind one of the world's most-popular coding agents, warns businesses: Things - Times of India",
+          "title": "CEO of Cursor, the company behind one of the world's most-popular coding agents, warns businesses: Things - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMW1MMG9LU0VjNVQ3YnBldWlwTmRPWVVRRHlhakpRY1cxMnRFYXVrYU1GNlAtWldobkFXUldUbXM1NnBwQnNFcWdyVjNCNG5jaXRzWUxsQWlhdGctTGFrVW5FaWdXTnNzRl9IV2ttUDBCakZRZmpkUjFsYnRfWERzQ245bXNGeGVpVkstWUFwRVN1bnlTdXpPeXhiTkpLX29EQjQzOEtyMXI5amFmRUpFdkpWd2NQMXY3MWtibjZNSEJ5WFVsNEYySEFEQjZ3V2thSHZaU3pBZFVXQ3NIVVU0cU56cE0xQUJZNnZIa1dac242VHp6WWpTcVAyaHNmbGgxSVJUZHc2ZldRVVVBLVBBMFZXUUpFRllBT2UtZDlPaEZFMkFZeDJ1b0E5dmZCd1NxVklaUFRENVRJdVhzUEVxS19Hc3NJdVXSAcwCQVVfeXFMTUQ1RVRaZm44SWFqa2tGRlhjN1JsbDB4N09xdmcyRm1iS0VvNlU3d2NCZlpSRy1RLW1sWGl0XzJfTE84dnlHbUR2ZEVHWUthSXFsOWEzeHNCdnNnTjh1OW82ZXhReWxSUXBfT3NQUS1LTGhnTF9nd1BRTDhCMmxSdmdRbmdrZWduRHVPVWIySGczTVN5eTNJMWZIa1IzWVBCdWhSek1VU3RhTk1aak9kQjFzNzFFcG5IdWpoMmZCU1VKTURwRXpOVEFYSVdhOFB0R1hvcHJ1Q0RkMkNZZ0Y4Q04yV3hzTzhjelJUdVZnaGhsWEJmdGxQUUV6Q0VxYXlxeGtvNVR3STFUZU5UTk1yZHpWUE1oRGpxclhldFk3OE9vT2ZISlBfVFI3c3BVRFYxODdGbDNQR2piT21wZE5YOHZyOFp4TVY4eHZwZms?oc=5",
           "pubDate": "2025-12-29 10:25:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNMW1MMG9LU0VjNVQ3YnBldWlwTmRPWVVRRHlhakpRY1cxMnRFYXVrYU1GNlAtWldobkFXUldUbXM1NnBwQnNFcWdyVjNCNG5jaXRzWUxsQWlhdGctTGFrVW5FaWdXTnNzRl9IV2ttUDBCakZRZmpkUjFsYnRfWERzQ245bXNGeGVpVkstWUFwRVN1bnlTdXpPeXhiTkpLX29EQjQzOEtyMXI5amFmRUpFdkpWd2NQMXY3MWtibjZNSEJ5WFVsNEYySEFEQjZ3V2thSHZaU3pBZFVXQ3NIVVU0cU56cE0xQUJZNnZIa1dac242VHp6WWpTcVAyaHNmbGgxSVJUZHc2ZldRVVVBLVBBMFZXUUpFRllBT2UtZDlPaEZFMkFZeDJ1b0E5dmZCd1NxVklaUFRENVRJdVhzUEVxS19Hc3NJdVXSAcwCQVVfeXFMTUQ1RVRaZm44SWFqa2tGRlhjN1JsbDB4N09xdmcyRm1iS0VvNlU3d2NCZlpSRy1RLW1sWGl0XzJfTE84dnlHbUR2ZEVHWUthSXFsOWEzeHNCdnNnTjh1OW82ZXhReWxSUXBfT3NQUS1LTGhnTF9nd1BRTDhCMmxSdmdRbmdrZWduRHVPVWIySGczTVN5eTNJMWZIa1IzWVBCdWhSek1VU3RhTk1aak9kQjFzNzFFcG5IdWpoMmZCU1VKTURwRXpOVEFYSVdhOFB0R1hvcHJ1Q0RkMkNZZ0Y4Q04yV3hzTzhjelJUdVZnaGhsWEJmdGxQUUV6Q0VxYXlxeGtvNVR3STFUZU5UTk1yZHpWUE1oRGpxclhldFk3OE9vT2ZISlBfVFI3c3BVRFYxODdGbDNQR2piT21wZE5YOHZyOFp4TVY4eHZwZms?oc=5\" target=\"_blank\">CEO of Cursor, the company behind one of the world's most-popular coding agents, warns businesses: Things</a>  Times of India",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNMW1MMG9LU0VjNVQ3YnBldWlwTmRPWVVRRHlhakpRY1cxMnRFYXVrYU1GNlAtWldobkFXUldUbXM1NnBwQnNFcWdyVjNCNG5jaXRzWUxsQWlhdGctTGFrVW5FaWdXTnNzRl9IV2ttUDBCakZRZmpkUjFsYnRfWERzQ245bXNGeGVpVkstWUFwRVN1bnlTdXpPeXhiTkpLX29EQjQzOEtyMXI5amFmRUpFdkpWd2NQMXY3MWtibjZNSEJ5WFVsNEYySEFEQjZ3V2thSHZaU3pBZFVXQ3NIVVU0cU56cE0xQUJZNnZIa1dac242VHp6WWpTcVAyaHNmbGgxSVJUZHc2ZldRVVVBLVBBMFZXUUpFRllBT2UtZDlPaEZFMkFZeDJ1b0E5dmZCd1NxVklaUFRENVRJdVhzUEVxS19Hc3NJdVXSAcwCQVVfeXFMTUQ1RVRaZm44SWFqa2tGRlhjN1JsbDB4N09xdmcyRm1iS0VvNlU3d2NCZlpSRy1RLW1sWGl0XzJfTE84dnlHbUR2ZEVHWUthSXFsOWEzeHNCdnNnTjh1OW82ZXhReWxSUXBfT3NQUS1LTGhnTF9nd1BRTDhCMmxSdmdRbmdrZWduRHVPVWIySGczTVN5eTNJMWZIa1IzWVBCdWhSek1VU3RhTk1aak9kQjFzNzFFcG5IdWpoMmZCU1VKTURwRXpOVEFYSVdhOFB0R1hvcHJ1Q0RkMkNZZ0Y4Q04yV3hzTzhjelJUdVZnaGhsWEJmdGxQUUV6Q0VxYXlxeGtvNVR3STFUZU5UTk1yZHpWUE1oRGpxclhldFk3OE9vT2ZISlBfVFI3c3BVRFYxODdGbDNQR2piT21wZE5YOHZyOFp4TVY4eHZwZms?oc=5\" target=\"_blank\">CEO of Cursor, the company behind one of the world's most-popular coding agents, warns businesses: Things</a>  The Times of India",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+        },
+        {
+          "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
+          "pubDate": "2025-12-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
           "pubDate": "2025-12-11 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Anysphere’s Cursor soars to $29B valuation with $2.3B round led by Accel, Coatue - Tech Funding News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJ0SnRLNnEwVHRMX2puM0dhZTRMTnlGcGxxMDJDYlpfNS0zeXpfSEVMTjlYclNLWkh2eHZINXlLbGpLM2MtYjd6blZONng5R3h4NnVQQ25YUGd0ZW4yd2pkaVlEMXRFSEl4RzJ3UFBiWVlMeTZWbnBHTXRPa19PdHZBdDlzSmdwTUxBc2ZqekQ1aGVZUVJPNjFNWXFvbTIyLVJZUjdCdUNsX25NTFRVdlBhQQ?oc=5",
-          "pubDate": "2025-11-14 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJ0SnRLNnEwVHRMX2puM0dhZTRMTnlGcGxxMDJDYlpfNS0zeXpfSEVMTjlYclNLWkh2eHZINXlLbGpLM2MtYjd6blZONng5R3h4NnVQQ25YUGd0ZW4yd2pkaVlEMXRFSEl4RzJ3UFBiWVlMeTZWbnBHTXRPa19PdHZBdDlzSmdwTUxBc2ZqekQ1aGVZUVJPNjFNWXFvbTIyLVJZUjdCdUNsX25NTFRVdlBhQQ?oc=5\" target=\"_blank\">Anysphere’s Cursor soars to $29B valuation with $2.3B round led by Accel, Coatue</a>  Tech Funding News",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
-          "title": "AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGpHRGdTQ3NTSlBZWHIzWFBRRElRQzh6bnFsTG1Od0RYS0NfU2JCMzFMaWZuSXQtc01vRlY0dFV3bjRPV05mMjR4MWhTMU55d3VTVkRSTU16SnJFdGpPZkVyR21KTVZIZFpTVjFTY3ZsOUc0cnc5R3NCNlFBeC12MFdTX0fSAYoBQVVfeXFMT2pWYURVLXZGR2J5RnkxVWlaakVpZWtMdlFvY0I2MW4xTHZWZ3pZQmwxVjdUbVlsdW1iSHhaRk94cVhvdkx6TmNHYllYQUwtQ054NTlTYWdiMloxTldPcW56WFk3em42cFVLSVE5d2ZVcWpJMWRPbjRVUTFOLTdad2VLVnhxU0ZmMWt3?oc=5",
-          "pubDate": "2025-11-13 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGpHRGdTQ3NTSlBZWHIzWFBRRElRQzh6bnFsTG1Od0RYS0NfU2JCMzFMaWZuSXQtc01vRlY0dFV3bjRPV05mMjR4MWhTMU55d3VTVkRSTU16SnJFdGpPZkVyR21KTVZIZFpTVjFTY3ZsOUc0cnc5R3NCNlFBeC12MFdTX0fSAYoBQVVfeXFMT2pWYURVLXZGR2J5RnkxVWlaakVpZWtMdlFvY0I2MW4xTHZWZ3pZQmwxVjdUbVlsdW1iSHhaRk94cVhvdkx6TmNHYllYQUwtQ054NTlTYWdiMloxTldPcW56WFk3em42cFVLSVE5d2ZVcWpJMWRPbjRVUTFOLTdad2VLVnhxU0ZmMWt3?oc=5\" target=\"_blank\">AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation</a>  CNBC",
           "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         }
       ]
@@ -48,6 +48,13 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub Copilot Adds Persistent Memory for Repository-Level Context - Hackernoon",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5",
+          "pubDate": "2026-01-02 20:02:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5\" target=\"_blank\">GitHub Copilot Adds Persistent Memory for Repository-Level Context</a>  Hackernoon",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+        },
+        {
           "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
           "pubDate": "2025-12-26 18:01:02",
@@ -55,32 +62,25 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
-          "title": "Microsoft previews C++ code editing tools for GitHub Copilot - InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1dHZTY2SkMzWHpIQ2MyZHQxSGV3X1hFZVdTM3RZcENwVU1IaDZjUmZMQ2pHeTR6amJVelA1dF9Pd2hrVHFXRDgyczc5X1ZOM1pLbXg5c21qWktCU0tLQ2YzaEFGN0VWVlhrQW50WGZDaFo5OEdqUDZBdFFBeGpWUDRDdFp1cVBHMW9kNU9fenQwUGIyQlZDWWVCc2lpZ1loTFExanZxdlh1bGtjYk1DY2NZcWlGUQ?oc=5",
-          "pubDate": "2025-12-22 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1dHZTY2SkMzWHpIQ2MyZHQxSGV3X1hFZVdTM3RZcENwVU1IaDZjUmZMQ2pHeTR6amJVelA1dF9Pd2hrVHFXRDgyczc5X1ZOM1pLbXg5c21qWktCU0tLQ2YzaEFGN0VWVlhrQW50WGZDaFo5OEdqUDZBdFFBeGpWUDRDdFp1cVBHMW9kNU9fenQwUGIyQlZDWWVCc2lpZ1loTFExanZxdlh1bGtjYk1DY2NZcWlGUQ?oc=5\" target=\"_blank\">Microsoft previews C++ code editing tools for GitHub Copilot</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "title": "How to use GitHub Copilot Spaces to debug issues faster - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5\" target=\"_blank\">How to use GitHub Copilot Spaces to debug issues faster</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
-          "title": "GitHub Copilot now supports Agent Skills - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUQwZGFGWE1uTlpiUzVxbGlhYnB2LXhHa2o5NDFGZWJhbllSOTZ1VFJrNjdnLTVVX3k0ZFZRQTFoeDdUWmZVeFpyalJlb1VVOTZRQmZ3YjVSRDRNbHktRk9CT1drMEpJRkRYVDZiOE8zdnVxcmE0a0I2aU9ybE9BdktDbmZJVmlsamc?oc=5",
-          "pubDate": "2025-12-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUQwZGFGWE1uTlpiUzVxbGlhYnB2LXhHa2o5NDFGZWJhbllSOTZ1VFJrNjdnLTVVX3k0ZFZRQTFoeDdUWmZVeFpyalJlb1VVOTZRQmZ3YjVSRDRNbHktRk9CT1drMEpJRkRYVDZiOE8zdnVxcmE0a0I2aU9ybE9BdktDbmZJVmlsamc?oc=5\" target=\"_blank\">GitHub Copilot now supports Agent Skills</a>  The GitHub Blog",
+          "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5",
+          "pubDate": "2025-12-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5\" target=\"_blank\">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "GPT-5.2 is now generally available in GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5",
-          "pubDate": "2025-12-17 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5\" target=\"_blank\">GPT-5.2 is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
-        },
-        {
-          "title": "GitHub Copilot Flaw Exposed Private Code in CamoLeak - eSecurity Planet",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMVdvWUF3MGotMGk5RklvMEdJQXJPdEpjb2psaVh2dktnLWJ5N3BhYnc3VS1iQWthX05ScDNoOU10ZnVhUmFMQUxuMk1LcE1mcTV6cEtLMVRsSXRub3p5anhlVng1SjhFVWJqY1owUzQ?oc=5",
-          "pubDate": "2025-10-10 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMVdvWUF3MGotMGk5RklvMEdJQXJPdEpjb2psaVh2dktnLWJ5N3BhYnc3VS1iQWthX05ScDNoOU10ZnVhUmFMQUxuMk1LcE1mcTV6cEtLMVRsSXRub3p5anhlVng1SjhFVWJqY1owUzQ?oc=5\" target=\"_blank\">GitHub Copilot Flaw Exposed Private Code in CamoLeak</a>  eSecurity Planet",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "title": "How to write a great agents.md: Lessons from over 2,500 repositories - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5",
+          "pubDate": "2025-11-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5\" target=\"_blank\">How to write a great agents.md: Lessons from over 2,500 repositories</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         }
       ]
     },
@@ -89,38 +89,38 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "I ditched VS Code and Cursor for Google’s Antigravity, and I am not going back - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVZWUkVSZXpyeFRGZERLTGtCN0tuXzlrRE56MUZ4cHdKYnhfME1pOWN2eEtSOGt0YnQxT3VVbnZUb2VNU0o2aU1VVjA1dW5MVEVXcG1oZ2dxMFVKLVkzSnVpVThPcjlKcmxqS1BXN3VuQmN1ZWVqVlZtSVItX3FqbjBkNkktbDNfMnVGZnB1V2U1TENEeXFMV29qSEZlRnBMTm1HNDRvZG1pc09HLVQxM3RCcFRaUU96cVpCYTR6NU82Y2E1MU9tRC1qZw?oc=5",
+          "pubDate": "2026-01-01 01:45:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVZWUkVSZXpyeFRGZERLTGtCN0tuXzlrRE56MUZ4cHdKYnhfME1pOWN2eEtSOGt0YnQxT3VVbnZUb2VNU0o2aU1VVjA1dW5MVEVXcG1oZ2dxMFVKLVkzSnVpVThPcjlKcmxqS1BXN3VuQmN1ZWVqVlZtSVItX3FqbjBkNkktbDNfMnVGZnB1V2U1TENEeXFMV29qSEZlRnBMTm1HNDRvZG1pc09HLVQxM3RCcFRaUU96cVpCYTR6NU82Y2E1MU9tRC1qZw?oc=5\" target=\"_blank\">I ditched VS Code and Cursor for Google’s Antigravity, and I am not going back</a>  MSN",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "Self-Propagating GlassWorm Weaponizing VS Code Extensions to Attack macOS Users - CybersecurityNews",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFJ4N3lMVFg3OUQ4cXhNM1ZHX1JXenlkNE1aRmdUZHNveThacElMZ1dGTGRoaXBvNHRCYWpNQWN4RFZRZkFqYWs2M0hLLUpCTmkxRk9ZZU5aRnZLMktEVjJWeEVhUzBYV3JHZk9wVUpBTnE2RVRZcm8wQXRNUTZicEFVSdIBiAFBVV95cUxNNERtaUN4cjhpQk1DVWducXRzeTRKOW9LN0ZTY1p1aDEwSTN3azdzOU1pWTZ3dG5pVjRSUjlGUUhUdDNIMjJCX1VLVVdKTVlnOWhJSGFGTXhBZWtodjFRSUp5SHVqemREbndXTGNrM2pRUGRBRFFZQ19GZXVVTGZuUFdEQmhmd0Rv?oc=5",
           "pubDate": "2025-12-31 17:13:38",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObFJ4N3lMVFg3OUQ4cXhNM1ZHX1JXenlkNE1aRmdUZHNveThacElMZ1dGTGRoaXBvNHRCYWpNQWN4RFZRZkFqYWs2M0hLLUpCTmkxRk9ZZU5aRnZLMktEVjJWeEVhUzBYV3JHZk9wVUpBTnE2RVRZcm8wQXRNUTZicEFVSdIBiAFBVV95cUxNNERtaUN4cjhpQk1DVWducXRzeTRKOW9LN0ZTY1p1aDEwSTN3azdzOU1pWTZ3dG5pVjRSUjlGUUhUdDNIMjJCX1VLVVdKTVlnOWhJSGFGTXhBZWtodjFRSUp5SHVqemREbndXTGNrM2pRUGRBRFFZQ19GZXVVTGZuUFdEQmhmd0Rv?oc=5\" target=\"_blank\">Self-Propagating GlassWorm Weaponizing VS Code Extensions to Attack macOS Users</a>  CybersecurityNews",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "Microsoft deprecates IntelliCode for Visual Studio Code - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWZIWThWNWtTenU5MDN6dUNaWTM0cEpQek9UZGlxTkh6ZUNZT0ZrZUFjYWd4dTFxMUpfT2N0QjF1cDR5azIwR0JfYUZCRHFOY0dfNXUxU2MxQlNrWkpGaEVvZzJyX0YzbTdfYWhVZUc2QjJERzFhSlZDV1A1UkhwLVc3UFRYZ2NQbGZEdHVISWtrR0pyVmY5cmJQU25GV2x1RWpxdw?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWZIWThWNWtTenU5MDN6dUNaWTM0cEpQek9UZGlxTkh6ZUNZT0ZrZUFjYWd4dTFxMUpfT2N0QjF1cDR5azIwR0JfYUZCRHFOY0dfNXUxU2MxQlNrWkpGaEVvZzJyX0YzbTdfYWhVZUc2QjJERzFhSlZDV1A1UkhwLVc3UFRYZ2NQbGZEdHVISWtrR0pyVmY5cmJQU25GV2x1RWpxdw?oc=5\" target=\"_blank\">Microsoft deprecates IntelliCode for Visual Studio Code</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "VS Code extensions contain trojan-laden fake image - ReversingLabs",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZHJUWDhtSzkzY0JqU1hIVi1RLXRNOTZJbVF4NWVmRHJXSFFRbjlxeUplMGFCUHFMU2VDM2JOZUVaM3piQVhQQ2NfeHhWVE4xOThaMy1hTERkMU5EcERCMDNTV3VCbmt6emxOemNPT2U?oc=5",
           "pubDate": "2025-12-10 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZHJUWDhtSzkzY0JqU1hIVi1RLXRNOTZJbVF4NWVmRHJXSFFRbjlxeUplMGFCUHFMU2VDM2JOZUVaM3piQVhQQ2NfeHhWVE4xOThaMy1hTERkMU5EcERCMDNTV3VCbmt6emxOemNPT2U?oc=5\" target=\"_blank\">VS Code extensions contain trojan-laden fake image</a>  ReversingLabs",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data - The Hacker News",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUZRNDBSa2xrRkJPV0xVSmd2aThzbWloeG5qZmhsWmN4TEZMT0ZVcXpPZVVpRVV6QTBmNjE2QlN0WVdVUURnRkE2LUhIUkZ3UkhqTjJxZDN0XzhrejFBczRjNzJjR0V4SEllSHV1bm9JSTZaXzZZWC0tR0V5NXBtbXhn?oc=5",
           "pubDate": "2025-12-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUZRNDBSa2xrRkJPV0xVSmd2aThzbWloeG5qZmhsWmN4TEZMT0ZVcXpPZVVpRVV6QTBmNjE2QlN0WVdVUURnRkE2LUhIUkZ3UkhqTjJxZDN0XzhrejFBczRjNzJjR0V4SEllSHV1bm9JSTZaXzZZWC0tR0V5NXBtbXhn?oc=5\" target=\"_blank\">Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data</a>  The Hacker News",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "Don’t overlook these open-source editors that outperform VS Code in key ways - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXBrSEZUcjVBYnNnSzNVQnpTVnFkRnBXazI2U2pHYjYtVEpKTFFCY3RHVlRBZ3hyMld6UFNGR0NWUWJvNndQak9BTmtlZ1dma3JPVG13Q0F2WDM1VndBaHdqVkR2SlFrTTdwOFZXT0lUalBGNTBmRTJmS2RQajFlSXRYVDYwbEFUZktFQmFGNC1UT3ZHeUd6QU1vU2ZueGlHZzdjRHRfZ3haVVNQTkRUeHlmYl8?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXBrSEZUcjVBYnNnSzNVQnpTVnFkRnBXazI2U2pHYjYtVEpKTFFCY3RHVlRBZ3hyMld6UFNGR0NWUWJvNndQak9BTmtlZ1dma3JPVG13Q0F2WDM1VndBaHdqVkR2SlFrTTdwOFZXT0lUalBGNTBmRTJmS2RQajFlSXRYVDYwbEFUZktFQmFGNC1UT3ZHeUd6QU1vU2ZueGlHZzdjRHRfZ3haVVNQTkRUeHlmYl8?oc=5\" target=\"_blank\">Don’t overlook these open-source editors that outperform VS Code in key ways</a>  How-To Geek",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -141,7 +141,7 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5",
           "pubDate": "2025-12-10 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU5ydHNXY2p4YjZ3YmZqZUk5UG54dXBwVENnbHY5LWFvRVQ3V0tMN2syWURxNi14ZGRsZHZNZ3d6VzIxUDk1dVNDd1dfeWYycWJsT0tvWDlDNU9kUkgzaUVmdXZuRTVUZWE0d2hPT3VmR0ZJZHY3R1N0elJWcjB2aWFKNGEwLXh5UmVkbjQ2b25KY2tGM2hDZ2Z4TlY?oc=5\" target=\"_blank\">Transform DevOps practice with Kiro AI-powered agents</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
@@ -155,14 +155,14 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5",
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
-          "title": "Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am - Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5",
+          "title": "Everyone’s excited about Google's AI‑powered coding – until your hard drive disappears - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWlDSFB4MjlYX0tmbHJ3eUZ0dkQ1OTQ3Y3FFX2JyMlBobTNQb1B5WjNYeVR3b210MktBQk9oNmRtejJNdTZFMHBFWFZsZmZRTDBlZU1RX1pURXBiaERwOG82M0tKVV9IRDhGaEF1TldOZUxmTnR5SnZxb3lrenoyUWs3NnFQellKWTZqR3YxQjBlTFFiNjhTVVZubnh4TE9naFhrM3FyVHBZOVdSV2l2ZGVsR3FpWTB6Ul9j?oc=5",
           "pubDate": "2025-12-03 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5\" target=\"_blank\">Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am</a>  Tom's Hardware",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWlDSFB4MjlYX0tmbHJ3eUZ0dkQ1OTQ3Y3FFX2JyMlBobTNQb1B5WjNYeVR3b210MktBQk9oNmRtejJNdTZFMHBFWFZsZmZRTDBlZU1RX1pURXBiaERwOG82M0tKVV9IRDhGaEF1TldOZUxmTnR5SnZxb3lrenoyUWs3NnFQellKWTZqR3YxQjBlTFFiNjhTVVZubnh4TE9naFhrM3FyVHBZOVdSV2l2ZGVsR3FpWTB6Ul9j?oc=5\" target=\"_blank\">Everyone’s excited about Google's AI‑powered coding – until your hard drive disappears</a>  TechRadar",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
