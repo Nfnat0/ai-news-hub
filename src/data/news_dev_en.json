@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-01-04T09:40:16.770Z",
+  "fetchedAt": "2026-01-04T15:40:05.722Z",
   "locale": "en",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
-        {
-          "title": "Cursor AI review: features, pricing, code quality, and verdict - Cybernews",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5",
-          "pubDate": "2026-01-02 13:12:07",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5\" target=\"_blank\">Cursor AI review: features, pricing, code quality, and verdict</a>  Cybernews",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
-        },
         {
           "title": "Meet the 13-year-old and his teen sister vibe coding and competing in Cursor's 24-hour hackathon - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGRINFFNa2NwdzZrTXdwRHI1NmJrcEczMUZseGwxVkplcVlkdGh0Y0hYcGF3MDRDQXBZZ0JLM0RobUZGRXA4eTdtMFcxeGRXenpjbVZTTFB2dnQ1S1d1eTJMaTM2Vk1FNEl3czBQQkZNVC0tMGU4YnZ6TkNSdUxyX3VNUExGODlnTUdnalY1M2ZKVHh4TkhzX1hmY29RUFp4QU1RVnln?oc=5",
@@ -28,6 +21,13 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
+          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
+          "pubDate": "2025-12-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
           "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
           "pubDate": "2025-12-19 08:00:00",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
           "pubDate": "2025-12-11 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -50,7 +50,7 @@
         {
           "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
-          "pubDate": "2025-12-26 18:01:02",
+          "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5\" target=\"_blank\">WRAP up your backlog with GitHub Copilot coding agent</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
@@ -98,7 +98,7 @@
         {
           "title": "I ditched VS Code for the open-source VSCodium, and I have no regrets - How-To Geek",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjBwdWpKUl80aUZhbW16XzdEVEIwV0JxMjlxcDhBRDFLMEpfWlU2MU1ZTndZbTVMYnF4eUREbVhOT0w5c1ltVFhMaWo5Y2VjWFdKcjhyWFlYYUczSFZ4YUdTbU1iN2M4RGdiYVcwam9VMWhVbWwxZWZiVVZQMUNQeE1wOFhWeWRMYWdfa2dyaHo0bkxReEk3VkN4Yw?oc=5",
-          "pubDate": "2025-12-26 11:30:00",
+          "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjBwdWpKUl80aUZhbW16XzdEVEIwV0JxMjlxcDhBRDFLMEpfWlU2MU1ZTndZbTVMYnF4eUREbVhOT0w5c1ltVFhMaWo5Y2VjWFdKcjhyWFlYYUczSFZ4YUdTbU1iN2M4RGdiYVcwam9VMWhVbWwxZWZiVVZQMUNQeE1wOFhWeWRMYWdfa2dyaHo0bkxReEk3VkN4Yw?oc=5\" target=\"_blank\">I ditched VS Code for the open-source VSCodium, and I have no regrets</a>  How-To Geek",
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
@@ -175,13 +175,6 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
-          "title": "Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity. - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
@@ -196,7 +189,7 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82YlQ5S3pVaEtfeEdESXZzbnc4dVFZcDloTEtmOHFueFp5bFpRMlhkMUZ5TUMxeU5NaFJCZzdxZ1U0Nm15bnlwMjQ1MzBBeVBVYmpMc2prMnBkVEFad1h4R3JtWDRrNU1weG52MUxHZi1fOEZRd1VfSkpHVF8?oc=5",
           "pubDate": "2025-12-01 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE82YlQ5S3pVaEtfeEdESXZzbnc4dVFZcDloTEtmOHFueFp5bFpRMlhkMUZ5TUMxeU5NaFJCZzdxZ1U0Nm15bnlwMjQ1MzBBeVBVYmpMc2prMnBkVEFad1h4R3JtWDRrNU1weG52MUxHZi1fOEZRd1VfSkpHVF8?oc=5\" target=\"_blank\">Google's vibe coding platform deletes entire drive</a>  theregister.com",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
@@ -204,6 +197,13 @@
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
+          "title": "Start building with Gemini 3 - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbmVlQm44anlQRjJ2LXgtN0V2RHZjTkVvd2FnNlRwcUJHSFRldFdYMlVZREdCbHJCOWUySEtzWWRIYmN3NXZ3S29CVmtHTXdENkt3YmFpYlhIdGRHUDVCc1NDbXV0cTJlLWFXZ0ptQQ?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbmVlQm44anlQRjJ2LXgtN0V2RHZjTkVvd2FnNlRwcUJHSFRldFdYMlVZREdCbHJCOWUySEtzWWRIYmN3NXZ3S29CVmtHTXdENkt3YmFpYlhIdGRHUDVCc1NDbXV0cTJlLWFXZ0ptQQ?oc=5\" target=\"_blank\">Start building with Gemini 3</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         }
       ]
     }
