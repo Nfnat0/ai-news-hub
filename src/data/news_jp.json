@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-04T06:02:26.782Z",
+  "fetchedAt": "2026-01-04T12:16:48.588Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,11 +7,18 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "ChatGPT vs Gemini 覇権争いはどうなる?オープンAIアルトマン氏の野望は「月額課金」ではなく「AIによる科学の発明」 - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xbW1TNDVCTE1jYy1hUjliVUxhbHlMWTJubnAzaThGRG5CQ2VSVm1DczloYWQ4OEstTmRxWVl3Q3VDTTF6aVRUclBEWjNkSkcyVElXTXdlaVNJaUthOHVTUVFIMnNCQ01OLTZUNG5LSXJGRnZwSGZocWhxX3JxNzA?oc=5",
-          "pubDate": "2026-01-03 10:00:43",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xbW1TNDVCTE1jYy1hUjliVUxhbHlMWTJubnAzaThGRG5CQ2VSVm1DczloYWQ4OEstTmRxWVl3Q3VDTTF6aVRUclBEWjNkSkcyVElXTXdlaVNJaUthOHVTUVFIMnNCQ01OLTZUNG5LSXJGRnZwSGZocWhxX3JxNzA?oc=5\" target=\"_blank\">ChatGPT vs Gemini 覇権争いはどうなる?オープンAIアルトマン氏の野望は「月額課金」ではなく「AIによる科学の発明」</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "title": "Android 16とGemini AIを1万5999円で。11インチタブレット「TABWEE T50」が期間限定40％オフ - 4Gamer.net",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ydzVtWjJKTmV5cnhyYXBfX0xhbVduQkk4M0ZleUUyeVVPUmczTHh2U0Jtaml2bklIYW4tbG83MHAyQjhmZEY4VHJMZTlfYzhaQ1NSdWp2M3hmcFFlN0JMYVdwdw?oc=5",
+          "pubDate": "2026-01-04 01:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ydzVtWjJKTmV5cnhyYXBfX0xhbVduQkk4M0ZleUUyeVVPUmczTHh2U0Jtaml2bklIYW4tbG83MHAyQjhmZEY4VHJMZTlfYzhaQ1NSdWp2M3hmcFFlN0JMYVdwdw?oc=5\" target=\"_blank\">Android 16とGemini AIを1万5999円で。11インチタブレット「TABWEE T50」が期間限定40％オフ</a>  4Gamer.net",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "ChatGPTとGemini 覇権争い激化 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5ZFFSX0FveUROQWNzQXZGWkczMllVcHNIRnlQQTM3UmtfSEFwNXNONTRKY1hiTjNiTk9UVm9JeFR6elhNRGtaYkFUOHJQMmxV?oc=5",
+          "pubDate": "2026-01-03 13:04:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5ZFFSX0FveUROQWNzQXZGWkczMllVcHNIRnlQQTM3UmtfSEFwNXNONTRKY1hiTjNiTk9UVm9JeFR6elhNRGtaYkFUOHJQMmxV?oc=5\" target=\"_blank\">ChatGPTとGemini 覇権争い激化</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
           "title": "グーグル「Pixel Watch 4」レビュー：Geminiをジェスチャーで使えるAIスマートウォッチ - Business Insider Japan",
@@ -25,14 +32,7 @@
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NYW9nbk5KNzhWX2pPbWs3UTJCTEhwY1dqeWpKRnZzbFdTc1dwanAzNGVNZTc3cHlrOUR0RmNBWVJpVUx6Y3ZVckNR?oc=5",
           "pubDate": "2025-12-31 03:54:36",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NYW9nbk5KNzhWX2pPbWs3UTJCTEhwY1dqeWpKRnZzbFdTc1dwanAzNGVNZTc3cHlrOUR0RmNBWVJpVUx6Y3ZVckNR?oc=5\" target=\"_blank\">【仕事を効率化】Geminiの活用事例35選を紹介！コツや注意点も解説</a>  株式会社SHIFT AI",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "Gemini 3 Flash のご紹介: 企業向けのインテリジェンスとスピード - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVi1NZ3ZfX2Q0Qm5yMGd0N1ZxaXdGOFlTQzlNaWdaQ2hFRGNILUhzVXkyeEM2blZxbFBWQmN3Nlp4YnFvX05OYjZHdWVOY05nZjVieDBpSnhsSk51RG9wLWhJX0Q4RHI0TmpvQnZDX0twWlBtSDFiWTVvVTlDRlRRZ3RyMDhuUUR3UDRNTHRDU1ZGaW9aemJR?oc=5",
-          "pubDate": "2025-12-24 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVi1NZ3ZfX2Q0Qm5yMGd0N1ZxaXdGOFlTQzlNaWdaQ2hFRGNILUhzVXkyeEM2blZxbFBWQmN3Nlp4YnFvX05OYjZHdWVOY05nZjVieDBpSnhsSk51RG9wLWhJX0Q4RHI0TmpvQnZDX0twWlBtSDFiWTVvVTlDRlRRZ3RyMDhuUUR3UDRNTHRDU1ZGaW9aemJR?oc=5\" target=\"_blank\">Gemini 3 Flash のご紹介: 企業向けのインテリジェンスとスピード</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "【Gemini 3の実力徹底検証】試して分かった…“時短以上の効果を生む”活用術まとめ - ビジネス+IT",
@@ -48,25 +48,32 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI、AIデバイスの製造をFoxconnへ移管 脱中国でベトナム・米国生産を検討（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSFZoVEFZUnlsUHB0THpuMTlXRjF4X05lOEtwWDdPTzJkaUFGZDRhSDk4LWctREp2aHhBR1pMSVJCQUlNaFc1dmN5MjNuTEcxYkhDc1ZBSGRUYjQ1M0xJUHVCeW9hdThESGh0QTY4T2JKZmo5cC1iMVRScGFiYTQ?oc=5",
-          "pubDate": "2026-01-04 00:10:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSFZoVEFZUnlsUHB0THpuMTlXRjF4X05lOEtwWDdPTzJkaUFGZDRhSDk4LWctREp2aHhBR1pMSVJCQUlNaFc1dmN5MjNuTEcxYkhDc1ZBSGRUYjQ1M0xJUHVCeW9hdThESGh0QTY4T2JKZmo5cC1iMVRScGFiYTQ?oc=5\" target=\"_blank\">OpenAI、AIデバイスの製造をFoxconnへ移管 脱中国でベトナム・米国生産を検討（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "title": "OpenAI「スクリーンからの解放」を掲げ、2026年中に新たなAIデバイスを投入か？ - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWkZZaFBxTVhIY19ZNU54ZmVDdjhjRjVETHRUUGZYbGYwQTJwYUgzQmpVRzFmZS1Ec3lBNUpsbmNnSmhkN1FqaWNQT0w3V09BcTRJ?oc=5",
+          "pubDate": "2026-01-04 11:15:59",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWkZZaFBxTVhIY19ZNU54ZmVDdjhjRjVETHRUUGZYbGYwQTJwYUgzQmpVRzFmZS1Ec3lBNUpsbmNnSmhkN1FqaWNQT0w3V09BcTRJ?oc=5\" target=\"_blank\">OpenAI「スクリーンからの解放」を掲げ、2026年中に新たなAIデバイスを投入か？</a>  ビジネス+IT",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "ChatGPT vs Gemini 覇権争いはどうなる?オープンAIアルトマン氏の野望は「月額課金」ではなく「AIによる科学の発明」 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xbW1TNDVCTE1jYy1hUjliVUxhbHlMWTJubnAzaThGRG5CQ2VSVm1DczloYWQ4OEstTmRxWVl3Q3VDTTF6aVRUclBEWjNkSkcyVElXTXdlaVNJaUthOHVTUVFIMnNCQ01OLTZUNG5LSXJGRnZwSGZocWhxX3JxNzA?oc=5",
+          "pubDate": "2026-01-03 21:51:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xbW1TNDVCTE1jYy1hUjliVUxhbHlMWTJubnAzaThGRG5CQ2VSVm1DczloYWQ4OEstTmRxWVl3Q3VDTTF6aVRUclBEWjNkSkcyVElXTXdlaVNJaUthOHVTUVFIMnNCQ01OLTZUNG5LSXJGRnZwSGZocWhxX3JxNzA?oc=5\" target=\"_blank\">ChatGPT vs Gemini 覇権争いはどうなる?オープンAIアルトマン氏の野望は「月額課金」ではなく「AIによる科学の発明」</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "OpenAI Grove に申し込む - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DaUptVGdGUFZPYjJvRkx2b3R2WERPRjVtYmtyUXdJSFJiMzQ0OFIzSnRPZm1adVVyckp2OGtNclJhM3RKSkI5d2xsYmQ0Z0xiMmVXRWtxWQ?oc=5",
+          "pubDate": "2026-01-02 22:02:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DaUptVGdGUFZPYjJvRkx2b3R2WERPRjVtYmtyUXdJSFJiMzQ0OFIzSnRPZm1adVVyckp2OGtNclJhM3RKSkI5d2xsYmQ0Z0xiMmVXRWtxWQ?oc=5\" target=\"_blank\">OpenAI Grove に申し込む</a>  OpenAI",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "ソフトバンクG、OpenAI株式の11%を保有 - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PUUdyYmR3THNPNXdieU5PTVdiMjExSW81R0pBQW9hWTNzcWFQNXc0MnVuQ0taYmFTOC1leGhPN3J1RTZxVTl2U29uUG5nejYtckE?oc=5",
           "pubDate": "2026-01-02 00:10:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PUUdyYmR3THNPNXdieU5PTVdiMjExSW81R0pBQW9hWTNzcWFQNXc0MnVuQ0taYmFTOC1leGhPN3J1RTZxVTl2U29uUG5nejYtckE?oc=5\" target=\"_blank\">ソフトバンクG、OpenAI株式の11%を保有</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
-          "title": "ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話 - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVklSbldydVRwb0VyNlp2ZkpIZ2tYay05TzBaNFpSQk9nbk5NU2dybGhteENsWXRtY2RlRkJBV2R1ZVAwQlpfeGZ6VHJWNWlTSUc2VWVZYnFJODgwUDFPWVdJVWRjbjE5bDktU1l5TUlmY2xxUW00WlFSOVVkUmhwZUduYw?oc=5",
-          "pubDate": "2025-12-29 01:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVklSbldydVRwb0VyNlp2ZkpIZ2tYay05TzBaNFpSQk9nbk5NU2dybGhteENsWXRtY2RlRkJBV2R1ZVAwQlpfeGZ6VHJWNWlTSUc2VWVZYnFJODgwUDFPWVdJVWRjbjE5bDktU1l5TUlmY2xxUW00WlFSOVVkUmhwZUduYw?oc=5\" target=\"_blank\">ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
           "title": "ChatGPT（チャットGPT）とは？無料での始め方と使い方をわかりやすく解説 - AIsmiley",
@@ -74,13 +81,6 @@
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LUEpjRnZnT1FjRXdWNkpTbjlXb0dZSDBfVnFzVmV4aEZHaTdpTWhUZkduX0wybkVKTlptaENLai1hTU9FMmYySHRvQVl6YWEwMUtzMkczRVBmNThkVXVpZFFB?oc=5\" target=\"_blank\">ChatGPT（チャットGPT）とは？無料での始め方と使い方をわかりやすく解説</a>  AIsmiley",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
-        },
-        {
-          "title": "開発者による ChatGPT へのアプリ提出が可能に - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RM2owdWVTNjhRYW5NdWhQN25jY05NQld1WEkwelRPeU5XTDhoZUF6c0ZqdGk5Vzk5YjRhUjNNS2tPVk91am1EVzNieVo5WmlsTTB0dGJJVzRvRnVjZUZfUGxaLWtOR1VvaDlmMG00TFh2emZUbi1IRnJQVW9xUQ?oc=5",
-          "pubDate": "2025-12-17 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1RM2owdWVTNjhRYW5NdWhQN25jY05NQld1WEkwelRPeU5XTDhoZUF6c0ZqdGk5Vzk5YjRhUjNNS2tPVk91am1EVzNieVo5WmlsTTB0dGJJVzRvRnVjZUZfUGxaLWtOR1VvaDlmMG00TFh2emZUbi1IRnJQVW9xUQ?oc=5\" target=\"_blank\">開発者による ChatGPT へのアプリ提出が可能に</a>  OpenAI",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -219,6 +219,13 @@
           "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
+          "title": "独占禁止当局、WhatsAppとMeta AIの独占的地位の濫用に関する捜査を拡大 - firstonline.info",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPQ3E0R1RiVDJPWFRwUUdsQmlERkRINW1rOEM1b3hSeVBpVElDTGdqX0hWLVV4T0RNM1RkbDNGVG9Tc0FQWTk3czItRDZaYTUzWEVBX2xlZXFRRFJxYWlPdjdweUROMmdURTRuc183UGxxai1qNTE5RGFQc29QQ1Y0VUtXVkpwWTA5eWFXYmwwWUVvcUliLUMyb2pzZnBia2x5WlZ4TG5QTUllOW9lQXRhRkNZY08yWlhjRm85VWszc19yQUZxZW9fb2JHaGpiZjVXY2lZS2FXXy1Jc0x0T1F4WFdPNmpoVEo1VXNUblZuU3BYZ1hmdk4tSGJaZkp6NDI3Z3NuaDBPaEJhdXgwZXFzVTFvLWllZWx6akZoZXd3eHctMUljcFBHdW9qYjhMeDhvdDA1WXBmdXE4VXhrODljX3c5SHVEeG9VcWJJWHhZN2dFTDh4UVk0QkxnQjJiNEoycThlQQ?oc=5",
+          "pubDate": "2026-01-02 14:19:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi5AJBVV95cUxPQ3E0R1RiVDJPWFRwUUdsQmlERkRINW1rOEM1b3hSeVBpVElDTGdqX0hWLVV4T0RNM1RkbDNGVG9Tc0FQWTk3czItRDZaYTUzWEVBX2xlZXFRRFJxYWlPdjdweUROMmdURTRuc183UGxxai1qNTE5RGFQc29QQ1Y0VUtXVkpwWTA5eWFXYmwwWUVvcUliLUMyb2pzZnBia2x5WlZ4TG5QTUllOW9lQXRhRkNZY08yWlhjRm85VWszc19yQUZxZW9fb2JHaGpiZjVXY2lZS2FXXy1Jc0x0T1F4WFdPNmpoVEo1VXNUblZuU3BYZ1hmdk4tSGJaZkp6NDI3Z3NuaDBPaEJhdXgwZXFzVTFvLWllZWx6akZoZXd3eHctMUljcFBHdW9qYjhMeDhvdDA1WXBmdXE4VXhrODljX3c5SHVEeG9VcWJJWHhZN2dFTDh4UVk0QkxnQjJiNEoycThlQQ?oc=5\" target=\"_blank\">独占禁止当局、WhatsAppとMeta AIの独占的地位の濫用に関する捜査を拡大</a>  firstonline.info",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+        },
+        {
           "title": "Meta、汎用AIエージェント開発企業「Manus」を買収──Meta AIへの統合を表明 - Ledge.ai",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUk9pTmxFYkV5dXppVkRVVlVzVGlwUklpY1BOMS0zUjUxc3p6WGxyYjN5bFVOeWlISUVUUWdjM1QwWnVQN2pJSWdGZGtaOTJtcGM5TW9QcDU?oc=5",
           "pubDate": "2025-12-31 06:02:17",
@@ -238,13 +245,6 @@
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
-        },
-        {
-          "title": "Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！ - ai-market.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5",
-          "pubDate": "2025-08-21 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5\" target=\"_blank\">Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！</a>  ai-market.jp",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -253,24 +253,10 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "xAI、Grok BusinessとGrok Enterpriseを発表も、Xでの倫理面・著作権対応が急務に - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRU1pyeGhWTDQzeFhUdjhvX29XRmw1MXhaZVJxUUhOeFBERWZBbGhBeTBwek95blRYRkVyQmdsLU5FYkQtMjVsYVBsT05ibF9LTHpz?oc=5",
-          "pubDate": "2026-01-04 00:49:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRU1pyeGhWTDQzeFhUdjhvX29XRmw1MXhaZVJxUUhOeFBERWZBbGhBeTBwek95blRYRkVyQmdsLU5FYkQtMjVsYVBsT05ibF9LTHpz?oc=5\" target=\"_blank\">xAI、Grok BusinessとGrok Enterpriseを発表も、Xでの倫理面・著作権対応が急務に</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
-        },
-        {
           "title": "実在人物写真を性的に加工 Ｘの生成機能、批判集まる―マスク氏のＡＩ「グロック」 - 時事ドットコム",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WeVd0M0pKSkNYaXd0R1JsR0JiekdLOGlNZVJVQW43VkZmdTA0bW1wang4dW03WnZUaUFGdWpLZmpaTXVSZHJ1SFdMRkFSMTVVclo2eU54QlVMVklCWTdMaUx2TQ?oc=5",
           "pubDate": "2026-01-03 22:03:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WeVd0M0pKSkNYaXd0R1JsR0JiekdLOGlNZVJVQW43VkZmdTA0bW1wang4dW03WnZUaUFGdWpLZmpaTXVSZHJ1SFdMRkFSMTVVclo2eU54QlVMVklCWTdMaUx2TQ?oc=5\" target=\"_blank\">実在人物写真を性的に加工 Ｘの生成機能、批判集まる―マスク氏のＡＩ「グロック」</a>  時事ドットコム",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増 - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzBZWVhsWTdXTE1KTDBtcUlLWDl4V3didzg5X21COERwbHJvN1VSSW9HUkd3OGxTQ2xYdkVRR2lSWlRGZFBOVVhSZ1BvSzdYWGZ1NGJuaDZweUNzOUYzNlNWTmU5LXJ6aHFnbDUySnBMX1l0OGdiX0c2NDdCWEpfbnJidzBpSFFr?oc=5",
-          "pubDate": "2026-01-03 04:35:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzBZWVhsWTdXTE1KTDBtcUlLWDl4V3didzg5X21COERwbHJvN1VSSW9HUkd3OGxTQ2xYdkVRR2lSWlRGZFBOVVhSZ1BvSzdYWGZ1NGJuaDZweUNzOUYzNlNWTmU5LXJ6aHFnbDUySnBMX1l0OGdiX0c2NDdCWEpfbnJidzBpSFFr?oc=5\" target=\"_blank\">Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増</a>  Reuters",
           "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
@@ -281,10 +267,24 @@
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
+          "title": "生成AI「Grok」に苦情殺到、子どもの服を脱がすこともできる画像編集機能めぐり（ＡＦＰ＝時事） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSklRRkFWdFVaTEJBMnR2ZXk4U0Q1XzkxTlUzR3c3aU8tTFM3c2pFNmdJYUJTbTFLM2tIc1NIU1VRZEFXcjc2Ums0dUJ4VVRvczlraGtmUlRGcUpWV19FYjBCSVhZTXE2c3VfcGUyMy1CWlg5bGVzS2NGTnJUdmM?oc=5",
+          "pubDate": "2026-01-03 00:49:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSklRRkFWdFVaTEJBMnR2ZXk4U0Q1XzkxTlUzR3c3aU8tTFM3c2pFNmdJYUJTbTFLM2tIc1NIU1VRZEFXcjc2Ums0dUJ4VVRvczlraGtmUlRGcUpWV19FYjBCSVhZTXE2c3VfcGUyMy1CWlg5bGVzS2NGTnJUdmM?oc=5\" target=\"_blank\">生成AI「Grok」に苦情殺到、子どもの服を脱がすこともできる画像編集機能めぐり（ＡＦＰ＝時事）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+        },
+        {
           "title": "生成AI「Grok」に苦情殺到、子どもの服を脱がすこともできる画像編集機能めぐり - AFPBB News",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQk52S2RTdDVVYjN3aTF6ZnRjNVFMYzR3MWhqU3pNY0IzcExvWGsxUGRTdUdWREN5VWs3eTBNSFlzeWxkWHZ5eFhCVFhhNTg3M0HSAVRBVV95cUxQTXJpWFQybzdHT3NjTVRoYUozS2Y2OU1Rb1dISzJuUEJrSmhtQ1dUWk5nTzNDZXg4MjlPUmpwRHVPYktDaGtIX1N1TkhFZzBYLWZCZEM?oc=5",
           "pubDate": "2026-01-03 00:42:14",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQk52S2RTdDVVYjN3aTF6ZnRjNVFMYzR3MWhqU3pNY0IzcExvWGsxUGRTdUdWREN5VWs3eTBNSFlzeWxkWHZ5eFhCVFhhNTg3M0HSAVRBVV95cUxQTXJpWFQybzdHT3NjTVRoYUozS2Y2OU1Rb1dISzJuUEJrSmhtQ1dUWk5nTzNDZXg4MjlPUmpwRHVPYktDaGtIX1N1TkhFZzBYLWZCZEM?oc=5\" target=\"_blank\">生成AI「Grok」に苦情殺到、子どもの服を脱がすこともできる画像編集機能めぐり</a>  AFPBB News",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
+          "title": "マスク氏のAI「Grok」、未成年の性的画像生成－仏政府が違法と非難 - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yV0hIcjlwVkVNOUFkZkx5WldveGZLdmwzYlNodzZPajZzd0lnX3JWNGRmbl9yY0Zua0VPQUI3R3dzRU9KVDRZVTR3QnVNeXI3d2FmWDl5TGRSQkdsQlZ1dTNEWXY2TDQ2T0JEVFNxMUtkLV8tNWFN?oc=5",
+          "pubDate": "2026-01-02 21:07:20",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4yV0hIcjlwVkVNOUFkZkx5WldveGZLdmwzYlNodzZPajZzd0lnX3JWNGRmbl9yY0Zua0VPQUI3R3dzRU9KVDRZVTR3QnVNeXI3d2FmWDl5TGRSQkdsQlZ1dTNEWXY2TDQ2T0JEVFNxMUtkLV8tNWFN?oc=5\" target=\"_blank\">マスク氏のAI「Grok」、未成年の性的画像生成－仏政府が違法と非難</a>  Bloomberg.com",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
