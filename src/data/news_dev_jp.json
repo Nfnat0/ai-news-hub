@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-04T18:49:40.591Z",
+  "fetchedAt": "2026-01-05T02:43:09.606Z",
   "locale": "jp",
   "companies": [
     {
@@ -14,18 +14,18 @@
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
-          "title": "パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供 - Publickey",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nS2FKRWxQX3Jnc2FuaWFVU3IwcHpDSEpfS08yUUVmTWNUR1loamRtQVZHSjg4SVN0TkdTQ050TU03RThVS1JWbjFLb3JXU1RHdkpZUlp5X0lzbjktQWV4bEJXemo5aDZxSjNKSmZseS1sMzJaWmk3QU5YTQ?oc=5",
-          "pubDate": "2025-12-23 13:19:12",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5nS2FKRWxQX3Jnc2FuaWFVU3IwcHpDSEpfS08yUUVmTWNUR1loamRtQVZHSjg4SVN0TkdTQ050TU03RThVS1JWbjFLb3JXU1RHdkpZUlp5X0lzbjktQWV4bEJXemo5aDZxSjNKSmZseS1sMzJaWmk3QU5YTQ?oc=5\" target=\"_blank\">パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "title": "CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5",
+          "pubDate": "2025-12-12 08:02:38",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5\" target=\"_blank\">CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "note、非エンジニアを含む全職種にAIコードエディタ「Cursor」を導入 | note株式会社のプレスリリース - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KSXpjQVJISFptQ2otOXAxREhFZk11Z1ZoV25GcjFCNDFvbzFTbmE0N1gtLUJMT1c3bXZUaTJULVBGVG9yUThiZmlBZ3JZLUM2RzRpclZBdGgzX0g2cGk5LTdFRnNHV2pEZ2c?oc=5",
           "pubDate": "2025-12-08 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5KSXpjQVJISFptQ2otOXAxREhFZk11Z1ZoV25GcjFCNDFvbzFTbmE0N1gtLUJMT1c3bXZUaTJULVBGVG9yUThiZmlBZ3JZLUM2RzRpclZBdGgzX0g2cGk5LTdFRnNHV2pEZ2c?oc=5\" target=\"_blank\">note、非エンジニアを含む全職種にAIコードエディタ「Cursor」を導入 | note株式会社のプレスリリース</a>  PR TIMES",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
@@ -100,7 +100,7 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5\" target=\"_blank\">ワークツリーでの複数バックグラウンドエージェント動作⁠</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "「Visual Studio Code」の2025年11月更新 ～「Agent HQ」を強化 - 窓の杜",
@@ -114,7 +114,7 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
@@ -130,25 +130,25 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
+          "pubDate": "2025-11-29 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
           "title": "Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5",
           "pubDate": "2025-11-21 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5\" target=\"_blank\">Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
           "pubDate": "2025-07-15 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         }
       ]
     },
@@ -178,10 +178,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
-          "title": "Google、Antigravity IDEで企業データへの安全なAI接続機能を実現 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5",
-          "pubDate": "2025-12-27 05:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5\" target=\"_blank\">Google、Antigravity IDEで企業データへの安全なAI接続機能を実現</a>  CodeZine",
+          "title": "「2秒ずつ撮影した動画を自動編集」たった2日でスマホアプリ開発、大学生の最新AI活用 - 朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtU29fVzI0d21tMURrNTVqNHpNZjItTWRjSmU1QmlQQmtjZ1NHaEp4cS0tVm90YjlGdlhGX0xtSUlxQlg2VUdoRWtWaWhZRnJlRTMzOVNKcw?oc=5",
+          "pubDate": "2025-12-27 22:17:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtU29fVzI0d21tMURrNTVqNHpNZjItTWRjSmU1QmlQQmtjZ1NHaEp4cS0tVm90YjlGdlhGX0xtSUlxQlg2VUdoRWtWaWhZRnJlRTMzOVNKcw?oc=5\" target=\"_blank\">「2秒ずつ撮影した動画を自動編集」たった2日でスマホアプリ開発、大学生の最新AI活用</a>  朝日新聞",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
