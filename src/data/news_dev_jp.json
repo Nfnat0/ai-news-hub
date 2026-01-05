@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-05T07:02:07.897Z",
+  "fetchedAt": "2026-01-05T13:13:59.343Z",
   "locale": "jp",
   "companies": [
     {
@@ -14,13 +14,6 @@
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
-          "title": "CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5",
-          "pubDate": "2025-12-12 08:02:38",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kdm9UNFFmWVd1WkthbUJnNHppc282V18td1ZreFF3X0IwS2NzRS16N3l2bnZpbklsX2JPZVBHalZoTFY3SnBfZVJ6NDR0QQ?oc=5\" target=\"_blank\">CursorがBrowser用のビジュアルエディタをリリース、設計とコードを統合</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
           "title": "note、非エンジニアを含む全職種にAIコードエディタ「Cursor」を導入 | note株式会社のプレスリリース - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KSXpjQVJISFptQ2otOXAxREhFZk11Z1ZoV25GcjFCNDFvbzFTbmE0N1gtLUJMT1c3bXZUaTJULVBGVG9yUThiZmlBZ3JZLUM2RzRpclZBdGgzX0g2cGk5LTdFRnNHV2pEZ2c?oc=5",
           "pubDate": "2025-12-08 08:00:00",
@@ -33,6 +26,13 @@
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "AIコーディングツールCursorが評価額293億ドル（約4.4兆円）に、5カ月で3倍成長の異常速度 - thebridge.jp",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0J1QmIyTE9tMy12T2FEWFNnZGFFeGZScC1ianB4V0VXRGxFcnNSd09BaWF4Nmh2UkU5alBsRzlhX2VRZjAyT1E0aXpHWWc4Y3NxSXRQaElqbVJObEhsdEhQMWhpZ0xSa0dXdEZPbkFGN3NSVmhnQ3FZN2VWVUIwdHdyNTNYODFaVnpxSnhLal9VcWthdWk3b3J4UzNya2JRcVhkVWlQLTFmWmc?oc=5",
+          "pubDate": "2025-11-25 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0J1QmIyTE9tMy12T2FEWFNnZGFFeGZScC1ianB4V0VXRGxFcnNSd09BaWF4Nmh2UkU5alBsRzlhX2VRZjAyT1E0aXpHWWc4Y3NxSXRQaElqbVJObEhsdEhQMWhpZ0xSa0dXdEZPbkFGN3NSVmhnQ3FZN2VWVUIwdHdyNTNYODFaVnpxSnhLal9VcWthdWk3b3J4UzNya2JRcVhkVWlQLTFmWmc?oc=5\" target=\"_blank\">AIコーディングツールCursorが評価額293億ドル（約4.4兆円）に、5カ月で3倍成長の異常速度</a>  thebridge.jp",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
@@ -117,10 +117,10 @@
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
-          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
-          "pubDate": "2025-08-08 02:21:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "title": "【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QnZQSWo5NVIwNi1vM0c1OU9YQUw1eTdfS3JKWWM1WGpEd3NyUGhRNy1UWXplaTdqUlF6dWprYkxkbjJ1bkNKNGtXcGJBU3pSbjl1LU83cw?oc=5",
+          "pubDate": "2025-08-07 02:16:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QnZQSWo5NVIwNi1vM0c1OU9YQUw1eTdfS3JKWWM1WGpEd3NyUGhRNy1UWXplaTdqUlF6dWprYkxkbjJ1bkNKNGtXcGJBU3pSbjl1LU83cw?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
