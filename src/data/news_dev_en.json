@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-06T09:48:22.518Z",
+  "fetchedAt": "2026-01-06T15:45:48.364Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor AI review: features, pricing, code quality, and verdict - Cybernews",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5",
-          "pubDate": "2026-01-02 13:12:07",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lczVBSXVXMVJsbFlSemhneFVaNnpwU0xNOThhWEZzMHBEbmtkZzBSQzh5c0xBNlpoWXNxWFI4WDJlRy0zaHAweXhIc3VTSEJKZ242Q3hmWUhQS1Y1?oc=5\" target=\"_blank\">Cursor AI review: features, pricing, code quality, and verdict</a>  Cybernews",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure - gbhackers.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5",
+          "pubDate": "2026-01-06 14:26:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure</a>  gbhackers.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Recommend Malicious App Extension to Developers - CybersecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wWUZ4NXE2cktYd1RiWmIwcmNBUFdpY2puX3gxbEFodjBnbTgxS3M2bWJyMWNKZXNEcmEtRl9KdmpjeUhkTmhISmxhWWx3ZEFISF9iUWlSczdxdlZvTUoxNjFUbWE5Z0FOREd2b9IBckFVX3lxTE9JcVlHNkViUlVrU3I5R3d4SnBHU09ta0ZKWGRXWVNmZWVnOVBsNFBDXzUzczlIY1YyLThucG5UNlRBd05KVmVxMUlWX3FUb0lJdVNWUGtROE45dnZTejBvX2VIM1VWNTNLQTgwRThTMDRydw?oc=5",
+          "pubDate": "2026-01-06 09:45:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wWUZ4NXE2cktYd1RiWmIwcmNBUFdpY2puX3gxbEFodjBnbTgxS3M2bWJyMWNKZXNEcmEtRl9KdmpjeUhkTmhISmxhWWx3ZEFISF9iUWlSczdxdlZvTUoxNjFUbWE5Z0FOREd2b9IBckFVX3lxTE9JcVlHNkViUlVrU3I5R3d4SnBHU09ta0ZKWGRXWVNmZWVnOVBsNFBDXzUzczlIY1YyLThucG5UNlRBd05KVmVxMUlWX3FUb0lJdVNWUGtROE45dnZTejBvX2VIM1VWNTNLQTgwRThTMDRydw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Recommend Malicious App Extension to Developers</a>  CybersecurityNews",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "AI-Assisted Coding with Claude and Cursor - O'Reilly Media",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdqLXZ6ZmdjVDV4Tnk2eVRYUFI4MGVTVGphSDJQejFYLTNQcXM4VC1ISGR4OXdlUTFJRUp3TU1QbkFGaUNFeTNudU4tZk5rVE4wWHhtdjBvRVJZbUxYUDROUkVYRnpvYlZmNnJUZnFaakxIYVlBQm9XR3NvNUk1Y3FQNUVBV08wSGJMaDVJUk9rWEc3UnFB?oc=5",
+          "pubDate": "2026-01-03 11:32:37",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdqLXZ6ZmdjVDV4Tnk2eVRYUFI4MGVTVGphSDJQejFYLTNQcXM4VC1ISGR4OXdlUTFJRUp3TU1QbkFGaUNFeTNudU4tZk5rVE4wWHhtdjBvRVJZbUxYUDROUkVYRnpvYlZmNnJUZnFaakxIYVlBQm9XR3NvNUk1Y3FQNUVBV08wSGJMaDVJUk9rWEc3UnFB?oc=5\" target=\"_blank\">AI-Assisted Coding with Claude and Cursor</a>  O'Reilly Media",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
           "pubDate": "2025-12-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
-          "pubDate": "2025-12-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
-        },
-        {
-          "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
-          "pubDate": "2025-12-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
           "pubDate": "2025-12-11 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -48,6 +48,20 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub Copilot Adds Persistent Memory for Repository-Level Context - Hackernoon",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5",
+          "pubDate": "2026-01-02 20:02:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5\" target=\"_blank\">GitHub Copilot Adds Persistent Memory for Repository-Level Context</a>  Hackernoon",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
+          "title": "Microsoft Brings Symbol-Aware, Multi-File GitHub Copilot Editing to C++ in Visual Studio 2026 Preview - ADTmag",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXBrT2xRZzUxelNtYW54QkdmWXlTODJoeXMtMGNMdGhJSTI3aUZNZ2V0cjJiTzV6SVdNcVN5VzZBSDRFc001bEFXT2EtNGJGYWxZNDI3V3JCQ3pUVFZmN0p3SHg2OHlpeEFER0w0SURLNk42MXB5c0VFUV9LSUQ2VXZrZGs2VWJxYU1qd251QlgtTzY5eUpGOFN0X0o2VzJSa0lxSFVEbk9zWjh5Z1J3REZNQ2xRWW51QzV3?oc=5",
+          "pubDate": "2025-12-30 22:19:36",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXBrT2xRZzUxelNtYW54QkdmWXlTODJoeXMtMGNMdGhJSTI3aUZNZ2V0cjJiTzV6SVdNcVN5VzZBSDRFc001bEFXT2EtNGJGYWxZNDI3V3JCQ3pUVFZmN0p3SHg2OHlpeEFER0w0SURLNk42MXB5c0VFUV9LSUQ2VXZrZGs2VWJxYU1qd251QlgtTzY5eUpGOFN0X0o2VzJSa0lxSFVEbk9zWjh5Z1J3REZNQ2xRWW51QzV3?oc=5\" target=\"_blank\">Microsoft Brings Symbol-Aware, Multi-File GitHub Copilot Editing to C++ in Visual Studio 2026 Preview</a>  ADTmag",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+        },
+        {
           "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
           "pubDate": "2025-12-26 08:00:00",
@@ -55,25 +69,11 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
-          "title": "GPT-5.2 is now generally available in GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5",
-          "pubDate": "2025-12-17 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5\" target=\"_blank\">GPT-5.2 is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
           "title": "How to use GitHub Copilot Spaces to debug issues faster - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5\" target=\"_blank\">How to use GitHub Copilot Spaces to debug issues faster</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
-        },
-        {
-          "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5",
-          "pubDate": "2025-12-03 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ1hWZHQ5VU9JYnZWQkF6clBLSTdoWDBvN29rRVFRZkx0MVlnbUdTUVhLN3JoNlhQUGRHN01YOHQ0elh3MlRPZENBV1cwZktsR0RkZ0xnS0Jyc0tUNGhEOGRGaVVrM3otVlAtLXRYbWdzNVVXdmxnUWQyZE0yN2cxcXJ4LW5Ed09uc0tSMjlfdFFWdGVLNXA3UnJDUGVUV0JQeTVPUFJIX0oydm9YOWZ3RkYtOWRKQjMyYzlWTWhRZEJTTXY5SmloUlVJYlhYRjRScnFxb1pyY0VGclVDcDdYMHF3?oc=5\" target=\"_blank\">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "How to write a great agents.md: Lessons from over 2,500 repositories - The GitHub Blog",
@@ -171,17 +171,24 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure - gbhackers.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5",
+          "pubDate": "2026-01-06 14:26:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure</a>  gbhackers.com",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Google Antigravity Guide 2026 : Plan, Code &amp; Host Apps Online - Geeky Gadgets",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUUxsemFvTWlnX0pfcWwyNWwxN1dZUWJCbzRuaVRuTTZ1YWNxOURxSFZ1d1Q0cjdiNTR0YUFyLUY5TlpvTlJkYkt2eDRSMjRjZWZia2lYWHlBcm9zZXRWMDZFZUFfX1Q4eVE?oc=5",
+          "pubDate": "2026-01-06 12:46:37",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUUxsemFvTWlnX0pfcWwyNWwxN1dZUWJCbzRuaVRuTTZ1YWNxOURxSFZ1d1Q0cjdiNTR0YUFyLUY5TlpvTlJkYkt2eDRSMjRjZWZia2lYWHlBcm9zZXRWMDZFZUFfX1Q4eVE?oc=5\" target=\"_blank\">Google Antigravity Guide 2026 : Plan, Code &amp; Host Apps Online</a>  Geeky Gadgets",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
-          "title": "Google's AI Deletes User's Entire Hard Drive, Issues Groveling Apology: \"I Cannot Express How Sorry I Am\" - Futurism",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVFRdGJaQ2NxaWlweUVrOFc2RS1HY0ZSLUdKSHM3LWFMdUdVTFBOazZSazNyZnoxRUtvRVRZUHZBblFiNGlSdjEwSEY4RHdqZWZlTGlEbkNYaHRuT3NtcmZtMGJ2bjVxVnYwTTkyVnpzbzlVZFVocFNwM1NZQ3ZzTw?oc=5",
-          "pubDate": "2025-12-06 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVFRdGJaQ2NxaWlweUVrOFc2RS1HY0ZSLUdKSHM3LWFMdUdVTFBOazZSazNyZnoxRUtvRVRZUHZBblFiNGlSdjEwSEY4RHdqZWZlTGlEbkNYaHRuT3NtcmZtMGJ2bjVxVnYwTTkyVnpzbzlVZFVocFNwM1NZQ3ZzTw?oc=5\" target=\"_blank\">Google's AI Deletes User's Entire Hard Drive, Issues Groveling Apology: \"I Cannot Express How Sorry I Am\"</a>  Futurism",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
@@ -189,21 +196,14 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
           "pubDate": "2025-12-05 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
-          "title": "Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am - Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5",
-          "pubDate": "2025-12-03 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5\" target=\"_blank\">Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am</a>  Tom's Hardware",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         }
       ]
     }
