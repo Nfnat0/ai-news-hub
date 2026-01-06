@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-06T06:57:09.140Z",
+  "fetchedAt": "2026-01-06T13:11:34.541Z",
   "locale": "jp",
   "companies": [
     {
@@ -48,11 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "Microsoft、「Azure Boards」と「GitHub Copilot」を統合 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVXlza0s2cEczLUNVbVVoV3ZaSnNOMWJ1OWxfMXhpYmhQZHFGVzU3b1RrMFZNaHZmNE1QYW1PZzJlWUhwZnVtM2cxNEVidw?oc=5",
+          "pubDate": "2026-01-06 03:01:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVXlza0s2cEczLUNVbVVoV3ZaSnNOMWJ1OWxfMXhpYmhQZHFGVzU3b1RrMFZNaHZmNE1QYW1PZzJlWUhwZnVtM2cxNEVidw?oc=5\" target=\"_blank\">Microsoft、「Azure Boards」と「GitHub Copilot」を統合</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
           "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
@@ -66,21 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">GitHub、「Copilotメモリ」をGitHub Copilot Pro/Pro+プランでパブリックプレビュー提供開始 ——エージェントをより活用するためにリポジトリのコンテキストを記憶</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "GitHub CopilotがAgent Skills対応を発表 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5",
           "pubDate": "2025-12-19 08:13:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nXzJ5OVlSOFczaHpoamVieGJXa04zTkM2TmZ4ZVphUWMwbFlQbnVSUVVBc04tRTVaLVZoOEV0RjFReGtaVGh4RVR5YWcyQQ?oc=5\" target=\"_blank\">GitHub CopilotがAgent Skills対応を発表</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
-        },
-        {
-          "title": "GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説 - AIsmiley",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5",
-          "pubDate": "2025-03-07 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5\" target=\"_blank\">GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -91,7 +91,7 @@
         {
           "title": "VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5",
-          "pubDate": "2025-12-26 04:00:00",
+          "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5\" target=\"_blank\">VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
@@ -118,9 +118,9 @@
         },
         {
           "title": "【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QnZQSWo5NVIwNi1vM0c1OU9YQUw1eTdfS3JKWWM1WGpEd3NyUGhRNy1UWXplaTdqUlF6dWprYkxkbjJ1bkNKNGtXcGJBU3pSbjl1LU83cw?oc=5",
-          "pubDate": "2025-08-07 02:16:46",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QnZQSWo5NVIwNi1vM0c1OU9YQUw1eTdfS3JKWWM1WGpEd3NyUGhRNy1UWXplaTdqUlF6dWprYkxkbjJ1bkNKNGtXcGJBU3pSbjl1LU83cw?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5",
+          "pubDate": "2025-08-07 02:16:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -148,7 +148,7 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
           "pubDate": "2025-07-15 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         }
       ]
     },
@@ -178,10 +178,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
-          "title": "「2秒ずつ撮影した動画を自動編集」たった2日でスマホアプリ開発、大学生の最新AI活用 - 朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtU29fVzI0d21tMURrNTVqNHpNZjItTWRjSmU1QmlQQmtjZ1NHaEp4cS0tVm90YjlGdlhGX0xtSUlxQlg2VUdoRWtWaWhZRnJlRTMzOVNKcw?oc=5",
-          "pubDate": "2025-12-27 22:17:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtU29fVzI0d21tMURrNTVqNHpNZjItTWRjSmU1QmlQQmtjZ1NHaEp4cS0tVm90YjlGdlhGX0xtSUlxQlg2VUdoRWtWaWhZRnJlRTMzOVNKcw?oc=5\" target=\"_blank\">「2秒ずつ撮影した動画を自動編集」たった2日でスマホアプリ開発、大学生の最新AI活用</a>  朝日新聞",
+          "title": "Google、Antigravity IDEで企業データへの安全なAI接続機能を実現 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5",
+          "pubDate": "2025-12-27 05:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5\" target=\"_blank\">Google、Antigravity IDEで企業データへの安全なAI接続機能を実現</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
