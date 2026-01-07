@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-07T09:50:03.334Z",
+  "fetchedAt": "2026-01-07T15:49:09.580Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor rolls out dynamic context discovery for coding agents - TestingCatalog",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeC14LWtCWlNFeDh5QVpkdUZoWUl6RzJKZGp5bjJZa0hCanRZY1lHbmtUSzZqVmVtSGtCSnNxS3lVQUVoeHl6UTIzV0lrWS1qb1BQdmJET3BRaWhXeG81MmRTQzgxdjJIQzBXUy1hMVo2TmpDRWNWYjVVeGpCdGJGaXF6dE95aUhyeWxqbE9DZGFmZ3Zwak1J?oc=5",
-          "pubDate": "2026-01-06 21:36:10",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeC14LWtCWlNFeDh5QVpkdUZoWUl6RzJKZGp5bjJZa0hCanRZY1lHbmtUSzZqVmVtSGtCSnNxS3lVQUVoeHl6UTIzV0lrWS1qb1BQdmJET3BRaWhXeG81MmRTQzgxdjJIQzBXUy1hMVo2TmpDRWNWYjVVeGpCdGJGaXF6dE95aUhyeWxqbE9DZGFmZ3Zwak1J?oc=5\" target=\"_blank\">Cursor rolls out dynamic context discovery for coding agents</a>  TestingCatalog",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure - gbhackers.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5",
-          "pubDate": "2026-01-06 14:26:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure</a>  gbhackers.com",
+          "title": "AI-Assisted Coding with Claude and Cursor - O'Reilly Media",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdqLXZ6ZmdjVDV4Tnk2eVRYUFI4MGVTVGphSDJQejFYLTNQcXM4VC1ISGR4OXdlUTFJRUp3TU1QbkFGaUNFeTNudU4tZk5rVE4wWHhtdjBvRVJZbUxYUDROUkVYRnpvYlZmNnJUZnFaakxIYVlBQm9XR3NvNUk1Y3FQNUVBV08wSGJMaDVJUk9rWEc3UnFB?oc=5",
+          "pubDate": "2026-01-03 11:32:37",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdqLXZ6ZmdjVDV4Tnk2eVRYUFI4MGVTVGphSDJQejFYLTNQcXM4VC1ISGR4OXdlUTFJRUp3TU1QbkFGaUNFeTNudU4tZk5rVE4wWHhtdjBvRVJZbUxYUDROUkVYRnpvYlZmNnJUZnFaakxIYVlBQm9XR3NvNUk1Y3FQNUVBV08wSGJMaDVJUk9rWEc3UnFB?oc=5\" target=\"_blank\">AI-Assisted Coding with Claude and Cursor</a>  O'Reilly Media",
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Recommend Malicious App Extension to Developers - CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wWUZ4NXE2cktYd1RiWmIwcmNBUFdpY2puX3gxbEFodjBnbTgxS3M2bWJyMWNKZXNEcmEtRl9KdmpjeUhkTmhISmxhWWx3ZEFISF9iUWlSczdxdlZvTUoxNjFUbWE5Z0FOREd2b9IBckFVX3lxTE9JcVlHNkViUlVrU3I5R3d4SnBHU09ta0ZKWGRXWVNmZWVnOVBsNFBDXzUzczlIY1YyLThucG5UNlRBd05KVmVxMUlWX3FUb0lJdVNWUGtROE45dnZTejBvX2VIM1VWNTNLQTgwRThTMDRydw?oc=5",
-          "pubDate": "2026-01-06 09:45:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wWUZ4NXE2cktYd1RiWmIwcmNBUFdpY2puX3gxbEFodjBnbTgxS3M2bWJyMWNKZXNEcmEtRl9KdmpjeUhkTmhISmxhWWx3ZEFISF9iUWlSczdxdlZvTUoxNjFUbWE5Z0FOREd2b9IBckFVX3lxTE9JcVlHNkViUlVrU3I5R3d4SnBHU09ta0ZKWGRXWVNmZWVnOVBsNFBDXzUzczlIY1YyLThucG5UNlRBd05KVmVxMUlWX3FUb0lJdVNWUGtROE45dnZTejBvX2VIM1VWNTNLQTgwRThTMDRydw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Recommend Malicious App Extension to Developers</a>  CybersecurityNews",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
           "pubDate": "2025-12-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "Cursor continues acquisition spree with Graphite deal - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5",
+          "pubDate": "2025-12-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXMzN2FIS0c3YndtNU9tM2VRazBrQkl6aURaX1pFSnpyT1JEamxjeHI4bGotckRjX3lhbHR4VXBodkwyTlRzM2NteWo2ZW5tdVZLaHIwWlVsVHNaSl9oa2xyVFVFUzllSzBtaHhfMk1tMTJQVW1SWEdwNjRobVpFNDVYT0RYZHZCWDNtc29OOGNKdw?oc=5\" target=\"_blank\">Cursor continues acquisition spree with Graphite deal</a>  TechCrunch",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5",
+          "pubDate": "2025-12-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVFTODY4TTYwbEUxV1dNRUEyRTFPTWtiRkFvQ3Y3aGtZeXNjbU81b29vcldZZEFWdHdzSGRMTU1fWmJPMW5DcGVYTUdpNmFYZGpuX0dLbGN5TEhTaXRZZlFXdDRialo0S05neW9SX3Vpd0R6V3ZOemlHSHBzTmNuMjEwdnJaSmI3c1R1WmM5VQ?oc=5\" target=\"_blank\">Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
           "pubDate": "2025-12-11 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -137,13 +137,6 @@
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Introducing Amazon Aurora powers for Kiro - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5",
-          "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa19JUzNKYmgtODFITjNhNnhjY3A2VkI1NmJGbkFqR1E5LVlvOURMVHMwQ3oweHR5WVo1OVltNGNwNl9qMTlTTWN3YmNaZkFmU0lKSGpFNGtlUnM0SE9LQWxESGJJbnJfN0ZLWHl3NjFCcW5yNE1IZHRwOHF0UGRCZnVxSXhPbEk?oc=5\" target=\"_blank\">Introducing Amazon Aurora powers for Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
-        },
-        {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
           "pubDate": "2025-12-02 08:00:00",
@@ -156,6 +149,13 @@
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
           "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+        },
+        {
+          "title": "AWS launches Kiro into general availability with team features and CLI support - SiliconANGLE",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGVyZkVFWDZ2YnJNNGhLeXRxX0FWaHE0MW5ZU0xJRi1sNzRGU0JiODZBTG9mTzVJUHM2Ml9heFFJMDhZN2F0eXBqbnE5bUdKTXNUSU9kanJZRGFmeDFSUnVGM1FYZW9FWUVhMTN0STRadnk3bkhHckh1N1pDNEJsMG5HX2VTS193LXVwQXRjcGhrWVZQcTZtVGJndlpiZTFHSUhN?oc=5",
+          "pubDate": "2025-11-17 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGVyZkVFWDZ2YnJNNGhLeXRxX0FWaHE0MW5ZU0xJRi1sNzRGU0JiODZBTG9mTzVJUHM2Ml9heFFJMDhZN2F0eXBqbnE5bUdKTXNUSU9kanJZRGFmeDFSUnVGM1FYZW9FWUVhMTN0STRadnk3bkhHckh1N1pDNEJsMG5HX2VTS193LXVwQXRjcGhrWVZQcTZtVGJndlpiZTFHSUhN?oc=5\" target=\"_blank\">AWS launches Kiro into general availability with team features and CLI support</a>  SiliconANGLE",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
