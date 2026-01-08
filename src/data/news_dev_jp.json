@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-07T18:55:48.306Z",
+  "fetchedAt": "2026-01-08T02:31:32.835Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで - MSN",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQWklVYmVScUdmSEY5djRsVU1rQ1lNNS1DM1JPMGxreEd2Q041VVFYekRKZFBCVkhBMGE1UjZZZjhCM2xSZ1AwSjhWRGlFSUcwR3FoR1RXS01ETTVYeFp2NlRUakZhM2x6OFZGeDlBZTJIblE1ejBySE56akNKdVp2eVlRaERTWVJVOW93TXdwbXRTTXMxZEVpZm9fRC1Uc2xzYVBlQ2lVMU1wYnk1dlc0VGNmUU45dDZmcnlIZjdfTEFKUGR3ckl3R05LMGJ3MzlHZG5hNFZWUUxiMzQ4aWRaenVXV3JGbDRvQjh2dV9oZWNvSURraTdWeE1kdUFCMjdxTGdOYUY4MWFleW01alFha0Qza0l5OFNzMXQ5dndvQ1BzYUhwVXBJQVVWa1d6NWI2SzRiSC04YVh2SFlfdlp5d3VLVVozNjMwQWxzWG9Rc1g0WWdUVU1pX3YtcGk4THd2RUtadXBvWXpCMHJaaXFrSU0xSXdjbmtpVzBqVUxXYVFacFppWHlHWVU5ZmxFVmZQc21Pdw?oc=5",
+          "pubDate": "2026-01-08 00:38:18",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQWklVYmVScUdmSEY5djRsVU1rQ1lNNS1DM1JPMGxreEd2Q041VVFYekRKZFBCVkhBMGE1UjZZZjhCM2xSZ1AwSjhWRGlFSUcwR3FoR1RXS01ETTVYeFp2NlRUakZhM2x6OFZGeDlBZTJIblE1ejBySE56akNKdVp2eVlRaERTWVJVOW93TXdwbXRTTXMxZEVpZm9fRC1Uc2xzYVBlQ2lVMU1wYnk1dlc0VGNmUU45dDZmcnlIZjdfTEFKUGR3ckl3R05LMGJ3MzlHZG5hNFZWUUxiMzQ4aWRaenVXV3JGbDRvQjh2dV9oZWNvSURraTdWeE1kdUFCMjdxTGdOYUY4MWFleW01alFha0Qza0l5OFNzMXQ5dndvQ1BzYUhwVXBJQVVWa1d6NWI2SzRiSC04YVh2SFlfdlp5d3VLVVozNjMwQWxzWG9Rc1g0WWdUVU1pX3YtcGk4THd2RUtadXBvWXpCMHJaaXFrSU0xSXdjbmtpVzBqVUxXYVFacFppWHlHWVU5ZmxFVmZQc21Pdw?oc=5\" target=\"_blank\">OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで</a>  MSN",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5",
           "pubDate": "2025-12-27 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5\" target=\"_blank\">「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "AIコーディングツールCursorが評価額293億ドル（約4.4兆円）に、5カ月で3倍成長の異常速度 - thebridge.jp",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0J1QmIyTE9tMy12T2FEWFNnZGFFeGZScC1ianB4V0VXRGxFcnNSd09BaWF4Nmh2UkU5alBsRzlhX2VRZjAyT1E0aXpHWWc4Y3NxSXRQaElqbVJObEhsdEhQMWhpZ0xSa0dXdEZPbkFGN3NSVmhnQ3FZN2VWVUIwdHdyNTNYODFaVnpxSnhLal9VcWthdWk3b3J4UzNya2JRcVhkVWlQLTFmWmc?oc=5",
-          "pubDate": "2025-11-25 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0J1QmIyTE9tMy12T2FEWFNnZGFFeGZScC1ianB4V0VXRGxFcnNSd09BaWF4Nmh2UkU5alBsRzlhX2VRZjAyT1E0aXpHWWc4Y3NxSXRQaElqbVJObEhsdEhQMWhpZ0xSa0dXdEZPbkFGN3NSVmhnQ3FZN2VWVUIwdHdyNTNYODFaVnpxSnhLal9VcWthdWk3b3J4UzNya2JRcVhkVWlQLTFmWmc?oc=5\" target=\"_blank\">AIコーディングツールCursorが評価額293億ドル（約4.4兆円）に、5カ月で3倍成長の異常速度</a>  thebridge.jp",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン) - Mercari",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5\" target=\"_blank\">AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン)</a>  Mercari",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -117,10 +117,10 @@
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
-          "pubDate": "2025-08-08 02:21:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "title": "【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5",
+          "pubDate": "2025-08-07 02:16:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         }
       ]
@@ -175,14 +175,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5",
           "pubDate": "2026-01-07 09:05:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5\" target=\"_blank\">大学生の最新AI活用術 たった2日でスマホアプリ開発「2秒ずつ撮影した動画を自動編集」（朝日新聞デジタルマガジン＆［and］）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
-          "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5",
-          "pubDate": "2026-01-07 03:52:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5\" target=\"_blank\">VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ASCII.jp",
@@ -190,6 +183,13 @@
           "pubDate": "2026-01-02 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Google、Antigravity IDEで企業データへの安全なAI接続機能を実現 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5",
+          "pubDate": "2025-12-27 05:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5\" target=\"_blank\">Google、Antigravity IDEで企業データへの安全なAI接続機能を実現</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5\" target=\"_blank\">無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
