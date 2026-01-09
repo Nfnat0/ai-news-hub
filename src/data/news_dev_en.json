@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-01-08T21:43:13.860Z",
+  "fetchedAt": "2026-01-09T04:14:52.038Z",
   "locale": "en",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
-        {
-          "title": "EPAM and Cursor partner to scale AI-native development teams By Investing.com - Investing.com South Africa",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS0JNYnBSMXhpTnNoVTN6c0NpQWViRS1jSG82UmpySUNMUzJJQjFpOEFrTkFJdVZrZkY1T09QdFIyV1M5cWRTbFBEV0Y0ZURWNUVtY09ta1g2bGRlYUxKSzV1NHgxQjh1a25tLTNDSExHcTUzRTY3SE9KZHF6SkVoazJUU0pIQzdQWnZtQjRZQUhkM2NieWpBRlNFOXAxd0toa0RuRU1jQV80LUxVQWhYOWlPUVRDdw?oc=5",
-          "pubDate": "2026-01-08 13:27:08",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS0JNYnBSMXhpTnNoVTN6c0NpQWViRS1jSG82UmpySUNMUzJJQjFpOEFrTkFJdVZrZkY1T09QdFIyV1M5cWRTbFBEV0Y0ZURWNUVtY09ta1g2bGRlYUxKSzV1NHgxQjh1a25tLTNDSExHcTUzRTY3SE9KZHF6SkVoazJUU0pIQzdQWnZtQjRZQUhkM2NieWpBRlNFOXAxd0toa0RuRU1jQV80LUxVQWhYOWlPUVRDdw?oc=5\" target=\"_blank\">EPAM and Cursor partner to scale AI-native development teams By Investing.com</a>  Investing.com South Africa",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
         {
           "title": "EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises - PR Newswire",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5",
@@ -21,17 +14,10 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "Sualeh Asif - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZHFmMlJaMDJEbjlKYV9jV1piaWxTZWNiTVZXYTNNekNnRHNUMktpdldHVGh6aUFSSUl1RzV2cHQ1SmlOMmIxRzdBVExXcC1WVjBWUDZB?oc=5",
-          "pubDate": "2026-01-08 11:38:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lZHFmMlJaMDJEbjlKYV9jV1piaWxTZWNiTVZXYTNNekNnRHNUMktpdldHVGh6aUFSSUl1RzV2cHQ1SmlOMmIxRzdBVExXcC1WVjBWUDZB?oc=5\" target=\"_blank\">Sualeh Asif</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "Vulnerability in Cursor AI Editor Allows PC Takeover - ForkLog",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGJHR3hsX0U3bHhmY2FXa0tKcmJxeXFrNG55M2JKbkUzZkp6SXBpMkxGVjNfZEtzR3hXVmp5V2Z0S2d2OElBZ0N1NEhLc29wTUUyaEdoRlhqOUhHVEN2LXdDUjk5VWQ0eTdScXhuSExMZVZzUzZOQWRpdEpyQ09wTS16ZTE0Y1HSAYcBQVVfeXFMT0hiR0d4bF9FN2x4ZmNhV2tLSnJicXlxazRueTNiSm5FM2ZKeklwaTJMRlYzX2RLc0d4V1ZqeVdmdEtndjhJQWdDdTRIS3NvcE1FMmhHaEZYajlIR1RDdi13Q1I5OVVkNHk3UnF4bkhMTGVWc1M2TkFkaXRKckNPcE0temUxNGNR?oc=5",
-          "pubDate": "2026-01-08 06:58:18",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGJHR3hsX0U3bHhmY2FXa0tKcmJxeXFrNG55M2JKbkUzZkp6SXBpMkxGVjNfZEtzR3hXVmp5V2Z0S2d2OElBZ0N1NEhLc29wTUUyaEdoRlhqOUhHVEN2LXdDUjk5VWQ0eTdScXhuSExMZVZzUzZOQWRpdEpyQ09wTS16ZTE0Y1HSAYcBQVVfeXFMT0hiR0d4bF9FN2x4ZmNhV2tLSnJicXlxazRueTNiSm5FM2ZKeklwaTJMRlYzX2RLc0d4V1ZqeVdmdEtndjhJQWdDdTRIS3NvcE1FMmhHaEZYajlIR1RDdi13Q1I5OVVkNHk3UnF4bkhMTGVWc1M2TkFkaXRKckNPcE0temUxNGNR?oc=5\" target=\"_blank\">Vulnerability in Cursor AI Editor Allows PC Takeover</a>  ForkLog",
+          "title": "Cursor vs Google Antigravity: Which AI Coding Tool Is Better? - Cybernews",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5",
+          "pubDate": "2026-01-08 07:18:27",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5\" target=\"_blank\">Cursor vs Google Antigravity: Which AI Coding Tool Is Better?</a>  Cybernews",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
@@ -39,7 +25,21 @@
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTQyQkhQdTd1Vk9mOV84WThPNzhEclUxWE5kUlhLYXBOQk5UTDdJa1Qxc000ZERNRmE4NHdfNFJ2T2tBZ2ZLalozdWNLME0xbUVxUElHWkFDV1FNdklmVDVBb0FfclRnZUl0bU01ZEFqMjJQRmJscHg4SmNuNThjaU4yZFdXNjBmbkl6eHY0ZVNIOVBtM2FIZ2R0TjZITVhpQ1JMVGNlSWJsU3lndUpyRG55bmdkZHNCbllOcEtXV1UwTTRfbzhoNUN5SWt3TTRQQ0R2ZzdHaS1GX3dBZUVUN2Z5UWl0elR4Tk5KVnpHRi1JZ01GMjdWb1l6TjVtUVVvb1E?oc=5",
           "pubDate": "2026-01-07 13:46:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTQyQkhQdTd1Vk9mOV84WThPNzhEclUxWE5kUlhLYXBOQk5UTDdJa1Qxc000ZERNRmE4NHdfNFJ2T2tBZ2ZLalozdWNLME0xbUVxUElHWkFDV1FNdklmVDVBb0FfclRnZUl0bU01ZEFqMjJQRmJscHg4SmNuNThjaU4yZFdXNjBmbkl6eHY0ZVNIOVBtM2FIZ2R0TjZITVhpQ1JMVGNlSWJsU3lndUpyRG55bmdkZHNCbllOcEtXV1UwTTRfbzhoNUN5SWt3TTRQQ0R2ZzdHaS1GX3dBZUVUN2Z5UWl0elR4Tk5KVnpHRi1JZ01GMjdWb1l6TjVtUVVvb1E?oc=5\" target=\"_blank\">Building an Enterprise SDLC AI Agent: CodeMie, Cursor, AWS, and n8n Compared</a>  EPAM",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
+          "pubDate": "2025-12-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
           "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
+          "pubDate": "2025-12-11 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -171,18 +171,25 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "Cursor vs Google Antigravity: Which AI Coding Tool Is Better? - Cybernews",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5",
+          "pubDate": "2026-01-08 07:18:27",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5\" target=\"_blank\">Cursor vs Google Antigravity: Which AI Coding Tool Is Better?</a>  Cybernews",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
           "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure - gbhackers.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5",
           "pubDate": "2026-01-06 14:26:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure</a>  gbhackers.com",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity. - blog.google",
@@ -192,18 +199,11 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
-          "title": "Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am - Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5",
-          "pubDate": "2025-12-03 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQUQ0azNIMjdackhJZ3otV0pzVXY0VHRIX2w2NVktamZDNUhtamF6dVFLZ1prekpoRXhvdXVVVTktSksybFZlMVV4RnRFQXFLSFVGa2NwSUEwN2JFYmJQcGZqLUlwWEI5SFJmTGw4OFBtbldiMm90T1ItcGMtQTJLSm9yNEpUWDdpMXdpYUJtMmFWdlB1Q2VNZzdiUzlIdmtfV0VNLUN6bUpWRmtYLU82aEZkbUVKTEJndHZjRUNTR3BnUGVIRWdHTWVtYnlNamhFd1Q5dEJZVTRITVQ0NXU3YU55RW5ETVJPSThxbjYzUFpxcm5QMVZRZ0F1b0xjUzBpa01CbDREdkREdWdEeElGb2Y3RWdIN014eTUzM0xOYlM1cEJaNkhQcXdXM01XR0M0eXdQSEdscllYUk45ekt2c3Y0Vk1DSzBxUi15QzZydmt5TU50aFY3ZzJtZEcyTWJ1d3MtWExCZDM?oc=5\" target=\"_blank\">Google's Agentic AI wipes user's entire HDD without permission in catastrophic failure — cache wipe turns into mass deletion event as agent apologizes: “I am absolutely devastated to hear this. I cannot express how sorry I am</a>  Tom's Hardware",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
-        },
-        {
           "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         }
       ]
     }
