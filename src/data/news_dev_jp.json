@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-09T06:56:49.049Z",
+  "fetchedAt": "2026-01-09T13:12:28.476Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,7 +11,7 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5",
           "pubDate": "2026-01-08 13:17:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5\" target=\"_blank\">EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス） - マイナビニュース",
@@ -32,7 +32,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
@@ -89,39 +89,39 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xb2hER0lKeUx1d2Z0cVRCZDNLUkI0cjFrejBkRHZ6S01IVVBiU2Exc3VnUmVtLUU3eWhUQ1VyQUx2Q0xHcUtraDJkUlM4cnMxY2U4czdqUENjVlcybUxnaXlKVThUcWdj?oc=5",
+          "pubDate": "2026-01-09 08:27:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xb2hER0lKeUx1d2Z0cVRCZDNLUkI0cjFrejBkRHZ6S01IVVBiU2Exc3VnUmVtLUU3eWhUQ1VyQUx2Q0xHcUtraDJkUlM4cnMxY2U4czdqUENjVlcybUxnaXlKVThUcWdj?oc=5\" target=\"_blank\">エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5\" target=\"_blank\">VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見 - 株式会社マキナレコード",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5\" target=\"_blank\">Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見</a>  株式会社マキナレコード",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "の利用とチェックポイント復元機能を追加 - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aaktGaTR5U3NpRWlUN3ZNcmctaGVxMTNJcUtSdFg4M0tnRnF0MTBqekY2NEtQZlhzd1RfdkhnODN2eWJxOUMwbUw0TWdXLTNldkFTOTgyRjFnSTZzd2lvVW40Y2tjZ1Fy?oc=5",
-          "pubDate": "2025-08-13 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aaktGaTR5U3NpRWlUN3ZNcmctaGVxMTNJcUtSdFg4M0tnRnF0MTBqekY2NEtQZlhzd1RfdkhnODN2eWJxOUMwbUw0TWdXLTNldkFTOTgyRjFnSTZzd2lvVW40Y2tjZ1Fy?oc=5\" target=\"_blank\">の利用とチェックポイント復元機能を追加</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "title": "Visual Studio Code、Agent HQに対応へ、自動承認のサブコマンド検出を改善、エージェント編集ファイルを自動で開く動作をデフォルトでオフに、インライン差分表示で削除コードを選択可能に - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWUNrV1Vtal9EN1lDR21EVjV0aVFjTGJSS2JhQTZReFlndVJLZVM1QmhMU1dRSHlBVTE5YlhJT0xObUJtR1N5WG1hVWt6MDB6MzJBZnh3aGNEQU03Z2g1Y1RrYnN0dExfYjkxTQ?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWUNrV1Vtal9EN1lDR21EVjV0aVFjTGJSS2JhQTZReFlndVJLZVM1QmhMU1dRSHlBVTE5YlhJT0xObUJtR1N5WG1hVWt6MDB6MzJBZnh3aGNEQU03Z2g1Y1RrYnN0dExfYjkxTQ?oc=5\" target=\"_blank\">Visual Studio Code、Agent HQに対応へ、自動承認のサブコマンド検出を改善、エージェント編集ファイルを自動で開く動作をデフォルトでオフに、インライン差分表示で削除コードを選択可能に</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
           "pubDate": "2025-08-08 02:21:02",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
@@ -171,39 +171,39 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "大学生の最新AI活用術 たった2日でスマホアプリ開発「2秒ずつ撮影した動画を自動編集」（朝日新聞デジタルマガジン＆［and］） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5",
-          "pubDate": "2026-01-07 09:05:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5\" target=\"_blank\">大学生の最新AI活用術 たった2日でスマホアプリ開発「2秒ずつ撮影した動画を自動編集」（朝日新聞デジタルマガジン＆［and］）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "title": "Agent Factory のハイライト: Gemini 3、AI Studio、Antigravity、Nano Banana を使用した構築 - Google Cloud",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEF1czI5RENlb0V3X18yMFNFVFBqLXNXcFlmcS1WRFNsVFRzdTdoVHktUGhBZG9taVRzVloxTzVqLVl1cE9aQVFTM0NUUnN3UkxSUUhjd1VCVkhFR0xFUEkwSFZXclFncUtMTG0xNk5nQUV0OEY5RDdzRmkxZGVUbzVRQnpFb2tjQWtfZE5ZZ2FaQkZFTldpX3U4ZGtEYnEwX1ExdGRpampiVy1ZcjhpdWlSLWtQTl9wSnljUW9rbkVvbWJCQzlTRlhBUklLNWViS1BxSEdkN1dPMFJaQWc?oc=5",
+          "pubDate": "2026-01-09 03:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEF1czI5RENlb0V3X18yMFNFVFBqLXNXcFlmcS1WRFNsVFRzdTdoVHktUGhBZG9taVRzVloxTzVqLVl1cE9aQVFTM0NUUnN3UkxSUUhjd1VCVkhFR0xFUEkwSFZXclFncUtMTG0xNk5nQUV0OEY5RDdzRmkxZGVUbzVRQnpFb2tjQWtfZE5ZZ2FaQkZFTldpX3U4ZGtEYnEwX1ExdGRpampiVy1ZcjhpdWlSLWtQTl9wSnljUW9rbkVvbWJCQzlTRlhBUklLNWViS1BxSEdkN1dPMFJaQWc?oc=5\" target=\"_blank\">Agent Factory のハイライト: Gemini 3、AI Studio、Antigravity、Nano Banana を使用した構築</a>  Google Cloud",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Google Antigravityとは？使い方や料金をご紹介 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5",
+          "pubDate": "2026-01-09 01:59:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5\" target=\"_blank\">Google Antigravityとは？使い方や料金をご紹介</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
           "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5",
           "pubDate": "2026-01-02 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
-          "title": "Google、Antigravity IDEで企業データへの安全なAI接続機能を実現 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5",
-          "pubDate": "2025-12-27 05:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mdjZqcXVWSHdocDg3ZER6QW9ULVZnQnVQQWNseFM2dTl2Sk9CYTBjWWxoeHdNX2Q5eWdjMXkzOC1URWxGdm1OTjUyeW5Bdw?oc=5\" target=\"_blank\">Google、Antigravity IDEで企業データへの安全なAI接続機能を実現</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる - Impress Watch",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5\" target=\"_blank\">無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         }
       ]
     }
