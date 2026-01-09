@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-08T18:52:10.006Z",
+  "fetchedAt": "2026-01-09T02:31:53.507Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,11 +7,11 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで - MSN",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQWklVYmVScUdmSEY5djRsVU1rQ1lNNS1DM1JPMGxreEd2Q041VVFYekRKZFBCVkhBMGE1UjZZZjhCM2xSZ1AwSjhWRGlFSUcwR3FoR1RXS01ETTVYeFp2NlRUakZhM2x6OFZGeDlBZTJIblE1ejBySE56akNKdVp2eVlRaERTWVJVOW93TXdwbXRTTXMxZEVpZm9fRC1Uc2xzYVBlQ2lVMU1wYnk1dlc0VGNmUU45dDZmcnlIZjdfTEFKUGR3ckl3R05LMGJ3MzlHZG5hNFZWUUxiMzQ4aWRaenVXV3JGbDRvQjh2dV9oZWNvSURraTdWeE1kdUFCMjdxTGdOYUY4MWFleW01alFha0Qza0l5OFNzMXQ5dndvQ1BzYUhwVXBJQVVWa1d6NWI2SzRiSC04YVh2SFlfdlp5d3VLVVozNjMwQWxzWG9Rc1g0WWdUVU1pX3YtcGk4THd2RUtadXBvWXpCMHJaaXFrSU0xSXdjbmtpVzBqVUxXYVFacFppWHlHWVU5ZmxFVmZQc21Pdw?oc=5",
-          "pubDate": "2026-01-08 00:38:18",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQWklVYmVScUdmSEY5djRsVU1rQ1lNNS1DM1JPMGxreEd2Q041VVFYekRKZFBCVkhBMGE1UjZZZjhCM2xSZ1AwSjhWRGlFSUcwR3FoR1RXS01ETTVYeFp2NlRUakZhM2x6OFZGeDlBZTJIblE1ejBySE56akNKdVp2eVlRaERTWVJVOW93TXdwbXRTTXMxZEVpZm9fRC1Uc2xzYVBlQ2lVMU1wYnk1dlc0VGNmUU45dDZmcnlIZjdfTEFKUGR3ckl3R05LMGJ3MzlHZG5hNFZWUUxiMzQ4aWRaenVXV3JGbDRvQjh2dV9oZWNvSURraTdWeE1kdUFCMjdxTGdOYUY4MWFleW01alFha0Qza0l5OFNzMXQ5dndvQ1BzYUhwVXBJQVVWa1d6NWI2SzRiSC04YVh2SFlfdlp5d3VLVVozNjMwQWxzWG9Rc1g0WWdUVU1pX3YtcGk4THd2RUtadXBvWXpCMHJaaXFrSU0xSXdjbmtpVzBqVUxXYVFacFppWHlHWVU5ZmxFVmZQc21Pdw?oc=5\" target=\"_blank\">OpenAI新モデル「GPT-4.1」当面無料 Cursor、Windsurfで</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "title": "EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5",
+          "pubDate": "2026-01-08 13:17:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5\" target=\"_blank\">EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス） - マイナビニュース",
@@ -32,7 +32,7 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
@@ -96,18 +96,18 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
+          "title": "Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見 - 株式会社マキナレコード",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5",
+          "pubDate": "2025-12-02 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5\" target=\"_blank\">Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見</a>  株式会社マキナレコード",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
           "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "Visual Studio Codeのリモートトンネル機能がサイバースパイ攻撃に悪用される、中国関連アクターが関与か - 株式会社マキナレコード",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFR2MlB3Z0I2d3dQZlZ5VkljZHVPdTlzM3d4SExpTVBWcWRNcEptYjRCTnNGMl9sdXZMc3h1QmZJTFpnbC1nUFN6dlNuU0FPd25GdnQ5MWlQZ095R3VfU3hvY3ZnZjJldWR0d1VzWG5FUm9yOURaZExXTGFSempNeTRqbXU?oc=5",
-          "pubDate": "2025-10-30 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFR2MlB3Z0I2d3dQZlZ5VkljZHVPdTlzM3d4SExpTVBWcWRNcEptYjRCTnNGMl9sdXZMc3h1QmZJTFpnbC1nUFN6dlNuU0FPd25GdnQ5MWlQZ095R3VfU3hvY3ZnZjJldWR0d1VzWG5FUm9yOURaZExXTGFSempNeTRqbXU?oc=5\" target=\"_blank\">Visual Studio Codeのリモートトンネル機能がサイバースパイ攻撃に悪用される、中国関連アクターが関与か</a>  株式会社マキナレコード",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "の利用とチェックポイント復元機能を追加 - gihyo.jp",
@@ -117,10 +117,10 @@
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5",
-          "pubDate": "2025-08-07 02:16:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NGNZcGJhbldaRzBadVljTXJ5cENNcHhybWh0ZzVwcW9YVnF4UTBfWVpkd3U2a3JiX3YwdXplWEJiUUx3VkNLOXBzV19EdnhvcVluNFlvbw?oc=5\" target=\"_blank\">【2025年版】Python開発「3種の神器」：uv、Ruff、VS Codeで快適環境を構築しよう</a>  CodeZine",
+          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
+          "pubDate": "2025-08-08 02:21:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         }
       ]
