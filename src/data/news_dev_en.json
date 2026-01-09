@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-09T09:50:44.846Z",
+  "fetchedAt": "2026-01-09T15:46:29.819Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises - PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5",
-          "pubDate": "2026-01-08 13:02:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5\" target=\"_blank\">EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises</a>  PR Newswire",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Cursor vs Google Antigravity: Which AI Coding Tool Is Better? - Cybernews",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5",
-          "pubDate": "2026-01-08 07:18:27",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5\" target=\"_blank\">Cursor vs Google Antigravity: Which AI Coding Tool Is Better?</a>  Cybernews",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
-        },
-        {
-          "title": "Building an Enterprise SDLC AI Agent: CodeMie, Cursor, AWS, and n8n Compared - EPAM",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTQyQkhQdTd1Vk9mOV84WThPNzhEclUxWE5kUlhLYXBOQk5UTDdJa1Qxc000ZERNRmE4NHdfNFJ2T2tBZ2ZLalozdWNLME0xbUVxUElHWkFDV1FNdklmVDVBb0FfclRnZUl0bU01ZEFqMjJQRmJscHg4SmNuNThjaU4yZFdXNjBmbkl6eHY0ZVNIOVBtM2FIZ2R0TjZITVhpQ1JMVGNlSWJsU3lndUpyRG55bmdkZHNCbllOcEtXV1UwTTRfbzhoNUN5SWt3TTRQQ0R2ZzdHaS1GX3dBZUVUN2Z5UWl0elR4Tk5KVnpHRi1JZ01GMjdWb1l6TjVtUVVvb1E?oc=5",
-          "pubDate": "2026-01-07 13:46:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVTQyQkhQdTd1Vk9mOV84WThPNzhEclUxWE5kUlhLYXBOQk5UTDdJa1Qxc000ZERNRmE4NHdfNFJ2T2tBZ2ZLalozdWNLME0xbUVxUElHWkFDV1FNdklmVDVBb0FfclRnZUl0bU01ZEFqMjJQRmJscHg4SmNuNThjaU4yZFdXNjBmbkl6eHY0ZVNIOVBtM2FIZ2R0TjZITVhpQ1JMVGNlSWJsU3lndUpyRG55bmdkZHNCbllOcEtXV1UwTTRfbzhoNUN5SWt3TTRQQ0R2ZzdHaS1GX3dBZUVUN2Z5UWl0elR4Tk5KVnpHRi1JZ01GMjdWb1l6TjVtUVVvb1E?oc=5\" target=\"_blank\">Building an Enterprise SDLC AI Agent: CodeMie, Cursor, AWS, and n8n Compared</a>  EPAM",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
-          "pubDate": "2025-12-20 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
+          "title": "EPAM and Cursor partner to scale AI-native engineering across global enterprises - Express Computer",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnZEX1JMZVhDZ3M2QWo3OEtudmFiMDJ6OXZaeTM2Vzl1VERSYjgtYk5hQkxtMzNCVHJuY0RhdUp5cGRVNFFPeFZVdWk0OHdCb1k3djJlZ0UtVTI3TTRET1N1WDlBQTlrUExEQnItckNEWTdMQVVHbW83U2cwbzMtTkVNQmZlR19SOUJuRDBkRmY1WE9rVlZUZzU2cVRvbFRpdWpkMERUQ3NFSEtVVE5LaHJ4em1XdVllbUpZWGpvYXlJd9IBxwFBVV95cUxNV2pFX0VtUlNMcUJheHVMZHhoVzFrZU5tODlQV05yZEhCQXlyMnJvSjgyNlBDLXFQY2RWQzkzM0U5QThwc1haSHo0SHU2RVptZ2pzY0NhSnUxMThiTjYtWmZQcFJXM091NElDYThEMVJRWkdWWjRTZVRNeU5ZVTNQdGloVi02djdWM0pNREExV2RsRWtQbGRoZVRBMENhM2plckZHNEJmTDFER3pvZm5rOWZEWWdmLXhTaTFVd3FzbEc1V25kc2o4?oc=5",
+          "pubDate": "2026-01-09 09:46:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnZEX1JMZVhDZ3M2QWo3OEtudmFiMDJ6OXZaeTM2Vzl1VERSYjgtYk5hQkxtMzNCVHJuY0RhdUp5cGRVNFFPeFZVdWk0OHdCb1k3djJlZ0UtVTI3TTRET1N1WDlBQTlrUExEQnItckNEWTdMQVVHbW83U2cwbzMtTkVNQmZlR19SOUJuRDBkRmY1WE9rVlZUZzU2cVRvbFRpdWpkMERUQ3NFSEtVVE5LaHJ4em1XdVllbUpZWGpvYXlJd9IBxwFBVV95cUxNV2pFX0VtUlNMcUJheHVMZHhoVzFrZU5tODlQV05yZEhCQXlyMnJvSjgyNlBDLXFQY2RWQzkzM0U5QThwc1haSHo0SHU2RVptZ2pzY0NhSnUxMThiTjYtWmZQcFJXM091NElDYThEMVJRWkdWWjRTZVRNeU5ZVTNQdGloVi02djdWM0pNREExV2RsRWtQbGRoZVRBMENhM2plckZHNEJmTDFER3pvZm5rOWZEWWdmLXhTaTFVd3FzbEc1V25kc2o4?oc=5\" target=\"_blank\">EPAM and Cursor partner to scale AI-native engineering across global enterprises</a>  Express Computer",
           "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
-          "title": "Cursor Launches an AI Coding Tool For Designers - WIRED",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5",
-          "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9icnhvYUs5dl9MU0szbUwyNVl2WXB6MGkyZnF6ekUxcTdhcGRkZWp6U2VzX2xxR2dwbVFfbmlwQnhaS0RrTE5QR3pkRnVFWENBNUcwMVlxR1lJNUNITjBBenhYQ2tmdWdHUUt2RERadHlmMTZRbVE?oc=5\" target=\"_blank\">Cursor Launches an AI Coding Tool For Designers</a>  WIRED",
+          "title": "Aman Sanger - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dEtIeXI4M3UwekVITldPMUh4aEU3Q19fdF9UbURMRjByYy1rZnp3SlVlTS1RX3c2SzRCbjBRemhabm43RlFmX2w3b3JaZERhbnpiZjBn?oc=5",
+          "pubDate": "2026-01-09 07:12:50",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dEtIeXI4M3UwekVITldPMUh4aEU3Q19fdF9UbURMRjByYy1rZnp3SlVlTS1RX3c2SzRCbjBRemhabm43RlFmX2w3b3JaZERhbnpiZjBn?oc=5\" target=\"_blank\">Aman Sanger</a>  Forbes",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+        },
+        {
+          "title": "EPAM, Cursor Tie Up to Push AI Coding Beyond Enterprise Pilots - Analytics India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5lV0o1SFJCWkJUby0wbENpOGQ2N3B2VUpsSndSb2xRVHI3WDBCZzN5cW9pcHN6SGtMVElLUG5yVHRPZ1NGMUJCb1RscFNPSjlRVTAyOFl6eU03b2Z6VHVVbUtJdGpLbGViV3l1N2FWQVlLa2NTZzh3aEhzWUN1MkFMXzItd0MxWk9PelhGYi1aaHA3Z2s4VDduV2JVNlhCRWRRSUVZSWZEZ015?oc=5",
+          "pubDate": "2026-01-09 06:41:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5lV0o1SFJCWkJUby0wbENpOGQ2N3B2VUpsSndSb2xRVHI3WDBCZzN5cW9pcHN6SGtMVElLUG5yVHRPZ1NGMUJCb1RscFNPSjlRVTAyOFl6eU03b2Z6VHVVbUtJdGpLbGViV3l1N2FWQVlLa2NTZzh3aEhzWUN1MkFMXzItd0MxWk9PelhGYi1aaHA3Z2s4VDduV2JVNlhCRWRRSUVZSWZEZ015?oc=5\" target=\"_blank\">EPAM, Cursor Tie Up to Push AI Coding Beyond Enterprise Pilots</a>  Analytics India Magazine",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+        },
+        {
+          "title": "Cursor's most important AI features started as side projects engineers built themselves, says its engineering head - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHY0R1JES3ZTUldKa2F5YnNxM25ydU0tYmh0VmtyMFV4TEs2elZpS3dscUpIYUpxMjdwQTI0WWp0T21peHFLYWtRMHNpSE5oT1Z4c2l0dVk5TnhzNkRDZlpzbTY0Q0drQjBBWGc4Xy1oME5oS2FQaGt3cDE1eU5QVVV2ay1ZSlc0SXVFWndVWWRyOERDNTd3b0xmazJMT2Y4LUpPck9n?oc=5",
+          "pubDate": "2026-01-09 06:01:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHY0R1JES3ZTUldKa2F5YnNxM25ydU0tYmh0VmtyMFV4TEs2elZpS3dscUpIYUpxMjdwQTI0WWp0T21peHFLYWtRMHNpSE5oT1Z4c2l0dVk5TnhzNkRDZlpzbTY0Q0drQjBBWGc4Xy1oME5oS2FQaGt3cDE1eU5QVVV2ay1ZSlc0SXVFWndVWWRyOERDNTd3b0xmazJMT2Y4LUpPck9n?oc=5\" target=\"_blank\">Cursor's most important AI features started as side projects engineers built themselves, says its engineering head</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises - Sahm",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVNFWFd4RS1sY2pTQU50QVViQkRwVVRzWm5NWnpOMmxsbk5xU1FxMmw2XzQtbkVnUzVGSGNVUllYRWItY3VtMXJzSDZ3OTlzMlVHVlRRdzc5bDBwV25VOHE3NHNCc3dkN2x2QVY5djFZWjk4UlBoUEM4YWxMWWFjWXB2ZmQ1REsxR2tIZk1qMFRSekFpQTlSMHF1UE1KS3ZhX0NfcGs2cWdFc3JGZEdqUlRIcm95V1NGRFAtT3V2UGc4bVJNU1pKU01fR2ZXUzRLZ05KaDJhOGtYQTdjay1oa1VuYVhadXVXeDZ6Wg?oc=5",
+          "pubDate": "2026-01-09 05:58:18",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVNFWFd4RS1sY2pTQU50QVViQkRwVVRzWm5NWnpOMmxsbk5xU1FxMmw2XzQtbkVnUzVGSGNVUllYRWItY3VtMXJzSDZ3OTlzMlVHVlRRdzc5bDBwV25VOHE3NHNCc3dkN2x2QVY5djFZWjk4UlBoUEM4YWxMWWFjWXB2ZmQ1REsxR2tIZk1qMFRSekFpQTlSMHF1UE1KS3ZhX0NfcGs2cWdFc3JGZEdqUlRIcm95V1NGRFAtT3V2UGc4bVJNU1pKU01fR2ZXUzRLZ05KaDJhOGtYQTdjay1oa1VuYVhadXVXeDZ6Wg?oc=5\" target=\"_blank\">EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises</a>  Sahm",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -171,18 +171,18 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "The Google Antigravity hype train: 5 reasons why I won't buy that ticket - How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrQzhfMjZQbUNBdUhTd18tSG1weVRaNnNVTW9fWmFHNGVNYnFlNGZSNUdDNVdHOHBkVGYxMEhmMDdnSlRQMks3WmFOMmNldDl6eVFTakFWd0o4UnJ6YjRVWmpWNjNuYThmMGNFa3FMdnFhZzVIWm1KMEtuTEI0SXhuaEdBM3VKb1hKQmp4T0RKYXZpeXEzSkRQMEJyNFg3?oc=5",
+          "pubDate": "2026-01-09 15:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrQzhfMjZQbUNBdUhTd18tSG1weVRaNnNVTW9fWmFHNGVNYnFlNGZSNUdDNVdHOHBkVGYxMEhmMDdnSlRQMks3WmFOMmNldDl6eVFTakFWd0o4UnJ6YjRVWmpWNjNuYThmMGNFa3FMdnFhZzVIWm1KMEtuTEI0SXhuaEdBM3VKb1hKQmp4T0RKYXZpeXEzSkRQMEJyNFg3?oc=5\" target=\"_blank\">The Google Antigravity hype train: 5 reasons why I won't buy that ticket</a>  How-To Geek",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
           "title": "Cursor vs Google Antigravity: Which AI Coding Tool Is Better? - Cybernews",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5",
           "pubDate": "2026-01-08 07:18:27",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdDlwYm5pWDlBZFd3V05wdnZ2MklmMUNBd3o3VHY1OVF6T0JWVElhWGZQcENpUXQzaDExSDRqZ3lSczIxdUpQaXB2MEdOcE1oR1J0QTZsTlg1SjdwWENjenZuVXNUSlFlSFFEQw?oc=5\" target=\"_blank\">Cursor vs Google Antigravity: Which AI Coding Tool Is Better?</a>  Cybernews",
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
-        },
-        {
-          "title": "Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure - gbhackers.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5",
-          "pubDate": "2026-01-06 14:26:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk5NNldzaXNSWmxZZ2JSY3dVSEU2RjhTVEFRc3F4Y0xJU3lYZ1p0bHRzM1pXZzl5bk1fZHJIamtDWWJNekRmS3NqNDdfMld4bEdJSjNpTnRILTB2Mlh6a3N4Ui1hZmFLNGhiYV9EYXh4aGw0Yk9JTHk0MjNpcXVITW5YODRmNHNtYlItWE9SWjJsaGJQR3BB0gGcAUFVX3lxTE84ZndKcXZjaGppZ2wyMU84cTRQZjJLR2g3SDdxeWsyM3luWDAtZFg1Z2ZlcnB0VXhkRUd2TFU2c2dNeTlORmk4N3BGdDd4bTRrckJOd2lLeXVfV3c5dVBWWEZYQUhyMTVJM1ZjX3RBMW9FX0huU28zeXJPX0J1cDNxVjFJMy1WbDk4ajYwcFFSZVRMRi16MVRZNnI5cw?oc=5\" target=\"_blank\">Cursor, Windsurf &amp; Google Antigravity IDEs Linked to Malicious Extension Exposure</a>  gbhackers.com",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
