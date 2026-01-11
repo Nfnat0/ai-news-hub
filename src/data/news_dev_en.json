@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-11T09:41:54.324Z",
+  "fetchedAt": "2026-01-11T15:40:35.823Z",
   "locale": "en",
   "companies": [
     {
@@ -7,17 +7,10 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Aman Sanger, 25, becomes billionaire as cursor sparks an AI coding revolution - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeUVGWExGUVdENnRCMHRtR1FTcG9tbHZnV19wX29xR0MwUE8tU1VtNUtMZlp5cFh2RFBzb3lqVTdRQUpvb0EwU0FUV2gtcVJjdXB0ajNUa0dvT0xUc0lCUlJjN014ZDM2dXJxV3NjY1lKSlNab21pS002Wnd2OWR1R1A4QjI0SjVSTnBhRUZRUnhWcGx5NHR6WVpqa0hMalpkWXU5c2V0MTVXVGFZWXp5SDNXQ2dmWm9XdGJkVjM4YkJUcG9CV3ZrT3pwSV9IcVF0LUJGYmdCUnZ4TUVzdS1xcUZxbzlKUURmUEh2NlVURkMwcmw3Zi1Za05XYzFsYTdZdWlhTUdmSlVjMHV1bWRiLXNGRzYtQkp6MmxjVXBFX2NHSHRTcDZRSS0tak92TXJfaXk1ZGlNRk0yS1UyVlMtaENDVXh5ZFZGZjNJUzM4RTMzV1hrTlpESVhkT0VsbUk?oc=5",
-          "pubDate": "2026-01-10 12:11:29",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeUVGWExGUVdENnRCMHRtR1FTcG9tbHZnV19wX29xR0MwUE8tU1VtNUtMZlp5cFh2RFBzb3lqVTdRQUpvb0EwU0FUV2gtcVJjdXB0ajNUa0dvT0xUc0lCUlJjN014ZDM2dXJxV3NjY1lKSlNab21pS002Wnd2OWR1R1A4QjI0SjVSTnBhRUZRUnhWcGx5NHR6WVpqa0hMalpkWXU5c2V0MTVXVGFZWXp5SDNXQ2dmWm9XdGJkVjM4YkJUcG9CV3ZrT3pwSV9IcVF0LUJGYmdCUnZ4TUVzdS1xcUZxbzlKUURmUEh2NlVURkMwcmw3Zi1Za05XYzFsYTdZdWlhTUdmSlVjMHV1bWRiLXNGRzYtQkp6MmxjVXBFX2NHSHRTcDZRSS0tak92TXJfaXk1ZGlNRk0yS1UyVlMtaENDVXh5ZFZGZjNJUzM4RTMzV1hrTlpESVhkT0VsbUk?oc=5\" target=\"_blank\">Aman Sanger, 25, becomes billionaire as cursor sparks an AI coding revolution</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
-          "title": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals - Venturebeat",
+          "title": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals - VentureBeat",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0hoZXRTUEdodExRVDd1RmxXSjJ2S3VKY3lPSGF5VDlxTEJkM1lCdkwyVzgwNjBFamw5aEJCTVo1NWFQYXJfZ2NlOUFLODhXOHVQUzlFY2FsY1A3WE10VVYyNmNuc2dSaVpVR0JHd2dudjdPYlo4X3loaUxzc1FMRlZhYlpjcDBFcV9aOGEwSWV5WmRuV0J3V1pFdzRTN3NDb3FnUHhEakc4NUdZZVVF?oc=5",
           "pubDate": "2026-01-09 23:14:31",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0hoZXRTUEdodExRVDd1RmxXSjJ2S3VKY3lPSGF5VDlxTEJkM1lCdkwyVzgwNjBFamw5aEJCTVo1NWFQYXJfZ2NlOUFLODhXOHVQUzlFY2FsY1A3WE10VVYyNmNuc2dSaVpVR0JHd2dudjdPYlo4X3loaUxzc1FMRlZhYlpjcDBFcV9aOGEwSWV5WmRuV0J3V1pFdzRTN3NDb3FnUHhEakc4NUdZZVVF?oc=5\" target=\"_blank\">Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals</a>  Venturebeat",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0hoZXRTUEdodExRVDd1RmxXSjJ2S3VKY3lPSGF5VDlxTEJkM1lCdkwyVzgwNjBFamw5aEJCTVo1NWFQYXJfZ2NlOUFLODhXOHVQUzlFY2FsY1A3WE10VVYyNmNuc2dSaVpVR0JHd2dudjdPYlo4X3loaUxzc1FMRlZhYlpjcDBFcV9aOGEwSWV5WmRuV0J3V1pFdzRTN3NDb3FnUHhEakc4NUdZZVVF?oc=5\" target=\"_blank\">Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals</a>  VentureBeat",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
@@ -40,6 +33,13 @@
           "pubDate": "2026-01-08 13:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5\" target=\"_blank\">EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises</a>  PR Newswire",
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Cursor Acquires Graphite to Streamline AI-Powered Development - DevOps.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5",
+          "pubDate": "2025-12-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGFiZUFscDlkSWsyMnItYjN5cnJHbkUyVHNMeUlBUGlhVVNBSk1KV1NhbWY0eWMySjNYbGpMZ1owZjBGRkoyODdnTHlFaGRmWmRKbjRJbHdpQWRtR0QxR0xwNDlrZk40SGQtRUNGVzh4VlQ1WV9HcGZ5czc2allUMkJLQzl2TzQ3?oc=5\" target=\"_blank\">Cursor Acquires Graphite to Streamline AI-Powered Development</a>  DevOps.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "Why expert developers refuse to \"vibe\" with AI coding tools - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0hFVXlQRk5Ebkg4czRmenNOaERaTG9PQlV4WVM3bURiYUxRMEE1R0J5dUstei1jTU5SRGJlNy1WckFnMDR5V3d0X1FZQ2pMMDZGeFlVRGZCVTM3eUhuS3I2ZGt5cTlhRndfTnd6Uzc2WWxuU2ZUTlBVelFnenhKdQ?oc=5",
-          "pubDate": "2026-01-10 14:26:22",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0hFVXlQRk5Ebkg4czRmenNOaERaTG9PQlV4WVM3bURiYUxRMEE1R0J5dUstei1jTU5SRGJlNy1WckFnMDR5V3d0X1FZQ2pMMDZGeFlVRGZCVTM3eUhuS3I2ZGt5cTlhRndfTnd6Uzc2WWxuU2ZUTlBVelFnenhKdQ?oc=5\" target=\"_blank\">Why expert developers refuse to \"vibe\" with AI coding tools</a>  PPC Land",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "title": "The Autodev Revolution: How Devin and GitHub Copilot Workspace Redefined the Engineering Lifecycle - FinancialContent",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTY0RTNlMnduOWd2ZkNSLTZaR25BNTA2M05KOTdQVjdfYVhXVHpiRDZfcl9MMy03and5bjYxaTh0VE9yQkpMSVl2TXNCdjJiUjFTTTRIdkVzLUtyWmt4RjJadTZBSFVFVkhKajVZdFZVa3RmZk1wX1hmTUw3QXh5ZE5MVnAxYnlNeWcwYmw0dEdfWEtEdXZkOFRNR0RkYnJDaHZkeDk5S2RXNDFBMElUeU1zX2pnZlEteG54UTJSRDJVZTZhQTJLSXA0dDJ5eW9iUlRlZnBVNlJ5X0xMSVJBQTRmOVJVeUJXSl9YYkludnRzZ2daUE5lcmpTRXM?oc=5",
+          "pubDate": "2026-01-09 20:08:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTY0RTNlMnduOWd2ZkNSLTZaR25BNTA2M05KOTdQVjdfYVhXVHpiRDZfcl9MMy03and5bjYxaTh0VE9yQkpMSVl2TXNCdjJiUjFTTTRIdkVzLUtyWmt4RjJadTZBSFVFVkhKajVZdFZVa3RmZk1wX1hmTUw3QXh5ZE5MVnAxYnlNeWcwYmw0dEdfWEtEdXZkOFRNR0RkYnJDaHZkeDk5S2RXNDFBMElUeU1zX2pnZlEteG54UTJSRDJVZTZhQTJLSXA0dDJ5eW9iUlRlZnBVNlJ5X0xMSVJBQTRmOVJVeUJXSl9YYkludnRzZ2daUE5lcmpTRXM?oc=5\" target=\"_blank\">The Autodev Revolution: How Devin and GitHub Copilot Workspace Redefined the Engineering Lifecycle</a>  FinancialContent",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3ppVVhKNWhWQWU2b2JoQmFuZWlLSG9mSm5mM0g1RmJDMUlWVEJIbllBSU1UcXdTY3ZJXzdrS2ZsU0ppa2FiSG1IbVNqQ3dtdDJ0dWtidGo0VmZSeXUxR2hTYUNhQ1M3Tnlwcll5Q3UxeG5yX2hrOWg5ZVpWcG52UW1QTktmVWhkZnZEeVFNbEZ1bk4yTFJNTTJ1bkdYa18wUmQwS193?oc=5",
-          "pubDate": "2025-12-30 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3ppVVhKNWhWQWU2b2JoQmFuZWlLSG9mSm5mM0g1RmJDMUlWVEJIbllBSU1UcXdTY3ZJXzdrS2ZsU0ppa2FiSG1IbVNqQ3dtdDJ0dWtidGo0VmZSeXUxR2hTYUNhQ1M3Tnlwcll5Q3UxeG5yX2hrOWg5ZVpWcG52UW1QTktmVWhkZnZEeVFNbEZ1bk4yTFJNTTJ1bkdYa18wUmQwS193?oc=5\" target=\"_blank\">Agentic AI, MCP, and spec-driven development: Top blog posts of 2025</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+          "title": "GitHub Copilot Statistics [2026] - About Chromebooks",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5",
+          "pubDate": "2026-01-07 18:48:21",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5\" target=\"_blank\">GitHub Copilot Statistics [2026]</a>  About Chromebooks",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5\" target=\"_blank\">WRAP up your backlog with GitHub Copilot coding agent</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
           "title": "GPT-5.2 is now generally available in GitHub Copilot - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5\" target=\"_blank\">GPT-5.2 is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "How to write a great agents.md: Lessons from over 2,500 repositories - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5\" target=\"_blank\">How to write a great agents.md: Lessons from over 2,500 repositories</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         }
       ]
     },
