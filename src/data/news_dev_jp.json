@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-10T18:49:43.670Z",
+  "fetchedAt": "2026-01-11T02:43:08.692Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,14 +11,14 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5",
           "pubDate": "2026-01-08 13:17:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5\" target=\"_blank\">EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス） - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5",
           "pubDate": "2026-01-07 03:52:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5\" target=\"_blank\">VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス）</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
@@ -48,25 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
-          "pubDate": "2025-12-26 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
-        },
-        {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5",
           "pubDate": "2025-12-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5\" target=\"_blank\">GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜</a>  ソフトバンク",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "プランでパブリックプレビュー提供開始 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">プランでパブリックプレビュー提供開始</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "GitHub CopilotがAgent Skills対応を発表 - CodeZine",
@@ -81,6 +74,13 @@
           "pubDate": "2025-10-29 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5\" target=\"_blank\">GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進</a>  ZDNET Japan",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
+          "title": "GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5",
+          "pubDate": "2025-03-07 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5\" target=\"_blank\">GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -103,6 +103,13 @@
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
+          "title": "Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見 - 株式会社マキナレコード",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5",
+          "pubDate": "2025-12-02 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5\" target=\"_blank\">Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見</a>  株式会社マキナレコード",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
           "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
           "pubDate": "2025-11-25 08:00:00",
@@ -115,13 +122,6 @@
           "pubDate": "2025-11-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWUNrV1Vtal9EN1lDR21EVjV0aVFjTGJSS2JhQTZReFlndVJLZVM1QmhMU1dRSHlBVTE5YlhJT0xObUJtR1N5WG1hVWt6MDB6MzJBZnh3aGNEQU03Z2g1Y1RrYnN0dExfYjkxTQ?oc=5\" target=\"_blank\">Visual Studio Code、Agent HQに対応へ、自動承認のサブコマンド検出を改善、エージェント編集ファイルを自動で開く動作をデフォルトでオフに、インライン差分表示で削除コードを選択可能に</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
-          "pubDate": "2025-08-08 02:21:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
@@ -137,18 +137,18 @@
           "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
-          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
-          "pubDate": "2025-12-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
-        },
-        {
           "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+        },
+        {
+          "title": "Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5",
+          "pubDate": "2025-11-21 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5\" target=\"_blank\">Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
