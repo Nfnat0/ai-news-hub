@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-11T12:02:24.090Z",
+  "fetchedAt": "2026-01-11T18:02:46.279Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,18 +7,18 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Gmailの新機能「AI Inbox」──生成AIでメール管理を自動化 - WIRED.jp",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdmNUeVlwSEtBdEJwanFONTVaU2NSeU5Sa0xoTWhyaTFYeklPS3dibHNqUHBick15U2hRQUV6dGhMb2FrMjRtUWN5OGZlRVo4WGRHR2J3MWFMaDQ?oc=5",
-          "pubDate": "2026-01-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdmNUeVlwSEtBdEJwanFONTVaU2NSeU5Sa0xoTWhyaTFYeklPS3dibHNqUHBick15U2hRQUV6dGhMb2FrMjRtUWN5OGZlRVo4WGRHR2J3MWFMaDQ?oc=5\" target=\"_blank\">Gmailの新機能「AI Inbox」──生成AIでメール管理を自動化</a>  WIRED.jp",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "title": "Google AI Studioなどが収益ピンチの「Tailwind CSS」のスポンサーとなりピンチを救う - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43LVZua3F1dWdOa29BMTZlVlFQaVlqVVBxZ00tWFMzOE5XZGhGUE9TRjYtSUxXenN0b0FGZUVwZTJPVWpUVzJKcWtaUWN5aG1MSFlyOTQyOHR5c3l3RWdLVXg4N05wWDg?oc=5",
+          "pubDate": "2026-01-11 16:04:48",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43LVZua3F1dWdOa29BMTZlVlFQaVlqVVBxZ00tWFMzOE5XZGhGUE9TRjYtSUxXenN0b0FGZUVwZTJPVWpUVzJKcWtaUWN5aG1MSFlyOTQyOHR5c3l3RWdLVXg4N05wWDg?oc=5\" target=\"_blank\">Google AI Studioなどが収益ピンチの「Tailwind CSS」のスポンサーとなりピンチを救う</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
-          "title": "Geminiの勢いが止まらない。ChatGPTが圧倒されるのも仕方ない - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGZtQlNTeTJfUXpKbm9oQkVyTWlYSEU0aUc5SHExc1lBdWp4SDN3V01lUzZ1S2VtcFBEbS0ySXVyakQwTWxyWmtJTXdGRllWYmk3dWdJNUZ0cGZNbGxBYkY2cTlUQVNYcGk4RGkxTU9RTURVT0FtRWVrZVNlVmRKcTRuVDZKS2U4WFpubm4yeUZCc3lZQmlz?oc=5",
-          "pubDate": "2026-01-10 23:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGZtQlNTeTJfUXpKbm9oQkVyTWlYSEU0aUc5SHExc1lBdWp4SDN3V01lUzZ1S2VtcFBEbS0ySXVyakQwTWxyWmtJTXdGRllWYmk3dWdJNUZ0cGZNbGxBYkY2cTlUQVNYcGk4RGkxTU9RTURVT0FtRWVrZVNlVmRKcTRuVDZKS2U4WFpubm4yeUZCc3lZQmlz?oc=5\" target=\"_blank\">Geminiの勢いが止まらない。ChatGPTが圧倒されるのも仕方ない</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "title": "Gemini for Google TV発表。TVに話しかけるだけで設定変更したり、Nano Bananaを使えるように - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMTBJbTNkS2JNOHJEd1F1NTVSYVE0ZHZSMllFSDd6VkNoQUNMWS04a2VmMEM1SnNzaEdTY1ZRbG4tSGdZTi12Y3poZVEtQUFINzRuakdXcjFCbV9nSGlwTHI0YmFLWnM?oc=5",
+          "pubDate": "2026-01-10 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xMTBJbTNkS2JNOHJEd1F1NTVSYVE0ZHZSMllFSDd6VkNoQUNMWS04a2VmMEM1SnNzaEdTY1ZRbG4tSGdZTi12Y3poZVEtQUFINzRuakdXcjFCbV9nSGlwTHI0YmFLWnM?oc=5\" target=\"_blank\">Gemini for Google TV発表。TVに話しかけるだけで設定変更したり、Nano Bananaを使えるように</a>  ギズモード・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Agent Factory のハイライト: Gemini 3、AI Studio、Antigravity、Nano Banana を使用した構築 - Google Cloud",
@@ -32,14 +32,14 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1faXNLSGRhYk5Xc1lSYUlDRHZaWkJjY0FIVW14MUs0WDc2aGZXV19IU2tURmIyYy1BXzAwUjRTMF9UWFVGUUhqOTVvQlMtd0plSkp5V2F0bFV2OFdYRDRMWTJQbE8?oc=5",
           "pubDate": "2026-01-09 00:15:26",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1faXNLSGRhYk5Xc1lSYUlDRHZaWkJjY0FIVW14MUs0WDc2aGZXV19IU2tURmIyYy1BXzAwUjRTMF9UWFVGUUhqOTVvQlMtd0plSkp5V2F0bFV2OFdYRDRMWTJQbE8?oc=5\" target=\"_blank\">Gmail、Gemini 3で大型アップデート 「AIによる概要」や「AI受信箱」</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
           "title": "グーグル、Gmailに新機能「AI Inbox」 Geminiが重要な情報をまとめて報告 - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QTFNFWU5NUmF1WHJDTUlhVTlteWt3YzNKUG5zNjBiM1JINkdOamFmU1JQYm1VeDF6aDJtdFlnV3l0STJvNE5XNEdLSk5OTzUxekE?oc=5",
           "pubDate": "2026-01-09 00:04:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QTFNFWU5NUmF1WHJDTUlhVTlteWt3YzNKUG5zNjBiM1JINkdOamFmU1JQYm1VeDF6aDJtdFlnV3l0STJvNE5XNEdLSk5OTzUxekE?oc=5\" target=\"_blank\">グーグル、Gmailに新機能「AI Inbox」 Geminiが重要な情報をまとめて報告</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         }
       ]
     },
@@ -48,25 +48,11 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "元OpenAIのAI研究者、AIによる人類破滅予測を2027年から2034年に延期 - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43cDIxQ29aRmJfSjRZNzFKUEVNOUJEZzRkdWk4TmJxaF93Vmp6LXdwVl9vVkdpVTkzeHVJS01hUFUxX1RINTZ3LWV3SGUzMWxiZmZz?oc=5",
-          "pubDate": "2026-01-11 03:44:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE43cDIxQ29aRmJfSjRZNzFKUEVNOUJEZzRkdWk4TmJxaF93Vmp6LXdwVl9vVkdpVTkzeHVJS01hUFUxX1RINTZ3LWV3SGUzMWxiZmZz?oc=5\" target=\"_blank\">元OpenAIのAI研究者、AIによる人類破滅予測を2027年から2034年に延期</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
-          "title": "OpenAI、ソフトバンクGの発電会社に790億円出資 AIインフラ開発 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LdDhHdGlRdkpubzNGdzVKV3M2elhhczRyTzJ3cFAzbzkzUGMtQmFSc3FBVF9DMVNVdnZndjBvM1U5NUNjYlZQN2tOLWZ1SWZJWG1qdHI4TE5yUjBhLV83Ry0tU0VXdDhKeU81eQ?oc=5",
-          "pubDate": "2026-01-09 21:05:12",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9LdDhHdGlRdkpubzNGdzVKV3M2elhhczRyTzJ3cFAzbzkzUGMtQmFSc3FBVF9DMVNVdnZndjBvM1U5NUNjYlZQN2tOLWZ1SWZJWG1qdHI4TE5yUjBhLV83Ry0tU0VXdDhKeU81eQ?oc=5\" target=\"_blank\">OpenAI、ソフトバンクGの発電会社に790億円出資 AIインフラ開発</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "OpenAI、健康特化版｢ChatGPTヘルスケア｣をリリース - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1pKcndzUVFjVURKTWF2RUI5Q0JNY3EwUi1YVkJGejl4Y0p4OWxFM3NFTWRwcV94LUZ3UzdWb21pZ2JzUGhFV2N3ZGlfaWc2WlVpLXNxYUFueVhVTGxUUDc1TTF3NGwyTFBZTHg5TmJaS21kakJIMkduX0xSNWlRb0hwS1dfUUpqMGhiZzloa1ZIMHRkcEcwdE9laUZEWDBxelZ0bnVR?oc=5",
-          "pubDate": "2026-01-09 10:00:00",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1pKcndzUVFjVURKTWF2RUI5Q0JNY3EwUi1YVkJGejl4Y0p4OWxFM3NFTWRwcV94LUZ3UzdWb21pZ2JzUGhFV2N3ZGlfaWc2WlVpLXNxYUFueVhVTGxUUDc1TTF3NGwyTFBZTHg5TmJaS21kakJIMkduX0xSNWlRb0hwS1dfUUpqMGhiZzloa1ZIMHRkcEcwdE9laUZEWDBxelZ0bnVR?oc=5\" target=\"_blank\">OpenAI、健康特化版｢ChatGPTヘルスケア｣をリリース</a>  ギズモード・ジャパン</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ITnZHRzVKOUtmRjF1WHRwdms2c2Y0NVJwcmtHc2EteGRzeUpHWkw4UEVzTjJqN2syNnVOazFNaThOVFZlR3R4SW4tX1FmeFNHemNwbGxWMENzeFA1UlBmUkhlLUxtYW04TGF5anRXTFZMbzhOS2UxbEwyRFZDTXM?oc=5\" target=\"_blank\">OpenAI、健康支援機能「ChatGPT Health」を発表（ビジネス＋IT）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9tQmNYa2lFX3EtWVprWFROVDl5RG1FQVk1QXVFaDZmNXZjdnFuSTlhZk03TUxrNW1Zc2JUSnFQdERfa3c2MjVta2RyWURTNFNISWIzY181NDB6R1EyTWt2cW1PVWFwb3l1ZEE?oc=5\" target=\"_blank\">ChatGPT ヘルスケアが登場</a>  OpenAI</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE15eWowUWd1TXEtZ0V6dko2TlUyV1laRnl0RXlJdFd2VFJxTlRGaTczLXAtcjFRX0IzT0pZYVdlMWdTTzBqTHl4RFE1UnUzVEo4VHJOTHhEbWUyOERZWWpzVlU5eTFsQVJXRlhIa01GSWoxa3lEaURV0gF8QVVfeXFMT25odU54cDBVeUVJUkNpVWEtX1g1N1J1aksxRDlNeFFpRzdFb3B3YVhHNUM5Vm5OOUtnTmhPcnh1RXRPMm5GN2JJR3M1Zkw3STZCRm5jd0pVV1ZGdWdmam1iM1lOZHhhSlpyeW5ISUUyeFBIOTFmN1JUbVNzSA?oc=5\" target=\"_blank\">OpenAIのChatGPTヘルスケア、個人情報をトレーニングには使わない</a>  ｄメニューニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cUJKcUJVcUVSc1VGQkZVdHpiNDVtSlp0UjltalQtQ2JRVlh4cmg5YXhpbTJOSkNLWU5aMGUwclpOUFFyNllyQ0MtZmV0NzR3eGY3ZlY2LXdyTDRzb0VJVdIBZkFVX3lxTE9xQjZuZHdPRFVYcWlFRWxqRV9Ob1F2dUQ3ZzlYdjB6UXpZN05na18zSzczOERQTWpNN2cwa1J6aUtEZEN5Y2Zxc1dlR1h4bV94MU1OclJsWjRuR0dCRDhfOV9Xc1VuQQ?oc=5\" target=\"_blank\">OpenAI、「ChatGPT ヘルスケア」発表　Apple「ヘルスケア」などと連携、基盤モデルの学習には使用せず</a>  リアルサウンド</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wbFVaelBvQVdmV09mMlJVS3FUVlZMTEYtaWdSa3o1MDNwYnd4UGxxMHFMeWN1ZER4cXFPemNxb3Nlbzl4WkZnOE1jM0Fub0I5UFE?oc=5\" target=\"_blank\">OpenAI、健康管理に特化した「ChatGPT ヘルスケア」を発表--医療記録やApple ヘルスケアと連携</a>  CNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHJuMDJfLWY3MzJqaXRjaWlCYjk2YkNrd1EweFljM1c0YmhGbWlNaFVUVEQzZG1JZy1Sd2NPTmdGekNLaVowVkxQYXNqTHU3cVBMbnMxNjAxalZBUmdnc1hjc0dGX2x4VHhEMDRn?oc=5\" target=\"_blank\">OpenAIが「ChatGPT ヘルスケア」を発表、ChatGPTが個人の健康記録やアプリのデータに接続して問診してくれる</a>  GIGAZINE</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUmR6b3JEYlZqYlJPZDc1akNobzRxcDQ1a2NqeUo3eWttSF9LYmZJOEs3WDhNazB6MTg4c1MxeGdrSHJrampvWWgwTVJCcWZiR2JhQ3U0VWFpRG9aangyLXZNVjZiQkpzcFdxZl9JN0hjaW1JZEtr?oc=5\" target=\"_blank\">ChatGPTにヘルスケア機能、検査結果の理解を支援－食事アドバイスも</a>  Bloomberg.com</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSWRDNnE3TFpTczVCQjl3T0FUS0ZLSE93Sko2ZnBVaWRveUkwMVMxVzJQY05pUXFHTTNseUhLNVp4Z2JobUI1RlhtZnJ6TVBlWGFwZ0YxUEZDUjAybUdEQXZSdHY?oc=5\" target=\"_blank\">ChatGPTヘルスケア開始 個人の健康状態を理解・回答 Apple連携も</a>  Impress Watch</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "title": "元OpenAIのAI研究者、AIによる人類破滅予測を2027年から2034年に延期（ビジネス＋IT） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyc09IQUUtNGFIU3pSbDkydjFXOXN5LWZaRFVidVlLQmFZZHlBdTBWTEd0aGJXakxXSGxJWUJJcmVtNV96NVkteG9sMW9Lb1YyNzMzdlJRS0xyRExMb2N2b1R0dDczRDV2YUFoQzc3ajVyMHRZUFp1b3NDY0h3Q1U?oc=5",
+          "pubDate": "2026-01-11 03:55:06",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAyc09IQUUtNGFIU3pSbDkydjFXOXN5LWZaRFVidVlLQmFZZHlBdTBWTEd0aGJXakxXSGxJWUJJcmVtNV96NVkteG9sMW9Lb1YyNzMzdlJRS0xyRExMb2N2b1R0dDczRDV2YUFoQzc3ajVyMHRZUFp1b3NDY0h3Q1U?oc=5\" target=\"_blank\">元OpenAIのAI研究者、AIによる人類破滅予測を2027年から2034年に延期（ビジネス＋IT）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相（文春オンライン） - Yahoo!ニュース",
@@ -76,11 +62,25 @@
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
+          "title": "AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相 - 文春オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iVVQ5SkdoRFlTVlp4bjEySDROY1hZdWEteno1NDRWdUhvYUZoOGhZeGg2TzllRDZtQ1Blc2tlZm9OdnBqdkJQelVXUQ?oc=5",
+          "pubDate": "2026-01-08 21:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iVVQ5SkdoRFlTVlp4bjEySDROY1hZdWEteno1NDRWdUhvYUZoOGhZeGg2TzllRDZtQ1Blc2tlZm9OdnBqdkJQelVXUQ?oc=5\" target=\"_blank\">AIに「ありがとう」と言うだけで数千万円の損失が…!? OpenAI代表サム・アルトマンも危惧するChatGPTの“恐るべき電気代”の真相</a>  文春オンライン",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "ChatGPT ヘルスケアが登場 - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tQmNYa2lFX3EtWVprWFROVDl5RG1FQVk1QXVFaDZmNXZjdnFuSTlhZk03TUxrNW1Zc2JUSnFQdERfa3c2MjVta2RyWURTNFNISWIzY181NDB6R1EyTWt2cW1PVWFwb3l1ZEE?oc=5",
+          "pubDate": "2026-01-07 21:35:17",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9tQmNYa2lFX3EtWVprWFROVDl5RG1FQVk1QXVFaDZmNXZjdnFuSTlhZk03TUxrNW1Zc2JUSnFQdERfa3c2MjVta2RyWURTNFNISWIzY181NDB6R1EyTWt2cW1PVWFwb3l1ZEE?oc=5\" target=\"_blank\">ChatGPT ヘルスケアが登場</a>  OpenAI</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ITnZHRzVKOUtmRjF1WHRwdms2c2Y0NVJwcmtHc2EteGRzeUpHWkw4UEVzTjJqN2syNnVOazFNaThOVFZlR3R4SW4tX1FmeFNHemNwbGxWMENzeFA1UlBmUkhlLUxtYW04TGF5anRXTFZMbzhOS2UxbEwyRFZDTXM?oc=5\" target=\"_blank\">OpenAI、健康支援機能「ChatGPT Health」を発表（ビジネス＋IT）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE15eWowUWd1TXEtZ0V6dko2TlUyV1laRnl0RXlJdFd2VFJxTlRGaTczLXAtcjFRX0IzT0pZYVdlMWdTTzBqTHl4RFE1UnUzVEo4VHJOTHhEbWUyOERZWWpzVlU5eTFsQVJXRlhIa01GSWoxa3lEaURV0gF8QVVfeXFMT25odU54cDBVeUVJUkNpVWEtX1g1N1J1aksxRDlNeFFpRzdFb3B3YVhHNUM5Vm5OOUtnTmhPcnh1RXRPMm5GN2JJR3M1Zkw3STZCRm5jd0pVV1ZGdWdmam1iM1lOZHhhSlpyeW5ISUUyeFBIOTFmN1JUbVNzSA?oc=5\" target=\"_blank\">OpenAIのChatGPTヘルスケア、個人情報をトレーニングには使わない</a>  ｄメニューニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cUJKcUJVcUVSc1VGQkZVdHpiNDVtSlp0UjltalQtQ2JRVlh4cmg5YXhpbTJOSkNLWU5aMGUwclpOUFFyNllyQ0MtZmV0NzR3eGY3ZlY2LXdyTDRzb0VJVdIBZkFVX3lxTE9xQjZuZHdPRFVYcWlFRWxqRV9Ob1F2dUQ3ZzlYdjB6UXpZN05na18zSzczOERQTWpNN2cwa1J6aUtEZEN5Y2Zxc1dlR1h4bV94MU1OclJsWjRuR0dCRDhfOV9Xc1VuQQ?oc=5\" target=\"_blank\">OpenAI、「ChatGPT ヘルスケア」発表　Apple「ヘルスケア」などと連携、基盤モデルの学習には使用せず</a>  リアルサウンド</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1pKcndzUVFjVURKTWF2RUI5Q0JNY3EwUi1YVkJGejl4Y0p4OWxFM3NFTWRwcV94LUZ3UzdWb21pZ2JzUGhFV2N3ZGlfaWc2WlVpLXNxYUFueVhVTGxUUDc1TTF3NGwyTFBZTHg5TmJaS21kakJIMkduX0xSNWlRb0hwS1dfUUpqMGhiZzloa1ZIMHRkcEcwdE9laUZEWDBxelZ0bnVR?oc=5\" target=\"_blank\">OpenAI、健康特化版｢ChatGPTヘルスケア｣をリリース</a>  ギズモード・ジャパン</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5xUmR6b3JEYlZqYlJPZDc1akNobzRxcDQ1a2NqeUo3eWttSF9LYmZJOEs3WDhNazB6MTg4c1MxeGdrSHJrampvWWgwTVJCcWZiR2JhQ3U0VWFpRG9aangyLXZNVjZiQkpzcFdxZl9JN0hjaW1JZEtr?oc=5\" target=\"_blank\">ChatGPTにヘルスケア機能、検査結果の理解を支援－食事アドバイスも</a>  Bloomberg.com</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQXJMbVdQWm9IOHlja21Jb283MF9QVWpFTUxUN1p6cEs3TVEtYUtfV01IZURTclV5NzVxRW1ucXFpUlFIRHNXYVhCNzR1SDBRT1VxZzVvVlhMSVpwZVpSMmRsRQ?oc=5\" target=\"_blank\">OpenAI for Healthcare のご紹介</a>  OpenAI</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MzRRU2RiVzBEXzRGT3NUUXVTMGpTTjN0eXIyNVRyOVRrUzJBRmNXZmo2QVNJNGw1V2RTSmFHRnJ1WTJsM2U0R1Jib1U4VzE1ZXZObFRiT05LMFdtRkw4YXJrSXgweEg1bm9VWEhST2NDYjJoeE15eWE5a1FLcDQ?oc=5\" target=\"_blank\">OpenAI、医療機関向け「OpenAI for Healthcare」発表 HIPAA準拠で組織導入を支援（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
           "title": "ChatGPTをダイエットの相棒に。生成AIとの1カ月ゆるダイエット生活 - ソフトバンク",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6SEg5Z0dIMEthV1ZjSUdiTHBpeFJ0VkFmRGMzamtZYmFfMU9lemhTTndCRW05S1NURm1JR2t4UWdBQ0VGT19SNFJtVG9sSUlSUXBGMHhWSnBLU29r?oc=5",
           "pubDate": "2026-01-07 05:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6SEg5Z0dIMEthV1ZjSUdiTHBpeFJ0VkFmRGMzamtZYmFfMU9lemhTTndCRW05S1NURm1JR2t4UWdBQ0VGT19SNFJtVG9sSUlSUXBGMHhWSnBLU29r?oc=5\" target=\"_blank\">ChatGPTをダイエットの相棒に。生成AIとの1カ月ゆるダイエット生活</a>  ソフトバンク",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -100,14 +100,14 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2eFZpRWVzUEdvLUtOVFZzRkt6ZVctMmNKSlRjUU5zVUk2emV2Z1Q5WUp1WnYwV0M0SFlieE4wci1Ka2o3N1p5RVBQNWQ5bmZiWjM1bC1vdXVpcGpLc3hBbW1peXJ6N21wc1JzalNuUjg4Zw?oc=5",
           "pubDate": "2025-12-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB2eFZpRWVzUEdvLUtOVFZzRkt6ZVctMmNKSlRjUU5zVUk2emV2Z1Q5WUp1WnYwV0M0SFlieE4wci1Ka2o3N1p5RVBQNWQ5bmZiWjM1bC1vdXVpcGpLc3hBbW1peXJ6N21wc1JzalNuUjg4Zw?oc=5\" target=\"_blank\">Microsoft、AIエージェントで古いJavaScript/TypeScriptアプリ更新を自動化するツール公開</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
         {
           "title": "CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大 - 共同通信PRワイヤー",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5\" target=\"_blank\">CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大</a>  共同通信PRワイヤー",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         },
         {
           "title": "Microsoft AI Tour Osaka | AI の最新イノベーションを大阪で体験 - Microsoft",
@@ -175,7 +175,7 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxZFA5QWIxWU5ZSE1pOHNNejJiaVBLTnJINXc3V1ItYkpVYTY3U2YtbmtHd1dVMUZPRjRLUGMzTXpWOVdHNXkxUUsxMzY3NUN5MUxOZGh0cmcxUnpfOWlGMzNR0gFnQVVfeXFMT1dxVjVzc3JsaWRfa2I5Mll5eEhyOU4tWXVSRThGS2dnWHlBdmZKVUdpRDlKRWVoa3AyeXRsbUFhUnlZWXF3NGx5YkZqanBMeUF2Z21TeE1tcllHOTVmU05VNmpIQ1F6UQ?oc=5",
           "pubDate": "2026-01-08 12:35:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxZFA5QWIxWU5ZSE1pOHNNejJiaVBLTnJINXc3V1ItYkpVYTY3U2YtbmtHd1dVMUZPRjRLUGMzTXpWOVdHNXkxUUsxMzY3NUN5MUxOZGh0cmcxUnpfOWlGMzNR0gFnQVVfeXFMT1dxVjVzc3JsaWRfa2I5Mll5eEhyOU4tWXVSRThGS2dnWHlBdmZKVUdpRDlKRWVoa3AyeXRsbUFhUnlZWXF3NGx5YkZqanBMeUF2Z21TeE1tcllHOTVmU05VNmpIQ1F6UQ?oc=5\" target=\"_blank\">Aws BedrockはXrp Ledgerのモニタリングと分析を加速する可能性がある</a>  Bitget",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
         },
         {
           "title": "Amazon、AIアシスタント「Alexa+」をWebに拡張 ブラウザから利用可能に - Plus Web3",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5",
           "pubDate": "2025-09-02 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5\" target=\"_blank\">Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に</a>  About Amazon Japan",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
         }
       ]
     },
@@ -223,7 +223,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUk9pTmxFYkV5dXppVkRVVlVzVGlwUklpY1BOMS0zUjUxc3p6WGxyYjN5bFVOeWlISUVUUWdjM1QwWnVQN2pJSWdGZGtaOTJtcGM5TW9QcDU?oc=5",
           "pubDate": "2025-12-30 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUk9pTmxFYkV5dXppVkRVVlVzVGlwUklpY1BOMS0zUjUxc3p6WGxyYjN5bFVOeWlISUVUUWdjM1QwWnVQN2pJSWdGZGtaOTJtcGM5TW9QcDU?oc=5\" target=\"_blank\">Meta、汎用AIエージェント開発企業「Manus」を買収──Meta AIへの統合を表明</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
@@ -237,14 +237,14 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5",
           "pubDate": "2025-08-21 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5\" target=\"_blank\">Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！</a>  ai-market.jp",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
           "title": "Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説 - AIsmiley",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5",
           "pubDate": "2025-07-18 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5\" target=\"_blank\">Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         }
       ]
     },
@@ -264,7 +264,7 @@
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01by1fS080V1Z6cWxSMklrVTUybWZiU3l1Z1ZtdGRXck50RUVIbzRkZWphVEJwTS12SWdhVzhveUpTdFJFOGdldV9Qd1VGSXZnMUlGaENjQmlfYWI5N1JkZjlXRQ?oc=5",
           "pubDate": "2026-01-10 00:01:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE01by1fS080V1Z6cWxSMklrVTUybWZiU3l1Z1ZtdGRXck50RUVIbzRkZWphVEJwTS12SWdhVzhveUpTdFJFOGdldV9Qd1VGSXZnMUlGaENjQmlfYWI5N1JkZjlXRQ?oc=5\" target=\"_blank\">画像生成をＸ有料会員限定に 性的画像問題対応で―マスク氏のＡＩ「グロック」</a>  時事ドットコム",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "ＸのＡＩ「グロック」、画像生成を有料会員限定に 性的画像問題に対応 - Reuters",
@@ -278,13 +278,13 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Nb21pQVJMUjl2dV9UeFkwQU5NVnFBcU1QendvVnFTbHZlTk1wd2lyd0hld2F1VHdndXRzb2tSTkF2U2FyTFk4dmFVTms1ZS0tMnc?oc=5",
           "pubDate": "2026-01-09 07:45:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Nb21pQVJMUjl2dV9UeFkwQU5NVnFBcU1QendvVnFTbHZlTk1wd2lyd0hld2F1VHdndXRzb2tSTkF2U2FyTFk4dmFVTms1ZS0tMnc?oc=5\" target=\"_blank\">マスク氏の生成AI「Grok」、「デジタルで服を脱がせ」炎上 各国当局が調査開始</a>  CNN.co.jp",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
-          "title": "xAIに批判集まる、グロックで児童の性的画像生成 - WSJ日本版",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDdIbDRmQjFfRkwyek5RQkg4eDZ1NGdZbms0SlpqZEhnWnVLa3paWXZzMkF6TE00SGZKUzBWNWVCU2JYdjZZeVpMMFFkSm5vV0hFSEg2SUxiaWJLMThuUnBLMHlFUTNiOGJLdmZXWEZsLUFqWmdvUnZsN1NHMlFvUkV0Y3JRRW1UQ3ZCdkYzb2I?oc=5",
-          "pubDate": "2026-01-09 03:38:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDdIbDRmQjFfRkwyek5RQkg4eDZ1NGdZbms0SlpqZEhnWnVLa3paWXZzMkF6TE00SGZKUzBWNWVCU2JYdjZZeVpMMFFkSm5vV0hFSEg2SUxiaWJLMThuUnBLMHlFUTNiOGJLdmZXWEZsLUFqWmdvUnZsN1NHMlFvUkV0Y3JRRW1UQ3ZCdkYzb2I?oc=5\" target=\"_blank\">xAIに批判集まる、グロックで児童の性的画像生成</a>  WSJ日本版",
+          "title": "広がる被害、動き鈍い日本政府 Grokの性的ディープフェイク - 毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CNUZvYm9nOU9LaGwyR2Rld2NFc2tpdWZXX2FkRHBSRmpka0tvSGVFeHpSWDU2eWhpcEFSVWFxU1pqTGxpal91QlNWX2VXSm9ZeWk1WVZhdG42T05DV0xGYWM0a3hrU2Zr?oc=5",
+          "pubDate": "2026-01-08 20:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CNUZvYm9nOU9LaGwyR2Rld2NFc2tpdWZXX2FkRHBSRmpka0tvSGVFeHpSWDU2eWhpcEFSVWFxU1pqTGxpal91QlNWX2VXSm9ZeWk1WVZhdG42T05DV0xGYWM0a3hrU2Zr?oc=5\" target=\"_blank\">広がる被害、動き鈍い日本政府 Grokの性的ディープフェイク</a>  毎日新聞",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
