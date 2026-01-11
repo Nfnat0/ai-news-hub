@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-11T06:53:32.586Z",
+  "fetchedAt": "2026-01-11T13:07:17.815Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,14 +11,14 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5",
           "pubDate": "2026-01-08 13:17:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5\" target=\"_blank\">EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス） - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5",
           "pubDate": "2026-01-07 03:52:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5\" target=\"_blank\">VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス）</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
@@ -185,10 +185,17 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
-          "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ASCII.jp",
+          "title": "大学生の最新AI活用術 たった2日でスマホアプリ開発「2秒ずつ撮影した動画を自動編集」（朝日新聞デジタルマガジン＆［and］） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5",
+          "pubDate": "2026-01-07 09:05:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFFKNkhNTTlud0xhNzJPWExkdllxOUphU1BRV0EyUW5qcDhZNTl2S3AxbzEzb1FoSXA4QndNZ2hScF9yMmVUOVhwejZ4endPQnlWemNuRjRhSDllZ3hXWGNWNTVheHk5TXI5WjR1Rm5vd0tvLWY3dHJlMkU4bHc?oc=5\" target=\"_blank\">大学生の最新AI活用術 たった2日でスマホアプリ開発「2秒ずつ撮影した動画を自動編集」（朝日新聞デジタルマガジン＆［and］）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+        },
+        {
+          "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ascii.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5",
           "pubDate": "2026-01-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ASCII.jp",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ascii.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
@@ -197,13 +204,6 @@
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
-          "title": "無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる - Impress Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY0ZNVm45MkZvZ1JqTk05SUVGbW51SEJxSG5CT0k2Q0FNQUdoOTlxY2JiUm9fVGlRenVnbE0tQTJiT2hFODlyR3NSZFFhTEJmNkZpa3F6bUxPVjd3QWlFMV9heDFhQQ?oc=5\" target=\"_blank\">無料でバイブコーディング! 「Google Antigravity」なら自分用ツールを好きなだけ作れる</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         }
       ]
     }
