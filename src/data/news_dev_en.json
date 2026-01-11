@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-10T21:39:07.239Z",
+  "fetchedAt": "2026-01-11T04:33:20.975Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Arvid Lunnemark - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZHVOVXFsQlVfdkpKdVdqTFdXejRLY2FHZTU4WGFRQlRYeUlhVkxqNkhFQWI3TThEZlVrRWJzNGltdFlWQXlsTHU1bXpoVm96ZDhCUndJV0pJdkk?oc=5",
-          "pubDate": "2026-01-10 00:27:42",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZHVOVXFsQlVfdkpKdVdqTFdXejRLY2FHZTU4WGFRQlRYeUlhVkxqNkhFQWI3TThEZlVrRWJzNGltdFlWQXlsTHU1bXpoVm96ZDhCUndJV0pJdkk?oc=5\" target=\"_blank\">Arvid Lunnemark</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "title": "Aman Sanger, 25, becomes billionaire as cursor sparks an AI coding revolution - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeUVGWExGUVdENnRCMHRtR1FTcG9tbHZnV19wX29xR0MwUE8tU1VtNUtMZlp5cFh2RFBzb3lqVTdRQUpvb0EwU0FUV2gtcVJjdXB0ajNUa0dvT0xUc0lCUlJjN014ZDM2dXJxV3NjY1lKSlNab21pS002Wnd2OWR1R1A4QjI0SjVSTnBhRUZRUnhWcGx5NHR6WVpqa0hMalpkWXU5c2V0MTVXVGFZWXp5SDNXQ2dmWm9XdGJkVjM4YkJUcG9CV3ZrT3pwSV9IcVF0LUJGYmdCUnZ4TUVzdS1xcUZxbzlKUURmUEh2NlVURkMwcmw3Zi1Za05XYzFsYTdZdWlhTUdmSlVjMHV1bWRiLXNGRzYtQkp6MmxjVXBFX2NHSHRTcDZRSS0tak92TXJfaXk1ZGlNRk0yS1UyVlMtaENDVXh5ZFZGZjNJUzM4RTMzV1hrTlpESVhkT0VsbUk?oc=5",
+          "pubDate": "2026-01-10 12:11:29",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeUVGWExGUVdENnRCMHRtR1FTcG9tbHZnV19wX29xR0MwUE8tU1VtNUtMZlp5cFh2RFBzb3lqVTdRQUpvb0EwU0FUV2gtcVJjdXB0ajNUa0dvT0xUc0lCUlJjN014ZDM2dXJxV3NjY1lKSlNab21pS002Wnd2OWR1R1A4QjI0SjVSTnBhRUZRUnhWcGx5NHR6WVpqa0hMalpkWXU5c2V0MTVXVGFZWXp5SDNXQ2dmWm9XdGJkVjM4YkJUcG9CV3ZrT3pwSV9IcVF0LUJGYmdCUnZ4TUVzdS1xcUZxbzlKUURmUEh2NlVURkMwcmw3Zi1Za05XYzFsYTdZdWlhTUdmSlVjMHV1bWRiLXNGRzYtQkp6MmxjVXBFX2NHSHRTcDZRSS0tak92TXJfaXk1ZGlNRk0yS1UyVlMtaENDVXh5ZFZGZjNJUzM4RTMzV1hrTlpESVhkT0VsbUk?oc=5\" target=\"_blank\">Aman Sanger, 25, becomes billionaire as cursor sparks an AI coding revolution</a>  MSN",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals - Venturebeat",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0hoZXRTUEdodExRVDd1RmxXSjJ2S3VKY3lPSGF5VDlxTEJkM1lCdkwyVzgwNjBFamw5aEJCTVo1NWFQYXJfZ2NlOUFLODhXOHVQUzlFY2FsY1A3WE10VVYyNmNuc2dSaVpVR0JHd2dudjdPYlo4X3loaUxzc1FMRlZhYlpjcDBFcV9aOGEwSWV5WmRuV0J3V1pFdzRTN3NDb3FnUHhEakc4NUdZZVVF?oc=5",
           "pubDate": "2026-01-09 23:14:31",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0hoZXRTUEdodExRVDd1RmxXSjJ2S3VKY3lPSGF5VDlxTEJkM1lCdkwyVzgwNjBFamw5aEJCTVo1NWFQYXJfZ2NlOUFLODhXOHVQUzlFY2FsY1A3WE10VVYyNmNuc2dSaVpVR0JHd2dudjdPYlo4X3loaUxzc1FMRlZhYlpjcDBFcV9aOGEwSWV5WmRuV0J3V1pFdzRTN3NDb3FnUHhEakc4NUdZZVVF?oc=5\" target=\"_blank\">Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals</a>  Venturebeat",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "The Blinking Cursor and the Purpose of Pedagogy: writing slowly in an efficient world - The City College of New York",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEs0UEJFdkk4Y0JHZzI4YUkwSUVjTVdUZVAyS0xXemhmT0RLNVdELUJuSFVkV0l1TE1pSkh0Ul9ZLXVLck9tWVJILWcyMENGTUlkaEpJS1lUWmpGNVNEaWRDZnNhTVZkS3I5bmdYRXZpdjNuSHFaTVBCN215c3ZFUElRdWlqM0NhSE1kcTdWSW1EWVZuUmhTdXNvVDNzOXpuUHU5Wi1pb3d1YUxWQkE?oc=5",
           "pubDate": "2026-01-09 16:49:26",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEs0UEJFdkk4Y0JHZzI4YUkwSUVjTVdUZVAyS0xXemhmT0RLNVdELUJuSFVkV0l1TE1pSkh0Ul9ZLXVLck9tWVJILWcyMENGTUlkaEpJS1lUWmpGNVNEaWRDZnNhTVZkS3I5bmdYRXZpdjNuSHFaTVBCN215c3ZFUElRdWlqM0NhSE1kcTdWSW1EWVZuUmhTdXNvVDNzOXpuUHU5Wi1pb3d1YUxWQkE?oc=5\" target=\"_blank\">The Blinking Cursor and the Purpose of Pedagogy: writing slowly in an efficient world</a>  The City College of New York",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor's most important AI features started as side projects engineers built themselves, says its engineering head - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHY0R1JES3ZTUldKa2F5YnNxM25ydU0tYmh0VmtyMFV4TEs2elZpS3dscUpIYUpxMjdwQTI0WWp0T21peHFLYWtRMHNpSE5oT1Z4c2l0dVk5TnhzNkRDZlpzbTY0Q0drQjBBWGc4Xy1oME5oS2FQaGt3cDE1eU5QVVV2ay1ZSlc0SXVFWndVWWRyOERDNTd3b0xmazJMT2Y4LUpPck9n?oc=5",
           "pubDate": "2026-01-09 06:01:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHY0R1JES3ZTUldKa2F5YnNxM25ydU0tYmh0VmtyMFV4TEs2elZpS3dscUpIYUpxMjdwQTI0WWp0T21peHFLYWtRMHNpSE5oT1Z4c2l0dVk5TnhzNkRDZlpzbTY0Q0drQjBBWGc4Xy1oME5oS2FQaGt3cDE1eU5QVVV2ay1ZSlc0SXVFWndVWWRyOERDNTd3b0xmazJMT2Y4LUpPck9n?oc=5\" target=\"_blank\">Cursor's most important AI features started as side projects engineers built themselves, says its engineering head</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises - PR Newswire",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5",
           "pubDate": "2026-01-08 13:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzB5aE5qYjZqZ2p0S2g3WXBqMFpDSlhKTHZIMGQ1SFprRGVhSzh6Uy1PaG9UbVQtaTZlYktNZ05UV1g1V2w5YkVjMXdvYTFXSjcwbXFEXzFwemxwYTFKd013aW42QkRZWTlBbVVUN1NUc1pOY0gyVklnWXk5ZDFwUDE1eDlhQmFBUzZ3VFcyWnhYN3lDajBwZUZCN1E3Mk5nd1BaZl82b1RwaUFCS2NBSWs0RFNKYy05SVRRQ1dnUEc4SC11eEl2VURVcnBXWW03V0x3ajFWOTFla3FIWmR6SFdRVWVuYVlYenFqbl9JOHZydw?oc=5\" target=\"_blank\">EPAM and Cursor Announce Strategic Partnership to Build and Scale AI-Native Teams for Global Enterprises</a>  PR Newswire",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot Statistics [2026] - About Chromebooks",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5",
-          "pubDate": "2026-01-07 18:48:21",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5\" target=\"_blank\">GitHub Copilot Statistics [2026]</a>  About Chromebooks",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+          "title": "Why expert developers refuse to \"vibe\" with AI coding tools - PPC Land",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0hFVXlQRk5Ebkg4czRmenNOaERaTG9PQlV4WVM3bURiYUxRMEE1R0J5dUstei1jTU5SRGJlNy1WckFnMDR5V3d0X1FZQ2pMMDZGeFlVRGZCVTM3eUhuS3I2ZGt5cTlhRndfTnd6Uzc2WWxuU2ZUTlBVelFnenhKdQ?oc=5",
+          "pubDate": "2026-01-10 14:26:22",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0hFVXlQRk5Ebkg4czRmenNOaERaTG9PQlV4WVM3bURiYUxRMEE1R0J5dUstei1jTU5SRGJlNy1WckFnMDR5V3d0X1FZQ2pMMDZGeFlVRGZCVTM3eUhuS3I2ZGt5cTlhRndfTnd6Uzc2WWxuU2ZUTlBVelFnenhKdQ?oc=5\" target=\"_blank\">Why expert developers refuse to \"vibe\" with AI coding tools</a>  PPC Land",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3ppVVhKNWhWQWU2b2JoQmFuZWlLSG9mSm5mM0g1RmJDMUlWVEJIbllBSU1UcXdTY3ZJXzdrS2ZsU0ppa2FiSG1IbVNqQ3dtdDJ0dWtidGo0VmZSeXUxR2hTYUNhQ1M3Tnlwcll5Q3UxeG5yX2hrOWg5ZVpWcG52UW1QTktmVWhkZnZEeVFNbEZ1bk4yTFJNTTJ1bkdYa18wUmQwS193?oc=5",
           "pubDate": "2025-12-30 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3ppVVhKNWhWQWU2b2JoQmFuZWlLSG9mSm5mM0g1RmJDMUlWVEJIbllBSU1UcXdTY3ZJXzdrS2ZsU0ppa2FiSG1IbVNqQ3dtdDJ0dWtidGo0VmZSeXUxR2hTYUNhQ1M3Tnlwcll5Q3UxeG5yX2hrOWg5ZVpWcG52UW1QTktmVWhkZnZEeVFNbEZ1bk4yTFJNTTJ1bkdYa18wUmQwS193?oc=5\" target=\"_blank\">Agentic AI, MCP, and spec-driven development: Top blog posts of 2025</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
           "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
           "pubDate": "2025-12-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5\" target=\"_blank\">WRAP up your backlog with GitHub Copilot coding agent</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "GPT-5.2 is now generally available in GitHub Copilot - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE1pX2ZfdVNSWTBqQ01vVlNpcjh0WDIxNGlxT0xEXy1sempRQy1CVHN5VEpGSHFvZktXcWhvcmJrOW0xUXpBdVVnUFdhU0ltakFVY0kyNEk1NjBMUjNEejBiSnJ5ZEYzQm91S1FkMlBXckJHZ3lCS3Uya21Tdi1Hd3VVdl9oeDliUUVvYUlLT2pIVjd2QTk4TnRR?oc=5\" target=\"_blank\">GPT-5.2 is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "How to write a great agents.md: Lessons from over 2,500 repositories - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWdFbS12R1Z1SE9nM3NxdDd6Z0dlb19SLWwtZ0N0VGRDNFkwRnJsRGYweHlSaHhwVEl6VlFON1pPa0lsb0NhM0YtUm1vTkREV1p1SklobWlYcU1Cc3dfbndnWXAyeTl3cXo0ZW5xd1o2RE10Si1nYXBVQ1VES21scklqMGtrV0QzMk5yMmx6RkJ4Q1hvd18tMnR3dUhJejJaN3dHaE9yMG8xNmdwcTlvLU9R?oc=5\" target=\"_blank\">How to write a great agents.md: Lessons from over 2,500 repositories</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         }
       ]
     },
@@ -89,18 +89,18 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "AI Faceoff: Customized VS Code Commands - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFVUTWs1WFhuNVVlT3pZSFZuLWZkdkkwU3J0WVE1V1dUNHZhY2dxLUFlWkJhbkcxYlRsbmFCMEJ3TEYwRTd0ZTN4RE1JejRXT3JSdGd2QUhUUHg5bG1aMUZ6dWJvbmttci0xbHljQjh2ZlMtbXVDSkZuRDU0VFNaR2RiSFZaOUczYjVUZXVYOGZabFR4RF9oZ21kdk4?oc=5",
+          "pubDate": "2026-01-10 01:53:47",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFVUTWs1WFhuNVVlT3pZSFZuLWZkdkkwU3J0WVE1V1dUNHZhY2dxLUFlWkJhbkcxYlRsbmFCMEJ3TEYwRTd0ZTN4RE1JejRXT3JSdGd2QUhUUHg5bG1aMUZ6dWJvbmttci0xbHljQjh2ZlMtbXVDSkZuRDU0VFNaR2RiSFZaOUczYjVUZXVYOGZabFR4RF9oZ21kdk4?oc=5\" target=\"_blank\">AI Faceoff: Customized VS Code Commands</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
           "title": "Visual Studio Code adds support for agent skills - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTA4bnhKNHpzN1c1eGpkSHpwbnRlMXRJOVpIQVVxZ0hwUGQ5UXhJVXg0RW9RZzR0c2t2QjFodjc0V2V4QUpVZjRScVcxdE1aWHJwRkoyLS0zb1phR29oNGJheFBFaG05QVNlOVVUeVBVMDQ4OEk5dDdmd0pRN1BQa3JUWkdpUlhJaDBDWUt1VnNpcmxrRW01X0tuOA?oc=5",
           "pubDate": "2026-01-09 23:48:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTA4bnhKNHpzN1c1eGpkSHpwbnRlMXRJOVpIQVVxZ0hwUGQ5UXhJVXg0RW9RZzR0c2t2QjFodjc0V2V4QUpVZjRScVcxdE1aWHJwRkoyLS0zb1phR29oNGJheFBFaG05QVNlOVVUeVBVMDQ4OEk5dDdmd0pRN1BQa3JUWkdpUlhJaDBDWUt1VnNpcmxrRW01X0tuOA?oc=5\" target=\"_blank\">Visual Studio Code adds support for agent skills</a>  InfoWorld",
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lNGdxT3Z1dHozbENWdC1yWUdQUHI0b2t6YUpVZUZ1NFZVcjd0cEtxamVCczc2NThDa05HNFFXTkZFRHdfUFVnb3k5QzVzUjBPdlRnSG1KaDdweWJ2d1BXYWFXN3ZhVkJONHBuak5SV2xEUnJELWJfNnpn?oc=5",
-          "pubDate": "2026-01-06 11:25:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5lNGdxT3Z1dHozbENWdC1yWUdQUHI0b2t6YUpVZUZ1NFZVcjd0cEtxamVCczc2NThDa05HNFFXTkZFRHdfUFVnb3k5QzVzUjBPdlRnSG1KaDdweWJ2d1BXYWFXN3ZhVkJONHBuak5SV2xEUnJELWJfNnpn?oc=5\" target=\"_blank\">VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX</a>  The Hacker News",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "Visual Studio Code adds multi-agent orchestration - InfoWorld",
@@ -134,21 +134,21 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
           "pubDate": "2026-01-09 21:51:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5",
           "pubDate": "2026-01-05 11:50:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5\" target=\"_blank\">Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5\" target=\"_blank\">AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team</a>  About Amazon",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
           "title": "AWS' Kiro launches autonomous agents for individual developers - Constellation Research",
