@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-11T21:39:14.959Z",
+  "fetchedAt": "2026-01-12T04:35:57.160Z",
   "locale": "en",
   "companies": [
     {
@@ -48,17 +48,17 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5",
+          "pubDate": "2026-01-12 01:03:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5\" target=\"_blank\">Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
           "title": "The Autodev Revolution: How Devin and GitHub Copilot Workspace Redefined the Engineering Lifecycle - FinancialContent",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTY0RTNlMnduOWd2ZkNSLTZaR25BNTA2M05KOTdQVjdfYVhXVHpiRDZfcl9MMy03and5bjYxaTh0VE9yQkpMSVl2TXNCdjJiUjFTTTRIdkVzLUtyWmt4RjJadTZBSFVFVkhKajVZdFZVa3RmZk1wX1hmTUw3QXh5ZE5MVnAxYnlNeWcwYmw0dEdfWEtEdXZkOFRNR0RkYnJDaHZkeDk5S2RXNDFBMElUeU1zX2pnZlEteG54UTJSRDJVZTZhQTJLSXA0dDJ5eW9iUlRlZnBVNlJ5X0xMSVJBQTRmOVJVeUJXSl9YYkludnRzZ2daUE5lcmpTRXM?oc=5",
           "pubDate": "2026-01-09 20:08:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdTY0RTNlMnduOWd2ZkNSLTZaR25BNTA2M05KOTdQVjdfYVhXVHpiRDZfcl9MMy03and5bjYxaTh0VE9yQkpMSVl2TXNCdjJiUjFTTTRIdkVzLUtyWmt4RjJadTZBSFVFVkhKajVZdFZVa3RmZk1wX1hmTUw3QXh5ZE5MVnAxYnlNeWcwYmw0dEdfWEtEdXZkOFRNR0RkYnJDaHZkeDk5S2RXNDFBMElUeU1zX2pnZlEteG54UTJSRDJVZTZhQTJLSXA0dDJ5eW9iUlRlZnBVNlJ5X0xMSVJBQTRmOVJVeUJXSl9YYkludnRzZ2daUE5lcmpTRXM?oc=5\" target=\"_blank\">The Autodev Revolution: How Devin and GitHub Copilot Workspace Redefined the Engineering Lifecycle</a>  FinancialContent",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
-          "title": "GitHub Copilot Statistics [2026] - About Chromebooks",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5",
-          "pubDate": "2026-01-07 18:48:21",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU0NkWVFuUVNWZkxqOTZjVmx3VWNkZ1kxc2ZMR3l5Rk5KdDhLTEg0MzdWUWhUZ1ZwdHFEaWVuTzI4aFdFVTd6SXlGYmtkb3FMN25nay1wRE41MmtSekdhUk50S2Flb1dQQ0ZF?oc=5\" target=\"_blank\">GitHub Copilot Statistics [2026]</a>  About Chromebooks",
           "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
@@ -89,10 +89,10 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
-          "title": "AI Faceoff: Customized VS Code Commands - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFVUTWs1WFhuNVVlT3pZSFZuLWZkdkkwU3J0WVE1V1dUNHZhY2dxLUFlWkJhbkcxYlRsbmFCMEJ3TEYwRTd0ZTN4RE1JejRXT3JSdGd2QUhUUHg5bG1aMUZ6dWJvbmttci0xbHljQjh2ZlMtbXVDSkZuRDU0VFNaR2RiSFZaOUczYjVUZXVYOGZabFR4RF9oZ21kdk4?oc=5",
-          "pubDate": "2026-01-10 01:53:47",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFVUTWs1WFhuNVVlT3pZSFZuLWZkdkkwU3J0WVE1V1dUNHZhY2dxLUFlWkJhbkcxYlRsbmFCMEJ3TEYwRTd0ZTN4RE1JejRXT3JSdGd2QUhUUHg5bG1aMUZ6dWJvbmttci0xbHljQjh2ZlMtbXVDSkZuRDU0VFNaR2RiSFZaOUczYjVUZXVYOGZabFR4RF9oZ21kdk4?oc=5\" target=\"_blank\">AI Faceoff: Customized VS Code Commands</a>  Visual Studio Magazine",
+          "title": "Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5",
+          "pubDate": "2026-01-12 01:03:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5\" target=\"_blank\">Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code</a>  Visual Studio Magazine",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
@@ -171,13 +171,6 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google Antigravity IDE Guide : Vibe Code, Test &amp; Ship Autonomously - Geeky Gadgets",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBheHBhRkxiWnpaMGZVNHhLc09taHF2U0pUS0FZS3l5TFlPSGpWc3Zrb1ZRQU9icHBKZ0tMNE1tTmRUbVZhejZqVW1YUS1NOFZET3pjVUhZbUREeE5nSm4wZ3BDY05HUEJZOE9UOXdqX1hkdTR6OWc?oc=5",
-          "pubDate": "2026-01-10 13:03:13",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBheHBhRkxiWnpaMGZVNHhLc09taHF2U0pUS0FZS3l5TFlPSGpWc3Zrb1ZRQU9icHBKZ0tMNE1tTmRUbVZhejZqVW1YUS1NOFZET3pjVUhZbUREeE5nSm4wZ3BDY05HUEJZOE9UOXdqX1hkdTR6OWc?oc=5\" target=\"_blank\">Google Antigravity IDE Guide : Vibe Code, Test &amp; Ship Autonomously</a>  Geeky Gadgets",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
           "title": "The Google Antigravity hype train: 5 reasons why I won't buy that ticket - How-To Geek",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFhrQzhfMjZQbUNBdUhTd18tSG1weVRaNnNVTW9fWmFHNGVNYnFlNGZSNUdDNVdHOHBkVGYxMEhmMDdnSlRQMks3WmFOMmNldDl6eVFTakFWd0o4UnJ6YjRVWmpWNjNuYThmMGNFa3FMdnFhZzVIWm1KMEtuTEI0SXhuaEdBM3VKb1hKQmp4T0RKYXZpeXEzSkRQMEJyNFg3?oc=5",
           "pubDate": "2026-01-09 15:30:00",
@@ -189,6 +182,13 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+        },
+        {
+          "title": "Google's AI Deletes User's Entire Hard Drive, Issues Groveling Apology: \"I Cannot Express How Sorry I Am\" - Futurism",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVFRdGJaQ2NxaWlweUVrOFc2RS1HY0ZSLUdKSHM3LWFMdUdVTFBOazZSazNyZnoxRUtvRVRZUHZBblFiNGlSdjEwSEY4RHdqZWZlTGlEbkNYaHRuT3NtcmZtMGJ2bjVxVnYwTTkyVnpzbzlVZFVocFNwM1NZQ3ZzTw?oc=5",
+          "pubDate": "2025-12-06 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVFRdGJaQ2NxaWlweUVrOFc2RS1HY0ZSLUdKSHM3LWFMdUdVTFBOazZSazNyZnoxRUtvRVRZUHZBblFiNGlSdjEwSEY4RHdqZWZlTGlEbkNYaHRuT3NtcmZtMGJ2bjVxVnYwTTkyVnpzbzlVZFVocFNwM1NZQ3ZzTw?oc=5\" target=\"_blank\">Google's AI Deletes User's Entire Hard Drive, Issues Groveling Apology: \"I Cannot Express How Sorry I Am\"</a>  Futurism",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
@@ -196,14 +196,14 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
           "pubDate": "2025-12-05 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
