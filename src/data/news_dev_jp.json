@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-11T18:49:56.107Z",
+  "fetchedAt": "2026-01-12T02:38:38.040Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,14 +11,14 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5",
           "pubDate": "2026-01-08 13:17:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NHlSZ3JuQ0NZSkh0TjA0SmZHQXJsM0VScDUzN2tpR1E5dUFldjNBbGJRcHhLa0hTRWpabUpqMEhiOTlHWTNFWVdxRXlHUnRWYzR1UEJSWVdLQTBsSnZxNnhTWTN1eDBoWXE0VXdST2w?oc=5\" target=\"_blank\">EPAMシステムズとCursor、AI主導型開発チームの拡大へ提携 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス） - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5",
           "pubDate": "2026-01-07 03:52:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDSDdaT0NQYnZRVDl2QUZXbDBYSFFEQVhPV1pKMG90T3VMQ01YWmg3TGtzakkzZlIzbGViXzdPWUtkUWk2S1ppc09QejVQaHI4RlU5alF2UmFIM0tfZ1lKeEREZ0RMellU?oc=5\" target=\"_blank\">VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ | TECH+（テックプラス）</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -103,13 +103,6 @@
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
-          "title": "Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見 - 株式会社マキナレコード",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5",
-          "pubDate": "2025-12-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFliZFNhd3ZUWlJuMU1LZWRybVc1aHl0QjVGVW9wc3dwWEF3cGowbkVxeTdMVi0wbnlwUU9WbV95anltZm9ROEVMaWp0LTAxVldzemRzVmFXMzEyUTlpemNlaHMwQUpjbm11YnRlWVB0c3BZV2JDVV92NnJibHhiQjZaYWE?oc=5\" target=\"_blank\">Glasswormマルウェアの襲撃再び：悪性VS Codeパッケージ攻撃の第3波を研究者が発見</a>  株式会社マキナレコード",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
           "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
           "pubDate": "2025-11-25 08:00:00",
@@ -122,6 +115,13 @@
           "pubDate": "2025-11-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWUNrV1Vtal9EN1lDR21EVjV0aVFjTGJSS2JhQTZReFlndVJLZVM1QmhMU1dRSHlBVTE5YlhJT0xObUJtR1N5WG1hVWt6MDB6MzJBZnh3aGNEQU03Z2g1Y1RrYnN0dExfYjkxTQ?oc=5\" target=\"_blank\">Visual Studio Code、Agent HQに対応へ、自動承認のサブコマンド検出を改善、エージェント編集ファイルを自動で開く動作をデフォルトでオフに、インライン差分表示で削除コードを選択可能に</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        },
+        {
+          "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
+          "pubDate": "2025-08-08 02:21:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
@@ -192,10 +192,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
-          "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ascii.jp",
+          "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5",
           "pubDate": "2026-01-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ascii.jp",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
