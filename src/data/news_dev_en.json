@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-13T09:50:42.652Z",
+  "fetchedAt": "2026-01-13T15:50:04.045Z",
   "locale": "en",
   "companies": [
     {
@@ -90,23 +90,30 @@
       "news": [
         {
           "title": "VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjdhdEdJajMzc3ptaG1Fa1hXOFItcXJhS0dTNm9DcWpudlVweUJncHk1ZFAyZGU5MzJfR2FXSHVDaUh0M0tkNHFpODhuYmZ1WjQySEtUc3huczZad0JPVlNMSmN0US1FZVRDcTFzWEJMeGhSU3NHRk5JMnU5UDRxTW0zZmlyN3V6TDlXbGp0SWl3MHI5WmdtU25HeEc4bFVHZ1U1a0dzQkMtWTBnajFKNHY5WmUtS2FDeW04Mll5cElXdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXRqbDFndnlWWkJnY19heDlyOF93ZEdCTk1DLS1KQ2lid0tJVmNoQU5Hc1U1NEU2emljb0dXaE04NFZreUQ4NG1WNUZFRklfUlAzMTVZOUZFWHBZemVWM3dNb0Q3RmFJd25qQVJSMVpQRW4tS29fQW1XQmxpVmZDRG5MRzVjeWp0TTlibzNBQm5qVGZweUVpaXlmTjNZTlBUUEFjVWNIblJBeFg1VDRPOFVOTEh0MmMyM21zOGlZOUhOZw?oc=5",
           "pubDate": "2026-01-12 23:49:38",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjdhdEdJajMzc3ptaG1Fa1hXOFItcXJhS0dTNm9DcWpudlVweUJncHk1ZFAyZGU5MzJfR2FXSHVDaUh0M0tkNHFpODhuYmZ1WjQySEtUc3huczZad0JPVlNMSmN0US1FZVRDcTFzWEJMeGhSU3NHRk5JMnU5UDRxTW0zZmlyN3V6TDlXbGp0SWl3MHI5WmdtU25HeEc4bFVHZ1U1a0dzQkMtWTBnajFKNHY5WmUtS2FDeW04Mll5cElXdw?oc=5\" target=\"_blank\">VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "Why ‘boring’ VS Code keeps winning - InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG9Fb0lBdHo4ZzcxcFZSSmsxVFh2bFdYUFowNnFFOWtEZzlCWlR2VTd0QnI1WXJRZmh4a2gyMkFUdlFhYTdRMWdVWUJraHZkUDNRTFVhRm1aVk8xcmFmbzlTUUFNa1M4cm03UkljWkprX3FaNFcwSmhrNTh5Zm5OdFNEZUdEZw?oc=5",
-          "pubDate": "2026-01-12 09:02:50",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG9Fb0lBdHo4ZzcxcFZSSmsxVFh2bFdYUFowNnFFOWtEZzlCWlR2VTd0QnI1WXJRZmh4a2gyMkFUdlFhYTdRMWdVWUJraHZkUDNRTFVhRm1aVk8xcmFmbzlTUUFNa1M4cm03UkljWkprX3FaNFcwSmhrNTh5Zm5OdFNEZUdEZw?oc=5\" target=\"_blank\">Why ‘boring’ VS Code keeps winning</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXRqbDFndnlWWkJnY19heDlyOF93ZEdCTk1DLS1KQ2lid0tJVmNoQU5Hc1U1NEU2emljb0dXaE04NFZreUQ4NG1WNUZFRklfUlAzMTVZOUZFWHBZemVWM3dNb0Q3RmFJd25qQVJSMVpQRW4tS29fQW1XQmxpVmZDRG5MRzVjeWp0TTlibzNBQm5qVGZweUVpaXlmTjNZTlBUUEFjVWNIblJBeFg1VDRPOFVOTEh0MmMyM21zOGlZOUhOZw?oc=5\" target=\"_blank\">VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Visual Studio Code adds support for agent skills - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTA4bnhKNHpzN1c1eGpkSHpwbnRlMXRJOVpIQVVxZ0hwUGQ5UXhJVXg0RW9RZzR0c2t2QjFodjc0V2V4QUpVZjRScVcxdE1aWHJwRkoyLS0zb1phR29oNGJheFBFaG05QVNlOVVUeVBVMDQ4OEk5dDdmd0pRN1BQa3JUWkdpUlhJaDBDWUt1VnNpcmxrRW01X0tuOA?oc=5",
           "pubDate": "2026-01-09 23:48:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTA4bnhKNHpzN1c1eGpkSHpwbnRlMXRJOVpIQVVxZ0hwUGQ5UXhJVXg0RW9RZzR0c2t2QjFodjc0V2V4QUpVZjRScVcxdE1aWHJwRkoyLS0zb1phR29oNGJheFBFaG05QVNlOVVUeVBVMDQ4OEk5dDdmd0pRN1BQa3JUWkdpUlhJaDBDWUt1VnNpcmxrRW01X0tuOA?oc=5\" target=\"_blank\">Visual Studio Code adds support for agent skills</a>  InfoWorld",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        },
+        {
+          "title": "Visual Studio Code gets more terminal and Git improvements in latest update - How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5fZno1M0V4bEstdkhMNHJ5UkhrbWs1cU0tRmZyR3VtOS03b09oU0VVekkxSE91X3QzRWc3RjZ2MGdpd0ZlcHZJdXpaVURWLTZUS00wUVMxMmNJV1BPVHlOYTM0WDN4RGRZdnViSjNqcGZlcnhtOFlIQlh5N0FaUnRHMGdaVUR6MGVZYW5PY0JLVldDZU9kUjFVNDd4Y2gxeGZaWQ?oc=5",
+          "pubDate": "2026-01-08 20:59:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5fZno1M0V4bEstdkhMNHJ5UkhrbWs1cU0tRmZyR3VtOS03b09oU0VVekkxSE91X3QzRWc3RjZ2MGdpd0ZlcHZJdXpaVURWLTZUS00wUVMxMmNJV1BPVHlOYTM0WDN4RGRZdnViSjNqcGZlcnhtOFlIQlh5N0FaUnRHMGdaVUR6MGVZYW5PY0JLVldDZU9kUjFVNDd4Y2gxeGZaWQ?oc=5\" target=\"_blank\">Visual Studio Code gets more terminal and Git improvements in latest update</a>  How-To Geek",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
+          "title": "VSCode IDE forks expose users to \"recommended extension\" attacks - BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODFhRk9WOFZ2MHhvZVBvVHZqX0YySGpFNUxSVHFic014bXgzSm5XeDk0SDNaS1g3MkVoMnJCVXpoRExuTGVwNTJIZ3N4QlJBUUdHVms3aXQ1bHFjZlNxa1lUSk1CbU8tVkg5bG1PN1liOW5lZUJiRUpqWDlpdWtBamtYaGdvbHlxendYZkp1RDlDUG5NNnozMlZrS285MFVFU3owdDlxenBkUVhqWl9N0gG0AUFVX3lxTFB5bi1melU4V2picGlNcFd6bFlzLS1mTjNBYTFrT1I2eS1nMHNBS09WcGU4Smh1dHR1Wi1WdFVCSjZCRUprN1JhRHk0VzVWekRLRlBUWllQWmYtSnlYck9JRDJOSE5WMFpUVG5rWV9BWEJJbGMyZEd4T2Ytb3dVZlFzMjlyTk5GRXZaM19CQWtKWDJTcmhvNGxBa3hsTWlFc0doNXhON3BsZEg2RFJIRjFFdFpzYQ?oc=5",
+          "pubDate": "2026-01-05 16:41:38",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOODFhRk9WOFZ2MHhvZVBvVHZqX0YySGpFNUxSVHFic014bXgzSm5XeDk0SDNaS1g3MkVoMnJCVXpoRExuTGVwNTJIZ3N4QlJBUUdHVms3aXQ1bHFjZlNxa1lUSk1CbU8tVkg5bG1PN1liOW5lZUJiRUpqWDlpdWtBamtYaGdvbHlxendYZkp1RDlDUG5NNnozMlZrS285MFVFU3owdDlxenBkUVhqWl9N0gG0AUFVX3lxTFB5bi1melU4V2picGlNcFd6bFlzLS1mTjNBYTFrT1I2eS1nMHNBS09WcGU4Smh1dHR1Wi1WdFVCSjZCRUprN1JhRHk0VzVWekRLRlBUWllQWmYtSnlYck9JRDJOSE5WMFpUVG5rWV9BWEJJbGMyZEd4T2Ytb3dVZlFzMjlyTk5GRXZaM19CQWtKWDJTcmhvNGxBa3hsTWlFc0doNXhON3BsZEg2RFJIRjFFdFpzYQ?oc=5\" target=\"_blank\">VSCode IDE forks expose users to \"recommended extension\" attacks</a>  BleepingComputer",
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
@@ -114,13 +121,6 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5",
           "pubDate": "2025-12-12 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnFYc3BGUjBBNFJMTEU4MTBpcl9NaG56YlNiazlCLURKeVd4Q21FMjFEM1ZBS1h2UmJwaXBMbUhka01FQ25BWE4zaS1UVnRBNUlnYVFTZXZodGtBdVRBQ2k2MG5KcnBmYXJqc3BYZFBRN0c5enhfWHVJc0ZGRHZjTDZOSFJRRUxkMkRGc0lsX2FnMndSdFhrNE9sa0k?oc=5\" target=\"_blank\">Visual Studio Code adds multi-agent orchestration</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
-        },
-        {
-          "title": "Malware Discovered in 19 Visual Studio Code Extensions - Infosecurity Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5",
-          "pubDate": "2025-12-11 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUFudzd6VnE1Y3V4bEpCUFViWnBtd1ljV1ktZmhrSzdFQWNjS3E1ZmtNeHVIUFlsTHZITXRCNUI4VjhNZFFjaWlCUHVMWFl6a25NUk50clpWZUdReWZBUWxPYWhwR3RBdE80YWFjVV9zeHFaS19YMHJaVkIwczFONFhB?oc=5\" target=\"_blank\">Malware Discovered in 19 Visual Studio Code Extensions</a>  Infosecurity Magazine",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         }
       ]
@@ -141,7 +141,7 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5",
           "pubDate": "2026-01-05 11:50:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5\" target=\"_blank\">Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
@@ -155,7 +155,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
@@ -171,17 +171,17 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "Even Linus Torvalds is trying his hand at vibe coding (but just a little) - Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdhbE81TktLM0NrYktLeHZDbUtENXVzM0wwZ1RhcjY3Q2U0MXppVkxxWEp5SEh0ZXpEX1dSY0R1cEpmWGlnSzl1MlY5Q0FaTWdLZjhJa3c5VDJHNGlGTmRuZnBxX3dFQ2pnczk0WW1RMlNPTWFVUEhuWkV5VXhVM0FYZkEzeXFaSU5Hd0JuaGlvTzdZSW9HVFd2TQ?oc=5",
+          "pubDate": "2026-01-12 22:27:50",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdhbE81TktLM0NrYktLeHZDbUtENXVzM0wwZ1RhcjY3Q2U0MXppVkxxWEp5SEh0ZXpEX1dSY0R1cEpmWGlnSzl1MlY5Q0FaTWdLZjhJa3c5VDJHNGlGTmRuZnBxX3dFQ2pnczk0WW1RMlNPTWFVUEhuWkV5VXhVM0FYZkEzeXFaSU5Hd0JuaGlvTzdZSW9HVFd2TQ?oc=5\" target=\"_blank\">Even Linus Torvalds is trying his hand at vibe coding (but just a little)</a>  Ars Technica",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
           "title": "Linus Torvalds used Google’s Anti-Gravity to vibe-code a visualizer tool - Adafruit",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR041anQ1OWk3ZTdxSHY2bHY1MGFDd2FRYTU2blpuSExOVEJpeWQ2T1QxSDV1UWp6enlNbWZmd3IxV3BDVWU5SmZETS1YYkE1R2lRaWx1R2ZJTGVMSVo4cUN4bzVpYjdhc29NeDRkNjZRRWlXa3RQNlBKOHdmZklNaGVHSnM3VjV1Y0tkeFNJMDVEYTBSSkRBdll6TEN4Q0JJTXdrZ1A2eVpfbWVhMXc?oc=5",
           "pubDate": "2026-01-12 15:31:42",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNR041anQ1OWk3ZTdxSHY2bHY1MGFDd2FRYTU2blpuSExOVEJpeWQ2T1QxSDV1UWp6enlNbWZmd3IxV3BDVWU5SmZETS1YYkE1R2lRaWx1R2ZJTGVMSVo4cUN4bzVpYjdhc29NeDRkNjZRRWlXa3RQNlBKOHdmZklNaGVHSnM3VjV1Y0tkeFNJMDVEYTBSSkRBdll6TEN4Q0JJTXdrZ1A2eVpfbWVhMXc?oc=5\" target=\"_blank\">Linus Torvalds used Google’s Anti-Gravity to vibe-code a visualizer tool</a>  Adafruit",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
-        },
-        {
-          "title": "Google Antigravity IDE Guide : Vibe Code, Test &amp; Ship Autonomously - Geeky Gadgets",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBheHBhRkxiWnpaMGZVNHhLc09taHF2U0pUS0FZS3l5TFlPSGpWc3Zrb1ZRQU9icHBKZ0tMNE1tTmRUbVZhejZqVW1YUS1NOFZET3pjVUhZbUREeE5nSm4wZ3BDY05HUEJZOE9UOXdqX1hkdTR6OWc?oc=5",
-          "pubDate": "2026-01-10 13:03:13",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBheHBhRkxiWnpaMGZVNHhLc09taHF2U0pUS0FZS3l5TFlPSGpWc3Zrb1ZRQU9icHBKZ0tMNE1tTmRUbVZhejZqVW1YUS1NOFZET3pjVUhZbUREeE5nSm4wZ3BDY05HUEJZOE9UOXdqX1hkdTR6OWc?oc=5\" target=\"_blank\">Google Antigravity IDE Guide : Vibe Code, Test &amp; Ship Autonomously</a>  Geeky Gadgets",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
@@ -196,14 +196,14 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
           "pubDate": "2025-12-05 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
