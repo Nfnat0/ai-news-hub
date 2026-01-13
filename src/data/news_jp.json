@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-13T06:02:25.676Z",
+  "fetchedAt": "2026-01-13T12:20:22.922Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,18 +7,25 @@
       "displayName": "Google",
       "news": [
         {
+          "title": "「Apple Intelligence」の次世代基盤に「Gemini」を採用へ、グーグルとアップルが生成AIで戦略的提携 - IT Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdXBRZV9hRW5DaW5ZZXhHWWdDa2ppX0d1V21NQ2Q2eWJKNE5GSHEwVWtwNm83RGlnUTFzY2otY3d6bjRYbnk1YkI1LTdHUHd0ZXZF?oc=5",
+          "pubDate": "2026-01-13 03:36:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdXBRZV9hRW5DaW5ZZXhHWWdDa2ppX0d1V21NQ2Q2eWJKNE5GSHEwVWtwNm83RGlnUTFzY2otY3d6bjRYbnk1YkI1LTdHUHd0ZXZF?oc=5\" target=\"_blank\">「Apple Intelligence」の次世代基盤に「Gemini」を採用へ、グーグルとアップルが生成AIで戦略的提携</a>  IT Leaders",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
+          "title": "次世代のSiriはGeminiベースで開発！ GoogleとAppleがコラボを発表 - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlJUOVFqbjdTZE1EaGcxby1WaGFmWTB0SVBLaXVsV0tTX0xhNEJlcHpyXzB2Q3JBZ1FWYzR5Q29OVEFxNXhyb21qcHJubVdDY1UyZVZDQ2NER2xQWlIzY0Fxa0dJRkpsN3RqZWhuMDJzemhfSUZZYmhiejZsai1zY0doRUxkWnBla2xBdEpB?oc=5",
+          "pubDate": "2026-01-13 03:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlJUOVFqbjdTZE1EaGcxby1WaGFmWTB0SVBLaXVsV0tTX0xhNEJlcHpyXzB2Q3JBZ1FWYzR5Q29OVEFxNXhyb21qcHJubVdDY1UyZVZDQ2NER2xQWlIzY0Fxa0dJRkpsN3RqZWhuMDJzemhfSUZZYmhiejZsai1zY0doRUxkWnBla2xBdEpB?oc=5\" target=\"_blank\">次世代のSiriはGeminiベースで開発！ GoogleとAppleがコラボを発表</a>  ギズモード・ジャパン",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
           "title": "アップルとグーグルがAIで提携--次世代「Siri」の基盤に「Gemini」採用へ - ZDNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYmJjSXFzeW9iei1MN1pGSzFlQ0VvdWtKMzk3REV0LWFhWHo2SVdITVM3SEppLTQtaWZ4eDlYUDJ4SzZENTM0TUM3ODBRcHZ0dGR3?oc=5",
           "pubDate": "2026-01-12 22:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYmJjSXFzeW9iei1MN1pGSzFlQ0VvdWtKMzk3REV0LWFhWHo2SVdITVM3SEppLTQtaWZ4eDlYUDJ4SzZENTM0TUM3ODBRcHZ0dGR3?oc=5\" target=\"_blank\">アップルとグーグルがAIで提携--次世代「Siri」の基盤に「Gemini」採用へ</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "AppleとGoogle、AI分野で提携 -「Gemini」を基盤にApple Intelligence強化へ - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QT21VazRfX25mOFZ4UGNTc2ZjeVA2S18xaUNncWxRZjRIUWVDSk82elkxZ0dvZHNKVXJ6WkxzMmpmc1d0VHQtV3dWbmVIdUstQzRwbndCOEM2N0xG?oc=5",
-          "pubDate": "2026-01-12 21:11:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QT21VazRfX25mOFZ4UGNTc2ZjeVA2S18xaUNncWxRZjRIUWVDSk82elkxZ0dvZHNKVXJ6WkxzMmpmc1d0VHQtV3dWbmVIdUstQzRwbndCOEM2N0xG?oc=5\" target=\"_blank\">AppleとGoogle、AI分野で提携 -「Gemini」を基盤にApple Intelligence強化へ</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "アップル、次期「Siri」にGoogleの「Gemini」を採用 OpenAIは選ばれず - CNET Japan",
@@ -32,14 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnJfNm5sc3ZDQjZvbUM0RkJoUmQzbjlqVlpEY3NrTktXRnJCaWRlSTR4WHJzc3oySGVfS29IWkdsbjBzeU5TZVZNLUhWZ2pwdThIeW54eEJFYWg1TFdMRFR4SU94Mm1jVzRJN3N0dGhNR1dVRHZuWktzU2w5dHJPbGsyQmNVWVdD?oc=5",
           "pubDate": "2026-01-12 18:26:47",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnJfNm5sc3ZDQjZvbUM0RkJoUmQzbjlqVlpEY3NrTktXRnJCaWRlSTR4WHJzc3oySGVfS29IWkdsbjBzeU5TZVZNLUhWZ2pwdThIeW54eEJFYWg1TFdMRFR4SU94Mm1jVzRJN3N0dGhNR1dVRHZuWktzU2w5dHJPbGsyQmNVWVdD?oc=5\" target=\"_blank\">AppleがSiriにGoogle Geminiを採用する理由。開発の遅れが示した「現実的な判断」（NANA） - エキスパート</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Appleの次世代AIはGoogle Geminiベースに 「数年にわたる協力関係」を開始 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BajRrWlFqOTJMS1huOWlXN3gwNWJaT1h0WlpIY0RlZG9MOW1RU2JVbFB4cjJxempKQU4xZDNFVnFiWHVKUXFWOTFSMlB4UlJySVB3U1F6cklvVE9GMWhnTGlqZUV6X1J5Z1hOYndCQQ?oc=5",
-          "pubDate": "2026-01-12 17:36:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1BajRrWlFqOTJMS1huOWlXN3gwNWJaT1h0WlpIY0RlZG9MOW1RU2JVbFB4cjJxempKQU4xZDNFVnFiWHVKUXFWOTFSMlB4UlJySVB3U1F6cklvVE9GMWhnTGlqZUV6X1J5Z1hOYndCQQ?oc=5\" target=\"_blank\">Appleの次世代AIはGoogle Geminiベースに 「数年にわたる協力関係」を開始</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -48,32 +48,32 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "ChatGPTからPDFの編集・統合・変換ができる！ 無料アカウントで利用可能！ - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZRXBLS3dQR1BpaXIzd093aEZidUwyVWZ6NURaekJKcDBwbVlLNV9rMDZ2dXpxRmVHR2F4cloxOGlTUXZodEl6ZGpJY3l6ZWhBTE5FNQ?oc=5",
-          "pubDate": "2026-01-12 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZRXBLS3dQR1BpaXIzd093aEZidUwyVWZ6NURaekJKcDBwbVlLNV9rMDZ2dXpxRmVHR2F4cloxOGlTUXZodEl6ZGpJY3l6ZWhBTE5FNQ?oc=5\" target=\"_blank\">ChatGPTからPDFの編集・統合・変換ができる！ 無料アカウントで利用可能！</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "ChatGPTの年次レビュー機能を活用したメンタルヘルス分析──AI対話から読み解く心の健康状態 - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14QXMyZVpuQlYtUEFsVVc2Wm16LXV0c1Nfd3ZyODFQdkpfWmo1ZEZCa2J4bUVRbkxfdF9FNXYzcTZCZTd0bC1wcjhMWGdsWnhVRjdfX0ZsV2g?oc=5",
+          "pubDate": "2026-01-13 10:14:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE14QXMyZVpuQlYtUEFsVVc2Wm16LXV0c1Nfd3ZyODFQdkpfWmo1ZEZCa2J4bUVRbkxfdF9FNXYzcTZCZTd0bC1wcjhMWGdsWnhVRjdfX0ZsV2g?oc=5\" target=\"_blank\">ChatGPTの年次レビュー機能を活用したメンタルヘルス分析──AI対話から読み解く心の健康状態</a>  Forbes JAPAN",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+        },
+        {
+          "title": "OpenAIやSpaceXに出資する米VC代表アニス・ウッザマンが読み解く、2026年注目のテクノロジートレンドを一挙公開！ - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQUhPc1FpQUgwUl9mcnNEc190MkFFU29oLXAzSV90aGhQenh4a1VzU3pERnQwQ3NfQ2FVRTZucGc1UGJHczF1WFo1NUE2RlNucXQ4ZGRzVFROendBOW1RcUpFYlN1M3Jua3c?oc=5",
+          "pubDate": "2026-01-13 03:00:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQUhPc1FpQUgwUl9mcnNEc190MkFFU29oLXAzSV90aGhQenh4a1VzU3pERnQwQ3NfQ2FVRTZucGc1UGJHczF1WFo1NUE2RlNucXQ4ZGRzVFROendBOW1RcUpFYlN1M3Jua3c?oc=5\" target=\"_blank\">OpenAIやSpaceXに出資する米VC代表アニス・ウッザマンが読み解く、2026年注目のテクノロジートレンドを一挙公開！</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "ChatGPTの請求が月100万超えた……コストを激減できる「ハイブリッドAI」の基本戦略 - ビジネス+IT",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54YUVPTU50aGFyTWM5UWVtbC1vSWZxN1piMXpIbDZ5N09wUkhHdXlzV2x2Si14RkExRGVYQTdZRDc0dVZrWVJiREFLT08way1TUHVv?oc=5",
           "pubDate": "2026-01-12 21:10:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE54YUVPTU50aGFyTWM5UWVtbC1vSWZxN1piMXpIbDZ5N09wUkhHdXlzV2x2Si14RkExRGVYQTdZRDc0dVZrWVJiREFLT08way1TUHVv?oc=5\" target=\"_blank\">ChatGPTの請求が月100万超えた……コストを激減できる「ハイブリッドAI」の基本戦略</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
           "title": "アップル、次期「Siri」にGoogleの「Gemini」を採用 OpenAIは選ばれず - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWkN5WVBtVW9VOWFGNFNsdXJDNWxsUTRwMHBHLXZxbERfTVlCYTZKQnNtYmprMlVxakNoVEQ4T0FBQXVnTFAtSjAwQmJYRHJmYnc?oc=5",
           "pubDate": "2026-01-12 19:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWkN5WVBtVW9VOWFGNFNsdXJDNWxsUTRwMHBHLXZxbERfTVlCYTZKQnNtYmprMlVxakNoVEQ4T0FBQXVnTFAtSjAwQmJYRHJmYnc?oc=5\" target=\"_blank\">アップル、次期「Siri」にGoogleの「Gemini」を採用 OpenAIは選ばれず</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
-        },
-        {
-          "title": "OpenAI、ソフトバンクGの発電会社に790億円出資 AIインフラ開発 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LdDhHdGlRdkpubzNGdzVKV3M2elhhczRyTzJ3cFAzbzkzUGMtQmFSc3FBVF9DMVNVdnZndjBvM1U5NUNjYlZQN2tOLWZ1SWZJWG1qdHI4TE5yUjBhLV83Ry0tU0VXdDhKeU81eQ?oc=5",
-          "pubDate": "2026-01-09 21:05:12",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9LdDhHdGlRdkpubzNGdzVKV3M2elhhczRyTzJ3cFAzbzkzUGMtQmFSc3FBVF9DMVNVdnZndjBvM1U5NUNjYlZQN2tOLWZ1SWZJWG1qdHI4TE5yUjBhLV83Ry0tU0VXdDhKeU81eQ?oc=5\" target=\"_blank\">OpenAI、ソフトバンクGの発電会社に790億円出資 AIインフラ開発</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
           "title": "ChatGPT ヘルスケアが登場 - OpenAI",
@@ -96,18 +96,11 @@
           "thumbnail": "https://picsum.photos/seed/microsoft-0/400/225"
         },
         {
-          "title": "Microsoft、AIエージェントで古いJavaScript/TypeScriptアプリ更新を自動化するツール公開 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2eFZpRWVzUEdvLUtOVFZzRkt6ZVctMmNKSlRjUU5zVUk2emV2Z1Q5WUp1WnYwV0M0SFlieE4wci1Ka2o3N1p5RVBQNWQ5bmZiWjM1bC1vdXVpcGpLc3hBbW1peXJ6N21wc1JzalNuUjg4Zw?oc=5",
-          "pubDate": "2025-12-25 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB2eFZpRWVzUEdvLUtOVFZzRkt6ZVctMmNKSlRjUU5zVUk2emV2Z1Q5WUp1WnYwV0M0SFlieE4wci1Ka2o3N1p5RVBQNWQ5bmZiWjM1bC1vdXVpcGpLc3hBbW1peXJ6N21wc1JzalNuUjg4Zw?oc=5\" target=\"_blank\">Microsoft、AIエージェントで古いJavaScript/TypeScriptアプリ更新を自動化するツール公開</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
-        },
-        {
           "title": "CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大 - 共同通信PRワイヤー",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5",
           "pubDate": "2025-12-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTmRTVWpnRjhJTjhPV1QxdDVEZlBrcnd1UlVtQko0ZFlYaGs5b2ViSlk4MjRCdGlPMVJWOVVjU2tPMmRHV1ZtVkpXTFRuZHJ0MnEzSDc1cWhuZjA?oc=5\" target=\"_blank\">CognizantとMicrosoft、AIトランスフォーメーションとフロンティア・ファーム体験の推進に向けてパートナーシップを拡大</a>  共同通信PRワイヤー",
-          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
         {
           "title": "Microsoft AI Tour Osaka | AI の最新イノベーションを大阪で体験 - Microsoft",
@@ -117,11 +110,18 @@
           "thumbnail": "https://picsum.photos/seed/microsoft-1/400/225"
         },
         {
+          "title": "ヘッドウォータース、 Microsoft AI Tour Osaka のセッション「モノづくりを革新するAIエージェント基盤とAgenticなパーソナライズによる未来のUX」に登壇します。 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QQTlXalpVQ2Y5cXFvTGlHV1BIbVNKU2hFNlJlbEFHQlQ3TzVQTUVRRW9EYXp3NnIwc1QxQlZrZDBhV1NUYzlMeEpBTXliTjZTN3ZqVTBsV0J1bm9YLWFaUEVPS242cWc1SVE?oc=5",
+          "pubDate": "2025-09-03 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QQTlXalpVQ2Y5cXFvTGlHV1BIbVNKU2hFNlJlbEFHQlQ3TzVQTUVRRW9EYXp3NnIwc1QxQlZrZDBhV1NUYzlMeEpBTXliTjZTN3ZqVTBsV0J1bm9YLWFaUEVPS242cWc1SVE?oc=5\" target=\"_blank\">ヘッドウォータース、 Microsoft AI Tour Osaka のセッション「モノづくりを革新するAIエージェント基盤とAgenticなパーソナライズによる未来のUX」に登壇します。</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
+        },
+        {
           "title": "Microsoft AI ＆ Innovation Center PC - city.kaga.ishikawa.jp",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGstdXFnU3h3UG5iejZWdXFNSGxteXVSSkFCV1RVMjdVajB3Ymlla0dtZHhjaDQ0UVJPYmhpV2w4THprUkd0eWw3TnN2X3Bfd2ZkRlJ2eE1iSTlfZnhMNXhsaUhZbFlDbmh0eVl6Y00zRkd0Ujc2RTZkZUMwbTh5NGFXdF9wTFl5RlE?oc=5",
           "pubDate": "2025-07-30 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONGstdXFnU3h3UG5iejZWdXFNSGxteXVSSkFCV1RVMjdVajB3Ymlla0dtZHhjaDQ0UVJPYmhpV2w4THprUkd0eWw3TnN2X3Bfd2ZkRlJ2eE1iSTlfZnhMNXhsaUhZbFlDbmh0eVl6Y00zRkd0Ujc2RTZkZUMwbTh5NGFXdF9wTFl5RlE?oc=5\" target=\"_blank\">Microsoft AI ＆ Innovation Center PC</a>  city.kaga.ishikawa.jp",
-          "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/microsoft-3/400/225"
         }
       ]
     },
@@ -130,39 +130,39 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "大規模言語モデルのAnthropic、Claude for Healthcareを発表 - AT PARTNERS",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmJkZjdKUmVkMk1LNkZTQ3RwY01FYTJnaklIaUFONzZ6TDZ6VEdfMUxBcWNMUEhNd3JMdF9sUEFUOTJZNkMteTZuOXlfMVhyV3BsUDZMcHhrckYwQXN5RFBOWENMbjVTbktZRkJYcHdmQ2psZUpna3JNaFNOWGFkLVBETjV2UjdqbThSODZfRzlYZkJhTWZjZmNwZnpXLThlSjcwQ3NMSktsdUV6NmNHZEl1VEpfOUV5?oc=5",
-          "pubDate": "2026-01-12 23:55:47",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmJkZjdKUmVkMk1LNkZTQ3RwY01FYTJnaklIaUFONzZ6TDZ6VEdfMUxBcWNMUEhNd3JMdF9sUEFUOTJZNkMteTZuOXlfMVhyV3BsUDZMcHhrckYwQXN5RFBOWENMbjVTbktZRkJYcHdmQ2psZUpna3JNaFNOWGFkLVBETjV2UjdqbThSODZfRzlYZkJhTWZjZmNwZnpXLThlSjcwQ3NMSktsdUV6NmNHZEl1VEpfOUV5?oc=5\" target=\"_blank\">大規模言語モデルのAnthropic、Claude for Healthcareを発表</a>  AT PARTNERS",
+          "title": "Anthropic、AIが医療支援する「Claude for Healthcare」 米国で展開 - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZmozaENPM0hiNUhrRTB4dFNDZHhfS1VDRUh4XzhXRmUwNVk2b2liMDQzeGJWYXkyX2s5NXVfQzNsQVdsdjFGa3NpclVvdWczeGQ1a1ZpaVg5a0F2S3ZfMktMV04?oc=5",
+          "pubDate": "2026-01-13 04:11:52",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZmozaENPM0hiNUhrRTB4dFNDZHhfS1VDRUh4XzhXRmUwNVk2b2liMDQzeGJWYXkyX2s5NXVfQzNsQVdsdjFGa3NpclVvdWczeGQ1a1ZpaVg5a0F2S3ZfMktMV04?oc=5\" target=\"_blank\">Anthropic、AIが医療支援する「Claude for Healthcare」 米国で展開</a>  Impress Watch",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Anthropic、Claudeが自律的に作業を代行する「Cowork」 - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83Y0V4Y1NEU0ZrQzZ5MDBHaDdGcW1zWk1WbFFHaGViSnRCTU1QaEY5cUFFX2VNZlpEWldMTUlzMnZ6a2QxRi1yMk5UMkh0Q09wVEgwb19mc3U5UWtyT3VyUkxjeXY?oc=5",
+          "pubDate": "2026-01-13 02:48:54",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE83Y0V4Y1NEU0ZrQzZ5MDBHaDdGcW1zWk1WbFFHaGViSnRCTU1QaEY5cUFFX2VNZlpEWldMTUlzMnZ6a2QxRi1yMk5UMkh0Q09wVEgwb19mc3U5UWtyT3VyUkxjeXY?oc=5\" target=\"_blank\">Anthropic、Claudeが自律的に作業を代行する「Cowork」</a>  Impress Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FakdnTGlqN3gyYldEMkc0XzZ6QzFhV0dDWWIwVFh0bkpDVHc0MFFPdnM0Y0JhVlZGQmVjNDRmWTB6c2otZUJEQWFUOGRlaWRvQ1Vn?oc=5\" target=\"_blank\">「Claude」、複雑なタスクを「Cowork」機能で自動化--一定のリスクも</a>  ZDNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVGF5dzVPOWZFRlI2OHhHWHhpS0hFN0dBYkdvT2E0R0R4UXNYN3JDVmU1Uy1lcF9DTE16MFpCc0NBM2tJVmh1aDQwS2FfeFJUNFpWb1o3UW5wbUVMaDd2WElQb3VxdDJnUjBqZnhrTlBIU0pCcGNzZzJ3VWhPZ3c?oc=5\" target=\"_blank\">Anthropic、自律型AI「Cowork」発表 デスクトップ作業を丸投げ可能に（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
+          "title": "Claudeの新エージェント機能「Cowork」登場--PCのフォルダを直接整理・資料作成も - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RODRpd2pQRVdIRGpmN2hackpQd3lvN0V3X21NczhVX3hFXzhSQ3RzaXY4dENfN0h3V09DZ1NZT2VreXZ2T0ZpZnZsZjRiMmRCM0E?oc=5",
+          "pubDate": "2026-01-13 00:46:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RODRpd2pQRVdIRGpmN2hackpQd3lvN0V3X21NczhVX3hFXzhSQ3RzaXY4dENfN0h3V09DZ1NZT2VreXZ2T0ZpZnZsZjRiMmRCM0E?oc=5\" target=\"_blank\">Claudeの新エージェント機能「Cowork」登場--PCのフォルダを直接整理・資料作成も</a>  CNET Japan",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "Anthropic、非開発者向けAIエージェント「Cowork」公開　Claude Codeの技術を活用 - ｄメニューニュース",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNXpDMmRDX3lHZHZKZ1dKb3c1ZmFJSDA0OW9yRXNsUGI1YjA0VGFWV2NUVzM1RUZTU3hKbGR2RHhLTWU2OFM0T2FWV2x3OXhXcFdHMS1PRmZfbHcweUVVZm5tend1ZVc3aEdyVE1GNGdzcHZ5RnRF0gF8QVVfeXFMTUw2eHd1eElqWjhOSzdlQV9taVFaMFVNOE95em5wbFRZU2p3Rk44dkpzeXNHa0dCX0xHTVZ6NUZ3UXh0Z1RsV1YzT2hXZENXamFVUmFkeC0xUmFDdXlDdnF1MmJHeGJiZjI1TjdlN0Q1QmlwcS15amxuQjJwbg?oc=5",
           "pubDate": "2026-01-12 23:33:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9HNXpDMmRDX3lHZHZKZ1dKb3c1ZmFJSDA0OW9yRXNsUGI1YjA0VGFWV2NUVzM1RUZTU3hKbGR2RHhLTWU2OFM0T2FWV2x3OXhXcFdHMS1PRmZfbHcweUVVZm5tend1ZVc3aEdyVE1GNGdzcHZ5RnRF0gF8QVVfeXFMTUw2eHd1eElqWjhOSzdlQV9taVFaMFVNOE95em5wbFRZU2p3Rk44dkpzeXNHa0dCX0xHTVZ6NUZ3UXh0Z1RsV1YzT2hXZENXamFVUmFkeC0xUmFDdXlDdnF1MmJHeGJiZjI1TjdlN0Q1QmlwcS15amxuQjJwbg?oc=5\" target=\"_blank\">Anthropic、非開発者向けAIエージェント「Cowork」公開　Claude Codeの技術を活用</a>  ｄメニューニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
-        },
-        {
-          "title": "Anthropic、医療・創薬特化のClaude発表 新技術「Agent Skills」を投入（ITmedia NEWS） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KV3o1Rjl1NlR6UDFPNllCT1dxSlVkaFlVVmE4S0FXUDNpd3BDbF9fc0RIRFVlbl9KWEd2aXNjNUtIdUJqcVY4cmkySW1mV09rSExTZTRwTjQ2T3QzM0Z6UnZYQzlsZTRfOEF0b0RhcktBeFFQLWg3YThPOFdwN3M?oc=5",
-          "pubDate": "2026-01-12 06:28:27",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5KV3o1Rjl1NlR6UDFPNllCT1dxSlVkaFlVVmE4S0FXUDNpd3BDbF9fc0RIRFVlbl9KWEd2aXNjNUtIdUJqcVY4cmkySW1mV09rSExTZTRwTjQ2T3QzM0Z6UnZYQzlsZTRfOEF0b0RhcktBeFFQLWg3YThPOFdwN3M?oc=5\" target=\"_blank\">Anthropic、医療・創薬特化のClaude発表 新技術「Agent Skills」を投入（ITmedia NEWS）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
-        },
-        {
-          "title": "「画像生成はやらない」Claudeが目指す法人特化AIの勝ち筋【Anthropic日本トップ取材】 - Business Insider Japan",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFNLWEVlNlQ3QllWM2x6UVhFcHBMN3Zmb0NrU28wMXVsTlQ4clExSExXTWM2OTgzNnFsRFFYQzEtZDdrbzQ1RzNQYXVTNl9peGUwSkV0bU15cm92MXh2YTQxckM0SXJGUGpDMk1qdEFZLWo1TmlhLVNsTzFvZ3c3ajZKYndtQQ?oc=5",
-          "pubDate": "2026-01-05 21:45:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFNLWEVlNlQ3QllWM2x6UVhFcHBMN3Zmb0NrU28wMXVsTlQ4clExSExXTWM2OTgzNnFsRFFYQzEtZDdrbzQ1RzNQYXVTNl9peGUwSkV0bU15cm92MXh2YTQxckM0SXJGUGpDMk1qdEFZLWo1TmlhLVNsTzFvZ3c3ajZKYndtQQ?oc=5\" target=\"_blank\">「画像生成はやらない」Claudeが目指す法人特化AIの勝ち筋【Anthropic日本トップ取材】</a>  Business Insider Japan",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
-          "title": "Claude Codeのコンテキストウィンドウを完全に理解する - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMlpYeENMSS00d3RGVnMxZ0F2dThFX24xa2haeWJHZzdQcXl2allRQldRR2lUUndIOTB6bGg5V2NWcEtuclNHZE9ZTC0xWUNRcGpuWWk5ZTVCUzV4ME1YVFFKbmZjdVh6RkVZ?oc=5",
-          "pubDate": "2025-12-23 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMlpYeENMSS00d3RGVnMxZ0F2dThFX24xa2haeWJHZzdQcXl2allRQldRR2lUUndIOTB6bGg5V2NWcEtuclNHZE9ZTC0xWUNRcGpuWWk5ZTVCUzV4ME1YVFFKbmZjdVh6RkVZ?oc=5\" target=\"_blank\">Claude Codeのコンテキストウィンドウを完全に理解する</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "title": "Anthropic、医療・創薬特化のClaude発表 新技術「Agent Skills」を投入 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zSVd5dTNyUnc1aWNCTWpJYWNtWkhYTXlTelRWZmRxSHdPY2lTUVhYSWNCam9uWTFWc0VSd2NTM1hxVWc4UTVaaUV5ZmI4cG1WS3RIVldRZ0FmdkZJZlIxNmUwbmw0WWlRQS1RTmU4dw?oc=5",
+          "pubDate": "2026-01-12 06:23:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8zSVd5dTNyUnc1aWNCTWpJYWNtWkhYTXlTelRWZmRxSHdPY2lTUVhYSWNCam9uWTFWc0VSd2NTM1hxVWc4UTVaaUV5ZmI4cG1WS3RIVldRZ0FmdkZJZlIxNmUwbmw0WWlRQS1RTmU4dw?oc=5\" target=\"_blank\">Anthropic、医療・創薬特化のClaude発表 新技術「Agent Skills」を投入</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         }
       ]
     },
@@ -216,35 +216,35 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUk9pTmxFYkV5dXppVkRVVlVzVGlwUklpY1BOMS0zUjUxc3p6WGxyYjN5bFVOeWlISUVUUWdjM1QwWnVQN2pJSWdGZGtaOTJtcGM5TW9QcDU?oc=5",
           "pubDate": "2025-12-30 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQUk9pTmxFYkV5dXppVkRVVlVzVGlwUklpY1BOMS0zUjUxc3p6WGxyYjN5bFVOeWlISUVUUWdjM1QwWnVQN2pJSWdGZGtaOTJtcGM5TW9QcDU?oc=5\" target=\"_blank\">Meta、汎用AIエージェント開発企業「Manus」を買収──Meta AIへの統合を表明</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート - リコーグループ",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5",
           "pubDate": "2025-12-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5\" target=\"_blank\">LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート</a>  リコーグループ",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
+          "title": "Meta、AIアシスタント「Meta AI」日本で段階的に提供開始 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5",
+          "pubDate": "2025-11-28 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5\" target=\"_blank\">Meta、AIアシスタント「Meta AI」日本で段階的に提供開始</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
-          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
           "title": "Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！ - ai-market.jp",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5",
           "pubDate": "2025-08-21 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5\" target=\"_blank\">Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！</a>  ai-market.jp",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
-        },
-        {
-          "title": "Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説 - AIsmiley",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5",
-          "pubDate": "2025-07-18 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5\" target=\"_blank\">Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -253,11 +253,11 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zQkFqS3JfTkE3N1MwMDcyRHpWWW1vQzJCR0U1MDVfY2JBb2ZQVWdqTzlIQlY3aXhLWTBlZm5YaFFRMnRWUExoTXdGTGdXbnp5Y0szamRPSTNjUVdXR3ZHdEdTbk5EZkhNXzRMRw?oc=5",
-          "pubDate": "2026-01-12 22:08:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9zQkFqS3JfTkE3N1MwMDcyRHpWWW1vQzJCR0U1MDVfY2JBb2ZQVWdqTzlIQlY3aXhLWTBlZm5YaFFRMnRWUExoTXdGTGdXbnp5Y0szamRPSTNjUVdXR3ZHdEdTbk5EZkhNXzRMRw?oc=5\" target=\"_blank\">Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "title": "マレーシア、Ｘを提訴へ ＡＩ「Ｇｒｏｋ」の性的画像生成を問題視 - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2tuandYYzh6cjdaY2ZhaTladUxNMnU2YWZtRlhQZlNONjZ2MHItNVBrUHpZQ01PVUlpempYUVZ3eXVhcV9ySExvdWo3bkRMMW85NEtFQ0NiR2JXbnZLeE1ZbEJERHpuOW1zTkN6N2h2OFcyUWlhT3JncnExS2ZLMGNoaDZPTDRN?oc=5",
+          "pubDate": "2026-01-13 09:39:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2tuandYYzh6cjdaY2ZhaTladUxNMnU2YWZtRlhQZlNONjZ2MHItNVBrUHpZQ01PVUlpempYUVZ3eXVhcV9ySExvdWo3bkRMMW85NEtFQ0NiR2JXbnZLeE1ZbEJERHpuOW1zTkN6N2h2OFcyUWlhT3JncnExS2ZLMGNoaDZPTDRN?oc=5\" target=\"_blank\">マレーシア、Ｘを提訴へ ＡＩ「Ｇｒｏｋ」の性的画像生成を問題視</a>  Reuters",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
           "title": "マスク氏率いるGrok、「脱衣」画像を毎時6700枚も生成か--12歳少女も被害 責任追求の声 - CNET Japan",
@@ -278,14 +278,14 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUFFVT2lWVUluWWFYRUhycmViMXJDeG8tTU1xbTQ3aUg4YWIwbjF3WFk1TXplQmRhNXZuZjNkR2R3dE53dzd4RExBdGRiLVI4NkMyVlF2TW82S2ZhNnNoLXZzNjBKLXh5cGQ0QmZBbGNtekNxX2FrMkczR3BuY2c?oc=5",
           "pubDate": "2026-01-11 05:52:32",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUFFVT2lWVUluWWFYRUhycmViMXJDeG8tTU1xbTQ3aUg4YWIwbjF3WFk1TXplQmRhNXZuZjNkR2R3dE53dzd4RExBdGRiLVI4NkMyVlF2TW82S2ZhNnNoLXZzNjBKLXh5cGQ0QmZBbGNtekNxX2FrMkczR3BuY2c?oc=5\" target=\"_blank\">インドネシア「Grok」へのアクセス遮断 性的画像生成問題（ＡＦＰ＝時事）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
           "title": "インドネシア「Grok」へのアクセス遮断 性的画像生成問題 - AFPBB News",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4YUNOWnlXeS1seXVVTFRYMnBFVXdPNngtdERTMTFsSE9ZdjFNUXUxLTg3dWhaVGtyTzZUcjVKSTQ2RWxDNWdfRE11a3UzZnV1bkHSAVRBVV95cUxOSEVndU5CT3dCN1ByalM1T0d4VkN4RTFBLTNhMHpUa3J3c0ZBT185Wkc0cWRqS2ZxMDc4UVBwb2NSMHZ4WkJyM1BKXzJtWkpObmZWRlo?oc=5",
           "pubDate": "2026-01-11 05:50:59",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4YUNOWnlXeS1seXVVTFRYMnBFVXdPNngtdERTMTFsSE9ZdjFNUXUxLTg3dWhaVGtyTzZUcjVKSTQ2RWxDNWdfRE11a3UzZnV1bkHSAVRBVV95cUxOSEVndU5CT3dCN1ByalM1T0d4VkN4RTFBLTNhMHpUa3J3c0ZBT185Wkc0cWRqS2ZxMDc4UVBwb2NSMHZ4WkJyM1BKXzJtWkpObmZWRlo?oc=5\" target=\"_blank\">インドネシア「Grok」へのアクセス遮断 性的画像生成問題</a>  AFPBB News",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         }
       ]
     }
