@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-13T15:25:26.772Z",
+  "fetchedAt": "2026-01-13T21:20:51.800Z",
   "locale": "en",
   "companies": [
     {
@@ -128,7 +128,43 @@
     {
       "company": "anthropic",
       "displayName": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "title": "Anthropic says its buzzy new Claude Cowork tool was mostly built by AI — in less than 2 weeks - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNG1BeVhmZFIzNnhmNnkyZ1FKNV9jY0I2YmFSVVQ1NXZLWi0yeDNyd3FoV0dQRGxSRDc3bWFvRGFmSGRPWS1WeDBuOHd6dXFqT1dRYkE1Vm1MbDNWSWIzYmVZczhTMTlZZ1ZRNzNkeW43QUpsWEpJcE1TbHBhUDdaTExsMTVrM3ViblN3?oc=5",
+          "pubDate": "2026-01-13 21:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNG1BeVhmZFIzNnhmNnkyZ1FKNV9jY0I2YmFSVVQ1NXZLWi0yeDNyd3FoV0dQRGxSRDc3bWFvRGFmSGRPWS1WeDBuOHd6dXFqT1dRYkE1Vm1MbDNWSWIzYmVZczhTMTlZZ1ZRNzNkeW43QUpsWEpJcE1TbHBhUDdaTExsMTVrM3ViblN3?oc=5\" target=\"_blank\">Anthropic says its buzzy new Claude Cowork tool was mostly built by AI — in less than 2 weeks</a>  Business Insider",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+        },
+        {
+          "title": "Anthropic launches Claude Cowork, a file-managing AI agent that could threaten dozens of startups - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUFJWnpvbHVXV1JYRjl3NjM5R3duam5hZjlSU054eWpYcTEwTUlGQmZTVnB2ZmlVSFZvM3QtQ3VaVE9WZUp4WURIZ3JEbnFCeUNtU1V0VEdNM1M1WVBQWTh4dllaVWJsQ3dEbDUtaHpqLUhRU2RLVVl3eGQ2MTZYSzcxdXlTS0lCb0lKd2JXdWdiV29Fam4yUUtLZkY?oc=5",
+          "pubDate": "2026-01-13 14:05:00",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUFJWnpvbHVXV1JYRjl3NjM5R3duam5hZjlSU054eWpYcTEwTUlGQmZTVnB2ZmlVSFZvM3QtQ3VaVE9WZUp4WURIZ3JEbnFCeUNtU1V0VEdNM1M1WVBQWTh4dllaVWJsQ3dEbDUtaHpqLUhRU2RLVVl3eGQ2MTZYSzcxdXlTS0lCb0lKd2JXdWdiV29Fam4yUUtLZkY?oc=5\" target=\"_blank\">Anthropic launches Claude Cowork, a file-managing AI agent that could threaten dozens of startups</a>  Fortune</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVWR0ZDAzWVduVTlVcjlJTUxkN2VsLU1LZTYzdHJWc0lnVVNON0cwUXdwSF9wVWltX2NnbkJOaWtqWkJrdlVvSTRZX2hXdnNFZmYtZUVEOWFzQllyQlBmazlPMDF5MDJkYlBiT05YSklCSEswUkdFV1J2MllpSkwzMGNMblR6aENkSmltZ2w1QWg4Q3VvZ09XUnM1b2puUQ?oc=5\" target=\"_blank\">Anthropic’s new Cowork tool offers Claude Code without the code</a>  TechCrunch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTkQyZEloY1J6OVpUQnl0Z3B6LU90c3F0T0xJb0loYUliX0kwWkNEaXJYcWFWcHpUQkZnZXpFS3YxeHpWR1A2eGNWWFdwLUVDbWx0dlBRWFM3UXdjRll4Zy11Sm82WEZfVVIxemcxRUQtTzMxOEtHLUViYlVBUQ?oc=5\" target=\"_blank\">Anthropic's viral new work tool wrote itself</a>  Axios</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+        },
+        {
+          "title": "Elon Musk's xAI cofounder Tony Wu sends email to employees, says: Anthropic has banned us, this is a.. - Times of India",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSXg1MXlOa2tFZ1FCNkc3RU5NczBINFRDcDlfUTFySTdHajFtZDNOeVdxOTBkY1pySEFJZHNHdW45WVBmZXJDYXlsOXBlNW1mNzlNYzN0OVVnQkdTLVVzUUgwX2dKWWhuR0ozcHhkS09QTUxWZkRiMXB3YUR3SHp2X0J2a0ZDQnVIU19IZmpVOUpXUkNSQVl3NWNzNDg4NFFoVjN1MUMwdHI5czNEZmVSX3NMX1VrV2htUFhjU1U1SlNFXzl3bjZEbF9TUnZLYnJKbWwzbkpPTTczZGxrcFk5OW02NUZucUhzMnBpMlZDSXh1ZWxCZm9JeVFlaTlRcHlEMmZVRWNsS1ZPVlN40gGSAkFVX3lxTE8tVW5QUHZqNWtKTnNxT1hlS3lPU2dteXFYTW9HXzFBOWRqNUNrNFJzUHRlV280SHM5bHRDZnNOdEo1TzNZNXZXTDFJZ3l4SXUxQ3dYckhxeG1HUTJnSG1qTGNvdHBSWEdGUTU4a1pzQ2JHd0RZWC1Da25QYUtPWUFxeDhieGd1czFqeWF5Q2VKN0dYZGR2aGljNUxJS2VhbWw0SjJtY0gwcUhSeFA5bUU5SzFxSzdWSUhFdURPOGozU0pOa1hTa1UwbFJjTXYwLU1wMTljbXZsSWNzREVKZjhLWnBVMXFIdGJ2emhrMWRWUEttUl9acGVfamVCdzEyb3p0dkMtZTFpS2FRRDF6WVRIdXc?oc=5",
+          "pubDate": "2026-01-12 15:59:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPSXg1MXlOa2tFZ1FCNkc3RU5NczBINFRDcDlfUTFySTdHajFtZDNOeVdxOTBkY1pySEFJZHNHdW45WVBmZXJDYXlsOXBlNW1mNzlNYzN0OVVnQkdTLVVzUUgwX2dKWWhuR0ozcHhkS09QTUxWZkRiMXB3YUR3SHp2X0J2a0ZDQnVIU19IZmpVOUpXUkNSQVl3NWNzNDg4NFFoVjN1MUMwdHI5czNEZmVSX3NMX1VrV2htUFhjU1U1SlNFXzl3bjZEbF9TUnZLYnJKbWwzbkpPTTczZGxrcFk5OW02NUZucUhzMnBpMlZDSXh1ZWxCZm9JeVFlaTlRcHlEMmZVRWNsS1ZPVlN40gGSAkFVX3lxTE8tVW5QUHZqNWtKTnNxT1hlS3lPU2dteXFYTW9HXzFBOWRqNUNrNFJzUHRlV280SHM5bHRDZnNOdEo1TzNZNXZXTDFJZ3l4SXUxQ3dYckhxeG1HUTJnSG1qTGNvdHBSWEdGUTU4a1pzQ2JHd0RZWC1Da25QYUtPWUFxeDhieGd1czFqeWF5Q2VKN0dYZGR2aGljNUxJS2VhbWw0SjJtY0gwcUhSeFA5bUU5SzFxSzdWSUhFdURPOGozU0pOa1hTa1UwbFJjTXYwLU1wMTljbXZsSWNzREVKZjhLWnBVMXFIdGJ2emhrMWRWUEttUl9acGVfamVCdzEyb3p0dkMtZTFpS2FRRDF6WVRIdXc?oc=5\" target=\"_blank\">Elon Musk's xAI cofounder Tony Wu sends email to employees, says: Anthropic has banned us, this is a..</a>  Times of India",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Advancing Claude in healthcare and the life sciences - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56M0lEWFluUlhtNGd5NTVRS0NkaHByVUdVRDRKWHotRWY1MTdsd2k2bjFneE5UWTUxbE5LSVpETmVEejB0ZVlTUDF3SGg3SUxnQXU2UlpXNkd1eTM1VmJpdllkZUIzQQ?oc=5",
+          "pubDate": "2026-01-11 22:26:01",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE56M0lEWFluUlhtNGd5NTVRS0NkaHByVUdVRDRKWHotRWY1MTdsd2k2bjFneE5UWTUxbE5LSVpETmVEejB0ZVlTUDF3SGg3SUxnQXU2UlpXNkd1eTM1VmJpdllkZUIzQQ?oc=5\" target=\"_blank\">Advancing Claude in healthcare and the life sciences</a>  Anthropic",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
+          "title": "Anthropic rolls out new healthcare and life science features for Claude - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2o1QlVoZDM3RE9teWNvQ1FzTVNkWmJUVTlRa2t0MzQxakJKS3ZrY041QlpQWWRTenFGdHVranZ3Ml9NZzZuOTlzSEpoVEpUU1hwbnNvdHVuUWNiUEdLZnV2akJOQ0pRSndqd01HVXFvMFFXR2VGc3hyanhHRnZ1V0tka0tKYWZDVlJSazg5ekhBTVU3eEhJSUI5QXZMZzFISWwyaFdZU25CSWpuVjNXcERJRGc4Slp4V1pyYjVudkJieGt6THBEcVpYZXRralJsNkZiWVoyU2lrVmE2bElMQXN1YVR3c3dLZkFNdUd1SUlDckxTNHZHLQ?oc=5",
+          "pubDate": "2026-01-11 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2o1QlVoZDM3RE9teWNvQ1FzTVNkWmJUVTlRa2t0MzQxakJKS3ZrY041QlpQWWRTenFGdHVranZ3Ml9NZzZuOTlzSEpoVEpUU1hwbnNvdHVuUWNiUEdLZnV2akJOQ0pRSndqd01HVXFvMFFXR2VGc3hyanhHRnZ1V0tka0tKYWZDVlJSazg5ekhBTVU3eEhJSUI5QXZMZzFISWwyaFdZU25CSWpuVjNXcERJRGc4Slp4V1pyYjVudkJieGt6THBEcVpYZXRralJsNkZiWVoyU2lrVmE2bElMQXN1YVR3c3dLZkFNdUd1SUlDckxTNHZHLQ?oc=5\" target=\"_blank\">Anthropic rolls out new healthcare and life science features for Claude</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+        }
+      ]
     },
     {
       "company": "amazon",
