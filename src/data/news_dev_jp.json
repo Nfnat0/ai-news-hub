@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-15T19:00:36.450Z",
+  "fetchedAt": "2026-01-16T02:32:58.184Z",
   "locale": "jp",
   "companies": [
     {
@@ -62,6 +62,13 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
+          "title": "レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2) - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5",
+          "pubDate": "2025-12-26 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE04ZExJd3VzLW9GU001VDRlWGhwVjV6eC1GdTVzQnYtUXMxNUtqYkNXUXBZTTBkZnlkcVJhSWRtenpWQ255OVNadHhJNEJNbVBxVnp4Zg?oc=5\" target=\"_blank\">レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ (1/2)</a>  ASCII.jp",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+        },
+        {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5",
           "pubDate": "2025-12-23 08:00:00",
@@ -74,13 +81,6 @@
           "pubDate": "2025-12-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">プランでパブリックプレビュー提供開始</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
-        },
-        {
-          "title": "GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5",
-          "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRnJOODVJeFAtUVNzY0VRbi1tRUExd2ZpOXlqQl9CQ0hWQ3dlRjdtbU5LQmVGaEl2TlhZWEhwNEtMVThyc2ZBcXlhN0Q1Y2s0ekZv?oc=5\" target=\"_blank\">GitHub、AI統合プラットフォーム「Agent HQ」を発表--開発ワークフローの一元化を推進</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -89,25 +89,25 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "Copilot Studio拡張機能がVisual Studio Codeで一般提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xbmJjbkdBa19wakdweHIxZG5aRkdxMjJCczlYakV5REx4LTFUWVVnWjZ3bnB2cjFyOUVQTnVodWV6cVJLX1VsNXZWRVdrQQ?oc=5",
+          "pubDate": "2026-01-15 23:32:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xbmJjbkdBa19wakdweHIxZG5aRkdxMjJCczlYakV5REx4LTFUWVVnWjZ3bnB2cjFyOUVQTnVodWV6cVJLX1VsNXZWRVdrQQ?oc=5\" target=\"_blank\">Copilot Studio拡張機能がVisual Studio Codeで一般提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5",
           "pubDate": "2026-01-13 20:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5\" target=\"_blank\">VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "Visual Studio Codeに可愛いペットを表示できる拡張機能「VS Code Pets」でペットたちと遊んでみた - MSN",
-          "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxONHRmVTh2YlNjM2Y2N2xUV2ROMXBoSlFJS0piVmsyX3VhRWxCSmdUdHdwNEk5aDhZM3NXZVZaOFpYWi1OcEhMWENSSWZQNkxSQVk0amtfTlY1N2d2eVA1MWZqVGdQOFF6NWwtdXJ4aUpWRWgyb2hGZ200NEh0M3JSN3ZxWE9zNF9SOWpWVWFUWDBmTmpOdkpBY1BPZU95Rm4ySkhaM25pT2FhSExqaml6TWpzenZlazZxZ3RITTRHT01Ia1ZjOERxREo5VjhIclZ5MlhMM2JmXzFoeXlrdTdaVWtBaVZpQVptdUxaZTZrTTJuc0tJaThMMWRmV3Bsc2NTbWk1MFh6b0dLcVM4dzBsRkVjaU5fV3J2bTB1STNRbExmV3lFMmJHMDZ1TEk5MUdtUDktbGsyVk1JWkFqWjVTM1RYa2h0SjBHcFFFcjZzMkJ6bmN5MFNsYWtWVk0wMGNPMlVYR2F0UG1mdUQ0MVBBTklBSXhMcFd5WV9QdnZlelljaEZXcVhrZEctX29ESUlYV2ZpYmFFdC1ORUp6MkE5cnJNbTlMSE51VzZWR2c4LTZuUzFXRHhtZkluQ0xXSmFkU3hRd2F2Z1JOWkVOcl9ZM1ZxNzJlbkp4UWI0OWkzOEQzZ1lQeXI1S29Zcmk2NHlxSWxwVEt0VkVpNWoteC1IV1pfY1o2M3ZfUVV5Yl84ZHRzOE1xemNDbFh1WTJKYWdDNWdsT1NVSWk5MVdubi1sNlVLUUMzX25qcGJveEktNC1HVV9QWHAxcWlYTzFoNUpzbi1XZy1VSG1sRmhDVzRSbkViNXk3RXVDRHRXUWU0blF2enBoOVJJek5KTG5aWExSdU1mYzBmTWxhVktjZU9PaUZnUjFhNXNQU0xsMEhIOA?oc=5",
-          "pubDate": "2026-01-12 06:32:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwVBVV95cUxONHRmVTh2YlNjM2Y2N2xUV2ROMXBoSlFJS0piVmsyX3VhRWxCSmdUdHdwNEk5aDhZM3NXZVZaOFpYWi1OcEhMWENSSWZQNkxSQVk0amtfTlY1N2d2eVA1MWZqVGdQOFF6NWwtdXJ4aUpWRWgyb2hGZ200NEh0M3JSN3ZxWE9zNF9SOWpWVWFUWDBmTmpOdkpBY1BPZU95Rm4ySkhaM25pT2FhSExqaml6TWpzenZlazZxZ3RITTRHT01Ia1ZjOERxREo5VjhIclZ5MlhMM2JmXzFoeXlrdTdaVWtBaVZpQVptdUxaZTZrTTJuc0tJaThMMWRmV3Bsc2NTbWk1MFh6b0dLcVM4dzBsRkVjaU5fV3J2bTB1STNRbExmV3lFMmJHMDZ1TEk5MUdtUDktbGsyVk1JWkFqWjVTM1RYa2h0SjBHcFFFcjZzMkJ6bmN5MFNsYWtWVk0wMGNPMlVYR2F0UG1mdUQ0MVBBTklBSXhMcFd5WV9QdnZlelljaEZXcVhrZEctX29ESUlYV2ZpYmFFdC1ORUp6MkE5cnJNbTlMSE51VzZWR2c4LTZuUzFXRHhtZkluQ0xXSmFkU3hRd2F2Z1JOWkVOcl9ZM1ZxNzJlbkp4UWI0OWkzOEQzZ1lQeXI1S29Zcmk2NHlxSWxwVEt0VkVpNWoteC1IV1pfY1o2M3ZfUVV5Yl84ZHRzOE1xemNDbFh1WTJKYWdDNWdsT1NVSWk5MVdubi1sNlVLUUMzX25qcGJveEktNC1HVV9QWHAxcWlYTzFoNUpzbi1XZy1VSG1sRmhDVzRSbkViNXk3RXVDRHRXUWU0blF2enBoOVJJek5KTG5aWExSdU1mYzBmTWxhVktjZU9PaUZnUjFhNXNQU0xsMEhIOA?oc=5\" target=\"_blank\">Visual Studio Codeに可愛いペットを表示できる拡張機能「VS Code Pets」でペットたちと遊んでみた</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xb2hER0lKeUx1d2Z0cVRCZDNLUkI0cjFrejBkRHZ6S01IVVBiU2Exc3VnUmVtLUU3eWhUQ1VyQUx2Q0xHcUtraDJkUlM4cnMxY2U4czdqUENjVlcybUxnaXlKVThUcWdj?oc=5",
           "pubDate": "2026-01-09 08:27:52",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xb2hER0lKeUx1d2Z0cVRCZDNLUkI0cjFrejBkRHZ6S01IVVBiU2Exc3VnUmVtLUU3eWhUQ1VyQUx2Q0xHcUtraDJkUlM4cnMxY2U4czdqUENjVlcybUxnaXlKVThUcWdj?oc=5\" target=\"_blank\">エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
@@ -134,14 +134,14 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVRmJoZEt4dDg4QjlXTlZrU1lXc1hSY0VvUEhIbFdERUZzVE5zLVpCSjFrWjZhLVdHbk8ydXdSQUNpODU4VnMwWmJLajNGVmZDRU9RaQ?oc=5",
           "pubDate": "2026-01-15 00:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVRmJoZEt4dDg4QjlXTlZrU1lXc1hSY0VvUEhIbFdERUZzVE5zLVpCSjFrWjZhLVdHbk8ydXdSQUNpODU4VnMwWmJLajNGVmZDRU9RaQ?oc=5\" target=\"_blank\">AIに「丸投げ」は厳禁 AWSのIDE「Kiro」はなぜ仕様駆動型開発に行き着いたのか？ (1/2)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
           "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
           "title": "AWS、「Kiro」を一般提供──仕様駆動のAIコーディングをIDEとターミナルで一元化 - Ledge.ai",
@@ -173,7 +173,7 @@
         {
           "title": "Google Antigravity、エージェント拡張機能「Skills」の搭載を発表 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSW4xOXRTdUptMmluNmFQTVhiMTZuZHB5Q0NRb1p1V3NQWG84dVVHT1JTZGRjRjh6bTNDSk5aR1RITjRSYTMteU9WNzllUQ?oc=5",
-          "pubDate": "2026-01-15 12:00:34",
+          "pubDate": "2026-01-16 00:03:57",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSW4xOXRTdUptMmluNmFQTVhiMTZuZHB5Q0NRb1p1V3NQWG84dVVHT1JTZGRjRjh6bTNDSk5aR1RITjRSYTMteU9WNzllUQ?oc=5\" target=\"_blank\">Google Antigravity、エージェント拡張機能「Skills」の搭載を発表</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
