@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-15T21:43:07.472Z",
+  "fetchedAt": "2026-01-16T04:14:49.948Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "Can a newbie really vibe code an app? I tried Cursor and Replit to find out - ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9UdktydTNaSGd1RTg5VXljZVZnNklZQk5uX1VicHM5anhqeFpBYUFsWTd6dXk0YVJObWtDdjVpZ01nVnRPNjFOd1czMTFmbTVxTXJvSW9VSjFvcGVvaVhPaldXdnNxX3lKOEwyTlNyUGJPQ3FLT3JtLXhwRHAyTHhoeTUyUHJNNkFYaTh1cw?oc=5",
+          "pubDate": "2026-01-16 03:01:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9UdktydTNaSGd1RTg5VXljZVZnNklZQk5uX1VicHM5anhqeFpBYUFsWTd6dXk0YVJObWtDdjVpZ01nVnRPNjFOd1czMTFmbTVxTXJvSW9VSjFvcGVvaVhPaldXdnNxX3lKOEwyTlNyUGJPQ3FLT3JtLXhwRHAyTHhoeTUyUHJNNkFYaTh1cw?oc=5\" target=\"_blank\">Can a newbie really vibe code an app? I tried Cursor and Replit to find out</a>  ZDNET",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
+          "title": "Cursor's AI Revolution: Building a Browser from Scratch with GPT-5.2 Agents in Just One Week - QUASA Connect",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHE0dWpFNFVwZVZwS1hrWHdRWVl4NHdSSDVYWFBGZkFSdWZoZ3JSaEktRUsyWk9nRVpUbzFvVk13QTZwNWdjV0VEbXNhSHpjRm5BRlM1NF9Ud1U1eFJrZW4wTUdDcy1NY2NLRnc5bGdIcFA3SlBIRnNBemJLWHlzVHFmVFFGTVd3Sk16ZDRCOUFwMU5faUZyR0hKa2ptX2FyVHhMRXRWTV9SR2VydFBxRGJTN2I?oc=5",
+          "pubDate": "2026-01-15 17:09:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHE0dWpFNFVwZVZwS1hrWHdRWVl4NHdSSDVYWFBGZkFSdWZoZ3JSaEktRUsyWk9nRVpUbzFvVk13QTZwNWdjV0VEbXNhSHpjRm5BRlM1NF9Ud1U1eFJrZW4wTUdDcy1NY2NLRnc5bGdIcFA3SlBIRnNBemJLWHlzVHFmVFFGTVd3Sk16ZDRCOUFwMU5faUZyR0hKa2ptX2FyVHhMRXRWTV9SR2VydFBxRGJTN2I?oc=5\" target=\"_blank\">Cursor's AI Revolution: Building a Browser from Scratch with GPT-5.2 Agents in Just One Week</a>  QUASA Connect",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
           "title": "Cursor vulnerability enables stealthy RCE via indirect prompt injection - SC Media",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5",
           "pubDate": "2026-01-15 12:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5\" target=\"_blank\">Cursor vulnerability enables stealthy RCE via indirect prompt injection</a>  SC Media",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "OpenAI’s GPT-5.2 Better Than Claude Opus 4.5 for Long Autonomous Tasks, Says Cursor - Analytics India Magazine",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWENNVG53Qk5McmZOd01kSWN3ZGhsWm9heS1jemNzVFpPb09ibHVybWcydWRyMGlfWmRSQWw0YlNHcGt5MEhqcXdSQ1NGMWpzdWgxbUVrT3BsY0RzRlpjVU16VHlVZ1RGYzFuaWc4OHNDaF9seTJzSjg0R0FyZU1FeGYxQjhETEYyUkZHV1NQUzNzWDJQWkJaZmdrN2xTRWlKMTZhV3REMFplQW9PMkp0NGU1LWZyNlJUUm83U1ZNaXVvdHZ1YVRF?oc=5",
-          "pubDate": "2026-01-15 06:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNWENNVG53Qk5McmZOd01kSWN3ZGhsWm9heS1jemNzVFpPb09ibHVybWcydWRyMGlfWmRSQWw0YlNHcGt5MEhqcXdSQ1NGMWpzdWgxbUVrT3BsY0RzRlpjVU16VHlVZ1RGYzFuaWc4OHNDaF9seTJzSjg0R0FyZU1FeGYxQjhETEYyUkZHV1NQUzNzWDJQWkJaZmdrN2xTRWlKMTZhV3REMFplQW9PMkp0NGU1LWZyNlJUUm83U1ZNaXVvdHZ1YVRF?oc=5\" target=\"_blank\">OpenAI’s GPT-5.2 Better Than Claude Opus 4.5 for Long Autonomous Tasks, Says Cursor</a>  Analytics India Magazine",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
-          "title": "How Investors Are Reacting To EPAM Systems (EPAM) Expanding Its AI-Native Partnership With Cursor - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUNvbWRpR1hxa2llNGduUWdTM3E0M29BVTJERUNRRTdyWVdpX3hPcW9BdVlRZi05eEdJRXFIREU4VkMwakZXTWhnT2ZDRUpHYjJhQndHNUYyaUNfZGM0bjFzRENBeEV6UUY3OUNHUVE0SkpCdk9abGdUU2xleENnTFFSdWVpcTJBeGdHRDEwQWFvc1dwMGgyNEhjTThJQkVsTi1pdmxFaVFRdHZnZi1mSEEtTnhzYWJTLUNSazA5cnB2UHl2SWxwdNIBzgFBVV95cUxONW9odUU5WjV1anJfdkZDSHFlbEJ1Q2Y0ODhxNmlHd0pUTVpKdm1acENMLVdrMUJ6S0FqbHg1ZHZBcXBXWDRqTUV5ek9CelRyLVk3MGtnenVDdG1pQlNGbTJXRWhlR19QZ0xyM3NueWdqVnVjZHFTeEhtUXlXdENxeXdZTEtpZDN4Y01hQnFYTEw5WXZrRWFVSUE3SjFCUEt1dHFrOWdORmhzMGphUldJV1hia194S0dYZ3RoMUI5ek14RFVYV05qdFg4MFBWZw?oc=5",
-          "pubDate": "2026-01-14 23:49:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUNvbWRpR1hxa2llNGduUWdTM3E0M29BVTJERUNRRTdyWVdpX3hPcW9BdVlRZi05eEdJRXFIREU4VkMwakZXTWhnT2ZDRUpHYjJhQndHNUYyaUNfZGM0bjFzRENBeEV6UUY3OUNHUVE0SkpCdk9abGdUU2xleENnTFFSdWVpcTJBeGdHRDEwQWFvc1dwMGgyNEhjTThJQkVsTi1pdmxFaVFRdHZnZi1mSEEtTnhzYWJTLUNSazA5cnB2UHl2SWxwdNIBzgFBVV95cUxONW9odUU5WjV1anJfdkZDSHFlbEJ1Q2Y0ODhxNmlHd0pUTVpKdm1acENMLVdrMUJ6S0FqbHg1ZHZBcXBXWDRqTUV5ek9CelRyLVk3MGtnenVDdG1pQlNGbTJXRWhlR19QZ0xyM3NueWdqVnVjZHFTeEhtUXlXdENxeXdZTEtpZDN4Y01hQnFYTEw5WXZrRWFVSUE3SjFCUEt1dHFrOWdORmhzMGphUldJV1hia194S0dYZ3RoMUI5ek14RFVYV05qdFg4MFBWZw?oc=5\" target=\"_blank\">How Investors Are Reacting To EPAM Systems (EPAM) Expanding Its AI-Native Partnership With Cursor</a>  simplywall.st",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "The newest open-source MMO, Cursor Party, is an MMO where you play… a cursor - Massively Overpowered",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUNSaHRBdEtUMjZjSnhHYjJ1a2ZvTUxGbU9YTTNBX3U3bG95VE1tU2RDVXlndWJYTFQ0OWxGVHBzTldDQmtMM2swcVRiak53ZTVVREtzdDR0WkFGM3VlLXBlZENaT3BLUUJSZURCMG1GaDRPTEJhQk83UzAzRUM5OHFEZjU0cVBmaC1NMFExWExPcmhscUhwc2Y3LXU0Y2ZJWFA0dS1BcDdqazRqWkE?oc=5",
           "pubDate": "2026-01-14 20:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUNSaHRBdEtUMjZjSnhHYjJ1a2ZvTUxGbU9YTTNBX3U3bG95VE1tU2RDVXlndWJYTFQ0OWxGVHBzTldDQmtMM2swcVRiak53ZTVVREtzdDR0WkFGM3VlLXBlZENaT3BLUUJSZURCMG1GaDRPTEJhQk83UzAzRUM5OHFEZjU0cVBmaC1NMFExWExPcmhscUhwc2Y3LXU0Y2ZJWFA0dS1BcDdqazRqWkE?oc=5\" target=\"_blank\">The newest open-source MMO, Cursor Party, is an MMO where you play… a cursor</a>  Massively Overpowered",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Cursor Allies with 1Password to Secure AI Coding Secrets - DevOps.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUFIclh6cWJaSjZqVWxyRnM1RWpKRVZvXzZkaURHdHlidjZqNE1VQVlKOVF6Wl9OVl9XUDVfQW1SWGRZU1hxNzhVbk84WHZnU1ZjVEQ5dXBfOHp6ZmpWNkYzNEVBcjFIWjRCY0JKOHpmU0g3UWx1SFNwY1Q5MlhNVW1B?oc=5",
           "pubDate": "2026-01-12 14:35:33",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUFIclh6cWJaSjZqVWxyRnM1RWpKRVZvXzZkaURHdHlidjZqNE1VQVlKOVF6Wl9OVl9XUDVfQW1SWGRZU1hxNzhVbk84WHZnU1ZjVEQ5dXBfOHp6ZmpWNkYzNEVBcjFIWjRCY0JKOHpmU0g3UWx1SFNwY1Q5MlhNVW1B?oc=5\" target=\"_blank\">Cursor Allies with 1Password to Secure AI Coding Secrets</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot Agent Mode: My Honest Review for 2026 - vocal.media",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkMwS2JCb0RmelhwOGdRZUZjZ1cwSnA2YXR4TjA5M090NXJoQ3puZHBqN2lfSEZBX0R2Ym83X2Jtckl3cWczdVpsTmdZOW9KZzZyQVM4TWpIYV9fcGE1VnBLTEFYUmdJVWotcWZkWDRLTXhLRTZyQnJsLW94YzN3NQ?oc=5",
-          "pubDate": "2026-01-15 08:44:50",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkMwS2JCb0RmelhwOGdRZUZjZ1cwSnA2YXR4TjA5M090NXJoQ3puZHBqN2lfSEZBX0R2Ym83X2Jtckl3cWczdVpsTmdZOW9KZzZyQVM4TWpIYV9fcGE1VnBLTEFYUmdJVWotcWZkWDRLTXhLRTZyQnJsLW94YzN3NQ?oc=5\" target=\"_blank\">GitHub Copilot Agent Mode: My Honest Review for 2026</a>  vocal.media",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "title": "GitHub Copilot CLI Gains Specialized Agents, Parallel Execution, and Smarter Context Management - WinBuzzer",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHUyR0pEMFpXaWpoaEZ0WktCMUVZNFpoeEl0RC1WZnhwWHBMQUtGanhtT0Q1dzZoRHh1UHhUbXAtU3FXN19OSUhLbW5VZ0VFNGotUXNBYXFSQm9OWjhCVWVMNzVmZTVKdzNKQnE2N1o3bXZINFZDMEdYLWxtX3FZOVdHQWRHZ1FnRWF1NUR4VU1DeE52WGVUc2JpcXp6Mkd4SGpyOXpTN1JwRnNvREtSN2ZDRVl6TnBDNnlXZU5BcUFkWm5uYjFfblNUNTVMQlE?oc=5",
+          "pubDate": "2026-01-15 23:15:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHUyR0pEMFpXaWpoaEZ0WktCMUVZNFpoeEl0RC1WZnhwWHBMQUtGanhtT0Q1dzZoRHh1UHhUbXAtU3FXN19OSUhLbW5VZ0VFNGotUXNBYXFSQm9OWjhCVWVMNzVmZTVKdzNKQnE2N1o3bXZINFZDMEdYLWxtX3FZOVdHQWRHZ1FnRWF1NUR4VU1DeE52WGVUc2JpcXp6Mkd4SGpyOXpTN1JwRnNvREtSN2ZDRVl6TnBDNnlXZU5BcUFkWm5uYjFfblNUNTVMQlE?oc=5\" target=\"_blank\">GitHub Copilot CLI Gains Specialized Agents, Parallel Execution, and Smarter Context Management</a>  WinBuzzer",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
-          "title": "GitHub Copilot CLI: Enhanced agents, context management, and new ways to install - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclluS0s2amdhcndXMU9iZjUxc3lQUkM5T2dYUU9ldnd6VkJCVnp1NzU4dUY2Z1NLbURQMm9ESEV4UnFzbVJqWWtEMnh1STh3X00wOTFicHl5djR1ZUM3SUl4b0o3YWJLNzBLYkZaMExRUEhncEUyVmpheHlORmdoVkVLLXBsR0lZTDFhTVEzbU9TbU4tUXMyeWNlSWJYQ2RkWUEzTFdsYzAydWJuQk5TYWlzM08yWGV1NDhN?oc=5",
-          "pubDate": "2026-01-14 20:21:16",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclluS0s2amdhcndXMU9iZjUxc3lQUkM5T2dYUU9ldnd6VkJCVnp1NzU4dUY2Z1NLbURQMm9ESEV4UnFzbVJqWWtEMnh1STh3X00wOTFicHl5djR1ZUM3SUl4b0o3YWJLNzBLYkZaMExRUEhncEUyVmpheHlORmdoVkVLLXBsR0lZTDFhTVEzbU9TbU4tUXMyeWNlSWJYQ2RkWUEzTFdsYzAydWJuQk5TYWlzM08yWGV1NDhN?oc=5\" target=\"_blank\">GitHub Copilot CLI: Enhanced agents, context management, and new ways to install</a>  The GitHub Blog",
+          "title": "Agentic memory for GitHub Copilot is in public preview - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFkSlN2aW5Jc25BbDFRb0M4b25rZy1QSFlqa1pCR3ZSLXdjam8zZlliTF9fUWtBQWkteG1ZaHBmNmJFMEg5cWdNa1RSYzc2cDROczlnaWFVeDc3WFRKb3dMSFVaVlZwNnZMRE5wUy0tX2NxZFpJdkRUTkY4aGZlb3ZuN2RHaVAyZGsxbC1qZ0RLNnVXalFGanBtaVM?oc=5",
+          "pubDate": "2026-01-15 21:57:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFkSlN2aW5Jc25BbDFRb0M4b25rZy1QSFlqa1pCR3ZSLXdjam8zZlliTF9fUWtBQWkteG1ZaHBmNmJFMEg5cWdNa1RSYzc2cDROczlnaWFVeDc3WFRKb3dMSFVaVlZwNnZMRE5wUy0tX2NxZFpJdkRUTkY4aGZlb3ZuN2RHaVAyZGsxbC1qZ0RLNnVXalFGanBtaVM?oc=5\" target=\"_blank\">Agentic memory for GitHub Copilot is in public preview</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+        },
+        {
+          "title": "Building an agentic memory system for GitHub Copilot - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5",
+          "pubDate": "2026-01-15 21:34:29",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5\" target=\"_blank\">Building an agentic memory system for GitHub Copilot</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "GPT-5.2-Codex is now generally available in GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3ViME9aX0xUOGhLOXE2V1h0OXp2YWZsaUh1U0RkTXJmaDhkcjhnS2htWTFscDNTYnQ1U3Y5NE5SdjRmd2FhemdZSTRvRmhfSmtpeDM2b04wTjI4bXE2aDBJc0pHTDJycEVYR3F3Z180M0hvdlFFLW9ZV1NqemxHeGpfeTFId0doOHNNTHdmWkJodnJPellCYU56WHFWZ0dteVE?oc=5",
-          "pubDate": "2026-01-14 17:04:31",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3ViME9aX0xUOGhLOXE2V1h0OXp2YWZsaUh1U0RkTXJmaDhkcjhnS2htWTFscDNTYnQ1U3Y5NE5SdjRmd2FhemdZSTRvRmhfSmtpeDM2b04wTjI4bXE2aDBJc0pHTDJycEVYR3F3Z180M0hvdlFFLW9ZV1NqemxHeGpfeTFId0doOHNNTHdmWkJodnJPellCYU56WHFWZ0dteVE?oc=5\" target=\"_blank\">GPT-5.2-Codex is now generally available in GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5",
           "pubDate": "2026-01-12 01:03:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONGRkcmR4OGlOQ3dTV3ZjdXBmYTFFVlo3VnEzT09oU2U2ZkhFOEt4Yi1hd0RzU1JFdmRta29ZTFJsSk1reHFPRTZYc3RXZTByWjJlLUlOLWtPSXB3NWZINV8yak9mdnRLNHFOc0tTMFViR2x5U0lIclRNMDBRWDlJX2l0c1RWTXAzd3dGSjNyMmh4TDlGbnZ1T2lwaTJOOE83cGlGNEVyUlhSTW5qYzVxVmtNMA?oc=5\" target=\"_blank\">Hands On with New Experimental GitHub Copilot 'Agent Skills' in VS Code</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
-          "title": "GitHub Copilot Adds Persistent Memory for Repository-Level Context - Hackernoon",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5",
-          "pubDate": "2026-01-02 20:02:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXBDNDlMay0ydmozVVlfVlR1eS1JV1RxUldmQlB5UWRwNlBqSXlrenJfRlRyVGhWY2JaRmpDRWhVQkt6a0l6S2JBeGJzNmVJWlE5X1pWUGFwc2RDbVBDTXVCWkZHdmNqcS1CWjlQQzllNDJ4X25LNm9yZzExUHJpd1RYRUh2em9vVDZlbklucDhNZ1k?oc=5\" target=\"_blank\">GitHub Copilot Adds Persistent Memory for Repository-Level Context</a>  Hackernoon",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
+          "pubDate": "2025-12-26 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5\" target=\"_blank\">WRAP up your backlog with GitHub Copilot coding agent</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         }
       ]
     },
@@ -89,39 +89,39 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "Microsoft Copilot Studio extension for VS Code now publicly available - BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGdjbW1kc2FsSXRwSW5LZ1YzU2tPLVZuOTUxVS1ucUpGeERJZlJnaEN1aUdLV2xrTUViYkcyWjRYVGY4am9rRkRQVVFZM1NQQnJucDMydXFkUjkyNEU3bVFrbGdSU0k5T0VVQkJXdVpROVJoQjRkYXZwdm8tUUpobUJDZUVIUGo2NGdyUFhQWFdaN3ByMFZ5UHB1MDBocnUySkhvNVhYSW96dURBUndpMWk3SERtSC1URUHSAb8BQVVfeXFMUG1aVWlfeXFkV3BLRk9oY3ZmZGRwNkJMLTFHMnVUdlpRZ0ppZmZWOE9ab2ZvMUo5M3kzM3hxUWdqbWNEZlFhcTlfR00wNGxhY1JlaVdHTXBQV3V5aE5jUTRvSUdzb0lHYmEtckJjRmQ0YXNmX1JOVkZBa1VkRkgyNHJya1A5R0lwM3duclp2MkYtZTdHV1hOS0ZUS21ITXBLR2NIZVNVT3QxcU5QU2xoQjBseFlIUmpFRkwwNV9DRzg?oc=5",
+          "pubDate": "2026-01-15 19:08:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGdjbW1kc2FsSXRwSW5LZ1YzU2tPLVZuOTUxVS1ucUpGeERJZlJnaEN1aUdLV2xrTUViYkcyWjRYVGY4am9rRkRQVVFZM1NQQnJucDMydXFkUjkyNEU3bVFrbGdSU0k5T0VVQkJXdVpROVJoQjRkYXZwdm8tUUpobUJDZUVIUGo2NGdyUFhQWFdaN3ByMFZ5UHB1MDBocnUySkhvNVhYSW96dURBUndpMWk3SERtSC1URUHSAb8BQVVfeXFMUG1aVWlfeXFkV3BLRk9oY3ZmZGRwNkJMLTFHMnVUdlpRZ0ppZmZWOE9ab2ZvMUo5M3kzM3hxUWdqbWNEZlFhcTlfR00wNGxhY1JlaVdHTXBQV3V5aE5jUTRvSUdzb0lHYmEtckJjRmQ0YXNmX1JOVkZBa1VkRkgyNHJya1A5R0lwM3duclp2MkYtZTdHV1hOS0ZUS21ITXBLR2NIZVNVT3QxcU5QU2xoQjBseFlIUmpFRkwwNV9DRzg?oc=5\" target=\"_blank\">Microsoft Copilot Studio extension for VS Code now publicly available</a>  BleepingComputer",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
+          "title": "Copilot Studio Extension now available in VS Code - SD Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUFfUFV0N2ZTS0RqS3JNMmJkMTlma0c3OGFkNFN6QnhsS3BfSTRva3RTRUFLY2VtSkJSY2pJaFpTM0FDdV9rMzFvbHZtejh3ODVtWDBlUWgzUFdaeUhwY2lRV2FMdjBnVXVLV1NFU19XTmF1c1ZMdXJDam15d0Fhdw?oc=5",
+          "pubDate": "2026-01-15 16:15:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUFfUFV0N2ZTS0RqS3JNMmJkMTlma0c3OGFkNFN6QnhsS3BfSTRva3RTRUFLY2VtSkJSY2pJaFpTM0FDdV9rMzFvbHZtejh3ODVtWDBlUWgzUFdaeUhwY2lRV2FMdjBnVXVLV1NFU19XTmF1c1ZMdXJDam15d0Fhdw?oc=5\" target=\"_blank\">Copilot Studio Extension now available in VS Code</a>  SD Times",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
           "title": "5 VS Code forks and variants that are better for specific jobs - How-To Geek",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5",
           "pubDate": "2026-01-15 11:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5\" target=\"_blank\">5 VS Code forks and variants that are better for specific jobs</a>  How-To Geek",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
-          "title": "Microsoft graduates Copilot Studio extension for VS Code to general availability - Neowin",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmJNa1NINUtCdXNyQlVsS0gybXlrLVVrTnlEWlpjUExaaWE3Nm5IbE1mNDNsNDdnaVJPSzNYdWU5OG1Qc09YaHJYem5mOW1ycXl1aW02cW82VHRUYWpmZEFyMFR1bkMxLXRSVVVTQjYwWU14M1UwQnIwQ3JvZlpoZEVXajl1UVNXTWZVU05yTWs0SDFRYlE3aWptazFHUm1GbXhxRzRMMlkzTTRVZmfSAawBQVVfeXFMT3Q0bWF2Nm1DcXo4SVFKS3VWT29Yck9qalRzQWg0dmVsYW43QVNrWGNwbUxzM083WmJGRWU4clh0UFhvcTZvd21sWm80VktBY1Z6UDZ6a3dMTUN4VURVV1lNajJYaGEtd3BYWGNTMTFJT3plZUowUWNnWFZ3LVZfblhFNjB3cXJsVkxteVB6X0NsTm9HRTVYSjhsdXR6MVlJRkg1aElnYmJxVXR5Rw?oc=5",
-          "pubDate": "2026-01-15 06:10:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmJNa1NINUtCdXNyQlVsS0gybXlrLVVrTnlEWlpjUExaaWE3Nm5IbE1mNDNsNDdnaVJPSzNYdWU5OG1Qc09YaHJYem5mOW1ycXl1aW02cW82VHRUYWpmZEFyMFR1bkMxLXRSVVVTQjYwWU14M1UwQnIwQ3JvZlpoZEVXajl1UVNXTWZVU05yTWs0SDFRYlE3aWptazFHUm1GbXhxRzRMMlkzTTRVZmfSAawBQVVfeXFMT3Q0bWF2Nm1DcXo4SVFKS3VWT29Yck9qalRzQWg0dmVsYW43QVNrWGNwbUxzM083WmJGRWU4clh0UFhvcTZvd21sWm80VktBY1Z6UDZ6a3dMTUN4VURVV1lNajJYaGEtd3BYWGNTMTFJT3plZUowUWNnWFZ3LVZfblhFNjB3cXJsVkxteVB6X0NsTm9HRTVYSjhsdXR6MVlJRkg1aElnYmJxVXR5Rw?oc=5\" target=\"_blank\">Microsoft graduates Copilot Studio extension for VS Code to general availability</a>  Neowin",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5",
           "pubDate": "2026-01-14 18:39:56",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5\" target=\"_blank\">Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "VSCode Gets Agent Skills - i-programmer.info",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdy1VQjdEcEhsZUxDdU4tWWV1WHVGcUFSZHRXcW03RDB2S1ZqLXZ1ZkpsV2ZEXzZqWDgtOGdObTRSbEF5d2Y4ME55ZEs3UzFWM2ZpQjdnNjFpOUt4akY1VVdmUHZHY1RmUzQwdzMyenFGbVB2UE1OTGppa01HYW9HRkc4ZkRJZw?oc=5",
-          "pubDate": "2026-01-13 19:34:11",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdy1VQjdEcEhsZUxDdU4tWWV1WHVGcUFSZHRXcW03RDB2S1ZqLXZ1ZkpsV2ZEXzZqWDgtOGdObTRSbEF5d2Y4ME55ZEs3UzFWM2ZpQjdnNjFpOUt4akY1VVdmUHZHY1RmUzQwdzMyenFGbVB2UE1OTGppa01HYW9HRkc4ZkRJZw?oc=5\" target=\"_blank\">VSCode Gets Agent Skills</a>  i-programmer.info",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "VSCode IDE forks expose users to \"recommended extension\" attacks - BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODFhRk9WOFZ2MHhvZVBvVHZqX0YySGpFNUxSVHFic014bXgzSm5XeDk0SDNaS1g3MkVoMnJCVXpoRExuTGVwNTJIZ3N4QlJBUUdHVms3aXQ1bHFjZlNxa1lUSk1CbU8tVkg5bG1PN1liOW5lZUJiRUpqWDlpdWtBamtYaGdvbHlxendYZkp1RDlDUG5NNnozMlZrS285MFVFU3owdDlxenBkUVhqWl9N0gG0AUFVX3lxTFB5bi1melU4V2picGlNcFd6bFlzLS1mTjNBYTFrT1I2eS1nMHNBS09WcGU4Smh1dHR1Wi1WdFVCSjZCRUprN1JhRHk0VzVWekRLRlBUWllQWmYtSnlYck9JRDJOSE5WMFpUVG5rWV9BWEJJbGMyZEd4T2Ytb3dVZlFzMjlyTk5GRXZaM19CQWtKWDJTcmhvNGxBa3hsTWlFc0doNXhON3BsZEg2RFJIRjFFdFpzYQ?oc=5",
-          "pubDate": "2026-01-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOODFhRk9WOFZ2MHhvZVBvVHZqX0YySGpFNUxSVHFic014bXgzSm5XeDk0SDNaS1g3MkVoMnJCVXpoRExuTGVwNTJIZ3N4QlJBUUdHVms3aXQ1bHFjZlNxa1lUSk1CbU8tVkg5bG1PN1liOW5lZUJiRUpqWDlpdWtBamtYaGdvbHlxendYZkp1RDlDUG5NNnozMlZrS285MFVFU3owdDlxenBkUVhqWl9N0gG0AUFVX3lxTFB5bi1melU4V2picGlNcFd6bFlzLS1mTjNBYTFrT1I2eS1nMHNBS09WcGU4Smh1dHR1Wi1WdFVCSjZCRUprN1JhRHk0VzVWekRLRlBUWllQWmYtSnlYck9JRDJOSE5WMFpUVG5rWV9BWEJJbGMyZEd4T2Ytb3dVZlFzMjlyTk5GRXZaM19CQWtKWDJTcmhvNGxBa3hsTWlFc0doNXhON3BsZEg2RFJIRjFFdFpzYQ?oc=5\" target=\"_blank\">VSCode IDE forks expose users to \"recommended extension\" attacks</a>  BleepingComputer",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "Why ‘boring’ VS Code keeps winning - InfoWorld",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG9Fb0lBdHo4ZzcxcFZSSmsxVFh2bFdYUFowNnFFOWtEZzlCWlR2VTd0QnI1WXJRZmh4a2gyMkFUdlFhYTdRMWdVWUJraHZkUDNRTFVhRm1aVk8xcmFmbzlTUUFNa1M4cm03UkljWkprX3FaNFcwSmhrNTh5Zm5OdFNEZUdEZw?oc=5",
+          "pubDate": "2026-01-12 09:02:50",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG9Fb0lBdHo4ZzcxcFZSSmsxVFh2bFdYUFowNnFFOWtEZzlCWlR2VTd0QnI1WXJRZmh4a2gyMkFUdlFhYTdRMWdVWUJraHZkUDNRTFVhRm1aVk8xcmFmbzlTUUFNa1M4cm03UkljWkprX3FaNFcwSmhrNTh5Zm5OdFNEZUdEZw?oc=5\" target=\"_blank\">Why ‘boring’ VS Code keeps winning</a>  InfoWorld",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -155,14 +155,14 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXB1aUlhTUdENXJLcE1sNVVkc2cyLVhVRlVPWjUzQUw1WU1hTGFPNVlYdWtLNzhRVUFqamdzdk84UHA2azcwdWd1cmZDUlNmU3VRQ3lRYk4zRFJkY3hOZl9WMTdYaE9xVlNUeFhmLThqYnhHbTNrQjZUd3pWSHBqc2FEalB5anlkcjllLTFySTJ4cWR0Yy02TFozY2FIY1ZqVnBaSFVZeHZnUHc?oc=5\" target=\"_blank\">AWS' Kiro launches autonomous agents for individual developers</a>  Constellation Research",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "AWS Kiro: Testing an AI IDE with a Spec-Driven Approach - The New Stack",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5",
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         }
       ]
     },
@@ -182,7 +182,7 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdhbE81TktLM0NrYktLeHZDbUtENXVzM0wwZ1RhcjY3Q2U0MXppVkxxWEp5SEh0ZXpEX1dSY0R1cEpmWGlnSzl1MlY5Q0FaTWdLZjhJa3c5VDJHNGlGTmRuZnBxX3dFQ2pnczk0WW1RMlNPTWFVUEhuWkV5VXhVM0FYZkEzeXFaSU5Hd0JuaGlvTzdZSW9HVFd2TQ?oc=5",
           "pubDate": "2026-01-12 22:27:50",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdhbE81TktLM0NrYktLeHZDbUtENXVzM0wwZ1RhcjY3Q2U0MXppVkxxWEp5SEh0ZXpEX1dSY0R1cEpmWGlnSzl1MlY5Q0FaTWdLZjhJa3c5VDJHNGlGTmRuZnBxX3dFQ2pnczk0WW1RMlNPTWFVUEhuWkV5VXhVM0FYZkEzeXFaSU5Hd0JuaGlvTzdZSW9HVFd2TQ?oc=5\" target=\"_blank\">Even Linus Torvalds is trying his hand at vibe coding (but just a little)</a>  Ars Technica",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Linus Torvalds used Google’s Anti-Gravity to vibe-code a visualizer tool - Adafruit",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
