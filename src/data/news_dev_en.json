@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-16T21:42:41.793Z",
+  "fetchedAt": "2026-01-17T04:07:40.046Z",
   "locale": "en",
   "companies": [
     {
@@ -7,18 +7,11 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Nvidia CEO Jensen Huang to engineers: I want you to stop coding and start... - Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXF2UVpNNVhMSEgyank3bUlFOVNVZ01sdWdRSkhMWkw1V3FScUcxRmFhcmNZRHJjODZtNFBkRnpuY3NTUVhNcGxteDFNZnZfTTF1bUFBT0NEekVyOV9qYmNpWWRKVHJlN1VpT001cWhmTUpobHhUVms2UHFBcmpUWVBMWG1TTnl6eVZ1c2xOdnllaWpGZVJ5cGJfeUZqRmhaejZrOTJVUHdONERlV3FvYlRGdHlkejdtY1VyMUJ3TjZlWWNlQy04TFhpMHF3bjBuWUpCdmVIbzhSZkhSTTFfOUZkcHFOcDhmamFNY9IB8gFBVV95cUxNR3J5YjgzLVlzR1NnZ1ZLc2F3RVVGQ3d5R0phcVpUNDBqeTdkSEc0bnEtX192V09nN2Jhai1RUllnUjBBVGFkTFQ0YXl2Q2hWVXNYUzAxY2x0SU1odGpuVklDbnJ4ZkNBSzN5MzRCaC1rRmVVa01ESW56TGZTblg4cC00VGF0bE5YRzRMb1hSb01jSHhXV0Z3T09WWV9EZGpLODE0NWFjSlgyX0VZVTRMWEZodWZMTW9rdmJBOTVUQXpUSGE3OG1mQXV4YTczaXVOOS1Fc1Y2Y1pqS281X3hHQmtYbUdwa1NHMUU1MVRUakFjZw?oc=5",
-          "pubDate": "2026-01-16 10:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXF2UVpNNVhMSEgyank3bUlFOVNVZ01sdWdRSkhMWkw1V3FScUcxRmFhcmNZRHJjODZtNFBkRnpuY3NTUVhNcGxteDFNZnZfTTF1bUFBT0NEekVyOV9qYmNpWWRKVHJlN1VpT001cWhmTUpobHhUVms2UHFBcmpUWVBMWG1TTnl6eVZ1c2xOdnllaWpGZVJ5cGJfeUZqRmhaejZrOTJVUHdONERlV3FvYlRGdHlkejdtY1VyMUJ3TjZlWWNlQy04TFhpMHF3bjBuWUpCdmVIbzhSZkhSTTFfOUZkcHFOcDhmamFNY9IB8gFBVV95cUxNR3J5YjgzLVlzR1NnZ1ZLc2F3RVVGQ3d5R0phcVpUNDBqeTdkSEc0bnEtX192V09nN2Jhai1RUllnUjBBVGFkTFQ0YXl2Q2hWVXNYUzAxY2x0SU1odGpuVklDbnJ4ZkNBSzN5MzRCaC1rRmVVa01ESW56TGZTblg4cC00VGF0bE5YRzRMb1hSb01jSHhXV0Z3T09WWV9EZGpLODE0NWFjSlgyX0VZVTRMWEZodWZMTW9rdmJBOTVUQXpUSGE3OG1mQXV4YTczaXVOOS1Fc1Y2Y1pqS281X3hHQmtYbUdwa1NHMUU1MVRUakFjZw?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang to engineers: I want you to stop coding and start...</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
           "title": "Replit grabs $400M at $9B valuation in the AI coding race with OpenAI and Cursor - Tech Funding News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXl3cEsybEdwdW55VGlYOFlOdklRaDJLd0x5SkVlbml0VVJycm1JMTFTS2FPSElQa0F5X1JhTWRiRkJWcUMtZTFlYm4zVzQ3WlliTENQbFVyVEU3ZEdxUnUtU3VpYlZZVFFha0RlY1hQd0xQYk5OU0hYYVg2Z0NrVjF6bHV3WjQtd3k3Y1JzaU9vVWZjUUt2UUE4cWY5MjdGZnZ3Wlo4bktqNTQ?oc=5",
           "pubDate": "2026-01-16 09:12:28",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXl3cEsybEdwdW55VGlYOFlOdklRaDJLd0x5SkVlbml0VVJycm1JMTFTS2FPSElQa0F5X1JhTWRiRkJWcUMtZTFlYm4zVzQ3WlliTENQbFVyVEU3ZEdxUnUtU3VpYlZZVFFha0RlY1hQd0xQYk5OU0hYYVg2Z0NrVjF6bHV3WjQtd3k3Y1JzaU9vVWZjUUt2UUE4cWY5MjdGZnZ3Wlo4bktqNTQ?oc=5\" target=\"_blank\">Replit grabs $400M at $9B valuation in the AI coding race with OpenAI and Cursor</a>  Tech Funding News",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Can a newbie really vibe code an app? I tried Cursor and Replit to find out - ZDNET",
@@ -32,7 +25,14 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5",
           "pubDate": "2026-01-15 12:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5\" target=\"_blank\">Cursor vulnerability enables stealthy RCE via indirect prompt injection</a>  SC Media",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+        },
+        {
+          "title": "7 - Day Non - stop Work on GPT - 5.2 Leads to Creation of Chrome - level Browser with 3 Million Lines of Code - 36Kr",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tY3RjWFVGb2VGV0NLVmhacm1tOEtiN2dXbXJhRVF0Y1Q3NVNieTltQ09IeXZENXNCZDA2c09XUWNFVGFzclNVdUpaa0thVGNhUDNz?oc=5",
+          "pubDate": "2026-01-15 08:30:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tY3RjWFVGb2VGV0NLVmhacm1tOEtiN2dXbXJhRVF0Y1Q3NVNieTltQ09IeXZENXNCZDA2c09XUWNFVGFzclNVdUpaa0thVGNhUDNz?oc=5\" target=\"_blank\">7 - Day Non - stop Work on GPT - 5.2 Leads to Creation of Chrome - level Browser with 3 Million Lines of Code</a>  36Kr",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "Cursor Allies with 1Password to Secure AI Coding Secrets - DevOps.com",
@@ -48,18 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub Copilot now supports OpenCode - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmxZc2VwbFRJTkdzMmZkdEhoQkJKTGwzZTFQUG90VERVZFY3WlpaeXA0ZjdvTnlqMXpTQzczYVRVTmU4c1J1Ym50d3l1RzdFUHhVUHdPdDRZbXJVZ2ZPOWM4ajE4NDVsSE9LTG1wQVVnakdoQV96RnktX2MyM2FfaElQSjc?oc=5",
+          "pubDate": "2026-01-16 23:03:03",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmxZc2VwbFRJTkdzMmZkdEhoQkJKTGwzZTFQUG90VERVZFY3WlpaeXA0ZjdvTnlqMXpTQzczYVRVTmU4c1J1Ym50d3l1RzdFUHhVUHdPdDRZbXJVZ2ZPOWM4ajE4NDVsSE9LTG1wQVVnakdoQV96RnktX2MyM2FfaElQSjc?oc=5\" target=\"_blank\">GitHub Copilot now supports OpenCode</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
           "title": "Building an agentic memory system for GitHub Copilot - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5",
           "pubDate": "2026-01-15 21:34:29",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5\" target=\"_blank\">Building an agentic memory system for GitHub Copilot</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "GitHub Copilot bring your own key (BYOK) enhancements - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEI0OE9RVW1QNjhZWjhBVll4RXlUX2kySG1iaDcycUM4ZjYxRl93UHJLanhoZmZxUkxyUDNkQ3VKdXdzaGI0VWdva3ZqR3FvZmhpUEF4UDd4THJ4UnM3SUtLRU9EUE9RbmN2d2dKUFpIVGhqU1ZaVGlNbDJ5SHA0Vk9NTlU3MEVTRG1Hay1uUVhrRFBVS0J6TQ?oc=5",
-          "pubDate": "2026-01-15 20:01:40",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEI0OE9RVW1QNjhZWjhBVll4RXlUX2kySG1iaDcycUM4ZjYxRl93UHJLanhoZmZxUkxyUDNkQ3VKdXdzaGI0VWdva3ZqR3FvZmhpUEF4UDd4THJ4UnM3SUtLRU9EUE9RbmN2d2dKUFpIVGhqU1ZaVGlNbDJ5SHA0Vk9NTlU3MEVTRG1Hay1uUVhrRFBVS0J6TQ?oc=5\" target=\"_blank\">GitHub Copilot bring your own key (BYOK) enhancements</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "Want better AI outputs? Try context engineering. - The GitHub Blog",
@@ -89,10 +89,17 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
-          "title": "Craft vs. Code AI in content creation: What is scalable and what is hype? - ET Edge Insights - ET Edge Insights",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY21QRlRKNWs1QjJkOWFYeEJYZEpZX19TMXlsT2ZEd2ZzRy1zSXRIUTk5QWxZSmxVajdKWHNMMTVLUTNmWmpoWjgzR1daT2tRN3FDZkZXcEdZTlJqemVpMTBoT2hVX0JSb0tuMmNoWmJqbkhYWkVWbF8yU1dXVUdLcms2TDY1QzgwYV9IS3NoNXdoXzhGX2diMXB0eTJmTGM5V2pqZVZOdGl5NmpvRXpEM2J2THFpdGp1clJaVHprVnczNFRZRERpdUxOQkViWXfSAdQBQVVfeXFMUGVFalg5R241b25HdjktNU1JbUxreE4wc1FDWXkxa2lmQVpGM1dwODZUeGZhU3NFbjVrQWtmZEtPN1h3UzhHaGZNUXoweTdJdlhESkdJM19UUXZqUzBrME9kTERMd2hoSWt3aTduSlZrZ2FLVkVSaDhlU1lpSy1yaTVGZGtqWlFvOFdXV0NBc3Q3M1hUdnFpV0l6aHQ3ZF9QNkRVSFZCczdMc1VlY0JwZVVXcUVxZWFuUGV1bFhOSmkxakZIYVV5UDNjb01Lakc5VDEyNk0?oc=5",
-          "pubDate": "2026-01-16 11:36:14",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOY21QRlRKNWs1QjJkOWFYeEJYZEpZX19TMXlsT2ZEd2ZzRy1zSXRIUTk5QWxZSmxVajdKWHNMMTVLUTNmWmpoWjgzR1daT2tRN3FDZkZXcEdZTlJqemVpMTBoT2hVX0JSb0tuMmNoWmJqbkhYWkVWbF8yU1dXVUdLcms2TDY1QzgwYV9IS3NoNXdoXzhGX2diMXB0eTJmTGM5V2pqZVZOdGl5NmpvRXpEM2J2THFpdGp1clJaVHprVnczNFRZRERpdUxOQkViWXfSAdQBQVVfeXFMUGVFalg5R241b25HdjktNU1JbUxreE4wc1FDWXkxa2lmQVpGM1dwODZUeGZhU3NFbjVrQWtmZEtPN1h3UzhHaGZNUXoweTdJdlhESkdJM19UUXZqUzBrME9kTERMd2hoSWt3aTduSlZrZ2FLVkVSaDhlU1lpSy1yaTVGZGtqWlFvOFdXV0NBc3Q3M1hUdnFpV0l6aHQ3ZF9QNkRVSFZCczdMc1VlY0JwZVVXcUVxZWFuUGV1bFhOSmkxakZIYVV5UDNjb01Lakc5VDEyNk0?oc=5\" target=\"_blank\">Craft vs. Code AI in content creation: What is scalable and what is hype? - ET Edge Insights</a>  ET Edge Insights",
+          "title": "Visual Studio Code adds agent development extension - InfoWorld",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWFHcjlSRmNkWVBKVFRYUkZ1OHpxTU5hQmo5UGE1WlBrNG8xYWNGR2ltRk9xOFlUTjJ0amdlT04tdjdWaXp2c1BuNkxuU3VVazNvemhSNFVIdlM1VlBYT0NqMGwwSHo4WTNmdVhnM25KdjhzcDdqczhZVGJtMk8wSTFTNUdXTnFWWjc4dXFFdl9MOU1VX0JrM25va0pYNm8?oc=5",
+          "pubDate": "2026-01-16 20:37:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWFHcjlSRmNkWVBKVFRYUkZ1OHpxTU5hQmo5UGE1WlBrNG8xYWNGR2ltRk9xOFlUTjJ0amdlT04tdjdWaXp2c1BuNkxuU3VVazNvemhSNFVIdlM1VlBYT0NqMGwwSHo4WTNmdVhnM25KdjhzcDdqczhZVGJtMk8wSTFTNUdXTnFWWjc4dXFFdl9MOU1VX0JrM25va0pYNm8?oc=5\" target=\"_blank\">Visual Studio Code adds agent development extension</a>  InfoWorld",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "Docker Support in Laravel VS Code Extension v1.4.2 - Laravel News",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PLU4yVzRoU2VCZmtKY25HMjFKbjV4NmVSUlo1ZExQcVFsZGhqRTFIbmF1emVxZlpHcERqd1N4NFljWTdCbUVJeS1nMERTd1BQby1LR211VDJxc2U2YzNhN0ViZ3dyQlk?oc=5",
+          "pubDate": "2026-01-16 18:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PLU4yVzRoU2VCZmtKY25HMjFKbjV4NmVSUlo1ZExQcVFsZGhqRTFIbmF1emVxZlpHcERqd1N4NFljWTdCbUVJeS1nMERTd1BQby1LR211VDJxc2U2YzNhN0ViZ3dyQlk?oc=5\" target=\"_blank\">Docker Support in Laravel VS Code Extension v1.4.2</a>  Laravel News",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
@@ -100,7 +107,7 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNrR1hGTkhVNEhOaWpZbDc4ZGlvd19sb0dYa1phR0oxTk5Gc19yTWgtS3pKdFJwdDJiaEdKU0puYXV6VVgxWC1jM0M4S2lmRjdUWno3SmZ1MktGWWF6Q2paYk1KYTUxNlR0aUtJdV83WXVxbXE1cmJaTC1DcDFCM2FDVEVjR2hFc0RrZnJzQnl6aWFTbE4xSUxONWlTSDFN?oc=5",
           "pubDate": "2026-01-16 09:01:10",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNrR1hGTkhVNEhOaWpZbDc4ZGlvd19sb0dYa1phR0oxTk5Gc19yTWgtS3pKdFJwdDJiaEdKU0puYXV6VVgxWC1jM0M4S2lmRjdUWno3SmZ1MktGWWF6Q2paYk1KYTUxNlR0aUtJdV83WXVxbXE1cmJaTC1DcDFCM2FDVEVjR2hFc0RrZnJzQnl6aWFTbE4xSUxONWlTSDFN?oc=5\" target=\"_blank\">Microsoft releases Copilot Studio extension for VS Code</a>  Techzine Global",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "Microsoft Copilot Studio extension for VS Code now publicly available - BleepingComputer",
@@ -115,13 +122,6 @@
           "pubDate": "2026-01-15 19:04:54",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT192Z0U1alotNENpT1FEbWt2Yi01cHpicExxZUsyeHFvWGUzaWhmS3F0Mld1cXViZ0sybUplTnpHaVhWbmZub1FRRW5NenIzMXVfUjRXTjdfZjYzWGhVT1ptNWNoRjZzeHVzR1hWQmJIYndnaTZweUxNZGZEaWp1bnhYQmI0MXlhUm9mRVphM2R2VmluZ05yd2tFS3pkOUVhMnI4?oc=5\" target=\"_blank\">Copilot Studio Extension for Visual Studio Code Is Now Generally Available</a>  Windows Report",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5",
-          "pubDate": "2026-01-14 18:39:56",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5\" target=\"_blank\">Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
@@ -141,14 +141,14 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
           "pubDate": "2026-01-09 21:51:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - aboutamazon.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
           "pubDate": "2025-12-02 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5\" target=\"_blank\">AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team</a>  aboutamazon.com",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
           "title": "AWS' Kiro launches autonomous agents for individual developers - Constellation Research",
@@ -199,10 +199,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
-          "title": "A new era of intelligence with Gemini 3 - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sN1JBSE91VzRrenAzV2E5Sk5jdURtejZuejZNamlOeFVCN3FEYm55VzFNSEdqYmhTSFdyZ0FCelZMZ2Nfd3Y5MlA4YzNYU3hFNHRIZmtSSENqMUczMTdPUkJlTkJ1TlZzcVhfcklRMFp0TzJwRllB?oc=5",
+          "title": "Start building with Gemini 3 - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmpteWNtUmNwZERVLUhCMFJpbzU5SGhQdFVIaDZVZXJJNjhsUmRkaE40Y1ZueTNtZElsQkJubnFuSGkxeUF0dFd0ckdNRkNzb3ZoZnpNR1h6MDZtZHg1VXVNOEdqYl9lOEczZHE3UzFuLUlPRE1MTTZ1Y1ZzaEV6alNwa3VfZzJyRVVjYlc0bw?oc=5",
           "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1sN1JBSE91VzRrenAzV2E5Sk5jdURtejZuejZNamlOeFVCN3FEYm55VzFNSEdqYmhTSFdyZ0FCelZMZ2Nfd3Y5MlA4YzNYU3hFNHRIZmtSSENqMUczMTdPUkJlTkJ1TlZzcVhfcklRMFp0TzJwRllB?oc=5\" target=\"_blank\">A new era of intelligence with Gemini 3</a>  blog.google",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmpteWNtUmNwZERVLUhCMFJpbzU5SGhQdFVIaDZVZXJJNjhsUmRkaE40Y1ZueTNtZElsQkJubnFuSGkxeUF0dFd0ckdNRkNzb3ZoZnpNR1h6MDZtZHg1VXVNOEdqYl9lOEczZHE3UzFuLUlPRE1MTTZ1Y1ZzaEV6alNwa3VfZzJyRVVjYlc0bw?oc=5\" target=\"_blank\">Start building with Gemini 3</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         }
       ]
