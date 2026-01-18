@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-18T09:42:06.203Z",
+  "fetchedAt": "2026-01-18T15:40:57.892Z",
   "locale": "en",
   "companies": [
     {
@@ -18,7 +18,7 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUt5WENoN2ZVbnE3RTM4SGp2bkVJdE5zajdHai1yVFdyYVQwR2thZGdQNG1aNjJVdUdlcnFhSFlJNl9VS1FQaUhWT3poVFU3NkM2MUFjbU1ETWZBWEl4MkN6bHpDWDJoQmgzMDBiR2xHUFZDUzBubU9kUzc1NnQ1d3AzMDYxTkZwaFRnMHQ3VUM0WlV3anlxd0NiOG1xTG50QVE?oc=5",
           "pubDate": "2026-01-15 12:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUt5WENoN2ZVbnE3RTM4SGp2bkVJdE5zajdHai1yVFdyYVQwR2thZGdQNG1aNjJVdUdlcnFhSFlJNl9VS1FQaUhWT3poVFU3NkM2MUFjbU1ETWZBWEl4MkN6bHpDWDJoQmgzMDBiR2xHUFZDUzBubU9kUzc1NnQ1d3AzMDYxTkZwaFRnMHQ3VUM0WlV3anlxd0NiOG1xTG50QVE?oc=5\" target=\"_blank\">Cursor vulnerability enables stealthy RCE via indirect prompt injection</a>  SC Media",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "7 - Day Non - stop Work on GPT - 5.2 Leads to Creation of Chrome - level Browser with 3 Million Lines of Code - 36氪",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUFIclh6cWJaSjZqVWxyRnM1RWpKRVZvXzZkaURHdHlidjZqNE1VQVlKOVF6Wl9OVl9XUDVfQW1SWGRZU1hxNzhVbk84WHZnU1ZjVEQ5dXBfOHp6ZmpWNkYzNEVBcjFIWjRCY0JKOHpmU0g3UWx1SFNwY1Q5MlhNVW1B?oc=5",
           "pubDate": "2026-01-12 14:35:33",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUFIclh6cWJaSjZqVWxyRnM1RWpKRVZvXzZkaURHdHlidjZqNE1VQVlKOVF6Wl9OVl9XUDVfQW1SWGRZU1hxNzhVbk84WHZnU1ZjVEQ5dXBfOHp6ZmpWNkYzNEVBcjFIWjRCY0JKOHpmU0g3UWx1SFNwY1Q5MlhNVW1B?oc=5\" target=\"_blank\">Cursor Allies with 1Password to Secure AI Coding Secrets</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         }
       ]
     },
@@ -96,13 +96,6 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "Docker Support in Laravel VS Code Extension v1.4.2 - Laravel News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PLU4yVzRoU2VCZmtKY25HMjFKbjV4NmVSUlo1ZExQcVFsZGhqRTFIbmF1emVxZlpHcERqd1N4NFljWTdCbUVJeS1nMERTd1BQby1LR211VDJxc2U2YzNhN0ViZ3dyQlk?oc=5",
-          "pubDate": "2026-01-16 18:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PLU4yVzRoU2VCZmtKY25HMjFKbjV4NmVSUlo1ZExQcVFsZGhqRTFIbmF1emVxZlpHcERqd1N4NFljWTdCbUVJeS1nMERTd1BQby1LR211VDJxc2U2YzNhN0ViZ3dyQlk?oc=5\" target=\"_blank\">Docker Support in Laravel VS Code Extension v1.4.2</a>  Laravel News",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
           "title": "Microsoft releases Copilot Studio extension for VS Code - Techzine Global",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNrR1hGTkhVNEhOaWpZbDc4ZGlvd19sb0dYa1phR0oxTk5Gc19yTWgtS3pKdFJwdDJiaEdKU0puYXV6VVgxWC1jM0M4S2lmRjdUWno3SmZ1MktGWWF6Q2paYk1KYTUxNlR0aUtJdV83WXVxbXE1cmJaTC1DcDFCM2FDVEVjR2hFc0RrZnJzQnl6aWFTbE4xSUxONWlTSDFN?oc=5",
           "pubDate": "2026-01-16 09:01:10",
@@ -117,11 +110,18 @@
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
-          "title": "5 VS Code forks and variants that are better for specific jobs - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5",
-          "pubDate": "2026-01-15 11:30:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5\" target=\"_blank\">5 VS Code forks and variants that are better for specific jobs</a>  How-To Geek",
+          "title": "Copilot Studio Extension now available in VS Code - SD Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUFfUFV0N2ZTS0RqS3JNMmJkMTlma0c3OGFkNFN6QnhsS3BfSTRva3RTRUFLY2VtSkJSY2pJaFpTM0FDdV9rMzFvbHZtejh3ODVtWDBlUWgzUFdaeUhwY2lRV2FMdjBnVXVLV1NFU19XTmF1c1ZMdXJDam15d0Fhdw?oc=5",
+          "pubDate": "2026-01-15 16:15:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUFfUFV0N2ZTS0RqS3JNMmJkMTlma0c3OGFkNFN6QnhsS3BfSTRva3RTRUFLY2VtSkJSY2pJaFpTM0FDdV9rMzFvbHZtejh3ODVtWDBlUWgzUFdaeUhwY2lRV2FMdjBnVXVLV1NFU19XTmF1c1ZMdXJDam15d0Fhdw?oc=5\" target=\"_blank\">Copilot Studio Extension now available in VS Code</a>  SD Times",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
+          "title": "VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjdhdEdJajMzc3ptaG1Fa1hXOFItcXJhS0dTNm9DcWpudlVweUJncHk1ZFAyZGU5MzJfR2FXSHVDaUh0M0tkNHFpODhuYmZ1WjQySEtUc3huczZad0JPVlNMSmN0US1FZVRDcTFzWEJMeGhSU3NHRk5JMnU5UDRxTW0zZmlyN3V6TDlXbGp0SWl3MHI5WmdtU25HeEc4bFVHZ1U1a0dzQkMtWTBnajFKNHY5WmUtS2FDeW04Mll5cElXdw?oc=5",
+          "pubDate": "2026-01-12 23:49:51",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjdhdEdJajMzc3ptaG1Fa1hXOFItcXJhS0dTNm9DcWpudlVweUJncHk1ZFAyZGU5MzJfR2FXSHVDaUh0M0tkNHFpODhuYmZ1WjQySEtUc3huczZad0JPVlNMSmN0US1FZVRDcTFzWEJMeGhSU3NHRk5JMnU5UDRxTW0zZmlyN3V6TDlXbGp0SWl3MHI5WmdtU25HeEc4bFVHZ1U1a0dzQkMtWTBnajFKNHY5WmUtS2FDeW04Mll5cElXdw?oc=5\" target=\"_blank\">VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -134,14 +134,14 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZm1DejlyTGg3c3BVQ2RueU9uR3hnSGt1ZmE5RFRhMXhIbXZfNWdrR3htZHZZeDBuMTR5Rkd4RWxMVEh1YVdvZW1WdVAxTnJmekhwSXhPWkZyUmlkcEJDQnA4YTV3NEVzUEZHTW9ndEhvdEgxQWpsWno4RmExWnRGME12TDg1VVZUUFlwTXdxN2hzMFNVNXE3bHFkTXJZSkxCbWgtem5uaXhPMGtZQ2NhZWw2aktYckRxUlBNby13?oc=5",
           "pubDate": "2026-01-14 16:47:53",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZm1DejlyTGg3c3BVQ2RueU9uR3hnSGt1ZmE5RFRhMXhIbXZfNWdrR3htZHZZeDBuMTR5Rkd4RWxMVEh1YVdvZW1WdVAxTnJmekhwSXhPWkZyUmlkcEJDQnA4YTV3NEVzUEZHTW9ndEhvdEgxQWpsWno4RmExWnRGME12TDg1VVZUUFlwTXdxN2hzMFNVNXE3bHFkTXJZSkxCbWgtem5uaXhPMGtZQ2NhZWw2aktYckRxUlBNby13?oc=5\" target=\"_blank\">Accelerate Automotive UI Development with Kiro, Squish, and Virtual Targets on AWS</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "5 ways to use Kiro and Amazon Q to optimize your Infrastructure - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
           "pubDate": "2026-01-09 21:51:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - aboutamazon.com",
