@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-17T21:38:45.027Z",
+  "fetchedAt": "2026-01-18T04:28:54.769Z",
   "locale": "en",
   "companies": [
     {
@@ -7,32 +7,32 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor's Reputation Plummets Overnight: AI's Claim of Writing 3 - Million - Line Browser Code Exposed as Hoax, Netizens Call It \"AI Garbage\" - 36氪",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13S0NTTWtDbGNGTklVdDZ1elEyYTB6WUhfbkVaZ1J2SVJTN2dGT0NmVUpvZGczVDZyd0N3SnpCbWoxbmtxWjRSN2YzaHo2QzVlWnRJ?oc=5",
-          "pubDate": "2026-01-17 07:44:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE13S0NTTWtDbGNGTklVdDZ1elEyYTB6WUhfbkVaZ1J2SVJTN2dGT0NmVUpvZGczVDZyd0N3SnpCbWoxbmtxWjRSN2YzaHo2QzVlWnRJ?oc=5\" target=\"_blank\">Cursor's Reputation Plummets Overnight: AI's Claim of Writing 3 - Million - Line Browser Code Exposed as Hoax, Netizens Call It \"AI Garbage\"</a>  36氪",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang to engineers: I want you to stop coding and start... - Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXF2UVpNNVhMSEgyank3bUlFOVNVZ01sdWdRSkhMWkw1V3FScUcxRmFhcmNZRHJjODZtNFBkRnpuY3NTUVhNcGxteDFNZnZfTTF1bUFBT0NEekVyOV9qYmNpWWRKVHJlN1VpT001cWhmTUpobHhUVms2UHFBcmpUWVBMWG1TTnl6eVZ1c2xOdnllaWpGZVJ5cGJfeUZqRmhaejZrOTJVUHdONERlV3FvYlRGdHlkejdtY1VyMUJ3TjZlWWNlQy04TFhpMHF3bjBuWUpCdmVIbzhSZkhSTTFfOUZkcHFOcDhmamFNY9IB8gFBVV95cUxNR3J5YjgzLVlzR1NnZ1ZLc2F3RVVGQ3d5R0phcVpUNDBqeTdkSEc0bnEtX192V09nN2Jhai1RUllnUjBBVGFkTFQ0YXl2Q2hWVXNYUzAxY2x0SU1odGpuVklDbnJ4ZkNBSzN5MzRCaC1rRmVVa01ESW56TGZTblg4cC00VGF0bE5YRzRMb1hSb01jSHhXV0Z3T09WWV9EZGpLODE0NWFjSlgyX0VZVTRMWEZodWZMTW9rdmJBOTVUQXpUSGE3OG1mQXV4YTczaXVOOS1Fc1Y2Y1pqS281X3hHQmtYbUdwa1NHMUU1MVRUakFjZw?oc=5",
-          "pubDate": "2026-01-17 03:19:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXF2UVpNNVhMSEgyank3bUlFOVNVZ01sdWdRSkhMWkw1V3FScUcxRmFhcmNZRHJjODZtNFBkRnpuY3NTUVhNcGxteDFNZnZfTTF1bUFBT0NEekVyOV9qYmNpWWRKVHJlN1VpT001cWhmTUpobHhUVms2UHFBcmpUWVBMWG1TTnl6eVZ1c2xOdnllaWpGZVJ5cGJfeUZqRmhaejZrOTJVUHdONERlV3FvYlRGdHlkejdtY1VyMUJ3TjZlWWNlQy04TFhpMHF3bjBuWUpCdmVIbzhSZkhSTTFfOUZkcHFOcDhmamFNY9IB8gFBVV95cUxNR3J5YjgzLVlzR1NnZ1ZLc2F3RVVGQ3d5R0phcVpUNDBqeTdkSEc0bnEtX192V09nN2Jhai1RUllnUjBBVGFkTFQ0YXl2Q2hWVXNYUzAxY2x0SU1odGpuVklDbnJ4ZkNBSzN5MzRCaC1rRmVVa01ESW56TGZTblg4cC00VGF0bE5YRzRMb1hSb01jSHhXV0Z3T09WWV9EZGpLODE0NWFjSlgyX0VZVTRMWEZodWZMTW9rdmJBOTVUQXpUSGE3OG1mQXV4YTczaXVOOS1Fc1Y2Y1pqS281X3hHQmtYbUdwa1NHMUU1MVRUakFjZw?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang to engineers: I want you to stop coding and start...</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
           "title": "Can a newbie really vibe code an app? I tried Cursor and Replit to find out - ZDNET",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9UdktydTNaSGd1RTg5VXljZVZnNklZQk5uX1VicHM5anhqeFpBYUFsWTd6dXk0YVJObWtDdjVpZ01nVnRPNjFOd1czMTFmbTVxTXJvSW9VSjFvcGVvaVhPaldXdnNxX3lKOEwyTlNyUGJPQ3FLT3JtLXhwRHAyTHhoeTUyUHJNNkFYaTh1cw?oc=5",
           "pubDate": "2026-01-16 03:01:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLW9UdktydTNaSGd1RTg5VXljZVZnNklZQk5uX1VicHM5anhqeFpBYUFsWTd6dXk0YVJObWtDdjVpZ01nVnRPNjFOd1czMTFmbTVxTXJvSW9VSjFvcGVvaVhPaldXdnNxX3lKOEwyTlNyUGJPQ3FLT3JtLXhwRHAyTHhoeTUyUHJNNkFYaTh1cw?oc=5\" target=\"_blank\">Can a newbie really vibe code an app? I tried Cursor and Replit to find out</a>  ZDNET",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "Cursor vulnerability enables stealthy RCE via indirect prompt injection - SC Media",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUt5WENoN2ZVbnE3RTM4SGp2bkVJdE5zajdHai1yVFdyYVQwR2thZGdQNG1aNjJVdUdlcnFhSFlJNl9VS1FQaUhWT3poVFU3NkM2MUFjbU1ETWZBWEl4MkN6bHpDWDJoQmgzMDBiR2xHUFZDUzBubU9kUzc1NnQ1d3AzMDYxTkZwaFRnMHQ3VUM0WlV3anlxd0NiOG1xTG50QVE?oc=5",
           "pubDate": "2026-01-15 12:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEpxU0QwOF90NjVEZ0NBdHpGcERaZXRBa3JULU5SMGVYcVJFMllEQUI3MjFtT3RaM0pHT2lHREZ0ejNPSGsxaU5RTDhJeTlMU25VcGVJckNtbFNmS3VtOWRLMUlWbXJ2WEFucjFuU3lONUFQRVk5SnBVVXd3ZmlZTW9MOWszV0VvMWsyekpHMjg0LWZnUWoweW8zZlBjbmcyS2tMUnhB?oc=5\" target=\"_blank\">Cursor vulnerability enables stealthy RCE via indirect prompt injection</a>  SC Media",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUt5WENoN2ZVbnE3RTM4SGp2bkVJdE5zajdHai1yVFdyYVQwR2thZGdQNG1aNjJVdUdlcnFhSFlJNl9VS1FQaUhWT3poVFU3NkM2MUFjbU1ETWZBWEl4MkN6bHpDWDJoQmgzMDBiR2xHUFZDUzBubU9kUzc1NnQ1d3AzMDYxTkZwaFRnMHQ3VUM0WlV3anlxd0NiOG1xTG50QVE?oc=5\" target=\"_blank\">Cursor vulnerability enables stealthy RCE via indirect prompt injection</a>  SC Media",
           "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "7 - Day Non - stop Work on GPT - 5.2 Leads to Creation of Chrome - level Browser with 3 Million Lines of Code - 36氪",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tY3RjWFVGb2VGV0NLVmhacm1tOEtiN2dXbXJhRVF0Y1Q3NVNieTltQ09IeXZENXNCZDA2c09XUWNFVGFzclNVdUpaa0thVGNhUDNz?oc=5",
+          "pubDate": "2026-01-15 08:30:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tY3RjWFVGb2VGV0NLVmhacm1tOEtiN2dXbXJhRVF0Y1Q3NVNieTltQ09IeXZENXNCZDA2c09XUWNFVGFzclNVdUpaa0thVGNhUDNz?oc=5\" target=\"_blank\">7 - Day Non - stop Work on GPT - 5.2 Leads to Creation of Chrome - level Browser with 3 Million Lines of Code</a>  36氪",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "The newest open-source MMO, Cursor Party, is an MMO where you play… a cursor - Massively Overpowered",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUNSaHRBdEtUMjZjSnhHYjJ1a2ZvTUxGbU9YTTNBX3U3bG95VE1tU2RDVXlndWJYTFQ0OWxGVHBzTldDQmtMM2swcVRiak53ZTVVREtzdDR0WkFGM3VlLXBlZENaT3BLUUJSZURCMG1GaDRPTEJhQk83UzAzRUM5OHFEZjU0cVBmaC1NMFExWExPcmhscUhwc2Y3LXU0Y2ZJWFA0dS1BcDdqazRqWkE?oc=5",
+          "pubDate": "2026-01-14 20:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUNSaHRBdEtUMjZjSnhHYjJ1a2ZvTUxGbU9YTTNBX3U3bG95VE1tU2RDVXlndWJYTFQ0OWxGVHBzTldDQmtMM2swcVRiak53ZTVVREtzdDR0WkFGM3VlLXBlZENaT3BLUUJSZURCMG1GaDRPTEJhQk83UzAzRUM5OHFEZjU0cVBmaC1NMFExWExPcmhscUhwc2Y3LXU0Y2ZJWFA0dS1BcDdqazRqWkE?oc=5\" target=\"_blank\">The newest open-source MMO, Cursor Party, is an MMO where you play… a cursor</a>  Massively Overpowered",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Cursor Allies with 1Password to Secure AI Coding Secrets - DevOps.com",
@@ -107,21 +107,21 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNrR1hGTkhVNEhOaWpZbDc4ZGlvd19sb0dYa1phR0oxTk5Gc19yTWgtS3pKdFJwdDJiaEdKU0puYXV6VVgxWC1jM0M4S2lmRjdUWno3SmZ1MktGWWF6Q2paYk1KYTUxNlR0aUtJdV83WXVxbXE1cmJaTC1DcDFCM2FDVEVjR2hFc0RrZnJzQnl6aWFTbE4xSUxONWlTSDFN?oc=5",
           "pubDate": "2026-01-16 09:01:10",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlNrR1hGTkhVNEhOaWpZbDc4ZGlvd19sb0dYa1phR0oxTk5Gc19yTWgtS3pKdFJwdDJiaEdKU0puYXV6VVgxWC1jM0M4S2lmRjdUWno3SmZ1MktGWWF6Q2paYk1KYTUxNlR0aUtJdV83WXVxbXE1cmJaTC1DcDFCM2FDVEVjR2hFc0RrZnJzQnl6aWFTbE4xSUxONWlTSDFN?oc=5\" target=\"_blank\">Microsoft releases Copilot Studio extension for VS Code</a>  Techzine Global",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Microsoft Copilot Studio extension for VS Code now publicly available - BleepingComputer",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGdjbW1kc2FsSXRwSW5LZ1YzU2tPLVZuOTUxVS1ucUpGeERJZlJnaEN1aUdLV2xrTUViYkcyWjRYVGY4am9rRkRQVVFZM1NQQnJucDMydXFkUjkyNEU3bVFrbGdSU0k5T0VVQkJXdVpROVJoQjRkYXZwdm8tUUpobUJDZUVIUGo2NGdyUFhQWFdaN3ByMFZ5UHB1MDBocnUySkhvNVhYSW96dURBUndpMWk3SERtSC1URUHSAb8BQVVfeXFMUG1aVWlfeXFkV3BLRk9oY3ZmZGRwNkJMLTFHMnVUdlpRZ0ppZmZWOE9ab2ZvMUo5M3kzM3hxUWdqbWNEZlFhcTlfR00wNGxhY1JlaVdHTXBQV3V5aE5jUTRvSUdzb0lHYmEtckJjRmQ0YXNmX1JOVkZBa1VkRkgyNHJya1A5R0lwM3duclp2MkYtZTdHV1hOS0ZUS21ITXBLR2NIZVNVT3QxcU5QU2xoQjBseFlIUmpFRkwwNV9DRzg?oc=5",
           "pubDate": "2026-01-15 19:08:13",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGdjbW1kc2FsSXRwSW5LZ1YzU2tPLVZuOTUxVS1ucUpGeERJZlJnaEN1aUdLV2xrTUViYkcyWjRYVGY4am9rRkRQVVFZM1NQQnJucDMydXFkUjkyNEU3bVFrbGdSU0k5T0VVQkJXdVpROVJoQjRkYXZwdm8tUUpobUJDZUVIUGo2NGdyUFhQWFdaN3ByMFZ5UHB1MDBocnUySkhvNVhYSW96dURBUndpMWk3SERtSC1URUHSAb8BQVVfeXFMUG1aVWlfeXFkV3BLRk9oY3ZmZGRwNkJMLTFHMnVUdlpRZ0ppZmZWOE9ab2ZvMUo5M3kzM3hxUWdqbWNEZlFhcTlfR00wNGxhY1JlaVdHTXBQV3V5aE5jUTRvSUdzb0lHYmEtckJjRmQ0YXNmX1JOVkZBa1VkRkgyNHJya1A5R0lwM3duclp2MkYtZTdHV1hOS0ZUS21ITXBLR2NIZVNVT3QxcU5QU2xoQjBseFlIUmpFRkwwNV9DRzg?oc=5\" target=\"_blank\">Microsoft Copilot Studio extension for VS Code now publicly available</a>  BleepingComputer",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
-          "title": "Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5",
-          "pubDate": "2026-01-14 18:39:56",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZDdHB6OGFjLUJTbWdpWURieXd1ci0yOU1ETXVOY3czcGJkQXlxMHEwOFlVdVgzQWdCQnlQbmF6NUhsX1BDOEtRRlE1dmdkOGJ0R2FIMGpfSmM4RHlWb2RheHBBaFN5bTI0Q1E1ZmFhdHBpenZfZ2psOHR0WW82QnB1d3VPOFlVSGJYUGlvZ2hjemx3SWp5OHZxTmJiTjRtbURBdmkxd2RkbGx1OFR4WmRNM05xZ3JBcDdLeEswRkhpZWxQWmZlTl9xV3BrR1JkNFNR?oc=5\" target=\"_blank\">Hands On with Copilot Vision: VS Code's Head Start and How the IDE Is Catching Up</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "title": "5 VS Code forks and variants that are better for specific jobs - How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5",
+          "pubDate": "2026-01-15 11:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHM1N1NfZURfM3JwbUd6RHZFRUN0al95N2d1WkdrYktOZDJWd3NwYTZxNVBLSERoUW52eVJxYnVlYzV5dTJnSzlTMjA2TGNVV21fVGtaU1c2UHZXb2k2YTBqMnU3eGZ5LWFHTDJtQUNlZXo4OC1MM1lRX0huUTQ4cGZNSERQUTdHbl9uTVhiWnB2TG8?oc=5\" target=\"_blank\">5 VS Code forks and variants that are better for specific jobs</a>  How-To Geek",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
