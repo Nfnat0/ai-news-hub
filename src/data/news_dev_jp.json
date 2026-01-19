@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-19T07:03:01.709Z",
+  "fetchedAt": "2026-01-19T13:25:34.143Z",
   "locale": "jp",
   "companies": [
     {
@@ -11,14 +11,14 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWHB5TTBuTkEyVW9oQWhoRHpCa1IxQVR5YXIyZ3BlejJBUXFfaVVTVF8xRldVdXhPeGFaU1d4RzVVTlpPUnBZU2lOejdMdw?oc=5",
           "pubDate": "2026-01-17 03:01:28",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWHB5TTBuTkEyVW9oQWhoRHpCa1IxQVR5YXIyZ3BlejJBUXFfaVVTVF8xRldVdXhPeGFaU1d4RzVVTlpPUnBZU2lOejdMdw?oc=5\" target=\"_blank\">Cursorがコードレビューエージェント「Bugbot」の運用実績を公開、積極的なバグ検出が可能に</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "「AI駆動PM」の最前線とは。CursorやNotion AIを駆使する、これからのPMの働き方 - ProductZine",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQll3QUpZREYzNDNNZkFxRU8yWXNQc29WYW5yQTR1VnlpU0tnVk9ZbXhsNzRtRm9TVWU4UGxFWWhJUkd5MlRLYVprWms2ejVKZDRQRA?oc=5",
           "pubDate": "2026-01-13 03:33:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQll3QUpZREYzNDNNZkFxRU8yWXNQc29WYW5yQTR1VnlpU0tnVk9ZbXhsNzRtRm9TVWU4UGxFWWhJUkd5MlRLYVprWms2ejVKZDRQRA?oc=5\" target=\"_blank\">「AI駆動PM」の最前線とは。CursorやNotion AIを駆使する、これからのPMの働き方</a>  ProductZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
@@ -32,14 +32,14 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         }
       ]
     },
@@ -48,10 +48,10 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot、Gemini2.5やGPT-5など旧モデルのサポートを2月17日に終了 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdDNxc0RPWTdNdWFfXzhhWkVMUDVTWFc2MDNvVWloa2tBeDJvTVVnYXNIS2Y3LVA5Vjk1eTk2ZGNtQTVfbTJRd0NleGF2Zw?oc=5",
-          "pubDate": "2026-01-18 17:37:46",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdDNxc0RPWTdNdWFfXzhhWkVMUDVTWFc2MDNvVWloa2tBeDJvTVVnYXNIS2Y3LVA5Vjk1eTk2ZGNtQTVfbTJRd0NleGF2Zw?oc=5\" target=\"_blank\">GitHub Copilot、Gemini2.5やGPT-5など旧モデルのサポートを2月17日に終了</a>  CodeZine",
+          "title": "GitHub CopilotがOpenCodeの正式サポートを開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LellZYnhLZnYwUTEwOFgyWEhGV3QzSmxTVEI0Zkw5MjBjUVRYS2U0Z21VREdBUnFaSWRUakdkMG9sSFZQakJBMnFuTTRlQQ?oc=5",
+          "pubDate": "2026-01-19 08:34:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LellZYnhLZnYwUTEwOFgyWEhGV3QzSmxTVEI0Zkw5MjBjUVRYS2U0Z21VREdBUnFaSWRUakdkMG9sSFZQakJBMnFuTTRlQQ?oc=5\" target=\"_blank\">GitHub CopilotがOpenCodeの正式サポートを開始</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
@@ -130,13 +130,6 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "AIに「丸投げ」は厳禁 AWSのIDE「Kiro」はなぜ仕様駆動型開発に行き着いたのか? - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOOXZfTkJ0cGc5WGJKYW5WYWIwR0dLaW04V3hnemVib2F0WV9sSGlxX0NTRm9uNHR4QjRFVHdPUjM3ZklJV2E2UGk0dG1UdVhhcmd6OWJIOUdWc2RFVDZEby1kMGZCeTNTX1NJZjZpMFdwMURIRGloWU9TR29OWVNwVS1GeWFPa1dvR2UyMVUweTVJcF9YeklXaTl2M2x3UWpnTlRuY1BVYUpPSmxuU2tmT2RVZVV5OXJWcXhOWlE2aHFtdUxuSkRnWGd2OEx3X0FOR3FLbkNpaGFPM3pCNkRHTzdtQ1ZsV0ZBYzE4T3R4RG9YQUpOejVkOVd1b3RWd2ZqRjU1aS1VczM0ZzBFZE5KTTl0eDJRYUEtXzJkQ0xxYVgtYk5DNWE2M3lkbU9oZV9xaWUtNmNISF84ZVoyUlF3V0N3aF8tcWt6VlI2X0lJQVItTTFZOElXLTdCYlozZ3ota29nUzc1alVNMHA2TjhQSDlCeXhOVndiV2pndFdRRElkZGRGdU1VVkhZcTdsV1p5RE5VWnl1S2U4R1lfajA4WXRxTDBxS0RDSGpBUWtZeTk2QjloWTM2Rw?oc=5",
-          "pubDate": "2026-01-16 02:44:05",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuANBVV95cUxOOXZfTkJ0cGc5WGJKYW5WYWIwR0dLaW04V3hnemVib2F0WV9sSGlxX0NTRm9uNHR4QjRFVHdPUjM3ZklJV2E2UGk0dG1UdVhhcmd6OWJIOUdWc2RFVDZEby1kMGZCeTNTX1NJZjZpMFdwMURIRGloWU9TR29OWVNwVS1GeWFPa1dvR2UyMVUweTVJcF9YeklXaTl2M2x3UWpnTlRuY1BVYUpPSmxuU2tmT2RVZVV5OXJWcXhOWlE2aHFtdUxuSkRnWGd2OEx3X0FOR3FLbkNpaGFPM3pCNkRHTzdtQ1ZsV0ZBYzE4T3R4RG9YQUpOejVkOVd1b3RWd2ZqRjU1aS1VczM0ZzBFZE5KTTl0eDJRYUEtXzJkQ0xxYVgtYk5DNWE2M3lkbU9oZV9xaWUtNmNISF84ZVoyUlF3V0N3aF8tcWt6VlI2X0lJQVItTTFZOElXLTdCYlozZ3ota29nUzc1alVNMHA2TjhQSDlCeXhOVndiV2pndFdRRElkZGRGdU1VVkhZcTdsV1p5RE5VWnl1S2U4R1lfajA4WXRxTDBxS0RDSGpBUWtZeTk2QjloWTM2Rw?oc=5\" target=\"_blank\">AIに「丸投げ」は厳禁 AWSのIDE「Kiro」はなぜ仕様駆動型開発に行き着いたのか?</a>  MSN",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
-        },
-        {
           "title": "[資料公開 &amp; 開催報告] Amazon Q Developer &amp; Kiro Meetup #5 を開催しました - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWQnpoSk55ZmlQRDAzcWpaSjByMGpodUtKT0I1aFZpQk9ZQXMwWmFvRUhkRDlOQ2RycTJNS0ZhNUxqc19uQUxSMjVyYzFLS3dzVTZ0cTVwVVkzM2dlTF9RWWlING51aENzWkE?oc=5",
           "pubDate": "2026-01-16 02:33:51",
@@ -163,6 +156,13 @@
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+        },
+        {
+          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         }
       ]
     },
@@ -171,11 +171,18 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4) - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PLU5iT2V4Sk1MamRzWmdxQm1qOVdGT0h4TDlHMWRObVFDX0Y5QVMtWDI3ZjRUbElsQkJUaHNSTHBrTkVRaWx0VmhvWERmU2dSbnQ1a1lYUHBEeDlhbVVR?oc=5",
+          "pubDate": "2026-01-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PLU5iT2V4Sk1MamRzWmdxQm1qOVdGT0h4TDlHMWRObVFDX0Y5QVMtWDI3ZjRUbElsQkJUaHNSTHBrTkVRaWx0VmhvWERmU2dSbnQ1a1lYUHBEeDlhbVVR?oc=5\" target=\"_blank\">「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4)</a>  ASCII.jp",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
           "title": "Googleの開発用プラットフォーム「Antigravity」に“Agent Skills”登場 エージェントに作業手順を配布できるオープン標準 - Ledge.ai",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nZU1KLU12eDZLdmo1Q0lhRUktcUxFa01ybDA2VC1obUQwNVJacHE3akJLekRrdnNNN2ZCYXZRSG9PMFRnYjVoYzRDZ1ZNdHF5MkJlQXhPWUV0NVR0a0VMdVIyUHZSa1pJemZCR081RVNTQ0w1aEg4ZXpjOA?oc=5",
           "pubDate": "2026-01-14 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9nZU1KLU12eDZLdmo1Q0lhRUktcUxFa01ybDA2VC1obUQwNVJacHE3akJLekRrdnNNN2ZCYXZRSG9PMFRnYjVoYzRDZ1ZNdHF5MkJlQXhPWUV0NVR0a0VMdVIyUHZSa1pJemZCR081RVNTQ0w1aEg4ZXpjOA?oc=5\" target=\"_blank\">Googleの開発用プラットフォーム「Antigravity」に“Agent Skills”登場 エージェントに作業手順を配布できるオープン標準</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "Google Antigravity、エージェント拡張機能「Skills」の搭載を発表 - CodeZine",
@@ -189,13 +196,6 @@
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEF1czI5RENlb0V3X18yMFNFVFBqLXNXcFlmcS1WRFNsVFRzdTdoVHktUGhBZG9taVRzVloxTzVqLVl1cE9aQVFTM0NUUnN3UkxSUUhjd1VCVkhFR0xFUEkwSFZXclFncUtMTG0xNk5nQUV0OEY5RDdzRmkxZGVUbzVRQnpFb2tjQWtfZE5ZZ2FaQkZFTldpX3U4ZGtEYnEwX1ExdGRpampiVy1ZcjhpdWlSLWtQTl9wSnljUW9rbkVvbWJCQzlTRlhBUklLNWViS1BxSEdkN1dPMFJaQWc?oc=5",
           "pubDate": "2026-01-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEF1czI5RENlb0V3X18yMFNFVFBqLXNXcFlmcS1WRFNsVFRzdTdoVHktUGhBZG9taVRzVloxTzVqLVl1cE9aQVFTM0NUUnN3UkxSUUhjd1VCVkhFR0xFUEkwSFZXclFncUtMTG0xNk5nQUV0OEY5RDdzRmkxZGVUbzVRQnpFb2tjQWtfZE5ZZ2FaQkZFTldpX3U4ZGtEYnEwX1ExdGRpampiVy1ZcjhpdWlSLWtQTl9wSnljUW9rbkVvbWJCQzlTRlhBUklLNWViS1BxSEdkN1dPMFJaQWc?oc=5\" target=\"_blank\">Agent Factory のハイライト: Gemini 3、AI Studio、Antigravity、Nano Banana を使用した構築</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
-        },
-        {
-          "title": "【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」 - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5",
-          "pubDate": "2026-01-02 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMWtabkNwbkQ5T3lmTWhULTNUQnYxXzRCWjE0RmNuN2t2eUFfSENOYm02TUdLR25ick8zcnlNUFEzbEE5YjU1cE9PelU5QkZabFVyaQ?oc=5\" target=\"_blank\">【2025年マイベストガジェット】画像生成もできるAIエディタが強すぎる!!「Google Antigravity」</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
