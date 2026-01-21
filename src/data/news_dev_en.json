@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-21T15:56:52.650Z",
+  "fetchedAt": "2026-01-21T21:51:51.271Z",
   "locale": "en",
   "companies": [
     {
@@ -7,17 +7,24 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "Microsoft PowerToys' new Cursor Wrap feature makes traversing across multiple monitors a whole lot easier - PC Gamer",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPX1R1bEJCajFDQ2xDdzdWNWJJWWVrdTlPejVLWUlILWtkQ1JPa0pkMmthc1g2U2V3V0gzRmlVX0t1c3duNlhlU2t4WWZJRThueUxqcHdENF9RczVqX1ZFSEZPZXdRaTctRFNMSWp2dXoycXhsalZZWVVNWjZET0owNEpWQ044TVg2RzdvMXN1d01icmNqUWZXMkVPMVAyTVJUSDRCUUgyMmJ0Vk1jRzN0eHd6R2RiNnRnT2I4ZWwyM3RBVl8zakdFWFN4WWI3a2phcFo1c21oTlk3akYxS1lUMDhBZlZJNmVLS3oyWTZQNEtmaGNQQVZobWZuTnVpVHlnZzVqaUxFZW5POTNCNTJRQ1cxdHJ5WDJhcnFvOTdZTndmYzNLYkE?oc=5",
+          "pubDate": "2026-01-21 12:21:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxPX1R1bEJCajFDQ2xDdzdWNWJJWWVrdTlPejVLWUlILWtkQ1JPa0pkMmthc1g2U2V3V0gzRmlVX0t1c3duNlhlU2t4WWZJRThueUxqcHdENF9RczVqX1ZFSEZPZXdRaTctRFNMSWp2dXoycXhsalZZWVVNWjZET0owNEpWQ044TVg2RzdvMXN1d01icmNqUWZXMkVPMVAyTVJUSDRCUUgyMmJ0Vk1jRzN0eHd6R2RiNnRnT2I4ZWwyM3RBVl8zakdFWFN4WWI3a2phcFo1c21oTlk3akYxS1lUMDhBZlZJNmVLS3oyWTZQNEtmaGNQQVZobWZuTnVpVHlnZzVqaUxFZW5POTNCNTJRQ1cxdHJ5WDJhcnFvOTdZTndmYzNLYkE?oc=5\" target=\"_blank\">Microsoft PowerToys' new Cursor Wrap feature makes traversing across multiple monitors a whole lot easier</a>  PC Gamer",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Valentines Day Card Printable Valentine's Day Card Cursor - Valentine's Day Cursors - Sweezy Valentines Card - Prost International",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVl5VFMzZ0NXaS1NVmlsQkJORm9KWHJqcXYycTJGZFFvU3BRTXo5amItbTB0MnN6VlJmVGVCVlNobzNtZzVsWExfQmg5bE1aekRhUjR0cmxQZWxITlNvejdTemw4a1RfMHh2NTR2ZTRiM3ZQcUpuRVR5QmZzd3lUdV9PTG95ZEFObm15Y2dROA?oc=5",
+          "pubDate": "2026-01-20 22:14:36",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVl5VFMzZ0NXaS1NVmlsQkJORm9KWHJqcXYycTJGZFFvU3BRTXo5amItbTB0MnN6VlJmVGVCVlNobzNtZzVsWExfQmg5bE1aekRhUjR0cmxQZWxITlNvejdTemw4a1RfMHh2NTR2ZTRiM3ZQcUpuRVR5QmZzd3lUdV9PTG95ZEFObm15Y2dROA?oc=5\" target=\"_blank\">Valentines Day Card Printable Valentine's Day Card Cursor - Valentine's Day Cursors - Sweezy Valentines Card</a>  Prost International",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
           "title": "How to Perform Large Code Refactors in Cursor - Towards Data Science",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2V1bVhBZnljbmNscTBrN3ctSEZyZExmaGJoai1mcFczSHRnc0ZZRUdwb3ByYVA2dkJKQmExZURiM3lNYzVrUVBhWGhqYkw1WUdyNWZaS0F5LUN5dkRFaVJQUllYWTNFdXpKQ2ZmeV9WWV9EZzdteDFRQzM1RGpLcnhEaw?oc=5",
           "pubDate": "2026-01-20 15:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2V1bVhBZnljbmNscTBrN3ctSEZyZExmaGJoai1mcFczSHRnc0ZZRUdwb3ByYVA2dkJKQmExZURiM3lNYzVrUVBhWGhqYkw1WUdyNWZaS0F5LUN5dkRFaVJQUllYWTNFdXpKQ2ZmeV9WWV9EZzdteDFRQzM1RGpLcnhEaw?oc=5\" target=\"_blank\">How to Perform Large Code Refactors in Cursor</a>  Towards Data Science",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Cursor's agent swarm tackles one of software's hardest problems and delivers a working browser - the-decoder.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGxmVERkWUh4S1Y1SVMyY1haWHlNOThiSFN3anBwcEZ6dUFjUXI5NjJKa0l3R0l6WHVQN0Y0WHVjWVQzWFpCQjI0dFBKbVBuQWJqVE1SYXZoSXlwTjNiZlRZMjZsOHBUcHR0TVZZQUdHRTZtQU1RVVZiTkVnOWVqdW81S0JMTF9HdlIxeVV2QTJoYnVOWU03VXdPUDM4LUdDRFFpQzloNDA5dGJoRnBpS3hKNkJpQ0Ji?oc=5",
-          "pubDate": "2026-01-20 14:37:32",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGxmVERkWUh4S1Y1SVMyY1haWHlNOThiSFN3anBwcEZ6dUFjUXI5NjJKa0l3R0l6WHVQN0Y0WHVjWVQzWFpCQjI0dFBKbVBuQWJqVE1SYXZoSXlwTjNiZlRZMjZsOHBUcHR0TVZZQUdHRTZtQU1RVVZiTkVnOWVqdW81S0JMTF9HdlIxeVV2QTJoYnVOWU03VXdPUDM4LUdDRFFpQzloNDA5dGJoRnBpS3hKNkJpQ0Ji?oc=5\" target=\"_blank\">Cursor's agent swarm tackles one of software's hardest problems and delivers a working browser</a>  the-decoder.com",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
@@ -25,21 +32,14 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckJsUTRESU4xM2pteE9lbVNnMjNibGtvN1FpUzVGZ2VieXlFRlo5OWdldURfS0VvenNWaXpNVDVnOXgyYWVWZ1p1cnJ1YnRFRVl1elBMNmFvZUJNcnZucno0dDFta0ZxSVd2U1pfMWl5T1lOaDFCeThhYTZxSnVUS293YXc4QQ?oc=5",
           "pubDate": "2026-01-19 12:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNckJsUTRESU4xM2pteE9lbVNnMjNibGtvN1FpUzVGZ2VieXlFRlo5OWdldURfS0VvenNWaXpNVDVnOXgyYWVWZ1p1cnJ1YnRFRVl1elBMNmFvZUJNcnZucno0dDFta0ZxSVd2U1pfMWl5T1lOaDFCeThhYTZxSnVUS293YXc4QQ?oc=5\" target=\"_blank\">I tried vibe coding an app as a beginner - here's what Cursor and Replit taught me</a>  ZDNET",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGpHRGdTQ3NTSlBZWHIzWFBRRElRQzh6bnFsTG1Od0RYS0NfU2JCMzFMaWZuSXQtc01vRlY0dFV3bjRPV05mMjR4MWhTMU55d3VTVkRSTU16SnJFdGpPZkVyR21KTVZIZFpTVjFTY3ZsOUc0cnc5R3NCNlFBeC12MFdTX0fSAYoBQVVfeXFMT2pWYURVLXZGR2J5RnkxVWlaakVpZWtMdlFvY0I2MW4xTHZWZ3pZQmwxVjdUbVlsdW1iSHhaRk94cVhvdkx6TmNHYllYQUwtQ054NTlTYWdiMloxTldPcW56WFk3em42cFVLSVE5d2ZVcWpJMWRPbjRVUTFOLTdad2VLVnhxU0ZmMWt3?oc=5",
-          "pubDate": "2025-11-13 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGpHRGdTQ3NTSlBZWHIzWFBRRElRQzh6bnFsTG1Od0RYS0NfU2JCMzFMaWZuSXQtc01vRlY0dFV3bjRPV05mMjR4MWhTMU55d3VTVkRSTU16SnJFdGpPZkVyR21KTVZIZFpTVjFTY3ZsOUc0cnc5R3NCNlFBeC12MFdTX0fSAYoBQVVfeXFMT2pWYURVLXZGR2J5RnkxVWlaakVpZWtMdlFvY0I2MW4xTHZWZ3pZQmwxVjdUbVlsdW1iSHhaRk94cVhvdkx6TmNHYllYQUwtQ054NTlTYWdiMloxTldPcW56WFk3em42cFVLSVE5d2ZVcWpJMWRPbjRVUTFOLTdad2VLVnhxU0ZmMWt3?oc=5\" target=\"_blank\">AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation</a>  CNBC",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
-        },
-        {
-          "title": "Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side - Stark Insider",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5",
-          "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5\" target=\"_blank\">Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side</a>  Stark Insider",
           "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
+          "title": "intive Announces Strategic Enterprise Partnership with Cursor to Advance AI-Native Transformation - dnj.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXJPbnJkM2hPNHBWUkRjQlg0Zm5yVXpOellGUFJydzFKNzljTnB1ZUFWR1Q2ZzZwMkhIdm1tbWdVNTZ1NS1XUGw4M3JOWFJRV2tGOWhQV0V2ak5NTjhrdXExa1E3aEtNY0M2NFRKZWh0ZnBabnZFX0pKNG5xdnNBSXg1d3lfOWRnajk5MGdtb3VaVGNUSHV5a0xVVm5yTkVBV09wS2NRUjNmUXBTNnhMNUJDdmZDM1hGbzRxVjktOGxrWWJaTWVLV2pVZFVkNDRhU3UybWViczFRRXZn?oc=5",
+          "pubDate": "2026-01-18 15:29:16",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXJPbnJkM2hPNHBWUkRjQlg0Zm5yVXpOellGUFJydzFKNzljTnB1ZUFWR1Q2ZzZwMkhIdm1tbWdVNTZ1NS1XUGw4M3JOWFJRV2tGOWhQV0V2ak5NTjhrdXExa1E3aEtNY0M2NFRKZWh0ZnBabnZFX0pKNG5xdnNBSXg1d3lfOWRnajk5MGdtb3VaVGNUSHV5a0xVVm5yTkVBV09wS2NRUjNmUXBTNnhMNUJDdmZDM1hGbzRxVjktOGxrWWJaTWVLV2pVZFVkNDRhU3UybWViczFRRXZn?oc=5\" target=\"_blank\">intive Announces Strategic Enterprise Partnership with Cursor to Advance AI-Native Transformation</a>  dnj.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -47,13 +47,6 @@
       "company": "github-copilot",
       "displayName": "GitHub Copilot",
       "news": [
-        {
-          "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjhWUWdtUUhPWHhFdzZVaWlvcXc4R2xxTWtlQlY0QWpSazJkLUdoUE9IemxsWlVJTThXTFVGNjVmODh2Y1FYeURFdXJlWTFVejAxSjQ1Q3J4X1BvQ0hpYTdoNFBSZEpVLVhHbU1FQlNUajNTNlM1Y21nVjR4a0d4SnQ0d0NmYktKbURFblZWd3UwNnBxamtaNzI0d0hYSk5wbGh5NThGaUdQdWx5SU96TUMxOGNDQ09fVkdxemg2QkJoZG1PS1ItLW9VTkoxbWt0WnphdGJvTkN2M3hJSkZpVFd6WHlQeW5sTHlUQQ?oc=5",
-          "pubDate": "2026-01-20 17:03:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjhWUWdtUUhPWHhFdzZVaWlvcXc4R2xxTWtlQlY0QWpSazJkLUdoUE9IemxsWlVJTThXTFVGNjVmODh2Y1FYeURFdXJlWTFVejAxSjQ1Q3J4X1BvQ0hpYTdoNFBSZEpVLVhHbU1FQlNUajNTNlM1Y21nVjR4a0d4SnQ0d0NmYktKbURFblZWd3UwNnBxamtaNzI0d0hYSk5wbGh5NThGaUdQdWx5SU96TUMxOGNDQ09fVkdxemg2QkJoZG1PS1ItLW9VTkoxbWt0WnphdGJvTkN2M3hJSkZpVFd6WHlQeW5sTHlUQQ?oc=5\" target=\"_blank\">Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
         {
           "title": "GitHub Copilot now supports OpenCode - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmxZc2VwbFRJTkdzMmZkdEhoQkJKTGwzZTFQUG90VERVZFY3WlpaeXA0ZjdvTnlqMXpTQzczYVRVTmU4c1J1Ym50d3l1RzdFUHhVUHdPdDRZbXJVZ2ZPOWM4ajE4NDVsSE9LTG1wQVVnakdoQV96RnktX2MyM2FfaElQSjc?oc=5",
@@ -76,54 +69,25 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
-          "title": "9 GitHub Copilot Alternatives for Effective Coding in 2026 - Zencoder",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HcktRVnlBRTVHc1dwYTl5empaTzRUbVhQUklGeFJsVXZYRzZ0dy11VlcyUm9iWVpYekZDcEpjNE91aHZGTVlfeElrMG1CYmR2aWw3eGpyR1ptZzhuWVhHd1Bn0gFyQVVfeXFMTmJnWFkxWnJxZEl4dzFDd2tKZVVXQjRjcDJLdmtIYjdBVi1GUU8wa254Q2Z6SGdyckpPWFJST2Y3cUhWNS0tSG1xRFB3T3JJT3pHRDFNYlFfZFhuSE5kSGZkWGN3cTctaW9udTBlX0wxc0dB?oc=5",
-          "pubDate": "2025-12-06 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HcktRVnlBRTVHc1dwYTl5empaTzRUbVhQUklGeFJsVXZYRzZ0dy11VlcyUm9iWVpYekZDcEpjNE91aHZGTVlfeElrMG1CYmR2aWw3eGpyR1ptZzhuWVhHd1Bn0gFyQVVfeXFMTmJnWFkxWnJxZEl4dzFDd2tKZVVXQjRjcDJLdmtIYjdBVi1GUU8wa254Q2Z6SGdyckpPWFJST2Y3cUhWNS0tSG1xRFB3T3JJT3pHRDFNYlFfZFhuSE5kSGZkWGN3cTctaW9udTBlX0wxc0dB?oc=5\" target=\"_blank\">9 GitHub Copilot Alternatives for Effective Coding in 2026</a>  Zencoder",
+          "title": "WRAP up your backlog with GitHub Copilot coding agent - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5",
+          "pubDate": "2025-12-26 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2UxZ2ZzSGgteVUtU09hN3dzWW1Hb1JQeWU0Q3dlUmJmMXpaanNlQWpBTjlGOHNwM2xNaDdJU3NNaTlVeGZSR2lIYUpZRnFmaFIwdFF5SFpieUxBMWtoTHdMWmFQN095a3RLdERQUHZRWVFOOW5fRmhqQWRYZjlaT0ptMV8zc2NKT3h1TXdWQWlndHFmUGZWNy1RTlRWUUJ3?oc=5\" target=\"_blank\">WRAP up your backlog with GitHub Copilot coding agent</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+        },
+        {
+          "title": "How to use GitHub Copilot Spaces to debug issues faster - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEVvdE9Rb0JQbzY1c191eEdCYk42NTdSSHU2Q3RzajBYa21XTVBDNloyM1daMFgxMGxjTjZUVjhSMngzRVUyRGNIcFp0eHpEZHNJX0o0X2FTUUF0NE83SzNJaVIyT3F0Q0VfX1c1ZDQycE5Hb1lsSFFSY3FYM25Fd3MwRzZMbVlYWUhTY3dqWDUzZ0lKekVLWmZjLVBTdFo2ZDZ3?oc=5\" target=\"_blank\">How to use GitHub Copilot Spaces to debug issues faster</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
     {
       "company": "vscode",
       "displayName": "Visual Studio Code",
-      "news": [
-        {
-          "title": "Illicit VS Code extension delivers multi-stage Evelyn infostealer - SC Media",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWNOUU04aEs1bjNTeHFMRURHdm9lM1gxczIteVFmYlNqUFNBX2tPMHpmNXJCNG5SSnVXcDNFNXN6ZGtOdDBpT0lmZ3lDSHB2eGxNTUx3YkM5Rmk3R095ZWVfbjRsZ084Q0NNZHFwdWdoSVdERVp6RTFEMWdSSVFPSlY5M1NfR1JHZTIyS1BqX00wNmpkMlo1ZWtBZw?oc=5",
-          "pubDate": "2026-01-20 22:55:55",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWNOUU04aEs1bjNTeHFMRURHdm9lM1gxczIteVFmYlNqUFNBX2tPMHpmNXJCNG5SSnVXcDNFNXN6ZGtOdDBpT0lmZ3lDSHB2eGxNTUx3YkM5Rmk3R095ZWVfbjRsZ084Q0NNZHFwdWdoSVdERVp6RTFEMWdSSVFPSlY5M1NfR1JHZTIyS1BqX00wNmpkMlo1ZWtBZw?oc=5\" target=\"_blank\">Illicit VS Code extension delivers multi-stage Evelyn infostealer</a>  SC Media",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
-        },
-        {
-          "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeXNSNElXZHFmZ0x6aHZyRTNEUGhUaG5lU0NURDA2VXFVem81c1hua3NHX01Zd0pBZ1h6TmZyR2Y5WTZzZmx2c3hRa2pvTEc2dWFhbDBIVGMwLTYtWV93OF9nY3ZoTU5EZ1BMWWJBMTVveUdpWVVsNWlhZ08?oc=5",
-          "pubDate": "2026-01-20 18:41:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9LeXNSNElXZHFmZ0x6aHZyRTNEUGhUaG5lU0NURDA2VXFVem81c1hua3NHX01Zd0pBZ1h6TmZyR2Y5WTZzZmx2c3hRa2pvTEc2dWFhbDBIVGMwLTYtWV93OF9nY3ZoTU5EZ1BMWWJBMTVveUdpWVVsNWlhZ08?oc=5\" target=\"_blank\">North Korea-Linked Hackers Target Developers via Malicious VS Code Projects</a>  The Hacker News",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "Copilot Studio Extension for Visual Studio Code Is Now Generally Available - Microsoft",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFAxQ2VORVJSTzNPcENaOUpab1oya08ySDA0bnNNbHgwR1VSdzZmWDFIeVB0bExTaGwzNUFuaU9kZGhOdkdaT2I4QW4tejNBZ1FXelhpVWo5NHM5ZGZvaDRfZWxaTmZEWmlmWDBEM3BCbU9xdHpVOEZtbTFtZGpYZVdRc2ZWbk5neDlNSk5wQUVHLXZuZlRjeEkzZmFxbU5YUjc5cHR4Q1VoMGt0T1BIV2pNNWwwV1RlM1NGS0hWZVI2djZoa2c2MjdOYUhNTjQ1QmhVYw?oc=5",
-          "pubDate": "2026-01-20 18:19:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFAxQ2VORVJSTzNPcENaOUpab1oya08ySDA0bnNNbHgwR1VSdzZmWDFIeVB0bExTaGwzNUFuaU9kZGhOdkdaT2I4QW4tejNBZ1FXelhpVWo5NHM5ZGZvaDRfZWxaTmZEWmlmWDBEM3BCbU9xdHpVOEZtbTFtZGpYZVdRc2ZWbk5neDlNSk5wQUVHLXZuZlRjeEkzZmFxbU5YUjc5cHR4Q1VoMGt0T1BIV2pNNWwwV1RlM1NGS0hWZVI2djZoa2c2MjdOYUhNTjQ1QmhVYw?oc=5\" target=\"_blank\">Copilot Studio Extension for Visual Studio Code Is Now Generally Available</a>  Microsoft",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "5 VS Code features that save me time every day - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkZBUWItSEt6MXVkTW5iYndsY1RWODA0MVFDQzlxQVN0Y0tqbHl2RGhXblZtUEticzVscFVHOVFNV1dZT01VX0hQSkM1OF9OcFc0SmRPaHVwZEpROGZUbDZCTU8xaWZQTDJTMVltX2N5ZjV6RUVocWtzN2lYQU91M1YtYw?oc=5",
-          "pubDate": "2026-01-20 15:30:16",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkZBUWItSEt6MXVkTW5iYndsY1RWODA0MVFDQzlxQVN0Y0tqbHl2RGhXblZtUEticzVscFVHOVFNV1dZT01VX0hQSkM1OF9OcFc0SmRPaHVwZEpROGZUbDZCTU8xaWZQTDJTMVltX2N5ZjV6RUVocWtzN2lYQU91M1YtYw?oc=5\" target=\"_blank\">5 VS Code features that save me time every day</a>  How-To Geek",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "Visual Studio Code adds agent development extension - InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWFHcjlSRmNkWVBKVFRYUkZ1OHpxTU5hQmo5UGE1WlBrNG8xYWNGR2ltRk9xOFlUTjJ0amdlT04tdjdWaXp2c1BuNkxuU3VVazNvemhSNFVIdlM1VlBYT0NqMGwwSHo4WTNmdVhnM25KdjhzcDdqczhZVGJtMk8wSTFTNUdXTnFWWjc4dXFFdl9MOU1VX0JrM25va0pYNm8?oc=5",
-          "pubDate": "2026-01-16 20:37:30",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWFHcjlSRmNkWVBKVFRYUkZ1OHpxTU5hQmo5UGE1WlBrNG8xYWNGR2ltRk9xOFlUTjJ0amdlT04tdjdWaXp2c1BuNkxuU3VVazNvemhSNFVIdlM1VlBYT0NqMGwwSHo4WTNmdVhnM25KdjhzcDdqczhZVGJtMk8wSTFTNUdXTnFWWjc4dXFFdl9MOU1VX0JrM25va0pYNm8?oc=5\" target=\"_blank\">Visual Studio Code adds agent development extension</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        }
-      ]
+      "news": []
     },
     {
       "company": "kiro",
@@ -137,11 +101,11 @@
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5",
-          "pubDate": "2026-01-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5\" target=\"_blank\">Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
+          "title": "5 ways to use Kiro and Amazon Q to optimize your Infrastructure - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
+          "pubDate": "2026-01-09 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - aboutamazon.com",
@@ -162,7 +126,7 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5",
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         }
       ]
     },
@@ -171,10 +135,10 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise? - Augment Code",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5",
-          "pubDate": "2026-01-16 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5\" target=\"_blank\">Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise?</a>  Augment Code",
+          "title": "Build Sharper AI Agents with New Skills and UI in Antigravity AgentKit - Geeky Gadgets",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldnQ1ZVBXamxBRlJKYjBQRG92Z3NaTjkxcWkwd0RoX0JhRTVOYi1pU2wwNEJBaUNCTTBGTHF0cXh6VUIzblZZUFdLbnpNWVBMR2ZLVDlMeWotby1CTkJmU1ZJd3hPMmZnaEE?oc=5",
+          "pubDate": "2026-01-21 14:17:20",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ldnQ1ZVBXamxBRlJKYjBQRG92Z3NaTjkxcWkwd0RoX0JhRTVOYi1pU2wwNEJBaUNCTTBGTHF0cXh6VUIzblZZUFdLbnpNWVBMR2ZLVDlMeWotby1CTkJmU1ZJd3hPMmZnaEE?oc=5\" target=\"_blank\">Build Sharper AI Agents with New Skills and UI in Antigravity AgentKit</a>  Geeky Gadgets",
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
@@ -189,21 +153,21 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
-        },
-        {
-          "title": "Hands-On With Antigravity: Google’s Newest AI Coding Experiment - The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE54eEhxeGItcHlETno1cmdfV01oTFNLTW9MMC1YRjh1ZkkzbjdfRVF2cmFmbnpNUklWNVJJYWk3OFMzM0dtRDdVcDhfRExYaXpYNktmV3VNdnE2U05TUWI1eU9idGF5MjZBRE9WOWtSbnFrR2JxbFBBM2ZsN1N5eEstd0tRemFLM1hKVkVB?oc=5",
-          "pubDate": "2025-11-22 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaE54eEhxeGItcHlETno1cmdfV01oTFNLTW9MMC1YRjh1ZkkzbjdfRVF2cmFmbnpNUklWNVJJYWk3OFMzM0dtRDdVcDhfRExYaXpYNktmV3VNdnE2U05TUWI1eU9idGF5MjZBRE9WOWtSbnFrR2JxbFBBM2ZsN1N5eEstd0tRemFLM1hKVkVB?oc=5\" target=\"_blank\">Hands-On With Antigravity: Google’s Newest AI Coding Experiment</a>  The New Stack",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
-          "title": "Build with Google Antigravity, our new agentic development platform - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
-          "pubDate": "2025-11-20 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
+          "title": "Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity. - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE80RTl6c0N2RENodEp5Q2RaeDRENE1tX0djNUFJZnZ1OWM0Mm1JQ0htZWdFNVMwM0ROMXB5Um01VUV0cEltQV8xUjNVU1dRTWp4czlMcUNLQ1ZHSnJQV2NrLWNEbmZKZVl3WUQ1SjZRcVluMWdfWGw1N1ZkQTA?oc=5\" target=\"_blank\">Google AI Pro and Ultra subscribers now have higher rate limits for Google Antigravity.</a>  blog.google",
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+        },
+        {
+          "title": "Start building with Gemini 3 - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmpteWNtUmNwZERVLUhCMFJpbzU5SGhQdFVIaDZVZXJJNjhsUmRkaE40Y1ZueTNtZElsQkJubnFuSGkxeUF0dFd0ckdNRkNzb3ZoZnpNR1h6MDZtZHg1VXVNOEdqYl9lOEczZHE3UzFuLUlPRE1MTTZ1Y1ZzaEV6alNwa3VfZzJyRVVjYlc0bw?oc=5",
+          "pubDate": "2025-11-18 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmpteWNtUmNwZERVLUhCMFJpbzU5SGhQdFVIaDZVZXJJNjhsUmRkaE40Y1ZueTNtZElsQkJubnFuSGkxeUF0dFd0ckdNRkNzb3ZoZnpNR1h6MDZtZHg1VXVNOEdqYl9lOEczZHE3UzFuLUlPRE1MTTZ1Y1ZzaEV6alNwa3VfZzJyRVVjYlc0bw?oc=5\" target=\"_blank\">Start building with Gemini 3</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         }
       ]
     }
