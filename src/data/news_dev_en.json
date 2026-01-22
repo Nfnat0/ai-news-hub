@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-22T15:54:57.855Z",
+  "fetchedAt": "2026-01-22T21:45:47.419Z",
   "locale": "en",
   "companies": [
     {
@@ -87,7 +87,43 @@
     {
       "company": "vscode",
       "displayName": "Visual Studio Code",
-      "news": []
+      "news": [
+        {
+          "title": "Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS05ZYjhCMERLYjczQWhCR2c3N1N3bEF4dl9rS0JrRFBJNTdSOHRpaldYazliNUFCLTE2TVhmdVNqaHY0T1BFVmdRR3VmUEVGOG1sNWs1Q3pna25YZ2gyVG5pUnlWbm1ucFcyNjZrWDhYeFFvV08yYnJGWHNyUWY2Z1hHQjEwZVcya1lxVFRmWmpuVHNRSnJQMy1ReHJXN0hHMzVCVnJwSGdieWYzbjJWYzV1VFhWbXdQakl5aDJSLWc3d0Fac3pwaFZnRGZuSGIwZk5CN214M3RDTzBYZmRn?oc=5",
+          "pubDate": "2026-01-22 17:53:47",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS05ZYjhCMERLYjczQWhCR2c3N1N3bEF4dl9rS0JrRFBJNTdSOHRpaldYazliNUFCLTE2TVhmdVNqaHY0T1BFVmdRR3VmUEVGOG1sNWs1Q3pna25YZ2gyVG5pUnlWbm1ucFcyNjZrWDhYeFFvV08yYnJGWHNyUWY2Z1hHQjEwZVcya1lxVFRmWmpuVHNRSnJQMy1ReHJXN0hHMzVCVnJwSGdieWYzbjJWYzV1VFhWbXdQakl5aDJSLWc3d0Fac3pwaFZnRGZuSGIwZk5CN214M3RDTzBYZmRn?oc=5\" target=\"_blank\">Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+        },
+        {
+          "title": "Copilot Studio Extension For Visual Studio Code Now Available - i-programmer.info",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEtKc3FtQkZHZW44amk2aF9YMExJdF9VVnFlRkYxeVdEb0VHYnFNaVltcGk1TmtKTGIwcWFha01lcDV4aWRQaFN2TVRSTThadVJYTGRWWFAyNjNhZXZGMXVKbmFwSmRlT0EyVE5UdkRjeXZhd2VNYi1KMUxoTXdHLXYzWF9kSnl5dE1ZZ1RkT0tfSnJwZEt2TE5jMTVUNzNORy04UE16d2gzRzNMRnlIOG9vc0lvWHM?oc=5",
+          "pubDate": "2026-01-22 17:23:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEtKc3FtQkZHZW44amk2aF9YMExJdF9VVnFlRkYxeVdEb0VHYnFNaVltcGk1TmtKTGIwcWFha01lcDV4aWRQaFN2TVRSTThadVJYTGRWWFAyNjNhZXZGMXVKbmFwSmRlT0EyVE5UdkRjeXZhd2VNYi1KMUxoTXdHLXYzWF9kSnl5dE1ZZ1RkT0tfSnJwZEt2TE5jMTVUNzNORy04UE16d2gzRzNMRnlIOG9vc0lvWHM?oc=5\" target=\"_blank\">Copilot Studio Extension For Visual Studio Code Now Available</a>  i-programmer.info",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
+          "title": "Powerful new developer tools increase the versatility of the Microsoft Quantum platform - Microsoft Azure",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdm1QNnUyTElnd1d4Z1pUemc2VVdvLWF0dExaQWdlN01NU2hTV2oxeTBSM2pzNUZSbzZHclBsUzdhYjZDNUlsRTlpQnozNnFvRTdMU2NRRWVJZ3FTaTNwaG1MOFRCWGRtX0M5MnByV3dmb3hCZlVBR0kzSlZrWkE4ZldkYmpzck5uM2xJclE5Wks3X2RWMkFwSS05YlZKRGloa1hfdDNYZzREMGI4cWRZQlZFXzEwYmlra0NXbTJNQkppM0k4S3RZUE1aekJfQjF1NkZPTDFibG56Q0dxVXNz?oc=5",
+          "pubDate": "2026-01-22 16:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdm1QNnUyTElnd1d4Z1pUemc2VVdvLWF0dExaQWdlN01NU2hTV2oxeTBSM2pzNUZSbzZHclBsUzdhYjZDNUlsRTlpQnozNnFvRTdMU2NRRWVJZ3FTaTNwaG1MOFRCWGRtX0M5MnByV3dmb3hCZlVBR0kzSlZrWkE4ZldkYmpzck5uM2xJclE5Wks3X2RWMkFwSS05YlZKRGloa1hfdDNYZzREMGI4cWRZQlZFXzEwYmlra0NXbTJNQkppM0k4S3RZUE1aekJfQjF1NkZPTDFibG56Q0dxVXNz?oc=5\" target=\"_blank\">Powerful new developer tools increase the versatility of the Microsoft Quantum platform</a>  Microsoft Azure",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "VS Code tasks config file abused to run malicious code - devclass",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhRcFRLdExyZzUtVkpHZjRvekE3a0I4TDNtS1Y0MXVhdmNOVFRqVXlVRE5pMGsydEFfR1dYWGM2d0JQUDhja25TSWhyWlJJVXhCZ3FBUmdkX2hZYmRJZXZQcF9IQUxEVGlFRHlaanRVdXR1cFFZRTlSVnFzTkVVMWN0UzJIeGhwUEFrOE5PdHI?oc=5",
+          "pubDate": "2026-01-22 15:39:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhRcFRLdExyZzUtVkpHZjRvekE3a0I4TDNtS1Y0MXVhdmNOVFRqVXlVRE5pMGsydEFfR1dYWGM2d0JQUDhja25TSWhyWlJJVXhCZ3FBUmdkX2hZYmRJZXZQcF9IQUxEVGlFRHlaanRVdXR1cFFZRTlSVnFzTkVVMWN0UzJIeGhwUEFrOE5PdHI?oc=5\" target=\"_blank\">VS Code tasks config file abused to run malicious code</a>  devclass",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
+          "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking - Dark Reading | Security",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25pTlItWmhHcFd2RzhrODlLU3Z1MTZFNXVvcEhaV2Etc2lrcHFWLWtrUnlFNEtRanQ3YVBZaXE3dmVfa3ZHeFo1al81NWdmVnB6UWxMbGhEbkZDVU56QkpzdU1EbG9nN1E1a2tpNGYwcXU4LUVBeE1TWm5USHVoTGJXZDZzd1FC?oc=5",
+          "pubDate": "2026-01-22 14:45:01",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25pTlItWmhHcFd2RzhrODlLU3Z1MTZFNXVvcEhaV2Etc2lrcHFWLWtrUnlFNEtRanQ3YVBZaXE3dmVfa3ZHeFo1al81NWdmVnB6UWxMbGhEbkZDVU56QkpzdU1EbG9nN1E1a2tpNGYwcXU4LUVBeE1TWm5USHVoTGJXZDZzd1FC?oc=5\" target=\"_blank\">DPRK Actors Deploy VS Code Tunnels for Remote Hacking</a>  Dark Reading | Security",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        }
+      ]
     },
     {
       "company": "kiro",
