@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-22T15:30:51.872Z",
+  "fetchedAt": "2026-01-22T21:22:52.725Z",
   "locale": "en",
   "companies": [
     {
@@ -210,7 +210,43 @@
     {
       "company": "meta",
       "displayName": "Meta",
-      "news": []
+      "news": [
+        {
+          "title": "Meta’s AI Lab Delivers Breakthrough Models Internally, Signaling Aggressive Push - WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFdIbE82Y0FCSl8zd181b001clowT3VMWC1BNmxoOXdpWTBtSkZNU2VSUVlGZndwUWw5OXJvaFhnRWkzM3VZZmJoLTFDN3pWaU1IdHg4NTVGSUVYNV9nWS1XcERHTy1RSWZad1dKV0hqV1ZlNjlvSUtJa0YtZEJ1eDhTU3BTTlpNTzRzdWtDLTFCcjE3QWx0WlRLTEpLRlpla3VXMkdVOTRwUQ?oc=5",
+          "pubDate": "2026-01-22 21:09:39",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFdIbE82Y0FCSl8zd181b001clowT3VMWC1BNmxoOXdpWTBtSkZNU2VSUVlGZndwUWw5OXJvaFhnRWkzM3VZZmJoLTFDN3pWaU1IdHg4NTVGSUVYNV9nWS1XcERHTy1RSWZad1dKV0hqV1ZlNjlvSUtJa0YtZEJ1eDhTU3BTTlpNTzRzdWtDLTFCcjE3QWx0WlRLTEpLRlpla3VXMkdVOTRwUQ?oc=5\" target=\"_blank\">Meta’s AI Lab Delivers Breakthrough Models Internally, Signaling Aggressive Push</a>  WebProNews",
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+        },
+        {
+          "title": "Meta's AI Reset Starts Showing Early Results - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUhSVVp2UnRGUFp6QUo0Q2hUejlWdmpDd0ljb2xNVTg0REtpUWdxbDFETjN3c3NHYW0tdHB4NVNaakVYMl9YSzZzZHJIQ0tPd1VOWktqMXRIRDhoNVo5SEZiSVpqdjBhMzFCRnVHNXowd0UtbXRabmRTaGJqTTRmag?oc=5",
+          "pubDate": "2026-01-22 12:17:16",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxONUhSVVp2UnRGUFp6QUo0Q2hUejlWdmpDd0ljb2xNVTg0REtpUWdxbDFETjN3c3NHYW0tdHB4NVNaakVYMl9YSzZzZHJIQ0tPd1VOWktqMXRIRDhoNVo5SEZiSVpqdjBhMzFCRnVHNXowd0UtbXRabmRTaGJqTTRmag?oc=5\" target=\"_blank\">Meta's AI Reset Starts Showing Early Results</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
+          "title": "Meta’s AI Lab Delivers First Models In-House - PYMNTS.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzNFUHdnZGtMbDUwc2VUZXg5bHU3aW9INmpJcVNtWUY2TzVDMGtJWk9sM1NvR1Q3MktSWHdPSURnQVh6LUhiNjFVaTJybUtGOUV0ZlBmcFdBeEx4MmZQMURwYTVDLUdoQnh5eDNTR090VHJVZDgzQnIwNHFqSWdfbGRaTHpFaE9VcEVXYWZ4SzZxNXR4WGoyMkpnVF9lRkU?oc=5",
+          "pubDate": "2026-01-21 15:49:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzNFUHdnZGtMbDUwc2VUZXg5bHU3aW9INmpJcVNtWUY2TzVDMGtJWk9sM1NvR1Q3MktSWHdPSURnQVh6LUhiNjFVaTJybUtGOUV0ZlBmcFdBeEx4MmZQMURwYTVDLUdoQnh5eDNTR090VHJVZDgzQnIwNHFqSWdfbGRaTHpFaE9VcEVXYWZ4SzZxNXR4WGoyMkpnVF9lRkU?oc=5\" target=\"_blank\">Meta’s AI Lab Delivers First Models In-House</a>  PYMNTS.com",
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+        },
+        {
+          "title": "Exclusive: Meta's new AI team delivered first key models internally this month, CTO says - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU1NVGtGaXd3bm1BT1QzRTBoTHB0VG1zWGE5c2ljWmpQQW01cWVnOUNxN1RmS2M1bjR0QklXVkxJT1o5ZUg4OXFzQ1pKVGlkcnlGblhtWjhFenNQNUZsV1hjcklUbmdSaDl0NThaM0FraXB4VDl5eVg3bkRwZlRGQkJMUXFOOGgzcjNBSVY4ejlFbno4MkozaDY1UFVCWDZCTUVnaGx3UjNJWHR5ZmN6aTZHWFpRY0J6ZnhRNnlKVDVBNTNS?oc=5",
+          "pubDate": "2026-01-21 12:50:27",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdU1NVGtGaXd3bm1BT1QzRTBoTHB0VG1zWGE5c2ljWmpQQW01cWVnOUNxN1RmS2M1bjR0QklXVkxJT1o5ZUg4OXFzQ1pKVGlkcnlGblhtWjhFenNQNUZsV1hjcklUbmdSaDl0NThaM0FraXB4VDl5eVg3bkRwZlRGQkJMUXFOOGgzcjNBSVY4ejlFbno4MkozaDY1UFVCWDZCTUVnaGx3UjNJWHR5ZmN6aTZHWFpRY0J6ZnhRNnlKVDVBNTNS?oc=5\" target=\"_blank\">Exclusive: Meta's new AI team delivered first key models internally this month, CTO says</a>  Reuters",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+        },
+        {
+          "title": "Meta’s AI CapEx Is Not A Growth Bet - It’s A Defensive War For Relevance (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXRoZzZaTm1ReXpOVUR0RzBrc0g3aG9oeHlrcnJfOVJjWG5iU0xzV093WHBnbmlsZ3Rvb2xlWTV1YkRQN0V4Q1RVWUEwbzRiVGstc2tRbTVzTnFYX0JES1dNOTNXZk4wZlhYTF9jVmVCT0x1SHRKUWtsZW9DS25LUVpCN2VlU2c2dk5EWTRwLXNGVkt3d21vQVpTRFlKT05IWWREdA?oc=5",
+          "pubDate": "2026-01-19 16:32:28",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXRoZzZaTm1ReXpOVUR0RzBrc0g3aG9oeHlrcnJfOVJjWG5iU0xzV093WHBnbmlsZ3Rvb2xlWTV1YkRQN0V4Q1RVWUEwbzRiVGstc2tRbTVzTnFYX0JES1dNOTNXZk4wZlhYTF9jVmVCT0x1SHRKUWtsZW9DS25LUVpCN2VlU2c2dk5EWTRwLXNGVkt3d21vQVpTRFlKT05IWWREdA?oc=5\" target=\"_blank\">Meta’s AI CapEx Is Not A Growth Bet - It’s A Defensive War For Relevance (NASDAQ:META)</a>  Seeking Alpha",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+        }
+      ]
     },
     {
       "company": "xai",
