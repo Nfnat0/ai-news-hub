@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-22T06:17:30.353Z",
+  "fetchedAt": "2026-01-22T12:22:03.704Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Geminiの日本語名は「ジェミニ」です Googleが再告知 - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13V191Z2pTU2dBYlA3MDE4b2Qya2ZFQUctMm1LUjd5M1JmVTFNY216NEgxVGFJdEliVzJ2dTBoOGQ3R1BLZlFreEtHcHpQd0ZfaXc?oc=5",
-          "pubDate": "2026-01-21 01:50:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE13V191Z2pTU2dBYlA3MDE4b2Qya2ZFQUctMm1LUjd5M1JmVTFNY216NEgxVGFJdEliVzJ2dTBoOGQ3R1BLZlFreEtHcHpQd0ZfaXc?oc=5\" target=\"_blank\">Geminiの日本語名は「ジェミニ」です Googleが再告知</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "title": "Googleの優秀AI「NotebookLM」の限界を突破する方法（ライフハッカー・ジャパン） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSnF0d0RpRWFnanU3cnM0NHd5MENCZmJUOGJrVVg3ejh4S0pKR3FGbjZ6dHZOalJxaUpXWWxRdFd5N3RYcXZTeS15X09SZ0x3bDBnZmNqTlNPT2YwYXJKankzVzd4MjJ0ZlpRRkczSkFNeG5QVUNQdWI5S0VheXc?oc=5",
+          "pubDate": "2026-01-22 11:51:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSnF0d0RpRWFnanU3cnM0NHd5MENCZmJUOGJrVVg3ejh4S0pKR3FGbjZ6dHZOalJxaUpXWWxRdFd5N3RYcXZTeS15X09SZ0x3bDBnZmNqTlNPT2YwYXJKankzVzd4MjJ0ZlpRRkczSkFNeG5QVUNQdWI5S0VheXc?oc=5\" target=\"_blank\">Googleの優秀AI「NotebookLM」の限界を突破する方法（ライフハッカー・ジャパン）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
-          "title": "Geminiの日本語表記は「ジェミニ」 英語の発音との違いが話題に #エキスパートトピ（山口健太） - エキスパート - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZk44SmYwbzBlb2hpa2ZjVm1LbzBRV2cyN1E3ejA0TE9Nc0o4V09sbTVNcjd5MTZoY3NBVm1SNmQzV3lpV2pfX3hnYzl2MGNKdDNqOVJLZHAtWVdCNUJabkN6X3BjWDlDSnpoUE5BT3FxdWRBVGowb0lpcTN5RjBYSURNTVBtWTYt?oc=5",
-          "pubDate": "2026-01-21 01:34:26",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZk44SmYwbzBlb2hpa2ZjVm1LbzBRV2cyN1E3ejA0TE9Nc0o4V09sbTVNcjd5MTZoY3NBVm1SNmQzV3lpV2pfX3hnYzl2MGNKdDNqOVJLZHAtWVdCNUJabkN6X3BjWDlDSnpoUE5BT3FxdWRBVGowb0lpcTN5RjBYSURNTVBtWTYt?oc=5\" target=\"_blank\">Geminiの日本語表記は「ジェミニ」 英語の発音との違いが話題に #エキスパートトピ（山口健太） - エキスパート</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "title": "「Nano Banana Pro」の「文字化け」防止機能を実装 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RcVBLNUNNbEJEYXNXSEx5RjdhVVI1dUlXRmRrZkJQQ1ZKM3ppRDNUTnNYY05lRlVNb096RW5ySG5xY2FZX2tVNWtGVUo4b2t5b1pSLUJHVDUxdlRGNFVxaVZIeTZBc2x6d2c?oc=5",
+          "pubDate": "2026-01-22 05:00:18",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9RcVBLNUNNbEJEYXNXSEx5RjdhVVI1dUlXRmRrZkJQQ1ZKM3ppRDNUTnNYY05lRlVNb096RW5ySG5xY2FZX2tVNWtGVUo4b2t5b1pSLUJHVDUxdlRGNFVxaVZIeTZBc2x6d2c?oc=5\" target=\"_blank\">「Nano Banana Pro」の「文字化け」防止機能を実装</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
+          "title": "画像生成AI「Nano Banana Pro」でバナー＆チラシ制作 \"素材\"から\"デザイン\"へ 進化する画像生成AI入門 - CREATIVE VILLAGE",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81d2EtTFQ1b2dQVFQwX0o3SjAtSUhxVXFpQjBkdktwRVNHY3JSZmt2VXdLcHZiUGY1R3hJSzVHMVFHa1JiZlhHSjFSNU9BUFY1X1FEQXBEdmNEVm9sVDV2NzFmOC1EWWpKY3o2cA?oc=5",
+          "pubDate": "2026-01-22 04:50:24",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE81d2EtTFQ1b2dQVFQwX0o3SjAtSUhxVXFpQjBkdktwRVNHY3JSZmt2VXdLcHZiUGY1R3hJSzVHMVFHa1JiZlhHSjFSNU9BUFY1X1FEQXBEdmNEVm9sVDV2NzFmOC1EWWpKY3o2cA?oc=5\" target=\"_blank\">画像生成AI「Nano Banana Pro」でバナー＆チラシ制作 \"素材\"から\"デザイン\"へ 進化する画像生成AI入門</a>  CREATIVE VILLAGE",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "「ジェミニ」か「ジェミナイ」──Geminiの正しい読み方は？　Google Japanが改めて告知 - ITmedia Mobile - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04N2xCem9FRDh2aVZGVHBVc1BPdWF5Ukx2YjRJWGJhVmo2VFZvdm5QYWZnalBpa1pVb3ZVSXFLWjFhNzl0SnpucUo5R2Q5d2JnSnFkVW85cEE0UlZQc1R5ZXpjeWhMeURHSXF6OVBPMNIBaEFVX3lxTFBRRkxuXzlUYkpWRk54VHhXRGw0ODhUMno2QUtNTlFtR2J2dDVBM0p2WTNFajVvc2RKMXJYcjN1eE9rV2FoTkdsZHlWM2NFZ0ZtcmJiTjBVQnhCVlpXQmNFWXQ0QTJzU2pY?oc=5",
           "pubDate": "2026-01-20 21:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE04N2xCem9FRDh2aVZGVHBVc1BPdWF5Ukx2YjRJWGJhVmo2VFZvdm5QYWZnalBpa1pVb3ZVSXFLWjFhNzl0SnpucUo5R2Q5d2JnSnFkVW85cEE0UlZQc1R5ZXpjeWhMeURHSXF6OVBPMNIBaEFVX3lxTFBRRkxuXzlUYkpWRk54VHhXRGw0ODhUMno2QUtNTlFtR2J2dDVBM0p2WTNFajVvc2RKMXJYcjN1eE9rV2FoTkdsZHlWM2NFZ0ZtcmJiTjBVQnhCVlpXQmNFWXQ0QTJzU2pY?oc=5\" target=\"_blank\">「ジェミニ」か「ジェミナイ」──Geminiの正しい読み方は？　Google Japanが改めて告知 - ITmedia Mobile</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "アップルはなぜGeminiを採用するのか その深層にある「スマホAI競争」【西田宗千佳のイマトミライ】 - Impress Watch",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vYkg5SDdfYklpTk5JYVBlQ2pZcTRzd3Rxa2pGWk9UcVdSbHg1eVdlU20yR3lMV2pmTm9BRjRkTFVSdE1ORVBIVktCUlJqNFljNWgwWjREZVU3Y1JqTThhLUZ6UGllN1JXUzhmTjlGWDdzdw?oc=5",
           "pubDate": "2026-01-18 23:20:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vYkg5SDdfYklpTk5JYVBlQ2pZcTRzd3Rxa2pGWk9UcVdSbHg1eVdlU20yR3lMV2pmTm9BRjRkTFVSdE1ORVBIVktCUlJqNFljNWgwWjREZVU3Y1JqTThhLUZ6UGllN1JXUzhmTjlGWDdzdw?oc=5\" target=\"_blank\">アップルはなぜGeminiを採用するのか その深層にある「スマホAI競争」【西田宗千佳のイマトミライ】</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "グーグル、Geminiの新機能を発表──Google アカウントの「メールアドレス」も変更可能に - Forbes JAPAN",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqYWVXSk40cW5rUzAyWHJfbEpYTDVuR0puN0hXVkM3ZHg5WlJhUnFPMnJjaGw1UmRmQ0c1X2xIUUtva0tmNHgxU2x5OWF5QWZZa0pHT0E2UUg?oc=5",
-          "pubDate": "2026-01-18 00:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqYWVXSk40cW5rUzAyWHJfbEpYTDVuR0puN0hXVkM3ZHg5WlJhUnFPMnJjaGw1UmRmQ0c1X2xIUUtva0tmNHgxU2x5OWF5QWZZa0pHT0E2UUg?oc=5\" target=\"_blank\">グーグル、Geminiの新機能を発表──Google アカウントの「メールアドレス」も変更可能に</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI、ChatGPTに新機能「Salute」と「Sonata」を展開か - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bWN2TU1sbEt3SWhJZmtxRzBnRnJuS0hsdkJrZVFXUTRaZDFJempPQUxHRElnc1lMdGs4UmxkUWpGelJFcGNjZ3Bpa2lIWEhPUTVFdFR0QWI3TUhfTG9LTkhKVmRCdjkz?oc=5",
-          "pubDate": "2026-01-21 08:31:40",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bWN2TU1sbEt3SWhJZmtxRzBnRnJuS0hsdkJrZVFXUTRaZDFJempPQUxHRElnc1lMdGs4UmxkUWpGelJFcGNjZ3Bpa2lIWEhPUTVFdFR0QWI3TUhfTG9LTkhKVmRCdjkz?oc=5\" target=\"_blank\">OpenAI、ChatGPTに新機能「Salute」と「Sonata」を展開か</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "title": "OpenAI、「ChatGPT」に年齢予測機能 未成年の安全保護をAIが自動化 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMDFSZE1fNjNQSXNEb2Q2eC1SVkROZk9qdnpXVGRha0xnRU5Xd202bzlIZHhGclRXUXF4VWNLNjVtRUh3S01kZFVYNkxHTzRwc0k1M0w2OENGajlNVkZrcjIyeGdHam5OV1dDenJOOA?oc=5",
+          "pubDate": "2026-01-21 01:26:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMDFSZE1fNjNQSXNEb2Q2eC1SVkROZk9qdnpXVGRha0xnRU5Xd202bzlIZHhGclRXUXF4VWNLNjVtRUh3S01kZFVYNkxHTzRwc0k1M0w2OENGajlNVkZrcjIyeGdHam5OV1dDenJOOA?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」に年齢予測機能 未成年の安全保護をAIが自動化</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
-          "title": "OpenAI、「ChatGPT」に年齢予測機能 未成年の安全保護をAIが自動化（ITmedia NEWS） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RVmFILTZBYzM4UWM0QWR4YVc5R1hlZzRpclNFNUlmNDVPUHhOcEpSaFZLb0VmVDhhODExRFp2UjJUT2VqQ1ZJSl9RRkZJOWxlY1d3ZERjMURreFhVX1FuNnFqeVdTdGRmRjRwUUxvei1BcmJvNEJERzFLSWdsaFU?oc=5",
-          "pubDate": "2026-01-21 01:30:30",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1RVmFILTZBYzM4UWM0QWR4YVc5R1hlZzRpclNFNUlmNDVPUHhOcEpSaFZLb0VmVDhhODExRFp2UjJUT2VqQ1ZJSl9RRkZJOWxlY1d3ZERjMURreFhVX1FuNnFqeVdTdGRmRjRwUUxvei1BcmJvNEJERzFLSWdsaFU?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」に年齢予測機能 未成年の安全保護をAIが自動化（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE00RzRldm9IVjI5a2hhV3ktV255c19mT2lTMDdsRDNyTm56dW45YS1GbFZmalZsNjFQYlBwUFdESER3dHc1ZnlkY2QzQURWb2xNWHQ3UGhITWFvNVBSc29SajBROWNCM01B?oc=5\" target=\"_blank\">若者がチャッピーに惑わされないように……「ChatGPT」へ“年齢推定モデル”が展開</a>  窓の杜</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0tS2xGd3J5dllMaEUyZ2xkZkVETFdKMElDUGhONnZmX0NURDZvd1FJTXRHTGNxQ2c3TGYwTGtaaXFJS2Q1M3NOdkFINjZjRkpzSVZNTkpqcTBrbnZSSWxQWVcwNVVsTW1Xd2g5ZkxmYk9aeHdETzZWVTA1bmdXd3M?oc=5\" target=\"_blank\">ChatGPTが10代の若者を守るためユーザーの年齢を予測するように</a>  GIGAZINE</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
-        },
-        {
-          "title": "有料版「ChatGPT Plus」1ヵ月無料に 一部ユーザー向け、解約対策か - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nU0hMb1l4NmFNSkI0Y3VzWjM2M3NzVUVTLUF3VjFxLURrUDNic3FiR0V5TTBCNWdGS1ZULWdNeUI1dEZxbmtjcDdwVjgtWEVWZUpKRg?oc=5",
-          "pubDate": "2026-01-20 03:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nU0hMb1l4NmFNSkI0Y3VzWjM2M3NzVUVTLUF3VjFxLURrUDNic3FiR0V5TTBCNWdGS1ZULWdNeUI1dEZxbmtjcDdwVjgtWEVWZUpKRg?oc=5\" target=\"_blank\">有料版「ChatGPT Plus」1ヵ月無料に 一部ユーザー向け、解約対策か</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "OpenAI、翻訳ツール「ChatGPT Translate」をひっそりとリリース - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLNm9UYTF3Tmh5cWNUTHVNWmNQSUxJeVV5Zmxtc2tXbUlTdEdKQjk2UDg1M1YzY1J2UUdVQkEybW1ja3d4dV83OE1FSjVUOUVNZ080?oc=5",
-          "pubDate": "2026-01-20 01:08:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLNm9UYTF3Tmh5cWNUTHVNWmNQSUxJeVV5Zmxtc2tXbUlTdEdKQjk2UDg1M1YzY1J2UUdVQkEybW1ja3d4dV83OE1FSjVUOUVNZ080?oc=5\" target=\"_blank\">OpenAI、翻訳ツール「ChatGPT Translate」をひっそりとリリース</a>  ZDNET Japan",
+          "title": "ChatGPT、「年齢予測」開始 18歳未満に保護を自動適用 - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyV2xWT3Q5RUZxMFM3VmdYUk8zSDNEX0IwMmlQQ3ZHSXFtaDEtZWNMREdNNUItR3VOaXhub25RQ1kwa25tazBEMzU3cjZLbm9OV1gzZ2I0ZW9pclMxNF9QZ0JiQ1o?oc=5",
+          "pubDate": "2026-01-21 01:12:41",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyV2xWT3Q5RUZxMFM3VmdYUk8zSDNEX0IwMmlQQ3ZHSXFtaDEtZWNMREdNNUItR3VOaXhub25RQ1kwa25tazBEMzU3cjZLbm9OV1gzZ2I0ZW9pclMxNF9QZ0JiQ1o?oc=5\" target=\"_blank\">ChatGPT、「年齢予測」開始 18歳未満に保護を自動適用</a>  Impress Watch",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
-          "title": "ChatGPT Go が登場、世界中で利用可能に - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Pa2lTa2tpMkdPOGxraWp1TWpka3c4QUhVZHE5TnZyVEdDeG41YnVJUm5ib28xX0t5NkFkamduRENqcHpCLWtXZW0zVkxqQlJyd0NmZmxxSXFOcDdEcXl0U0t6TTQ?oc=5",
-          "pubDate": "2026-01-16 23:29:45",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Pa2lTa2tpMkdPOGxraWp1TWpka3c4QUhVZHE5TnZyVEdDeG41YnVJUm5ib28xX0t5NkFkamduRENqcHpCLWtXZW0zVkxqQlJyd0NmZmxxSXFOcDdEcXl0U0t6TTQ?oc=5\" target=\"_blank\">ChatGPT Go が登場、世界中で利用可能に</a>  OpenAI</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9udTc4TmxaNXM4aXQyNmxRVU9ocHRyZ2l1dDBJSGs3cUhuXzFvWUV2ZE1Cd3lRbS1nQ0FRenFlRUhmWDV0anc4ZDZrTDd6SlpnVThiTk15dDhQeElyUkFiYnh2Zw?oc=5\" target=\"_blank\">OpenAIが月額1500円のより安価な有料プラン「ChatGPT Go」を正式に提供開始、広告を表示するテストもスタート</a>  GIGAZINE</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9FdjlfQnFfNnhzZ0NKOHhGMzdDaUtQTzNDd0FtSjVoeXB1M0pJU2R6Vk1aVWdFalpEVTMyMXJiOFU0a1laTVItUWFNYkQ0c3RzSXF3VUJCQ3BzZnB2MHl2WlUtVC13WWFHYUcwcHprRQ?oc=5\" target=\"_blank\">サム・アルトマンCEOが「最後の手段」と呼んでいた広告が、ChatGPTに表示されることになった</a>  Business Insider Japan</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "title": "ChatGPTが「年齢推定」開始 18歳未満に保護を自動適用 - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jYkh6cEdxRENNU2RQaS1OcmpWV3V3RzNPOEQ0Wmg0c29HVUZCTG93VEdOZF9jRlQxd0w1a0hqV0Fkem83eERlNWRqejBGQmJDZFE?oc=5",
+          "pubDate": "2026-01-21 00:23:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jYkh6cEdxRENNU2RQaS1OcmpWV3V3RzNPOEQ0Wmg0c29HVUZCTG93VEdOZF9jRlQxd0w1a0hqV0Fkem83eERlNWRqejBGQmJDZFE?oc=5\" target=\"_blank\">ChatGPTが「年齢推定」開始 18歳未満に保護を自動適用</a>  CNET Japan",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "OpenAI、月額1,500円の廉価プラン「ChatGPT Go」を世界展開 - PC Watch",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yeS1Ob0tqZ2ViQWxYV0NEZW5wWlpPT2M2ZGVGR2Vua0ItOXNXcmhDYjNWUk5hM3o0RWJrQnQ5WWZkdmRrSHJvNUhKVktNOENlNk14R1dpUHMzb243VlJGSU5fTQ?oc=5",
+          "pubDate": "2026-01-20 04:05:24",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yeS1Ob0tqZ2ViQWxYV0NEZW5wWlpPT2M2ZGVGR2Vua0ItOXNXcmhDYjNWUk5hM3o0RWJrQnQ5WWZkdmRrSHJvNUhKVktNOENlNk14R1dpUHMzb243VlJGSU5fTQ?oc=5\" target=\"_blank\">OpenAI、月額1,500円の廉価プラン「ChatGPT Go」を世界展開</a>  PC Watch</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2diX0xBd1FuWUhjUE5PRUtwck1tQ2pXaUZINWFyT01QNnJGLUdIR1FyeEF3eW13WG14TWJoMXZtaEQyX2dDMVVhdjBXTEV5RVd4RERvdWFob2gycGtPMWxjaTNFQzNKOTR2RFJVZ0t4ZFdaMHA0SThENFhNYkdKNWpKZXNvOGM?oc=5\" target=\"_blank\">広告と ChatGPT へのアクセス拡大に対する OpenAI の取り組み</a>  OpenAI</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAza25aWlBjaHZZZVYtWF9QdTFWMFFNN3lhQ1hIR2RPV0dlZjhGZDd6d285bjBhVEJUTm9hSjFibmZIb2I0WWdZeC1qSjgzMFpVSlA2amwzUkYyOTJ2NzQtbi1URGVISFIzc0tYamlZSURjTmp1bV9naA?oc=5\" target=\"_blank\">サム・アルトマンCEOが「最後の手段」と呼んでいた広告が、ChatGPTに表示されることになった</a>  Business Insider Japan</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "OpenAIが月額1500円のより安価な有料プラン「ChatGPT Go」を正式に提供開始、広告を表示するテストもスタート - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9udTc4TmxaNXM4aXQyNmxRVU9ocHRyZ2l1dDBJSGs3cUhuXzFvWUV2ZE1Cd3lRbS1nQ0FRenFlRUhmWDV0anc4ZDZrTDd6SlpnVThiTk15dDhQeElyUkFiYnh2Zw?oc=5",
+          "pubDate": "2026-01-19 01:55:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9udTc4TmxaNXM4aXQyNmxRVU9ocHRyZ2l1dDBJSGs3cUhuXzFvWUV2ZE1Cd3lRbS1nQ0FRenFlRUhmWDV0anc4ZDZrTDd6SlpnVThiTk15dDhQeElyUkFiYnh2Zw?oc=5\" target=\"_blank\">OpenAIが月額1500円のより安価な有料プラン「ChatGPT Go」を正式に提供開始、広告を表示するテストもスタート</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         }
       ]
     },
@@ -130,164 +130,92 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "AIに作業を丸投げできる「Claude Cowork」を試す ファイル整理が一瞬で完了! - Impress Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRMjRFNThfOHFwU1BpbnhtQnl2Y25rWUljX1lITXBOR1RlRHVnQVF2RncxMjZ2R0xodnJGaDBRTTZBbm9TbEpfMmtBaHZtX2dxRXAzMWFPTXJicU91SWVSUjlMUU1wQQ?oc=5",
-          "pubDate": "2026-01-21 23:20:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRMjRFNThfOHFwU1BpbnhtQnl2Y25rWUljX1lITXBOR1RlRHVnQVF2RncxMjZ2R0xodnJGaDBRTTZBbm9TbEpfMmtBaHZtX2dxRXAzMWFPTXJicU91SWVSUjlMUU1wQQ?oc=5\" target=\"_blank\">AIに作業を丸投げできる「Claude Cowork」を試す ファイル整理が一瞬で完了!</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
-        },
-        {
-          "title": "Anthropic社の収益が急増、100億ドル超の資金調達を確保 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LRjZsc0FpQmoyMGJicG5jTzhxOExjTjNub0xJS01SbWU5Z2VRLWZyZHR4bF96MFJTNzNXLXBvT01scHhKM1otNnZWRFFHSzNtYTlXX3hIVFY5a3ZLUl9tY3BGTkQzTF94UEwtbXFnTHdMMVdOcW84?oc=5",
-          "pubDate": "2026-01-21 19:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5LRjZsc0FpQmoyMGJicG5jTzhxOExjTjNub0xJS01SbWU5Z2VRLWZyZHR4bF96MFJTNzNXLXBvT01scHhKM1otNnZWRFFHSzNtYTlXX3hIVFY5a3ZLUl9tY3BGTkQzTF94UEwtbXFnTHdMMVdOcW84?oc=5\" target=\"_blank\">Anthropic社の収益が急増、100億ドル超の資金調達を確保 執筆</a>  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "title": "Anthropic、“AIのための憲法”公開 Claudeの開発・運用に適用（Impress Watch） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeXdHa0hUdm1ndkoyRXlDT1JRblUyTjVsMmdpZUpkbGZTTmRaRXZnZVM3d1cxRnp4N1VNMVVaR0FscGtXLXpXSmhGLVBNbUZVZm1UMExQTHQway1Ed3hOdXZvYXROelpkQkhXUm4xM0tXQ2EtRTJ1cmlCTFVmRlk?oc=5",
+          "pubDate": "2026-01-22 04:16:04",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeXdHa0hUdm1ndkoyRXlDT1JRblUyTjVsMmdpZUpkbGZTTmRaRXZnZVM3d1cxRnp4N1VNMVVaR0FscGtXLXpXSmhGLVBNbUZVZm1UMExQTHQway1Ed3hOdXZvYXROelpkQkhXUm4xM0tXQ2EtRTJ1cmlCTFVmRlk?oc=5\" target=\"_blank\">Anthropic、“AIのための憲法”公開 Claudeの開発・運用に適用（Impress Watch）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ycTRJN2FqWHZ2VURnWW9iaUJiRUdERFVpc1A3SDdhZFY2ekhmRnQwdko0RVlTT1VocWZfTjhjbHl4SVJVZmNZM1ZoN2VyLXJqak5sZnZ4NTFnUU9aMWZRdURkbS0yT0hWZTVhY1R1bzJWMjFMZDBIZm9fWkZUSzA?oc=5\" target=\"_blank\">Anthropic、Claudeの“憲法”改訂 倫理と有用性の優先順位を再定義（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5nLXZ3TWFZcGZmYXRFZzZkZHE3OG9Fam9MWkxzZ0lzbVBtNUtwQ3o3STVmcWU0WlBFc0dTUkN4S0FUWXlFNUJfSWxTQ2swaVI1OVFwSTlzVHBFYlB1ZWpoa0JwOXl1eDBOazdrMFY1NDQ4ZWs?oc=5\" target=\"_blank\">AnthropicがClaudeの「憲法」を改訂、安全性と倫理性が有用性よりも優先される</a>  GIGAZINE</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
           "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5",
-          "pubDate": "2026-01-21 15:30:01",
+          "pubDate": "2026-01-21 15:24:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5\" target=\"_blank\">Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
-          "title": "Claude Coworkってなにですか？Claudeについて深掘りする／2026年1月21日／耳で学ぶAI、ロボシンク - グロービス学び放題",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0UnVfZmRDYVRjUFVQNU15YXJYOHFDNGhDd3ZlMjFHaWlLaHN3X21jVU92bm1tYjNYSzZGUHAwbE5saHhHb1VlcUI3NA?oc=5",
-          "pubDate": "2026-01-21 06:58:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0UnVfZmRDYVRjUFVQNU15YXJYOHFDNGhDd3ZlMjFHaWlLaHN3X21jVU92bm1tYjNYSzZGUHAwbE5saHhHb1VlcUI3NA?oc=5\" target=\"_blank\">Claude Coworkってなにですか？Claudeについて深掘りする／2026年1月21日／耳で学ぶAI、ロボシンク</a>  グロービス学び放題",
+          "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbHl0Uk9FdzdERHJ4U3ROejJnRDIwYXlBYUZLWVQ3aEc4MGNGeXZxWTd1Xy1faGhoYkhzRnRGZm1jblQwYkV2T3h4N0I4UUxER3J4bzlNSEFQczJDNTh3M3ZlNktQanFa?oc=5",
+          "pubDate": "2026-01-21 05:24:11",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbHl0Uk9FdzdERHJ4U3ROejJnRDIwYXlBYUZLWVQ3aEc4MGNGeXZxWTd1Xy1faGhoYkhzRnRGZm1jblQwYkV2T3h4N0I4UUxER3J4bzlNSEFQczJDNTh3M3ZlNktQanFa?oc=5\" target=\"_blank\">Anthropic、「Claude Code for VS Code」の一般提供を開始</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
-          "title": "日常の業務もClaudeで自動化する日がくる？ Anthropicが新機能「Cowork」を発表 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lTFl3RUR0UG9qQWVWUjFQT3p2aENjSFVjdGJRY09peUcwN25FZXk2ekF1dnRycmdFUm5haVhCVFlzZ2dJakRVazEtMmk2N3B6djNJTTJHN3FGbVBlUnNXcE5STk5XV3ZzenNodFFsMkUtZw?oc=5",
-          "pubDate": "2026-01-15 20:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1lTFl3RUR0UG9qQWVWUjFQT3p2aENjSFVjdGJRY09peUcwN25FZXk2ekF1dnRycmdFUm5haVhCVFlzZ2dJakRVazEtMmk2N3B6djNJTTJHN3FGbVBlUnNXcE5STk5XV3ZzenNodFFsMkUtZw?oc=5\" target=\"_blank\">日常の業務もClaudeで自動化する日がくる？ Anthropicが新機能「Cowork」を発表</a>  ITmedia",
+          "title": "｢AIは世界の格差を助長する｣大手AI企業が自ら警告 - ギズモード・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlTaC1aM0lSXzBNZnREQzRnZ2RKWkQxTFJfZ016a2pSNFFUdzVMS2ZPandENWUtdTB6QjlfX05xajYzUG1tSjBET3BDVndfX0VMQmQydWNlcHdUMTdhYkNFRzRpMU5JbXBzMlVVR2R5cm5wUThlTHlCb0kteEE5S2FwTmgySG91ak4zX3E0dDVpcFdPcnpRXy12bDg?oc=5",
+          "pubDate": "2026-01-20 00:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlTaC1aM0lSXzBNZnREQzRnZ2RKWkQxTFJfZ016a2pSNFFUdzVMS2ZPandENWUtdTB6QjlfX05xajYzUG1tSjBET3BDVndfX0VMQmQydWNlcHdUMTdhYkNFRzRpMU5JbXBzMlVVR2R5cm5wUThlTHlCb0kteEE5S2FwTmgySG91ak4zX3E0dDVpcFdPcnpRXy12bDg?oc=5\" target=\"_blank\">｢AIは世界の格差を助長する｣大手AI企業が自ら警告</a>  ギズモード・ジャパン",
           "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Anthropic、自律型AI「Cowork」発表 デスクトップ作業を丸投げ可能に - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WS21jVVRzbnpNVDZoOTFnbm15amZubDdEU0ZHdjdibUVkb2IwVkFQQTI5bnM0LWtCWi1QUmEyenY1ZS1JZ3h6YnFMdHRPaFNUV3B4MW1pTlBBM0tXdXE5V1JlbE5LWm5rdXNwenc2Zw?oc=5",
+          "pubDate": "2026-01-13 00:45:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1WS21jVVRzbnpNVDZoOTFnbm15amZubDdEU0ZHdjdibUVkb2IwVkFQQTI5bnM0LWtCWi1QUmEyenY1ZS1JZ3h6YnFMdHRPaFNUV3B4MW1pTlBBM0tXdXE5V1JlbE5LWm5rdXNwenc2Zw?oc=5\" target=\"_blank\">Anthropic、自律型AI「Cowork」発表 デスクトップ作業を丸投げ可能に</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
     },
     {
       "company": "amazon",
       "displayName": "Amazon",
-      "news": [
-        {
-          "title": "Amazon、AIアシスタント「Alexa+」のWeb版を米国で公開 デバイス間の同期に対応 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MRWxMY2ZielBqaHpxMXg1S1B5aFh6QlJYUUpEQ0tsVWIyMm1nX2NIS1liNXZ1WUhWQkgzU3c3eVlvSTJQU0dERzI3NW83X2RTUEZGTVZrdnVCTS1KTFJ4VGp1U2wwbXdHeTM3OA?oc=5",
-          "pubDate": "2026-01-06 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5MRWxMY2ZielBqaHpxMXg1S1B5aFh6QlJYUUpEQ0tsVWIyMm1nX2NIS1liNXZ1WUhWQkgzU3c3eVlvSTJQU0dERzI3NW83X2RTUEZGTVZrdnVCTS1KTFJ4VGp1U2wwbXdHeTM3OA?oc=5\" target=\"_blank\">Amazon、AIアシスタント「Alexa+」のWeb版を米国で公開 デバイス間の同期に対応</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
-        },
-        {
-          "title": "Amazon 、AIが「欲しい物を自動で買う」新機能「Auto Buy」を米国で開始 - digiday.jp",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTZGSzI5MERFVV9nT25MU3RYNWQxWWpCYmZWaFhwOUU4UjZyLUFCYUhCNVVRd1NmRjdiWTBTN29LeWdfSU9pUDVxUlhlMnpTS1N1Z3VlMHVSNzBmeDFKYlNtQ0RYaHhpMXhsNFpPaXZ1Qnc4VWV1cnE1STJkOGpENE54MVRMRzlHVXJ6anR4elJTVzJSZjNxWDBfa3g3dnByUmtKd2otT3A2T1oxelVuVHdINlJ3bnp2QndEVWw4ZllwRjF0MTBNdVgzTGRqLUxzMmdMNi12ZkI?oc=5",
-          "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTZGSzI5MERFVV9nT25MU3RYNWQxWWpCYmZWaFhwOUU4UjZyLUFCYUhCNVVRd1NmRjdiWTBTN29LeWdfSU9pUDVxUlhlMnpTS1N1Z3VlMHVSNzBmeDFKYlNtQ0RYaHhpMXhsNFpPaXZ1Qnc4VWV1cnE1STJkOGpENE54MVRMRzlHVXJ6anR4elJTVzJSZjNxWDBfa3g3dnByUmtKd2otT3A2T1oxelVuVHdINlJ3bnp2QndEVWw4ZllwRjF0MTBNdVgzTGRqLUxzMmdMNi12ZkI?oc=5\" target=\"_blank\">Amazon 、AIが「欲しい物を自動で買う」新機能「Auto Buy」を米国で開始</a>  digiday.jp",
-          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
-        },
-        {
-          "title": "Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5",
-          "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5\" target=\"_blank\">Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
-        },
-        {
-          "title": "Amazon、AIスマートグラスを配達業務に導入--配達員の視界にナビや荷物情報を表示 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTE1ickJsR1dFU3ItTHBjeXZJSzdkVUVfRm5TUnR3Zlo2SWo3dG1FVXMzT0lsakp2TmVWcTFCOVBkNzBsRFNQbHVUWlYycGxYbjRn?oc=5",
-          "pubDate": "2025-10-23 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTE1ickJsR1dFU3ItTHBjeXZJSzdkVUVfRm5TUnR3Zlo2SWo3dG1FVXMzT0lsakp2TmVWcTFCOVBkNzBsRFNQbHVUWlYycGxYbjRn?oc=5\" target=\"_blank\">Amazon、AIスマートグラスを配達業務に導入--配達員の視界にナビや荷物情報を表示</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
-        },
-        {
-          "title": "Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に - About Amazon Japan",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5",
-          "pubDate": "2025-09-02 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5\" target=\"_blank\">Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に</a>  About Amazon Japan",
-          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
-        }
-      ]
+      "news": []
     },
     {
       "company": "meta",
       "displayName": "Meta",
       "news": [
         {
+          "title": "Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表 - 知財図鑑",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BQzR6Um1IMnFKU0tCYzNvaXlKSFhENkJSRjE5dlNyQ3lodHZrLVBEWGl3MFpoRTA2X0ZvZ25NYjBoWktyMlgxekRTSk5hZUNNbmZ1RFFKc19fNTRhUU9HVA?oc=5",
+          "pubDate": "2026-01-22 08:53:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BQzR6Um1IMnFKU0tCYzNvaXlKSFhENkJSRjE5dlNyQ3lodHZrLVBEWGl3MFpoRTA2X0ZvZ25NYjBoWktyMlgxekRTSk5hZUNNbmZ1RFFKc19fNTRhUU9HVA?oc=5\" target=\"_blank\">Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表</a>  知財図鑑",
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
           "title": "Meta LlamaCon 2025 🦙💻 AI と新しい Llama 4 世代の初の開発者会議 🚀 - Xpert.Digital - Konrad Wolfenstein",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2p3SXUwT0hsOW4wZExubFZnODRfbllfNUV6TDVBNHhteERSMTFQcWRYRzlVY2wwUjFzcXotY29ndzZRbkIyQXpVLTBuWFVpS1lNYUZZaV92ZnV5MzM4RjFQdkY4NkJ1YW5zMlhlcFQ1YkpUaEhMMlo0NUljVXNjMXYyakd1eGNWbmwyQXdR?oc=5",
           "pubDate": "2026-01-20 02:26:25",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2p3SXUwT0hsOW4wZExubFZnODRfbllfNUV6TDVBNHhteERSMTFQcWRYRzlVY2wwUjFzcXotY29ndzZRbkIyQXpVLTBuWFVpS1lNYUZZaV92ZnV5MzM4RjFQdkY4NkJ1YW5zMlhlcFQ1YkpUaEhMMlo0NUljVXNjMXYyakd1eGNWbmwyQXdR?oc=5\" target=\"_blank\">Meta LlamaCon 2025 🦙💻 AI と新しい Llama 4 世代の初の開発者会議 🚀</a>  Xpert.Digital - Konrad Wolfenstein",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
           "title": "LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート - リコーグループ",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5",
           "pubDate": "2025-12-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5\" target=\"_blank\">LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート</a>  リコーグループ",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "Meta、AIアシスタント「Meta AI」日本で段階的に提供開始 - AIsmiley",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5",
           "pubDate": "2025-11-28 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5\" target=\"_blank\">Meta、AIアシスタント「Meta AI」日本で段階的に提供開始</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
-          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
-        },
-        {
-          "title": "Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！ - ai-market.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5",
-          "pubDate": "2025-08-21 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc0FzcDcybWV4cmVwMXcwWkVlZWRIN29GRjRnMWx0dzdqcUpXSGhlaFVUZ2Ntb1A4QmlQdEhIdFFUaHpOaEkxcGlDNE12WVRSbWN4Uy13?oc=5\" target=\"_blank\">Llamaとは？Meta社LLMの料金プランやモデル一覧、機能、他の生成AIとの違いを徹底解説！</a>  ai-market.jp",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         }
       ]
     },
     {
       "company": "xai",
       "displayName": "xAI",
-      "news": [
-        {
-          "title": "X日本法人、違法コンテンツへの対策を公表　AI画像生成「Grok」の不適切使用で - ITmedia Mobile - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lQ1ItSXlZcHdNVWE3bHZvWmxZMHV6RFNTYkZtU1dtVHBzekZKdTk4WlVPT1Bfa3VvNlQ4Xzk4OWRXd0dOQmlSWTk4aXUyNjVWQmxJWDZqTGNoX2NnMmdabWJSZTdhZWd2QnJnR2pXVdIBaEFVX3lxTE01MnNRdGRNTVFvT0c0ZkMtdHhuM1NKbTNBenEzY0Rkc2IzbGxxUVR1TVNZOGw5bF9JeUZpbE9lLWYyQWRucjZfMmtKRTdxSFdQbkVuQmxyWTk2amtfUlNvTzhXbDBySTll?oc=5",
-          "pubDate": "2026-01-20 02:35:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5lQ1ItSXlZcHdNVWE3bHZvWmxZMHV6RFNTYkZtU1dtVHBzekZKdTk4WlVPT1Bfa3VvNlQ4Xzk4OWRXd0dOQmlSWTk4aXUyNjVWQmxJWDZqTGNoX2NnMmdabWJSZTdhZWd2QnJnR2pXVdIBaEFVX3lxTE01MnNRdGRNTVFvT0c0ZkMtdHhuM1NKbTNBenEzY0Rkc2IzbGxxUVR1TVNZOGw5bF9JeUZpbE9lLWYyQWRucjZfMmtKRTdxSFdQbkVuQmxyWTk2amtfUlNvTzhXbDBySTll?oc=5\" target=\"_blank\">X日本法人、違法コンテンツへの対策を公表　AI画像生成「Grok」の不適切使用で - ITmedia Mobile</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
-        },
-        {
-          "title": "X、AI Grokのビキニ化や水着化を規制すると発表|セキュリティやAI、ITのニュース-セキュリティ対策Lab - 合同会社ロケットボーイズ",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ185U29jbjJiTmhtdVY3ZFBOYUdHa3hpWUY1eWUxdHBSY0V4QVk5cG1VVDhlUXE2M2h3c1drUkFIbmRCYXljRTN0ZnJTWFM3Tk9qZkoyYkdJX2hrTnl1WE15cW1FTXdTbHVhdE4zb2xDZDNrbTh2SEU4NUJfQ2k5RnhMOFRSTXBNX3J3X0hHcnVFek92WE54SWo5dHh5bFNOLURQT0FKM2ZXSTNybnROTXhvSTg2SGdQWHVzOFpn?oc=5",
-          "pubDate": "2026-01-20 02:00:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ185U29jbjJiTmhtdVY3ZFBOYUdHa3hpWUY1eWUxdHBSY0V4QVk5cG1VVDhlUXE2M2h3c1drUkFIbmRCYXljRTN0ZnJTWFM3Tk9qZkoyYkdJX2hrTnl1WE15cW1FTXdTbHVhdE4zb2xDZDNrbTh2SEU4NUJfQ2k5RnhMOFRSTXBNX3J3X0hHcnVFek92WE54SWo5dHh5bFNOLURQT0FKM2ZXSTNybnROTXhvSTg2SGdQWHVzOFpn?oc=5\" target=\"_blank\">X、AI Grokのビキニ化や水着化を規制すると発表|セキュリティやAI、ITのニュース-セキュリティ対策Lab</a>  合同会社ロケットボーイズ",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
-        },
-        {
-          "title": "「性的ディープフェイク」を大量生成...XのAI「Grok」規制は、東南アジアが先陣（ニューズウィーク日本版） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aW1GQUN4S2FOLVBYNkNNNmtSaV9GczBkX2tObGdoOW5HV25QOGxtYWRsbXpJX3p5eHM3cXNhZ1pBcWczbUtvWV9taWZGbUtQRGNpX085eUVyV3Z2aGZKTWRNcy1jRG1KZWJEUXk4Y3phQ201dWJUODJzUURtYms?oc=5",
-          "pubDate": "2026-01-19 11:40:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aW1GQUN4S2FOLVBYNkNNNmtSaV9GczBkX2tObGdoOW5HV25QOGxtYWRsbXpJX3p5eHM3cXNhZ1pBcWczbUtvWV9taWZGbUtQRGNpX085eUVyV3Z2aGZKTWRNcy1jRG1KZWJEUXk4Y3phQ201dWJUODJzUURtYms?oc=5\" target=\"_blank\">「性的ディープフェイク」を大量生成...XのAI「Grok」規制は、東南アジアが先陣（ニューズウィーク日本版）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
-        },
-        {
-          "title": "XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ - Ledge.ai",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEc3azBKeWZBTDgzblFIT2NjTVdvVHdfU1NYS3lfZkFXeGFrb011a0RDdy1idnhJS0p0R1NwaldISU4yTnVpR2EwTkwxUnd1VUUxNHhPb3RDN0RlVmZGOFVlQ3hscUZ4WDJqY3FRNDZBc25kc0U0XzhKcWRJa1RGVXpCWlk2SVN5eElvQXg5Z3NYdjBrWGk2MzJB?oc=5",
-          "pubDate": "2026-01-17 03:03:28",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEc3azBKeWZBTDgzblFIT2NjTVdvVHdfU1NYS3lfZkFXeGFrb011a0RDdy1idnhJS0p0R1NwaldISU4yTnVpR2EwTkwxUnd1VUUxNHhPb3RDN0RlVmZGOFVlQ3hscUZ4WDJqY3FRNDZBc25kc0U0XzhKcWRJa1RGVXpCWlk2SVN5eElvQXg5Z3NYdjBrWGk2MzJB?oc=5\" target=\"_blank\">XでのGrok画像生成を巡り方針転換──イーロン・マスク氏が規制圧力下で技術的制限に踏み切る、一方米国防省は業務用途でGrok活用へ</a>  Ledge.ai",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "X、Grokの画像生成で実在人物の脱衣を不可に　反発受け - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZXBTb3BCZy1IMERyenhqcTZjcGxsemxjMlRINVZrdnJWZ0FYOUhJaEF0R3lPWU5sX0JrWHQwN0NWUTZRTXhqWVY5eUQyWEwtb0Ztc1pkWTlfOV83Y0Vr0gFkQVVfeXFMT1J0cG81SnFMbkdpbE5BeDlxeUlqX09iWGI3V0tBUUlDUk43WktHOVdfcnFieTFCNzV0cTJFTFB5SkhDZGMzZ0FVYlI4d3lhREk4bmFqaUpZWEFmTUxKY3F2N3oyNg?oc=5",
-          "pubDate": "2026-01-15 08:34:29",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZXBTb3BCZy1IMERyenhqcTZjcGxsemxjMlRINVZrdnJWZ0FYOUhJaEF0R3lPWU5sX0JrWHQwN0NWUTZRTXhqWVY5eUQyWEwtb0Ztc1pkWTlfOV83Y0Vr0gFkQVVfeXFMT1J0cG81SnFMbkdpbE5BeDlxeUlqX09iWGI3V0tBUUlDUk43WktHOVdfcnFieTFCNzV0cTJFTFB5SkhDZGMzZ0FVYlI4d3lhREk4bmFqaUpZWEFmTUxKY3F2N3oyNg?oc=5\" target=\"_blank\">X、Grokの画像生成で実在人物の脱衣を不可に　反発受け</a>  BBC",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
-        }
-      ]
+      "news": []
     }
   ]
 }
