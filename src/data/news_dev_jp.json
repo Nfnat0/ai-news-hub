@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-22T18:58:09.002Z",
+  "fetchedAt": "2026-01-23T02:33:37.370Z",
   "locale": "jp",
   "companies": [
     {
@@ -18,14 +18,14 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWHB5TTBuTkEyVW9oQWhoRHpCa1IxQVR5YXIyZ3BlejJBUXFfaVVTVF8xRldVdXhPeGFaU1d4RzVVTlpPUnBZU2lOejdMdw?oc=5",
           "pubDate": "2026-01-17 03:01:28",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWHB5TTBuTkEyVW9oQWhoRHpCa1IxQVR5YXIyZ3BlejJBUXFfaVVTVF8xRldVdXhPeGFaU1d4RzVVTlpPUnBZU2lOejdMdw?oc=5\" target=\"_blank\">Cursorがコードレビューエージェント「Bugbot」の運用実績を公開、積極的なバグ検出が可能に</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5",
           "pubDate": "2025-12-27 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5\" target=\"_blank\">「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
@@ -48,18 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub CopilotのWindows向けビルドパフォーマンス機能をパブリックプレビュー公開 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVllJMDZMZG9NM09xZjRpUExwSEMwNmlFRmRvOF9mSjM5NF9UdEllNi12QXdfRzhRNXg4cUdnbGZoQnlDSlA2cXotTEZfZw?oc=5",
+          "pubDate": "2026-01-22 23:02:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVllJMDZMZG9NM09xZjRpUExwSEMwNmlFRmRvOF9mSjM5NF9UdEllNi12QXdfRzhRNXg4cUdnbGZoQnlDSlA2cXotTEZfZw?oc=5\" target=\"_blank\">GitHub CopilotのWindows向けビルドパフォーマンス機能をパブリックプレビュー公開</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
           "title": "GitHub CLIから直接GitHub Copilot CLIのインストールと利用が可能に - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vcnRFdGMzQThSUGRwS0JLWEZINFFYekNvRnhwOW9qMlRKNUZER0tSLUE1cVU4ZWhTM2ozUXhYcjI5VzBFTjRYNkFNaFhYdw?oc=5",
           "pubDate": "2026-01-22 08:07:07",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vcnRFdGMzQThSUGRwS0JLWEZINFFYekNvRnhwOW9qMlRKNUZER0tSLUE1cVU4ZWhTM2ozUXhYcjI5VzBFTjRYNkFNaFhYdw?oc=5\" target=\"_blank\">GitHub CLIから直接GitHub Copilot CLIのインストールと利用が可能に</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "GitHub Copilot、エージェント横断メモリシステムをパブリックプレビュー公開 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVUZOZ3NtUUdUQXc1bWpMa1lZSkhVb0xiRzRnMmlYbkgzcTJqUUt0R3RDazB5Mjhpd0NhUWRYeFd3OWlQZUxpeUJJUGFlZw?oc=5",
-          "pubDate": "2026-01-20 08:03:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuVUZOZ3NtUUdUQXc1bWpMa1lZSkhVb0xiRzRnMmlYbkgzcTJqUUt0R3RDazB5Mjhpd0NhUWRYeFd3OWlQZUxpeUJJUGFlZw?oc=5\" target=\"_blank\">GitHub Copilot、エージェント横断メモリシステムをパブリックプレビュー公開</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜 - ソフトバンク",
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5",
           "pubDate": "2025-12-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYVNnVklZV1J5dTJURTFCOWRYMW9TTVNmUEZxcnlvVWJTRGswU2xRV08tMU5XSkg5Tm83cWxwN2JLTkdVcldmMHdnVHBYX25JXy02a285QkFZcVU?oc=5\" target=\"_blank\">プランでパブリックプレビュー提供開始</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説 - AIsmiley",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5",
           "pubDate": "2025-03-07 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JWDlDZUF2elFidTB5TUUxZHpjcW5kcDdrNFl5UUIwUGI4QVFqWXZRcFh5SmZkQndPcS13R1NnTFIxS0M4aGJHeHJ5Qm1vQms0UkI5bTRGWENxQTF2WXZqdWtnWlQ?oc=5\" target=\"_blank\">GitHub Copilotとは？使い方・料金・VScodeへの導入方法を解説</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -96,11 +96,11 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "Copilot Studio Extension for VS Code正式リリース、AIエージェント開発をコード化 - innovaTopia",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMjlSekFkbWlVYl9JN2U0X09vQXVZQi05eUFrY3pHcUlkVnVUSFVfbWQwcWc0UlVlbmlFZkQ1QkFSUjBGQzFMcTNYVkZZcjNKYWc?oc=5",
-          "pubDate": "2026-01-19 23:43:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMjlSekFkbWlVYl9JN2U0X09vQXVZQi05eUFrY3pHcUlkVnVUSFVfbWQwcWc0UlVlbmlFZkQ1QkFSUjBGQzFMcTNYVkZZcjNKYWc?oc=5\" target=\"_blank\">Copilot Studio Extension for VS Code正式リリース、AIエージェント開発をコード化</a>  innovaTopia",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbHl0Uk9FdzdERHJ4U3ROejJnRDIwYXlBYUZLWVQ3aEc4MGNGeXZxWTd1Xy1faGhoYkhzRnRGZm1jblQwYkV2T3h4N0I4UUxER3J4bzlNSEFQczJDNTh3M3ZlNktQanFa?oc=5",
+          "pubDate": "2026-01-21 05:24:11",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EbHl0Uk9FdzdERHJ4U3ROejJnRDIwYXlBYUZLWVQ3aEc4MGNGeXZxWTd1Xy1faGhoYkhzRnRGZm1jblQwYkV2T3h4N0I4UUxER3J4bzlNSEFQczJDNTh3M3ZlNktQanFa?oc=5\" target=\"_blank\">Anthropic、「Claude Code for VS Code」の一般提供を開始</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "VS Code、AIにタスクの手順や知識を組み込める「Agent Skills」に実験的対応。新バージョン「VS Code December 2025 (version 1.108)」リリース - Publickey",
@@ -112,15 +112,15 @@
         {
           "title": "VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5",
-          "pubDate": "2026-01-13 20:00:00",
+          "pubDate": "2026-01-14 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5\" target=\"_blank\">VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
-          "pubDate": "2025-11-25 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
+          "title": "エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新（窓の杜） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TU3kyQ3h0cG0zYzNMT08xa1hlb0h1ckdVWlhZS1lVem0zRXBMNmRSaURNaGRlM2RoQmtqeExVS0JGZ2ZNajRTQy1IaFE5ME5RTzNIUkdnSzVNMnZiWnNEVkVOa3czZTdiOFktOEdwSWFXZER0WmxEMWdkWXlTVXc?oc=5",
+          "pubDate": "2026-01-10 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1TU3kyQ3h0cG0zYzNMT08xa1hlb0h1ckdVWlhZS1lVem0zRXBMNmRSaURNaGRlM2RoQmtqeExVS0JGZ2ZNajRTQy1IaFE5ME5RTzNIUkdnSzVNMnZiWnNEVkVOa3czZTdiOFktOEdwSWFXZER0WmxEMWdkWXlTVXc?oc=5\" target=\"_blank\">エージェントスキルに対応した「Visual Studio Code」v1.108が公開 ～2025年12月更新（窓の杜）</a>  Yahoo!ニュース",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -196,14 +196,14 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5",
           "pubDate": "2026-01-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5\" target=\"_blank\">Google Antigravityとは？使い方や料金をご紹介</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         }
       ]
     }
