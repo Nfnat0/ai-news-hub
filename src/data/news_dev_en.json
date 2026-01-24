@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-24T09:42:01.945Z",
+  "fetchedAt": "2026-01-24T15:41:22.138Z",
   "locale": "en",
   "companies": [
     {
@@ -7,18 +7,18 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "EPAM, Cursor Tie Up to Push AI Coding Beyond Enterprise Pilots - Analytics India Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHVkUERaOTg1ZXhYNjJ1SkZ2cldRS3VCaXA2ckM1YW9EcVRCWHdRZDFNSGpqTHg2UGttMXhQc21qVTZhcTF0bFQxZGdWMzhtYzdjOGJrZlczWHVkUkZ3YlVaenY3dXFSYmYzcFQ1WWUxZUVYcHg4V0JYTHdpaHZlR1UtcS1VQ2h4M0dXVUJlSER5dDlPTjJQRkFEQ1E3S2JvVTk2anRMS0RrRzQ?oc=5",
+          "pubDate": "2026-01-24 10:09:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHVkUERaOTg1ZXhYNjJ1SkZ2cldRS3VCaXA2ckM1YW9EcVRCWHdRZDFNSGpqTHg2UGttMXhQc21qVTZhcTF0bFQxZGdWMzhtYzdjOGJrZlczWHVkUkZ3YlVaenY3dXFSYmYzcFQ1WWUxZUVYcHg4V0JYTHdpaHZlR1UtcS1VQ2h4M0dXVUJlSER5dDlPTjJQRkFEQ1E3S2JvVTk2anRMS0RrRzQ?oc=5\" target=\"_blank\">EPAM, Cursor Tie Up to Push AI Coding Beyond Enterprise Pilots</a>  Analytics India Magazine",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+        },
+        {
           "title": "Hands On: Testing Cursor, Windsurf and VS Code on Text-to-Website Generation - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUJ1NlBFZmNQbzVIa3lmUnpERUxtdF9mRndYaXZlVVcwM3ZKQnVMUUFHU25wVFpUME5TSGhLMTlCdzg3QV9iRXUxN2YwQ0tHNHhFTGI5RjlFV0tYVlJDVjMxZUlocTZYVWR2eDhMX0Y4QWswbXVnT21icFdEQ2ZEQlhRMFk1VUtnRnJ2bUpJWGpBZjEwMHhLN2lyYXphYjNWaHNYRkNBbkNUZURrTDBrWTRlQk9ySjBGeEdXQTMtNkdQVWdQaWl5OGxkVnBfUQ?oc=5",
           "pubDate": "2026-01-24 04:00:57",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUJ1NlBFZmNQbzVIa3lmUnpERUxtdF9mRndYaXZlVVcwM3ZKQnVMUUFHU25wVFpUME5TSGhLMTlCdzg3QV9iRXUxN2YwQ0tHNHhFTGI5RjlFV0tYVlJDVjMxZUlocTZYVWR2eDhMX0Y4QWswbXVnT21icFdEQ2ZEQlhRMFk1VUtnRnJ2bUpJWGpBZjEwMHhLN2lyYXphYjNWaHNYRkNBbkNUZURrTDBrWTRlQk9ySjBGeEdXQTMtNkdQVWdQaWl5OGxkVnBfUQ?oc=5\" target=\"_blank\">Hands On: Testing Cursor, Windsurf and VS Code on Text-to-Website Generation</a>  Visual Studio Magazine",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
-        },
-        {
-          "title": "Index of /wp-content/plugins/divi-builder/includes/builder/images - iupana.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmpNNzdJaVpFUGZSUnVDT2NqY0VjS2tJbS12VUhVUVUxTHNLZW9wVXhhNno1dFBia2d2N2tkblFkdGI5Z0tSNU9YQkRFT0dWLWtEZ3pHMmtDM1FPdmp1bDVsSnRtdXBuY3RyN0hCUkQxYmJSdWZjLW5mOHdvdHRnSA?oc=5",
-          "pubDate": "2026-01-23 21:35:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVmpNNzdJaVpFUGZSUnVDT2NqY0VjS2tJbS12VUhVUVUxTHNLZW9wVXhhNno1dFBia2d2N2tkblFkdGI5Z0tSNU9YQkRFT0dWLWtEZ3pHMmtDM1FPdmp1bDVsSnRtdXBuY3RyN0hCUkQxYmJSdWZjLW5mOHdvdHRnSA?oc=5\" target=\"_blank\">Index of /wp-content/plugins/divi-builder/includes/builder/images</a>  iupana.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters - Fortune",
@@ -32,14 +32,14 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMURDYWFmR1NoN2VuWkszUUZUVVV1MlZCZU16a05kQ3YyVk9uUS02bWFXUmxXenJNZ041MmlabDdXTEZ0b3UwVnBMR0w5b0x6MzV3Ylg0bktYWFpXb3lWUTRoREc3YmZkNWxwXzdfTnpZcVphUTI3TkI1QVhWblNCdkpqZkVKS0FFeG5uZ25XdWdEcGNZTENzT1ZDekphajEzVktoZmFVR2dKVVVmZzVHRnpmcE9jSmJxMHpXenZYUXhoejdzNVczMEFiTDYzZw?oc=5",
           "pubDate": "2026-01-23 17:48:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMURDYWFmR1NoN2VuWkszUUZUVVV1MlZCZU16a05kQ3YyVk9uUS02bWFXUmxXenJNZ041MmlabDdXTEZ0b3UwVnBMR0w5b0x6MzV3Ylg0bktYWFpXb3lWUTRoREc3YmZkNWxwXzdfTnpZcVphUTI3TkI1QVhWblNCdkpqZkVKS0FFeG5uZ25XdWdEcGNZTENzT1ZDekphajEzVktoZmFVR2dKVVVmZzVHRnpmcE9jSmJxMHpXenZYUXhoejdzNVczMEFiTDYzZw?oc=5\" target=\"_blank\">If AI GTM Tools Were Half as Good As Cursor or Replit, It Would Be a Different World Today. They Will Get There.</a>  SaaStr",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
-          "title": "Cursor used agents to write a browser, proving AI can write shoddy code at scale - theregister.com",
+          "title": "Cursor shows AI agents capable of shoddy code at scale - theregister.com",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxSE1mWlcybDJIWi10TFlud0FpVzJrVXptcmNpa2MyajN4ODBybTFpeXh5QUlFYXQ0R1huLWZhRWtTSVc2Sm1qWW9Rc1BMTmgzaTFqUk9MaTQ5dDVNa2kwYWlvZ3BTZWhQUWlsMmRnN2ZTS2M?oc=5",
           "pubDate": "2026-01-22 16:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAxSE1mWlcybDJIWi10TFlud0FpVzJrVXptcmNpa2MyajN4ODBybTFpeXh5QUlFYXQ0R1huLWZhRWtTSVc2Sm1qWW9Rc1BMTmgzaTFqUk9MaTQ5dDVNa2kwYWlvZ3BTZWhQUWlsMmRnN2ZTS2M?oc=5\" target=\"_blank\">Cursor used agents to write a browser, proving AI can write shoddy code at scale</a>  theregister.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAxSE1mWlcybDJIWi10TFlud0FpVzJrVXptcmNpa2MyajN4ODBybTFpeXh5QUlFYXQ0R1huLWZhRWtTSVc2Sm1qWW9Rc1BMTmgzaTFqUk9MaTQ5dDVNa2kwYWlvZ3BTZWhQUWlsMmRnN2ZTS2M?oc=5\" target=\"_blank\">Cursor shows AI agents capable of shoddy code at scale</a>  theregister.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -96,18 +96,18 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "Misuse of VS Code tasks poses risk to developers - Techzine Global",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSl83c3c1alRhWjQwSW4yQ01OMTlCQzdqTElMd2YyblR0VmdZZ0FtOTRUTUJnRmU1MmNsd3laRnlNaDFGdTZpT0dZaU5GcUxNVm12WlNxeGg1eTUxODRTVWxaTVd1YzBpcVBlU25SbHZ5bVNBQTYxcjAtSG1xeFpwLWpQSFFtb0JOWTZDbS1Xb21md2FFX0Jv?oc=5",
-          "pubDate": "2026-01-23 09:18:14",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSl83c3c1alRhWjQwSW4yQ01OMTlCQzdqTElMd2YyblR0VmdZZ0FtOTRUTUJnRmU1MmNsd3laRnlNaDFGdTZpT0dZaU5GcUxNVm12WlNxeGg1eTUxODRTVWxaTVd1YzBpcVBlU25SbHZ5bVNBQTYxcjAtSG1xeFpwLWpQSFFtb0JOWTZDbS1Xb21md2FFX0Jv?oc=5\" target=\"_blank\">Misuse of VS Code tasks poses risk to developers</a>  Techzine Global",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "title": "VS Code tasks config file abused to run malicious code - devclass",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhRcFRLdExyZzUtVkpHZjRvekE3a0I4TDNtS1Y0MXVhdmNOVFRqVXlVRE5pMGsydEFfR1dYWGM2d0JQUDhja25TSWhyWlJJVXhCZ3FBUmdkX2hZYmRJZXZQcF9IQUxEVGlFRHlaanRVdXR1cFFZRTlSVnFzTkVVMWN0UzJIeGhwUEFrOE5PdHI?oc=5",
+          "pubDate": "2026-01-22 15:39:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhRcFRLdExyZzUtVkpHZjRvekE3a0I4TDNtS1Y0MXVhdmNOVFRqVXlVRE5pMGsydEFfR1dYWGM2d0JQUDhja25TSWhyWlJJVXhCZ3FBUmdkX2hZYmRJZXZQcF9IQUxEVGlFRHlaanRVdXR1cFFZRTlSVnFzTkVVMWN0UzJIeGhwUEFrOE5PdHI?oc=5\" target=\"_blank\">VS Code tasks config file abused to run malicious code</a>  devclass",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "N. Korea Contagious Interview Campaign Turns to VS Code to Deliver Backdoor - DevOps.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXYwQWZ2OG4wR0VfREVWLVNxWnNXLXRMeERpMFgweVpPVWFIbi1NNmk2Z3Y3SDVlTE9EaWlIV19KbGxVZFNFNHVyU1VFbWZ4dU9OVU5XUmI5dHZ2WkliTU9jTnJEa21fOEhYRVFha0NKZ2xtTEd2Z0NndGRYa2NuaVJCM2NIUFRqUmpxUkQyRlRTOVpUbXRXZGF3?oc=5",
-          "pubDate": "2026-01-23 08:03:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXYwQWZ2OG4wR0VfREVWLVNxWnNXLXRMeERpMFgweVpPVWFIbi1NNmk2Z3Y3SDVlTE9EaWlIV19KbGxVZFNFNHVyU1VFbWZ4dU9OVU5XUmI5dHZ2WkliTU9jTnJEa21fOEhYRVFha0NKZ2xtTEd2Z0NndGRYa2NuaVJCM2NIUFRqUmpxUkQyRlRTOVpUbXRXZGF3?oc=5\" target=\"_blank\">N. Korea Contagious Interview Campaign Turns to VS Code to Deliver Backdoor</a>  DevOps.com",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking - Dark Reading",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25pTlItWmhHcFd2RzhrODlLU3Z1MTZFNXVvcEhaV2Etc2lrcHFWLWtrUnlFNEtRanQ3YVBZaXE3dmVfa3ZHeFo1al81NWdmVnB6UWxMbGhEbkZDVU56QkpzdU1EbG9nN1E1a2tpNGYwcXU4LUVBeE1TWm5USHVoTGJXZDZzd1FC?oc=5",
+          "pubDate": "2026-01-22 14:44:53",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25pTlItWmhHcFd2RzhrODlLU3Z1MTZFNXVvcEhaV2Etc2lrcHFWLWtrUnlFNEtRanQ3YVBZaXE3dmVfa3ZHeFo1al81NWdmVnB6UWxMbGhEbkZDVU56QkpzdU1EbG9nN1E1a2tpNGYwcXU4LUVBeE1TWm5USHVoTGJXZDZzd1FC?oc=5\" target=\"_blank\">DPRK Actors Deploy VS Code Tunnels for Remote Hacking</a>  Dark Reading",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Contagious Interview turns VS Code into an attack vector - csoonline.com",
