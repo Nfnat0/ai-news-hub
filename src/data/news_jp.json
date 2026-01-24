@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-24T12:17:03.951Z",
+  "fetchedAt": "2026-01-24T18:02:10.995Z",
   "locale": "jp",
   "companies": [
     {
@@ -210,7 +210,43 @@
     {
       "company": "meta",
       "displayName": "Meta",
-      "news": []
+      "news": [
+        {
+          "title": "メタのCTOアンドリュー・ボズワースがLlama 4を「失望」と呼びますが、今後のAIモデルは「非常に良い見通し」を示していると述べる - Benzinga Japan",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNY042SVFrdFp2YnBfUlBXOGtWZjB6N2FqdVlja0x2ZDZBVmlsbW53cFZNSjRsY2w5akpKSXNadmp1aFMwclpOMkt0VVFVZ3p4U1ZmYlBGVlFVTFFPelhNbmlUNy1meGdKY3V6UDhTMDNiTDMwVENnel9DM05Za1N6LWFnZWhXREFmXzhLOWVBY2xyX1dOTmZTZXZrRHBJd19WZkNablg3NmdENDdORi12cG9qSFBPWi1LZ0ZJMzBkM0ZtSXBvb0pwU05IdkMzcUVtMU1QNmY1SURkVUlxWlJ1d0JsYUVrY3drTjJobW5VYzMwTnFaVzFmaFV3aFh4cHNac00xQWJLSWdzR185YTd0UEFWSWlWbW44dVh0ek1tenBkTnRoeVU4eWZXOXJQZmV2dUZJMDNTc0x1WGt3RjFCd0g1V252VThQMkg4Z0VGUVhfUy1HREtHZFRvZDk2ZXlGWHNEdGRleGNYakJlbGlWRzFjdktaNl83ZmtYTWprdXlPYm9FQjBXOUhOWGI5Q2RQdDJwbGhXaFpLbDgxVWdpYWtGR0ZmVjZoVHFJd2s3SVBTRzJsd0g0a1F3?oc=5",
+          "pubDate": "2026-01-24 07:29:08",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNY042SVFrdFp2YnBfUlBXOGtWZjB6N2FqdVlja0x2ZDZBVmlsbW53cFZNSjRsY2w5akpKSXNadmp1aFMwclpOMkt0VVFVZ3p4U1ZmYlBGVlFVTFFPelhNbmlUNy1meGdKY3V6UDhTMDNiTDMwVENnel9DM05Za1N6LWFnZWhXREFmXzhLOWVBY2xyX1dOTmZTZXZrRHBJd19WZkNablg3NmdENDdORi12cG9qSFBPWi1LZ0ZJMzBkM0ZtSXBvb0pwU05IdkMzcUVtMU1QNmY1SURkVUlxWlJ1d0JsYUVrY3drTjJobW5VYzMwTnFaVzFmaFV3aFh4cHNac00xQWJLSWdzR185YTd0UEFWSWlWbW44dVh0ek1tenBkTnRoeVU4eWZXOXJQZmV2dUZJMDNTc0x1WGt3RjFCd0g1V252VThQMkg4Z0VGUVhfUy1HREtHZFRvZDk2ZXlGWHNEdGRleGNYakJlbGlWRzFjdktaNl83ZmtYTWprdXlPYm9FQjBXOUhOWGI5Q2RQdDJwbGhXaFpLbDgxVWdpYWtGR0ZmVjZoVHFJd2s3SVBTRzJsd0g0a1F3?oc=5\" target=\"_blank\">メタのCTOアンドリュー・ボズワースがLlama 4を「失望」と呼びますが、今後のAIモデルは「非常に良い見通し」を示していると述べる</a>  Benzinga Japan",
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
+          "title": "Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表 - 知財図鑑",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iaFNhZ3dYQ0xsampwY3pLWGRpeVNBZnlFc2JVTFR5bXYwejF3Q0xWeHJxVDZ5OUFTSUJ6cWxVMEdZWXlsaVB6dU1waGJRRFFJS3Naek4tZnh6NHVsZFNlM3hB?oc=5",
+          "pubDate": "2026-01-22 08:53:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iaFNhZ3dYQ0xsampwY3pLWGRpeVNBZnlFc2JVTFR5bXYwejF3Q0xWeHJxVDZ5OUFTSUJ6cWxVMEdZWXlsaVB6dU1waGJRRFFJS3Naek4tZnh6NHVsZFNlM3hB?oc=5\" target=\"_blank\">Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表</a>  知財図鑑",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+        },
+        {
+          "title": "Meta LlamaCon 2025 🦙💻 AI と新しい Llama 4 世代の初の開発者会議 🚀 - Xpert.Digital - Konrad Wolfenstein",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2p3SXUwT0hsOW4wZExubFZnODRfbllfNUV6TDVBNHhteERSMTFQcWRYRzlVY2wwUjFzcXotY29ndzZRbkIyQXpVLTBuWFVpS1lNYUZZaV92ZnV5MzM4RjFQdkY4NkJ1YW5zMlhlcFQ1YkpUaEhMMlo0NUljVXNjMXYyakd1eGNWbmwyQXdR?oc=5",
+          "pubDate": "2026-01-20 02:26:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2p3SXUwT0hsOW4wZExubFZnODRfbllfNUV6TDVBNHhteERSMTFQcWRYRzlVY2wwUjFzcXotY29ndzZRbkIyQXpVLTBuWFVpS1lNYUZZaV92ZnV5MzM4RjFQdkY4NkJ1YW5zMlhlcFQ1YkpUaEhMMlo0NUljVXNjMXYyakd1eGNWbmwyQXdR?oc=5\" target=\"_blank\">Meta LlamaCon 2025 🦙💻 AI と新しい Llama 4 世代の初の開発者会議 🚀</a>  Xpert.Digital - Konrad Wolfenstein",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+        },
+        {
+          "title": "Meta、AIアシスタント「Meta AI」日本で段階的に提供開始 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5",
+          "pubDate": "2025-11-28 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jd1BEUkdtdmNKdnF0TjRGeWs1UXRlMUtpSVN4Tm9lelUteWwwY0VpLVZBVkRpR1NHQXNOejZTSnRNUldBR1d6TWJZSGIzeWxHV0haSDhtRlB3S3lxalFJ?oc=5\" target=\"_blank\">Meta、AIアシスタント「Meta AI」日本で段階的に提供開始</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+        },
+        {
+          "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5",
+          "pubDate": "2025-11-25 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+        }
+      ]
     },
     {
       "company": "xai",
