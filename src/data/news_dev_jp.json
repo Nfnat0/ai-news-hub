@@ -1,18 +1,11 @@
 {
-  "fetchedAt": "2026-01-28T06:59:23.648Z",
+  "fetchedAt": "2026-01-28T13:28:08.620Z",
   "locale": "jp",
   "companies": [
     {
       "company": "cursor",
       "displayName": "Cursor",
       "news": [
-        {
-          "title": "Cursor、同社ブログ内でDropboxにおける利用状況を紹介 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rWXV2VlQ1UDdxXzYxZVBiZXV6MGVNWlZHWTQyZXZHS3pEbl9YMzhpLU50MmFYUk9KNEhpU0Nvd1hQYk5ZeW1ONHAwX3N1UQ?oc=5",
-          "pubDate": "2026-01-28 02:08:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rWXV2VlQ1UDdxXzYxZVBiZXV6MGVNWlZHWTQyZXZHS3pEbl9YMzhpLU50MmFYUk9KNEhpU0Nvd1hQYk5ZeW1ONHAwX3N1UQ?oc=5\" target=\"_blank\">Cursor、同社ブログ内でDropboxにおける利用状況を紹介</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
         {
           "title": "Cursorが数百のエージェントを協調させ「ゼロからブラウザを構築」させる実験を実施、1週間で1000ファイル・100万行以上のコードを記述 - GIGAZINE",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SUDdta09ZV29iVFZ3RUFpN0lyWFZISXhaRVpDT19oalNFYmNmcUFUWUNJNm9KTkVKZ2ZrVjNLMUtLQTQ3amFMeERFcktmN1hKcDBqWWpVQVA3UjUxeHo3LVYzdTJJblZf?oc=5",
@@ -21,25 +14,32 @@
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
+          "title": "「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5",
+          "pubDate": "2025-12-27 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1QlZhcjR5UG5Nb3liS3BLdlIyM3FyWndqV3JlX0I3emFMSlNmUy1EbUtKNzhhLW5BTEFERzA4RXFqLW1sc3ZDNGJvNzRtUVphemR4RUxXMFVkUk03eGllZ2xCSEw4Qlg2LXlIWVBhVQ?oc=5\" target=\"_blank\">「バイブコーディング」は崩壊する？ CursorのCEOが“AI丸投げ開発”に警告</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+        },
+        {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
           "pubDate": "2025-12-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン) - Mercari",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5\" target=\"_blank\">AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン)</a>  Mercari",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -48,10 +48,10 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot、GPT-5.2-Codexを主要IDEで利用可能に - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sZ3hOTnRpTUgwcDl3UHFSNHQwOTJxV2pqS2lOMVQwWGNzeFNhamUtTmt3aTNoQUZfcXpWR1ZYdkNTQVNXR0l0TU80WnBtdw?oc=5",
-          "pubDate": "2026-01-27 09:31:30",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sZ3hOTnRpTUgwcDl3UHFSNHQwOTJxV2pqS2lOMVQwWGNzeFNhamUtTmt3aTNoQUZfcXpWR1ZYdkNTQVNXR0l0TU80WnBtdw?oc=5\" target=\"_blank\">GitHub Copilot、GPT-5.2-Codexを主要IDEで利用可能に</a>  CodeZine",
+          "title": "GitHub Copilot、「Agents」タブの追加によりセッションの一括管理が可能に - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRHBGWGliLVNlSDJZMTE1S1ZRU3ZHQlN5Y0FLWDkwWDc3N0d3SjVOTjE4Y3dneXg0c1drdDZNQ3NtazB3aDZDa0ZLaEh6dw?oc=5",
+          "pubDate": "2026-01-28 03:30:48",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRHBGWGliLVNlSDJZMTE1S1ZRU3ZHQlN5Y0FLWDkwWDc3N0d3SjVOTjE4Y3dneXg0c1drdDZNQ3NtazB3aDZDa0ZLaEh6dw?oc=5\" target=\"_blank\">GitHub Copilot、「Agents」タブの追加によりセッションの一括管理が可能に</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
@@ -89,24 +89,31 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "偽のVS Code拡張機能がWindowsにScreenConnect RATをインストール - SOC Prime",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUlfWWpRYWpKcTBfalFSbkI5QjBYdkgwMVoyZ3pfbFgyRnZISE15ZnJCZ1NYN2YtaENJVW9sN0Ffb0g5dWJ3SDFpcTBWYVI3YUlVZko0dWFOMjIzN2Z4TFpPR1pHbGczZjA4X2ZEZ0ZmZjF5MlhUb1BvS0FZVEE0UVhnQmNzT0ZWejk2OGMxUHY3SERlcjhER0lhM1RITGgtR2xB?oc=5",
+          "pubDate": "2026-01-28 13:10:51",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUlfWWpRYWpKcTBfalFSbkI5QjBYdkgwMVoyZ3pfbFgyRnZISE15ZnJCZ1NYN2YtaENJVW9sN0Ffb0g5dWJ3SDFpcTBWYVI3YUlVZko0dWFOMjIzN2Z4TFpPR1pHbGczZjA4X2ZEZ0ZmZjF5MlhUb1BvS0FZVEE0UVhnQmNzT0ZWejk2OGMxUHY3SERlcjhER0lhM1RITGgtR2xB?oc=5\" target=\"_blank\">偽のVS Code拡張機能がWindowsにScreenConnect RATをインストール</a>  SOC Prime",
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "VS Code tasks.jsonの悪用によりBeaverTailバックドアを配信 - SOC Prime",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE5Ldncxb0VnMHljMS1ldk1fQUpqOTVvNks2WHlRakVkQ0VLcV9Mc1FTVWUzbFdZNGZhaTNUQnNscWEtZ2VFdTdNTmFqRW9EUXh2bHJVcGUwT3dBeTVyclFOaTJhUkphYTQzOXNGUmNIRURuV3NZR3g3bmRTX3h1ZjFZb0lNVXFOUVIzRFljVmlPbXpGMnhXN1RsTGhkZHZ3aGxVZEdWaG9XQW8?oc=5",
+          "pubDate": "2026-01-28 09:38:12",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE5Ldncxb0VnMHljMS1ldk1fQUpqOTVvNks2WHlRakVkQ0VLcV9Mc1FTVWUzbFdZNGZhaTNUQnNscWEtZ2VFdTdNTmFqRW9EUXh2bHJVcGUwT3dBeTVyclFOaTJhUkphYTQzOXNGUmNIRURuV3NZR3g3bmRTX3h1ZjFZb0lNVXFOUVIzRFljVmlPbXpGMnhXN1RsTGhkZHZ3aGxVZEdWaG9XQW8?oc=5\" target=\"_blank\">VS Code tasks.jsonの悪用によりBeaverTailバックドアを配信</a>  SOC Prime",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に - forest.impress.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZTVueUNIdzU5Uld4TFV6MTA2YUFsQzh6VUFrNE9CZTR0bEMyZ05HSXlxVmx6VTVieUNtUEdLa083OHlTc3FaeDMyS2VHV2pSMVY5bUF4U09tTFplT2RqaGZNYzY?oc=5",
           "pubDate": "2026-01-27 01:36:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZTVueUNIdzU5Uld4TFV6MTA2YUFsQzh6VUFrNE9CZTR0bEMyZ05HSXlxVmx6VTVieUNtUEdLa083OHlTc3FaeDMyS2VHV2pSMVY5bUF4U09tTFplT2RqaGZNYzY?oc=5\" target=\"_blank\">「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に</a>  forest.impress.co.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5",
           "pubDate": "2026-01-21 15:24:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5\" target=\"_blank\">Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "VS Code、AIにタスクの手順や知識を組み込める「Agent Skills」に実験的対応。新バージョン「VS Code December 2025 (version 1.108)」リリース - Publickey",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWdtZ20tMlB5OFY1dk1HVUV3cTJsNmYtSGJ4Q3Z3Rnh1YWhHU0tDeEhUUU1Bd2VnUktfalJseXFSWVRnaHc0NFBaVU5LZDdBQndIa1MzT3o1anNqSEtYY0dIbjZiN2Y0V3F2bnFuVUV1T0NRWDBHNTlBajZLdFZ1X0tBYnRLYkxDSnljbWp1R1BCZ2NGRDI5dl9R?oc=5",
-          "pubDate": "2026-01-18 13:57:28",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWdtZ20tMlB5OFY1dk1HVUV3cTJsNmYtSGJ4Q3Z3Rnh1YWhHU0tDeEhUUU1Bd2VnUktfalJseXFSWVRnaHc0NFBaVU5LZDdBQndIa1MzT3o1anNqSEtYY0dIbjZiN2Y0V3F2bnFuVUV1T0NRWDBHNTlBajZLdFZ1X0tBYnRLYkxDSnljbWp1R1BCZ2NGRDI5dl9R?oc=5\" target=\"_blank\">VS Code、AIにタスクの手順や知識を組み込める「Agent Skills」に実験的対応。新バージョン「VS Code December 2025 (version 1.108)」リリース</a>  Publickey",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
@@ -114,13 +121,6 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5",
           "pubDate": "2026-01-14 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5\" target=\"_blank\">VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
-        },
-        {
-          "title": "Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始 - PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5",
-          "pubDate": "2025-11-25 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yN0k4RHoxOGItNS1LT21TTjlpdE9Pd1hqNHJGZXpISUlDX1prTXBsM3h4ekpLVGlXVVNsY2hoRmgwRzVOOVRibzFhWkZDWmlTbkZDQ2tWME8wUnQ2X0oweGZXS3VuOG9QV0E?oc=5\" target=\"_blank\">Keeper Security、Visual Studio Code向けシークレット管理拡張機能を提供開始</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -137,6 +137,13 @@
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
+          "title": "Kiro powers の紹介 | Amazon Web Services ブログ - Amazon Web Services",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5",
+          "pubDate": "2025-12-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weURucmt1d00yaFZYNnNiZmZVVGVrbXBMNXY5U19fTTF5YTdhY3A3a0tSMlZzV0NPUURIcGJ6WmhIOVFyVXNWUHBfU2ROT1VUSnB6d0VwRkRhdkd3TWt2WXN2Mm5TX2s?oc=5\" target=\"_blank\">Kiro powers の紹介 | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+        },
+        {
           "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
@@ -148,7 +155,7 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
           "pubDate": "2025-11-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services",
@@ -156,13 +163,6 @@
           "pubDate": "2025-11-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
-        },
-        {
-          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
-          "pubDate": "2025-07-15 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         }
       ]
     },
@@ -185,18 +185,18 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
-          "title": "【動画や資料を自動生成】無料のコーディングアプリ「Google Antigravity」の”スキル機能”で高品質なパワポ資料/Excel/動画/webサイトを作る方法！ - ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNDhRVTBQYnNoSjhYSDBYb3lqRTc1dlRhT3RaYk5OYi1rQjFIdS1CSEtnNzgtNVF3Vk9ST2FtNFJ4R0ZYWnlId1JVbzRfdHBGck9SVlNoOE9DTHcyRVJR?oc=5",
-          "pubDate": "2026-01-27 09:05:37",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNDhRVTBQYnNoSjhYSDBYb3lqRTc1dlRhT3RaYk5OYi1rQjFIdS1CSEtnNzgtNVF3Vk9ST2FtNFJ4R0ZYWnlId1JVbzRfdHBGck9SVlNoOE9DTHcyRVJR?oc=5\" target=\"_blank\">【動画や資料を自動生成】無料のコーディングアプリ「Google Antigravity」の”スキル機能”で高品質なパワポ資料/Excel/動画/webサイトを作る方法！</a>  ライブドアニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
-        },
-        {
           "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5",
-          "pubDate": "2026-01-20 00:00:00",
+          "pubDate": "2026-01-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5\" target=\"_blank\">無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+        },
+        {
+          "title": "「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4) - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5",
+          "pubDate": "2026-01-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5\" target=\"_blank\">「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4)</a>  ASCII.jp",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
