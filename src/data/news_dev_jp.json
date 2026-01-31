@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-31T03:05:41.041Z",
+  "fetchedAt": "2026-01-31T07:03:14.018Z",
   "locale": "jp",
   "companies": [
     {
@@ -169,7 +169,43 @@
     {
       "company": "antigravity",
       "displayName": "Google Antigravity",
-      "news": []
+      "news": [
+        {
+          "title": "Google Antigravityでエージェントファースト開発を始めよう 第2回 エージェントに指示してブックマーク管理アプリを作成する - ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc3dQaUpoNXl2a1IzUVNjWDRBRXFOVkYyYUdTTW1teVV6OE9WeGpremtnVmtVd3hxcnVUWFBsaFZuX3ZWcXdxZENvMjVPdlpwZmtuX3V5VTlXck9hRVdFbjV2WHNXQ0hlbzhlcW9VMllxZjItZFRGdVNaMTLSAXxBVV95cUxNTHN3UGlKaDV5dmtSM1FTY1g0QUVxTlZGMmFHU01tbXlVejhPVnhqa3prZ1ZrVXd4cXJ1VFhQbGhWbl92VnF3cWRDbzI1T3ZacGZrbl91eVU5V3JPYUVXRW41dlhzV0NIZW84ZXFvVTJZcWYyLWRURnVTWjEy?oc=5",
+          "pubDate": "2026-01-30 23:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Mc3dQaUpoNXl2a1IzUVNjWDRBRXFOVkYyYUdTTW1teVV6OE9WeGpremtnVmtVd3hxcnVUWFBsaFZuX3ZWcXdxZENvMjVPdlpwZmtuX3V5VTlXck9hRVdFbjV2WHNXQ0hlbzhlcW9VMllxZjItZFRGdVNaMTLSAXxBVV95cUxNTHN3UGlKaDV5dmtSM1FTY1g0QUVxTlZGMmFHU01tbXlVejhPVnhqa3prZ1ZrVXd4cXJ1VFhQbGhWbl92VnF3cWRDbzI1T3ZacGZrbl91eVU5V3JPYUVXRW41dlhzV0NIZW84ZXFvVTJZcWYyLWRURnVTWjEy?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう 第2回 エージェントに指示してブックマーク管理アプリを作成する</a>  ｄメニューニュース",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
+          "title": "Agent Factory のハイライト: Remik と学ぶ Antigravity と Nano Banana Pro - Google Cloud",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk8wMXBHbUVRajJuNm5vXzhEWTdNUF9wSlY2UW94QTMxY0t6NWozcHZkb3Z2WDc0eW42RFlnRkRyaHE4Uzh4azRRSE5lRVJvVUR1NEJwOTh4TURJWF96M28waGNqZlcyaloyR2J2YUVsTHNoUW0xOFpvcURkY3E0aGZwa0g0ZXdTcXNtWG5ORmtYbDVSNU14bVdRcWEwcDFzRV9jZFdDR1dRcEZrdGpPczljZjZyRjFaRnAzRWZGRFZSRktVMlE?oc=5",
+          "pubDate": "2026-01-29 01:18:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk8wMXBHbUVRajJuNm5vXzhEWTdNUF9wSlY2UW94QTMxY0t6NWozcHZkb3Z2WDc0eW42RFlnRkRyaHE4Uzh4azRRSE5lRVJvVUR1NEJwOTh4TURJWF96M28waGNqZlcyaloyR2J2YUVsTHNoUW0xOFpvcURkY3E0aGZwa0g0ZXdTcXNtWG5ORmtYbDVSNU14bVdRcWEwcDFzRV9jZFdDR1dRcEZrdGpPczljZjZyRjFaRnAzRWZGRFZSRktVMlE?oc=5\" target=\"_blank\">Agent Factory のハイライト: Remik と学ぶ Antigravity と Nano Banana Pro</a>  Google Cloud",
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+        },
+        {
+          "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5",
+          "pubDate": "2026-01-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5\" target=\"_blank\">無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+        },
+        {
+          "title": "Google Antigravityとは？使い方や料金をご紹介 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5",
+          "pubDate": "2026-01-09 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5\" target=\"_blank\">Google Antigravityとは？使い方や料金をご紹介</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+        },
+        {
+          "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
+          "pubDate": "2025-12-17 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        }
+      ]
     }
   ]
 }
