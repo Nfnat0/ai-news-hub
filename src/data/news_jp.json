@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-31T12:19:15.442Z",
+  "fetchedAt": "2026-01-31T18:16:06.071Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,10 +7,10 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Google Chrome、同ブラウザ内における「Gemini」の大規模アップデートを発表 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wbk0tdEMzWHk3YVdEV2RxNU9DUDVWZzlQRi1jWDV3RVp1cnBMcHNaaEcyRm9PY0tNOGtEd0R6bkVTRnVKVTZ4azZYbHF3QQ?oc=5",
-          "pubDate": "2026-01-31 04:44:44",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wbk0tdEMzWHk3YVdEV2RxNU9DUDVWZzlQRi1jWDV3RVp1cnBMcHNaaEcyRm9PY0tNOGtEd0R6bkVTRnVKVTZ4azZYbHF3QQ?oc=5\" target=\"_blank\">Google Chrome、同ブラウザ内における「Gemini」の大規模アップデートを発表</a>  CodeZine",
+          "title": "Geminiを採用するApple（松村太郎） - エキスパート - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXR1ekZINlFUcEJmMkMyc0VrdFhnVllSMEFHTUIxTmtoR3VhMURtei11MVVaX3VfWG81WWpWeWF5cWZKM3dYb1VyWmUtQkFWT09LNnltQXpWOEVSVGRhalRILWVGMVlWb2VYMTI5Sy1GclR4NUozZGhWaHpCOWVDVVRkRTlPRmNt?oc=5",
+          "pubDate": "2026-01-31 14:54:38",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXR1ekZINlFUcEJmMkMyc0VrdFhnVllSMEFHTUIxTmtoR3VhMURtei11MVVaX3VfWG81WWpWeWF5cWZKM3dYb1VyWmUtQkFWT09LNnltQXpWOEVSVGRhalRILWVGMVlWb2VYMTI5Sy1GclR4NUozZGhWaHpCOWVDVVRkRTlPRmNt?oc=5\" target=\"_blank\">Geminiを採用するApple（松村太郎） - エキスパート</a>  Yahoo!ニュース",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
@@ -18,7 +18,7 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mb1pxZXViUFQ5LUdsdlNHV0tSUzI0Vnd6WnNXcDg5elJrbU9DU3VmUVo4Vk9jRVphUzJPWDUxWENib213TGlCMk9TOVh5Q1FmX09v?oc=5",
           "pubDate": "2026-01-30 23:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mb1pxZXViUFQ5LUdsdlNHV0tSUzI0Vnd6WnNXcDg5elJrbU9DU3VmUVo4Vk9jRVphUzJPWDUxWENib213TGlCMk9TOVh5Q1FmX09v?oc=5\" target=\"_blank\">グーグル、Chromeに最新AI「Gemini 3」を統合、サイドパネルからNano Bananaも利用可能に</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど - Impress Watch",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4WjRIdGJfQzNaN1FvWEJRamg3MjctVGpiNUlSVmVITzdnVF9yU2pmaHloZmpkOG85c0ViNUNKV1o5dlZIdkl0bHMtbVFfS3BQakdMY3Q3RVdaaHRwWWd5Z2dKZDU1VVExYmlJbEZfTGxkRkdJejdrOXVR?oc=5",
           "pubDate": "2026-01-28 03:52:43",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB4WjRIdGJfQzNaN1FvWEJRamg3MjctVGpiNUlSVmVITzdnVF9yU2pmaHloZmpkOG85c0ViNUNKV1o5dlZIdkl0bHMtbVFfS3BQakdMY3Q3RVdaaHRwWWd5Z2dKZDU1VVExYmlJbEZfTGxkRkdJejdrOXVR?oc=5\" target=\"_blank\">Google AI Plus を提供開始</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         }
       ]
     },
@@ -271,14 +271,14 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwME0tam43eUVua0tZbVlOMnp6QkI1T2cwOElaZUVBUHZpeFRPR0VPRmg1YjltUFdNMThISHVzOGt2R1JKMmt2TDV5aG9RVlZnQ3c?oc=5",
           "pubDate": "2026-01-27 01:48:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwME0tam43eUVua0tZbVlOMnp6QkI1T2cwOElaZUVBUHZpeFRPR0VPRmg1YjltUFdNMThISHVzOGt2R1JKMmt2TDV5aG9RVlZnQ3c?oc=5\" target=\"_blank\">EU、Xの大規模調査を開始 Grokの性的画像生成めぐり</a>  CNN",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "Grokの性的画像生成問題でXを正式調査 欧州委員会 - Impress Watch",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PTWdjTEp5c3didFUxblc3RUdObVlxTHZadTJwbEpQbHBSWkVoeWxJTHZXdmo4OU8wM21idU1oSl9scVBMcFFsd1VHWnpHX2xEcGMwemstQ3h0ckpYajB4Sm5oY1U?oc=5",
           "pubDate": "2026-01-26 13:46:51",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PTWdjTEp5c3didFUxblc3RUdObVlxTHZadTJwbEpQbHBSWkVoeWxJTHZXdmo4OU8wM21idU1oSl9scVBMcFFsd1VHWnpHX2xEcGMwemstQ3h0ckpYajB4Sm5oY1U?oc=5\" target=\"_blank\">Grokの性的画像生成問題でXを正式調査 欧州委員会</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
           "title": "X、Grokの画像生成で実在人物の脱衣を不可に　反発受け - BBC",
