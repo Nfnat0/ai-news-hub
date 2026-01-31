@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-31T09:27:36.497Z",
+  "fetchedAt": "2026-01-31T15:23:19.939Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Google’s AI advantage: why crawler separation is the only path to a fair Internet - The Cloudflare Blog",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ka3djUldiMWp2T2ZNcUVSeXgyMUxWS2p6R3Rya3lVeXRmZnVBaTR2aUUySldFQnlvVDNiVTZYMXgya1pJdW02MjgzeGhBWEQ1eG41LUtTYmh1MzJxTHhFZFowbHFRU0U?oc=5",
-          "pubDate": "2026-01-30 17:03:56",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ka3djUldiMWp2T2ZNcUVSeXgyMUxWS2p6R3Rya3lVeXRmZnVBaTR2aUUySldFQnlvVDNiVTZYMXgya1pJdW02MjgzeGhBWEQ1eG41LUtTYmh1MzJxTHhFZFowbHFRU0U?oc=5\" target=\"_blank\">Google’s AI advantage: why crawler separation is the only path to a fair Internet</a>  The Cloudflare Blog",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "title": "My Dog and I Put Gemini's New Navigation Features to the Test - CNET",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmFLM1liejB4SWF5NGVVMUppbDVkeVI2R2lfdnlvbjBIdWpxYmtUdVhFcDNvOVNucFdUcGw0dk1RZnl3RnpETHNXaElxYUYxbF9CN3Q0ejJVRUZqY2ZRb1dqYXNuM3BXMnZrd19QY3BuUU9kZEtQTVJsOUVLd2hhQ1RFUGVDUE1vNFk4R1RjZUpPRU4taVRhZERhMW9RWVFBYjFPTnkwSFBtcDVx?oc=5",
+          "pubDate": "2026-01-31 12:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmFLM1liejB4SWF5NGVVMUppbDVkeVI2R2lfdnlvbjBIdWpxYmtUdVhFcDNvOVNucFdUcGw0dk1RZnl3RnpETHNXaElxYUYxbF9CN3Q0ejJVRUZqY2ZRb1dqYXNuM3BXMnZrd19QY3BuUU9kZEtQTVJsOUVLd2hhQ1RFUGVDUE1vNFk4R1RjZUpPRU4taVRhZERhMW9RWVFBYjFPTnkwSFBtcDVx?oc=5\" target=\"_blank\">My Dog and I Put Gemini's New Navigation Features to the Test</a>  CNET",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
-          "title": "Apple Explains How Gemini-Powered Siri Will Work - MacRumors",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWk1ZRDZFaUJUazZvRHM1R2NIbl9EMlRmYUpJS2tJeXNCd0hMSmt6U1JKQXloUlBWRzVPcloyTUE0NUJndVBycXdDa0dpYnV4X2d0TWVETkE3X2xXbUdKcEJmeXM4VE1nWk9SanJsODdSTEFhU0d6a0Nma0ZKYk9BUklFX1phajJSejJKaDlvMA?oc=5",
-          "pubDate": "2026-01-30 14:49:50",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWk1ZRDZFaUJUazZvRHM1R2NIbl9EMlRmYUpJS2tJeXNCd0hMSmt6U1JKQXloUlBWRzVPcloyTUE0NUJndVBycXdDa0dpYnV4X2d0TWVETkE3X2xXbUdKcEJmeXM4VE1nWk9SanJsODdSTEFhU0d6a0Nma0ZKYk9BUklFX1phajJSejJKaDlvMA?oc=5\" target=\"_blank\">Apple Explains How Gemini-Powered Siri Will Work</a>  MacRumors",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "The new era of browsing: Putting Gemini to work in Chrome - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkM1Q0JXSDZHNEdIM0dCVWtCV2RveDFrZzRFT0pjSlB3bzVNLWlXcHlLVGE4anZRRjhJbWlQRGN1Y0xPMndGclB0MDE3UDlQVHdDelI0b3VMbGNXb2UybkNCMy1OOGZkU0g0b0FjZVNXZVlrMENoRVBtZG9GVklTQXFGMUtzeEE?oc=5",
-          "pubDate": "2026-01-28 18:05:26",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORkM1Q0JXSDZHNEdIM0dCVWtCV2RveDFrZzRFT0pjSlB3bzVNLWlXcHlLVGE4anZRRjhJbWlQRGN1Y0xPMndGclB0MDE3UDlQVHdDelI0b3VMbGNXb2UybkNCMy1OOGZkU0g0b0FjZVNXZVlrMENoRVBtZG9GVklTQXFGMUtzeEE?oc=5\" target=\"_blank\">The new era of browsing: Putting Gemini to work in Chrome</a>  blog.google",
+          "title": "NotebookLM's Best Feature Is Finally Available On iOS And Android - bgr.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQck1jcFNORjc1b1JVS2RzMTBLVk5IZ3lzNzhXWnBSS0ZPREI2X29EV3ZlVV84aWpFTk5TcTFDQUNRWDUwVkYyMl9ZVW9tTXBxQVVaLU1tdWRZalJFNVgtaDJDWk5jcjJSbTVFYnBiVldkWHROaUhUclNmbnhzbTNSWGh4bUNIakU5WUdZ?oc=5",
+          "pubDate": "2026-01-30 21:29:11",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQck1jcFNORjc1b1JVS2RzMTBLVk5IZ3lzNzhXWnBSS0ZPREI2X29EV3ZlVV84aWpFTk5TcTFDQUNRWDUwVkYyMl9ZVW9tTXBxQVVaLU1tdWRZalJFNVgtaDJDWk5jcjJSbTVFYnBiVldkWHROaUhUclNmbnhzbTNSWGh4bUNIakU5WUdZ?oc=5\" target=\"_blank\">NotebookLM's Best Feature Is Finally Available On iOS And Android</a>  bgr.com",
           "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "Find out what’s new in the Gemini app in January's Gemini Drop. - blog.google",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1dUcFZYdTc0Z2Y4TmY1ZlV2QmxtajBEVkh3bTJhZTBNdXVKTl9jdzlxU1N5VFpCV0pSVzVfQXF6ZFhOeEVnOUNBck1HTW4tOEhfU0ZMOWdIWHU2V2s2bzFqYkJad2R5Zk5pbDN0bzY2cnFlSzFXUVlHV3RXdnZJRG9VZENoc2xLbkRz?oc=5",
+          "pubDate": "2026-01-30 17:24:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1dUcFZYdTc0Z2Y4TmY1ZlV2QmxtajBEVkh3bTJhZTBNdXVKTl9jdzlxU1N5VFpCV0pSVzVfQXF6ZFhOeEVnOUNBck1HTW4tOEhfU0ZMOWdIWHU2V2s2bzFqYkJad2R5Zk5pbDN0bzY2cnFlSzFXUVlHV3RXdnZJRG9VZENoc2xLbkRz?oc=5\" target=\"_blank\">Find out what’s new in the Gemini app in January's Gemini Drop.</a>  blog.google",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
           "title": "Google brings more Gemini AI features to Chrome browser - CNBC",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWZzVnBSeFNZUGEzWFI1RVRjNG5rMFdJVHlLV0dhOXZVbFcyWHg5TlpMajNLN080ZEpCdjZLSlU3Z1NuUFdlUjdqb25yYXZPdGtxVmtLOExST1I1TlVOZWluWWxYS2ZhNldxWmZqeWFBMWxheWVmSk9BXzF1VC0yUDFsd1lrb0gzSGoyVGtMN2lmM3RjWFJHT9IBngFBVV95cUxPR1kwT3ltWDB2czJ3WG5Ldl9aOU9UQm5XTXNHR2xveXNsTWNydTNqdmdyX19vSW9LQzJRQkFYbEdMYWtiNFYtYW5oczUxeXJFbmpuUkQ0TWlMS1RmaGRqdDJuZWpqLW5HWkhRcmV4WmRqUEh2bExlaG9kMzBfbXQtTl9EdTlTS2YxdHhLLS1ZeTNWTl83TnhOYWpvMXJoQQ?oc=5",
           "pubDate": "2026-01-28 18:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWZzVnBSeFNZUGEzWFI1RVRjNG5rMFdJVHlLV0dhOXZVbFcyWHg5TlpMajNLN080ZEpCdjZLSlU3Z1NuUFdlUjdqb25yYXZPdGtxVmtLOExST1I1TlVOZWluWWxYS2ZhNldxWmZqeWFBMWxheWVmSk9BXzF1VC0yUDFsd1lrb0gzSGoyVGtMN2lmM3RjWFJHT9IBngFBVV95cUxPR1kwT3ltWDB2czJ3WG5Ldl9aOU9UQm5XTXNHR2xveXNsTWNydTNqdmdyX19vSW9LQzJRQkFYbEdMYWtiNFYtYW5oczUxeXJFbmpuUkQ0TWlMS1RmaGRqdDJuZWpqLW5HWkhRcmV4WmRqUEh2bExlaG9kMzBfbXQtTl9EdTlTS2YxdHhLLS1ZeTNWTl83TnhOYWpvMXJoQQ?oc=5\" target=\"_blank\">Google brings more Gemini AI features to Chrome browser</a>  CNBC",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Tailor Gemini CLI to your workflow with hooks - blog.google",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVhsSUFxOGluTVJ0eXBac3BGeW9pYndmOTJRWU02RElmWGpVV2pvbVBXWWlWLXFfOXp0Q2dmNHdyOUVtMURLWGUxaEhWTFRyLUwyZ1FRN01mRFpGc3ZKaGxYWWxpNEstUXlIbVZNVExzZ1Q1dnhRYjhnakFaZjVQc1ZKb2h4dXc?oc=5",
           "pubDate": "2026-01-28 08:03:22",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVhsSUFxOGluTVJ0eXBac3BGeW9pYndmOTJRWU02RElmWGpVV2pvbVBXWWlWLXFfOXp0Q2dmNHdyOUVtMURLWGUxaEhWTFRyLUwyZ1FRN01mRFpGc3ZKaGxYWWxpNEstUXlIbVZNVExzZ1Q1dnhRYjhnakFaZjVQc1ZKb2h4dXc?oc=5\" target=\"_blank\">Tailor Gemini CLI to your workflow with hooks</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -51,8 +51,8 @@
           "title": "OpenAI will retire several models, including GPT-4o, from ChatGPT next month - CNBC",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjNHOWhIUXY1Y1drcjloNFJMYTlsNjY3c1pxaG13dGhYS0pNY2RoZjBwRG0tTURfMXQ0ZHNrSVpTWk9kQ0FQMUpVRmVKenMzMVVrMnBVNzgzR0ZyenZnTVdGems3RUpPVTEtU2tBSWFwanV4aWRPY2N0WnpNOTVFZ04zRmZLcjJPMlM2dnZTSdIBlAFBVV95cUxONUc2WkM5ZGVKaHc1SVhOUm01VzA1S3dnSUNjV3RMRmxKb011NWhQeGloTFpBYTZrMGxNeHdidExGMXVBaS0xRjVQSkJmNWlnWnZZbGItNk9PcEs4LXVwQ3RJVnVGOFlLb21OUjItMjFlR1lrV2dIeWNCaXBiSXZUU21XT01neEZvU001c0NXcVpMWi1B?oc=5",
           "pubDate": "2026-01-29 22:47:56",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjNHOWhIUXY1Y1drcjloNFJMYTlsNjY3c1pxaG13dGhYS0pNY2RoZjBwRG0tTURfMXQ0ZHNrSVpTWk9kQ0FQMUpVRmVKenMzMVVrMnBVNzgzR0ZyenZnTVdGems3RUpPVTEtU2tBSWFwanV4aWRPY2N0WnpNOTVFZ04zRmZLcjJPMlM2dnZTSdIBlAFBVV95cUxONUc2WkM5ZGVKaHc1SVhOUm01VzA1S3dnSUNjV3RMRmxKb011NWhQeGloTFpBYTZrMGxNeHdidExGMXVBaS0xRjVQSkJmNWlnWnZZbGItNk9PcEs4LXVwQ3RJVnVGOFlLb21OUjItMjFlR1lrV2dIeWNCaXBiSXZUU21XT01neEZvU001c0NXcVpMWi1B?oc=5\" target=\"_blank\">OpenAI will retire several models, including GPT-4o, from ChatGPT next month</a>  CNBC</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFRJOGMzQkZ3U0wzVmliWG9SRXhPNzZTcU9qN21UWmpUNEVGa09BN1Q3QmdCdzlyM0sxMFJpeEJDQlgzSGkxa29FM0JuZ0djNGRzOWMxMy1ZS1k5dFc4QnpZY2FHOXZZR0x0cDFpUWZIZU9PWFRFVjhyS0xaaVVCMzd6TQ?oc=5\" target=\"_blank\">OpenAI is retiring GPT-4o, and the AI relationships community is not OK</a>  Mashable</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHN3TndzR0tKVkdKWW56TFlqbEQzZEZwekEybmNsLV8wZmwxTzQ1NE03OWd0dzJvaUNJbmw1REdRSjlXb2hKX01fLWZLeEwzaV9tYmEzTDRkZTV4XzZwei1XZXdZZW96WlBBMjFCUHdLUXRxcll4ZzBGampiTHhBRWpLbDFvS000MnlrRDFpSkFBblhPbG1MZw?oc=5\" target=\"_blank\">PSA: OpenAI will remove several models from ChatGPT next month</a>  9to5Mac</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjNHOWhIUXY1Y1drcjloNFJMYTlsNjY3c1pxaG13dGhYS0pNY2RoZjBwRG0tTURfMXQ0ZHNrSVpTWk9kQ0FQMUpVRmVKenMzMVVrMnBVNzgzR0ZyenZnTVdGems3RUpPVTEtU2tBSWFwanV4aWRPY2N0WnpNOTVFZ04zRmZLcjJPMlM2dnZTSdIBlAFBVV95cUxONUc2WkM5ZGVKaHc1SVhOUm01VzA1S3dnSUNjV3RMRmxKb011NWhQeGloTFpBYTZrMGxNeHdidExGMXVBaS0xRjVQSkJmNWlnWnZZbGItNk9PcEs4LXVwQ3RJVnVGOFlLb21OUjItMjFlR1lrV2dIeWNCaXBiSXZUU21XT01neEZvU001c0NXcVpMWi1B?oc=5\" target=\"_blank\">OpenAI will retire several models, including GPT-4o, from ChatGPT next month</a>  CNBC</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjFmSExiNXJSS3dLOEU1TmpuTlM1eVVZMmc0VUtHU3Z5N2lGd3AtMHExeFFkNzBzd254dGplQ3kzZllfempoTVJIN25oXzNGczItSlh3dEpKdEtPWXFza2dJclUyQ0tsZFJycFMyVEQtUmswZk1LT05oWHZpMkhZWnlKZlZ1QmVjVUxUOUJBYVQ3UnRocE9KeGJJY0x5SmlQS0hJU2pqMA?oc=5\" target=\"_blank\">OpenAI is retiring its popular 'yes man' version of ChatGPT again — and this time it may be for good</a>  Business Insider</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE85cWw5WWw2Mk95TnY2MGM3N2ZFbldYX1dpUWpoalFvYXhMelk2NDNwZU8xakV1WE9WMkhvVUxiYzYyMWgycDFKeFpqQ2ZRYWtCZ3N0WGQ4cUczSlloaDlBdWtWTm55NWM5RHNvWGpwY00?oc=5\" target=\"_blank\">OpenAI axes ChatGPT models with just two weeks' warning</a>  theregister.com</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
           "title": "Amazon bets on OpenAI even as Wall Street cools to the ChatGPT maker - Axios",
@@ -69,10 +69,10 @@
           "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts - BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0l4XzZzcGZMd29mWlliMWQyVkZwY3RsWUx4UXhoZ1JDZlRjSDNNSkxvV2R4Tjcxd0gwWThxQUtQeEFNeklTLUhRMWNpcnNmOGV4U1NwT2RJczRsTWhCRFVXQUNEcmNQdmF6bV9BZUJnUy1SQkRScWJHOG9nYzlIMllSQ01XMHpwc0ZONndXeHVGVHJNcFpRb0l6a3B6RzAxZ3BMYTJJZU02Vmc0RURsUGlRLTJOdjhES1dtd3ZhOVTSAcYBQVVfeXFMTjBZelVFeHc4QkVRYUlOcnF2bFktWjhYcXc5TEZkZklXbWZGXy1HQkRpWlEzczlnNlNjV2tCeGtRR2F5dzRhUnp1aHlxSG5BT2t2ak1iZzlScnpyRl94TldNRVpZeU5LNHlhMzR2SlAxaW5MenRLMGd0enlrZ0FFS1RrS0VWQkgzMGE5aF9KTmVmcVdBVXZuMWdpLVZqa2xrdnZ4M1F6THFYNTY3MF80b0Y2QUpSRjVpbUlYcS1kMU83b0tqa1dB?oc=5",
-          "pubDate": "2026-01-28 00:04:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0l4XzZzcGZMd29mWlliMWQyVkZwY3RsWUx4UXhoZ1JDZlRjSDNNSkxvV2R4Tjcxd0gwWThxQUtQeEFNeklTLUhRMWNpcnNmOGV4U1NwT2RJczRsTWhCRFVXQUNEcmNQdmF6bV9BZUJnUy1SQkRScWJHOG9nYzlIMllSQ01XMHpwc0ZONndXeHVGVHJNcFpRb0l6a3B6RzAxZ3BMYTJJZU02Vmc0RURsUGlRLTJOdjhES1dtd3ZhOVTSAcYBQVVfeXFMTjBZelVFeHc4QkVRYUlOcnF2bFktWjhYcXc5TEZkZklXbWZGXy1HQkRpWlEzczlnNlNjV2tCeGtRR2F5dzRhUnp1aHlxSG5BT2t2ak1iZzlScnpyRl94TldNRVpZeU5LNHlhMzR2SlAxaW5MenRLMGd0enlrZ0FFS1RrS0VWQkgzMGE5aF9KTmVmcVdBVXZuMWdpLVZqa2xrdnZ4M1F6THFYNTY3MF80b0Y2QUpSRjVpbUlYcS1kMU83b0tqa1dB?oc=5\" target=\"_blank\">OpenAI's ChatGPT ad costs are on par with live NFL broadcasts</a>  BleepingComputer",
+          "title": "‘Sometimes we focus on one thing and neglect another’: Sam Altman admits OpenAI ‘screwed up’ ChatGPT 5.2’s writing skills, but says improvements are coming - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRWNHSk05WjVvVUJOU0xaV2szWnFzUDZMbTZ2NzgxbU5aUFV1blBxZVNXMTNYVG5nbDVmQ1VIUWRKWVc5U0tUc0dTay1WWnJHSTdZaTBnOGd2aVFLTUVEcV9RZDl3NUJSZ3hfN2FzWmtDSmRyQlFsS2tjbW9FTGtpcjBIUklZUXVVallDeG5XWjh2TVlZMkdkNGVIRldQWlpqSkpvaThfMVJpY0lncjNoS3pseFYxYjY4aVdsaHA0VDhUbk0weEZQdXJjLTV5b3gtZG9Cb2lxMDJrUVFNWE1WNVhhaHpqUlp2NGZsTTF3d2g0R1NlVmJtZA?oc=5",
+          "pubDate": "2026-01-28 11:55:45",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRWNHSk05WjVvVUJOU0xaV2szWnFzUDZMbTZ2NzgxbU5aUFV1blBxZVNXMTNYVG5nbDVmQ1VIUWRKWVc5U0tUc0dTay1WWnJHSTdZaTBnOGd2aVFLTUVEcV9RZDl3NUJSZ3hfN2FzWmtDSmRyQlFsS2tjbW9FTGtpcjBIUklZUXVVallDeG5XWjh2TVlZMkdkNGVIRldQWlpqSkpvaThfMVJpY0lncjNoS3pseFYxYjY4aVdsaHA0VDhUbk0weEZQdXJjLTV5b3gtZG9Cb2lxMDJrUVFNWE1WNVhhaHpqUlp2NGZsTTF3d2g0R1NlVmJtZA?oc=5\" target=\"_blank\">‘Sometimes we focus on one thing and neglect another’: Sam Altman admits OpenAI ‘screwed up’ ChatGPT 5.2’s writing skills, but says improvements are coming</a>  TechRadar",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
@@ -80,7 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aY0E0bEQybV9JR0FPRDVFbzJ2X2hPWGZwVzhIUTVmeGl2RmxCQU5DVEkycFkyc3VoMUQtTWVBT25NOGN5bUgzSGUwRERoNTJrVllvVW93?oc=5",
           "pubDate": "2026-01-27 16:52:42",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aY0E0bEQybV9JR0FPRDVFbzJ2X2hPWGZwVzhIUTVmeGl2RmxCQU5DVEkycFkyc3VoMUQtTWVBT25NOGN5bUgzSGUwRERoNTJrVllvVW93?oc=5\" target=\"_blank\">Introducing Prism</a>  OpenAI",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         }
       ]
     },
@@ -130,11 +130,25 @@
       "displayName": "Anthropic",
       "news": [
         {
+          "title": "Anthropic Says New Cowork Plugins Tailor Claude to Specific Job Functions - PYMNTS.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFM1VmN6OFdQWWFSSnRZZXJ5OUlkNXZzUVN3VTN1Q0RjcDBNTHVYUDM2UHhYM2s0V0t3RG9UNkhCdDd4c3ZnZzJqRTNpX1hMbHk2WlIyUWFHaGNDUzhfcmJUT0JaNzFQWW1fQW4zSFpXbjkzTkVXT2kxM21ia0pyZWFCZnY2cDlVT1J4cnRaOWoyXzhwVVNkaUFQUG1aT1NBTEdPcUhuZVBHYXk0d0tZNm4wa0NycmFHVnBoNTNWdDUxRk5MTkFv?oc=5",
+          "pubDate": "2026-01-30 23:04:23",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFM1VmN6OFdQWWFSSnRZZXJ5OUlkNXZzUVN3VTN1Q0RjcDBNTHVYUDM2UHhYM2s0V0t3RG9UNkhCdDd4c3ZnZzJqRTNpX1hMbHk2WlIyUWFHaGNDUzhfcmJUT0JaNzFQWW1fQW4zSFpXbjkzTkVXT2kxM21ia0pyZWFCZnY2cDlVT1J4cnRaOWoyXzhwVVNkaUFQUG1aT1NBTEdPcUhuZVBHYXk0d0tZNm4wa0NycmFHVnBoNTNWdDUxRk5MTkFv?oc=5\" target=\"_blank\">Anthropic Says New Cowork Plugins Tailor Claude to Specific Job Functions</a>  PYMNTS.com",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+        },
+        {
           "title": "Claude on Mars - Anthropic",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lV3pTQmNRdDVkdHBPdkVRSWVFRWNFY1dIeEdUSjlNeVpaTzNhX0s1d1Z1RjFRbHQzLTFEb09FX2l3Si03VFkyYVowaDJhLXZ5S2xsSWoyREFOY19pb2c?oc=5",
           "pubDate": "2026-01-30 19:55:50",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lV3pTQmNRdDVkdHBPdkVRSWVFRWNFY1dIeEdUSjlNeVpaTzNhX0s1d1Z1RjFRbHQzLTFEb09FX2l3Si03VFkyYVowaDJhLXZ5S2xsSWoyREFOY19pb2c?oc=5\" target=\"_blank\">Claude on Mars</a>  Anthropic",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Anthropic brings agentic plug-ins to Cowork - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXpmdGxuX3AtYWtDemJhWk5fQ09ESjZZZzA1ZUhPb2ZLeVl6bmJjMTg3WFcxVUV5NHQ5cjVRVUViVG55TG43UHNlNW11ckgyZ3JaWWJ3UUxTN21OU0FnaFRnMndnM2szckJwaWpQOGNVRDJjUXo5djlUcGs1OUdGdE9tQQ?oc=5",
+          "pubDate": "2026-01-30 18:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXpmdGxuX3AtYWtDemJhWk5fQ09ESjZZZzA1ZUhPb2ZLeVl6bmJjMTg3WFcxVUV5NHQ5cjVRVUViVG55TG43UHNlNW11ckgyZ3JaWWJ3UUxTN21OU0FnaFRnMndnM2szckJwaWpQOGNVRDJjUXo5djlUcGs1OUdGdE9tQQ?oc=5\" target=\"_blank\">Anthropic brings agentic plug-ins to Cowork</a>  TechCrunch",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "Top engineers at Anthropic, OpenAI say AI now writes 100% of their code - Fortune",
@@ -144,25 +158,11 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
-          "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think? - Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2lyTHV3d1VFNVU2YTBVUHVXcHVGdkZuMU10NUJXVzJVX1VMaG50UUZ5WUh2Wk8ydG1XUjVRUEhuSU91Sm5NbEpJdW91Y3NZR25JMUNralhGLXg4Y0FZMGhrczZyWUpHWjljeTN1cmR0VmphZGVURDQyVTQ0c2E4ajBaQi1pSFFZZHp1V2RlNGdLY1BVblhqZ2hhWHBQS0Q1SlJ0OWNFQkhaVUtWY2tjRkNWX0J3azhIekVTOW9USU9jVUZwQnNRWVFyMjExNzBIS3MxTUFvU0xGd1pp?oc=5",
-          "pubDate": "2026-01-29 15:19:56",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2lyTHV3d1VFNVU2YTBVUHVXcHVGdkZuMU10NUJXVzJVX1VMaG50UUZ5WUh2Wk8ydG1XUjVRUEhuSU91Sm5NbEpJdW91Y3NZR25JMUNralhGLXg4Y0FZMGhrczZyWUpHWjljeTN1cmR0VmphZGVURDQyVTQ0c2E4ajBaQi1pSFFZZHp1V2RlNGdLY1BVblhqZ2hhWHBQS0Q1SlJ0OWNFQkhaVUtWY2tjRkNWX0J3azhIekVTOW9USU9jVUZwQnNRWVFyMjExNzBIS3MxTUFvU0xGd1pp?oc=5\" target=\"_blank\">Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?</a>  Ars Technica",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
-        },
-        {
-          "title": "Anthropic wants Claude Cowork to take AI from chatbot to coworker - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zY2Z2UDV2UElsVkkxUzFEMk1LdE9WRjRwVzU2eWRkOHlwUmZNUmtQdkQzbEVaVWZWSE10b0NtU0JNTDhKanVEd2ZtYUxXaTZxT1RLaEZhaExNbWQ2enhyTUktdldSdw?oc=5",
-          "pubDate": "2026-01-29 10:03:10",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zY2Z2UDV2UElsVkkxUzFEMk1LdE9WRjRwVzU2eWRkOHlwUmZNUmtQdkQzbEVaVWZWSE10b0NtU0JNTDhKanVEd2ZtYUxXaTZxT1RLaEZhaExNbWQ2enhyTUktdldSdw?oc=5\" target=\"_blank\">Anthropic wants Claude Cowork to take AI from chatbot to coworker</a>  qz.com",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
-        },
-        {
-          "title": "ADL rates Anthropic’s Claude best AI model at detecting antisemitism - Jewish Insider",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVdBMkgyQThJaXBNOXplT0JNZmFPLUloNWh0NlBEMGFYTG1xaXBVeWxXeEVwSlh5Q2phT3hrSFVsNWlYSU9GZ3JkT3oyaWdmaWNoaTMxTjhkN0NfRnY3OUZROW1COUhLU2dMbk9yZXFLdmtSSFEtQkJjMVd3eDVZbmFIZjZObF83cGNKWVZUUmFVd1lhODZkMzhjUDFzNmxN?oc=5",
-          "pubDate": "2026-01-28 12:02:09",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVdBMkgyQThJaXBNOXplT0JNZmFPLUloNWh0NlBEMGFYTG1xaXBVeWxXeEVwSlh5Q2phT3hrSFVsNWlYSU9GZ3JkT3oyaWdmaWNoaTMxTjhkN0NfRnY3OUZROW1COUhLU2dMbk9yZXFLdmtSSFEtQkJjMVd3eDVZbmFIZjZObF83cGNKWVZUUmFVd1lhODZkMzhjUDFzNmxN?oc=5\" target=\"_blank\">ADL rates Anthropic’s Claude best AI model at detecting antisemitism</a>  Jewish Insider",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "title": "How AI assistance impacts the formation of coding skills - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zb2NuNmpTa19UWUctSmVCSkJtcVJvajVQb3lDRTh2YWxUanRISHF5bWMyc0JEN01RMGQ5ZHFTc2VUZ1R5ZF9yQzl3dHBDTkpyUDVmbkVyT0VMVlM2NTZNR01tbXJ6NU1OSXBWc2R1dw?oc=5",
+          "pubDate": "2026-01-29 19:37:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1Zb2NuNmpTa19UWUctSmVCSkJtcVJvajVQb3lDRTh2YWxUanRISHF5bWMyc0JEN01RMGQ5ZHFTc2VUZ1R5ZF9yQzl3dHBDTkpyUDVmbkVyT0VMVlM2NTZNR01tbXJ6NU1OSXBWc2R1dw?oc=5\" target=\"_blank\">How AI assistance impacts the formation of coding skills</a>  Anthropic",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         }
       ]
     },
@@ -182,13 +182,6 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkNDalA5SExKQVRadU9IT0dGdFdaMU1UcDVTcE91NU5FZy1ETDgzeTIxOGFBMWVEV2doR0xRWHRPNE5fcTZ2NjctX2Y5akloWWZsenNwZFp2UWo5U1h2Ty1nTnl4S1lmVm9zdFFrZkVqWDgxYzBpYTQwN2FLMDBQeWRiVlpPZ0h2akdXNk9aYTYtMEtYRTBnZzFuSjhJM1FCTjFSdlh6QzVOVUZM?oc=5",
           "pubDate": "2026-01-30 11:57:23",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObkNDalA5SExKQVRadU9IT0dGdFdaMU1UcDVTcE91NU5FZy1ETDgzeTIxOGFBMWVEV2doR0xRWHRPNE5fcTZ2NjctX2Y5akloWWZsenNwZFp2UWo5U1h2Ty1nTnl4S1lmVm9zdFFrZkVqWDgxYzBpYTQwN2FLMDBQeWRiVlpPZ0h2akdXNk9aYTYtMEtYRTBnZzFuSjhJM1FCTjFSdlh6QzVOVUZM?oc=5\" target=\"_blank\">‘It’s not humans vs machines’: Amazon’s AI investment raises questions over jobs</a>  capacityglobal.com",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
-        },
-        {
-          "title": "Amazon's AI Ring Doorbell Just Humiliated the Tech Giant With an 'Award' No One Wants - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Dd0VtOUxaeVpQRUs3WGJmMjRuU0gwUFBtSVBnaDYtakxPV2xVNDVkSmlkSkJ5OHM4NEtyN1BMOWc3ZjVFZllZSGIxdkJpVFlvMUUwdENyYlhQeEpUeGFsS2xQMkl3LWdyZHlrS045TmlJbUdXeUdfYnptUkRrSEk?oc=5",
-          "pubDate": "2026-01-30 10:47:14",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5Dd0VtOUxaeVpQRUs3WGJmMjRuU0gwUFBtSVBnaDYtakxPV2xVNDVkSmlkSkJ5OHM4NEtyN1BMOWc3ZjVFZllZSGIxdkJpVFlvMUUwdENyYlhQeEpUeGFsS2xQMkl3LWdyZHlrS045TmlJbUdXeUdfYnptUkRrSEk?oc=5\" target=\"_blank\">Amazon's AI Ring Doorbell Just Humiliated the Tech Giant With an 'Award' No One Wants</a>  AOL.com",
           "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         },
         {
@@ -203,6 +196,13 @@
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBaVUVKZmxfRWo3TGR5bi03RUg3azI4dGg0dzFMS005WWRaVDk1TF8zOVU5b183bDdrZlZwZ2dMNjJmX0dVSnFnbmpSQ2VMemVFRjY4ajBRVkRqTG5WUGl6V3owMEtpenNEU1NVZTRDZVV2VlhUdWpUNW9laVVkcjhidlkwNGRRUHJ4RkhFMlFSSUxVUWZKdGFndWlxREdxUVE1bGdGN0REejFTYmRvZmJhQ0JOb0NmNGdEVmFPcG1wODJFbXp1c3pVUkRKVG4wVUtKWEIycUxMemxRRFU0?oc=5",
           "pubDate": "2026-01-29 16:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBaVUVKZmxfRWo3TGR5bi03RUg3azI4dGg0dzFMS005WWRaVDk1TF8zOVU5b183bDdrZlZwZ2dMNjJmX0dVSnFnbmpSQ2VMemVFRjY4ajBRVkRqTG5WUGl6V3owMEtpenNEU1NVZTRDZVV2VlhUdWpUNW9laVVkcjhidlkwNGRRUHJ4RkhFMlFSSUxVUWZKdGFndWlxREdxUVE1bGdGN0REejFTYmRvZmJhQ0JOb0NmNGdEVmFPcG1wODJFbXp1c3pVUkRKVG4wVUtKWEIycUxMemxRRFU0?oc=5\" target=\"_blank\">Amazon’s AI push raises employee climate, layoff concerns</a>  The Wenatchee World",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+        },
+        {
+          "title": "Amazon’s AI push raises employee climate, layoff concerns - The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2wxUGlPX2Q0d29HQkhlcFJBVjFva0NlZjJoaU5laW03TWVBX0x0NURER1lycDA4MTh6NHlaemF4aVY4Tk90YlYxM21HM0p0VTJrQy1Oallhc1RQeElmeXhGM0x5SnJ0NHB4ZFVEN1FtcUg4eGJZU01RbzBDcThOU3Y2RTZDZDdHNXFmT2YtN3NuM2dXRUx4Q3kyajl3Yk1HWFZZ?oc=5",
+          "pubDate": "2026-01-29 01:52:09",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2wxUGlPX2Q0d29HQkhlcFJBVjFva0NlZjJoaU5laW03TWVBX0x0NURER1lycDA4MTh6NHlaemF4aVY4Tk90YlYxM21HM0p0VTJrQy1Oallhc1RQeElmeXhGM0x5SnJ0NHB4ZFVEN1FtcUg4eGJZU01RbzBDcThOU3Y2RTZDZDdHNXFmT2YtN3NuM2dXRUx4Q3kyajl3Yk1HWFZZ?oc=5\" target=\"_blank\">Amazon’s AI push raises employee climate, layoff concerns</a>  The Seattle Times",
           "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         }
       ]
@@ -212,18 +212,18 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "Meta CEO Mark Zuckerberg dodged Wall Street's AI questions — and called it a long game - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWpMMTREWEwwX2Fjbks2b0hEX2hnRWlscTlXMTFBR1FmY0FtQi16LTZzX0p4cU0zei0ySWVEY3ZSVEFMQWM0Mmc2RkdfcW54NWJaUXkzV1djN2MzXzdKaUJRUGJ0Y2R6Tzg4OE8zZ3NsbEFCbGU3a2NES3dCekozeUJTV0h2SFBiUkp5TGZmUXJGVThSbkc0WlRB?oc=5",
-          "pubDate": "2026-01-30 22:55:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWpMMTREWEwwX2Fjbks2b0hEX2hnRWlscTlXMTFBR1FmY0FtQi16LTZzX0p4cU0zei0ySWVEY3ZSVEFMQWM0Mmc2RkdfcW54NWJaUXkzV1djN2MzXzdKaUJRUGJ0Y2R6Tzg4OE8zZ3NsbEFCbGU3a2NES3dCekozeUJTV0h2SFBiUkp5TGZmUXJGVThSbkc0WlRB?oc=5\" target=\"_blank\">Meta CEO Mark Zuckerberg dodged Wall Street's AI questions — and called it a long game</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "title": "Supply Llama &amp; Fishstick Arrive with New LEGO Fortnite Set - Bleeding Cool News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWlSTUZ4d3VzZEJyTHVZdkVSZnNHU1BZdFk2QkZuMVViRmFrVEFRd0lqT0E2YlJmVFBEaHRzRG5EY1A3b3pNRDNwbU1qVG1aMHNhZUs1UDRFX3lKaVNPR2dLMmZOa2NRQmNvM3RnNjlvLTRYazhOa3pPbl9leUNsdnlfMkhwQjN4UUttdDUtbGs4UDE5WUNYN1VrTQ?oc=5",
+          "pubDate": "2026-01-31 14:53:06",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWlSTUZ4d3VzZEJyTHVZdkVSZnNHU1BZdFk2QkZuMVViRmFrVEFRd0lqT0E2YlJmVFBEaHRzRG5EY1A3b3pNRDNwbU1qVG1aMHNhZUs1UDRFX3lKaVNPR2dLMmZOa2NRQmNvM3RnNjlvLTRYazhOa3pPbl9leUNsdnlfMkhwQjN4UUttdDUtbGs4UDE5WUNYN1VrTQ?oc=5\" target=\"_blank\">Supply Llama &amp; Fishstick Arrive with New LEGO Fortnite Set</a>  Bleeding Cool News",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
-          "title": "LEGO BrickHeadz Fortnite Supply Llama &amp; Fishstick Figures (40881) Revealed - The Brick Fan",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUhVbGxpTERxdnd3NUNnRklGSVctMzY4eVBtOTJtd1Q3a2xpVnN5UFBoNVZoeERUX2Rnd0NCQ3hRTEFrUS0wcGpTb1E5bjZHYzJ6dmxtRGpfQUtvemZST2NwbzVxLUY2QlNaUDI0bWJKcjBYR0t3bUJBdWFEUFpzeDUycjVMaWVUajc0S0o0Y3lmaG5CbzhvdnNpYWQ2Mkht?oc=5",
-          "pubDate": "2026-01-30 19:28:58",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUhVbGxpTERxdnd3NUNnRklGSVctMzY4eVBtOTJtd1Q3a2xpVnN5UFBoNVZoeERUX2Rnd0NCQ3hRTEFrUS0wcGpTb1E5bjZHYzJ6dmxtRGpfQUtvemZST2NwbzVxLUY2QlNaUDI0bWJKcjBYR0t3bUJBdWFEUFpzeDUycjVMaWVUajc0S0o0Y3lmaG5CbzhvdnNpYWQ2Mkht?oc=5\" target=\"_blank\">LEGO BrickHeadz Fortnite Supply Llama &amp; Fishstick Figures (40881) Revealed</a>  The Brick Fan",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "title": "igNYte Kindness: Thanks to a Seneca County farm’s loan, Ranger the llama has a friend - TheDailyNewsOnline.com",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObG5WaV9EejcxNmxWenlPem54N3F2ZXJFYkVSLVkwWlRCZktHZ1BkQlJzM2NpTDVORVRKYTdRUWlFbGJ6aE1kNjFWMEJqbmtrVlBwVU0xSVA0VnhlUEhRZmpWeXY3MnRhTEFFWm5sOHZTa2Z3Z09WUDM5WC1sUmhIbzRfLXoyUFp2OWlJSmxhQmtURUIxSXh4U3hjQjVzaXpnU1RnTTJOd0ppOGUyZFQwaElGRHJSbnFuQS02RE5qOTN5cHdtb1gwYU9ZdWduYWRTRlpDZWdjRkJ6dW9nQWtkbkV2c0hxcWhrTzhpNFVYamFXbFNjd0tmTmRYbkZjVXJKQlE?oc=5",
+          "pubDate": "2026-01-31 07:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxObG5WaV9EejcxNmxWenlPem54N3F2ZXJFYkVSLVkwWlRCZktHZ1BkQlJzM2NpTDVORVRKYTdRUWlFbGJ6aE1kNjFWMEJqbmtrVlBwVU0xSVA0VnhlUEhRZmpWeXY3MnRhTEFFWm5sOHZTa2Z3Z09WUDM5WC1sUmhIbzRfLXoyUFp2OWlJSmxhQmtURUIxSXh4U3hjQjVzaXpnU1RnTTJOd0ppOGUyZFQwaElGRHJSbnFuQS02RE5qOTN5cHdtb1gwYU9ZdWduYWRTRlpDZWdjRkJ6dW9nQWtkbkV2c0hxcWhrTzhpNFVYamFXbFNjd0tmTmRYbkZjVXJKQlE?oc=5\" target=\"_blank\">igNYte Kindness: Thanks to a Seneca County farm’s loan, Ranger the llama has a friend</a>  TheDailyNewsOnline.com",
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
           "title": "Discover the world with multimodal AI glasses - Meta Store",
