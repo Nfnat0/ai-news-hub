@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-31T04:25:13.309Z",
+  "fetchedAt": "2026-01-31T09:27:36.497Z",
   "locale": "en",
   "companies": [
     {
@@ -251,7 +251,43 @@
     {
       "company": "xai",
       "displayName": "xAI",
-      "news": []
+      "news": [
+        {
+          "title": "Elon Musk’s SpaceX in merger talks with xAI ahead of potential blockbuster IPO: report - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDRZZTY3aXBmTTFtNTFqYm9xWW5yMGhEM19NVmkzMm1uNWRHRVRSMTctYUNIcmp6UVJuNGgwWnVwand4bWNDZTVXWElYdDVzd3BiQnpQWkpLeXJENjNkX0J0Zng2SWdsVGppaUdPZVQ5RE1lNC00dkdveDdFaHJGRUZIdmRaaVE5dUx3V042TlRrbjB5X0VMVDFSODEwWGxDS2J2cURBeW80Tk9mTVZWZ3NhMWgtbEFtekpfejcySnFfZw?oc=5",
+          "pubDate": "2026-01-29 19:25:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDRZZTY3aXBmTTFtNTFqYm9xWW5yMGhEM19NVmkzMm1uNWRHRVRSMTctYUNIcmp6UVJuNGgwWnVwand4bWNDZTVXWElYdDVzd3BiQnpQWkpLeXJENjNkX0J0Zng2SWdsVGppaUdPZVQ5RE1lNC00dkdveDdFaHJGRUZIdmRaaVE5dUx3V042TlRrbjB5X0VMVDFSODEwWGxDS2J2cURBeW80Tk9mTVZWZ3NhMWgtbEFtekpfejcySnFfZw?oc=5\" target=\"_blank\">Elon Musk’s SpaceX in merger talks with xAI ahead of potential blockbuster IPO: report</a>  New York Post",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+        },
+        {
+          "title": "Why Ashley St. Clair, MAGA influencer and Elon Musk’s ex, is taking on his AI empire - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFcyLWFHTEtCd2RSOGhwQlFHeGxoT0gyTW1obC1zc2h1OTZuM0lDaXpNYm82dDVTMzRaa091a1pMOGxHWFpNTFZrNDJkN0RvcWVWeG5tR3NXUk1kZzVaMzZtUXp2Y3c4SVhaT0FGd0ZKc1dGWlNHZ3FGVmhMZUJkS3dlcGwweW9rSkZSaGVlRQ?oc=5",
+          "pubDate": "2026-01-28 12:24:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFcyLWFHTEtCd2RSOGhwQlFHeGxoT0gyTW1obC1zc2h1OTZuM0lDaXpNYm82dDVTMzRaa091a1pMOGxHWFpNTFZrNDJkN0RvcWVWeG5tR3NXUk1kZzVaMzZtUXp2Y3c4SVhaT0FGd0ZKc1dGWlNHZ3FGVmhMZUJkS3dlcGwweW9rSkZSaGVlRQ?oc=5\" target=\"_blank\">Why Ashley St. Clair, MAGA influencer and Elon Musk’s ex, is taking on his AI empire</a>  Fortune",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+        },
+        {
+          "title": "The State-Led Crackdown on Grok and xAI Has Begun - WIRED",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzJ6LTk5bmhLX21HLTE1M0gyWDNvejFRS1NZc25ONnFSczAyNjljRjJjdUhNSklwQWl6TnlSdHRIS0xDcV90VEhBN3pCVDhkbFN5UWE3VGduTEt1QWh4bmdOOUpPUTJ1djZndDFrc0s0b3B6WG9IZnd5cmVETDJaWHYxR2o?oc=5",
+          "pubDate": "2026-01-27 18:35:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzJ6LTk5bmhLX21HLTE1M0gyWDNvejFRS1NZc25ONnFSczAyNjljRjJjdUhNSklwQWl6TnlSdHRIS0xDcV90VEhBN3pCVDhkbFN5UWE3VGduTEt1QWh4bmdOOUpPUTJ1djZndDFrc0s0b3B6WG9IZnd5cmVETDJaWHYxR2o?oc=5\" target=\"_blank\">The State-Led Crackdown on Grok and xAI Has Begun</a>  WIRED",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlzU01RbU9OWDF2NExCa2VBcTdWbXprMTlsalZYUnVONXF0QWtCeVFOazY4cGRmVGVSZWw0OFNsWGsxdlJuMUhvVHhZOFRMZU9YV1pkcVFxQTBHWWg5UlJVemFFcXJEUjZIMWtoekQtMVBWV09SVG5QdDk4VjJIR0JnMzd3ekQzVHV3ZGVmanRONU5GZUF2MHlXUUpfNDhWLTUtSmRRXzJ2UV9zcXFB?oc=5",
+          "pubDate": "2026-01-27 10:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlzU01RbU9OWDF2NExCa2VBcTdWbXprMTlsalZYUnVONXF0QWtCeVFOazY4cGRmVGVSZWw0OFNsWGsxdlJuMUhvVHhZOFRMZU9YV1pkcVFxQTBHWWg5UlJVemFFcXJEUjZIMWtoekQtMVBWV09SVG5QdDk4VjJIR0JnMzd3ekQzVHV3ZGVmanRONU5GZUF2MHlXUUpfNDhWLTUtSmRRXzJ2UV9zcXFB?oc=5\" target=\"_blank\">‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures</a>  TechCrunch",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+        },
+        {
+          "title": "Ashley St Clair, mother of Elon Musk's child, sues xAI over Grok deepfakes - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zU0FGRF9XalVabl9QUVZqZVRidFZxTDBnenY1SXFMMGhjNVJ5aENRaFVGM3JaWW9iYU5rZ0k3RG4zdGVxcXRqc2oyYzd1eFRYUlk2cU42N3lKZw?oc=5",
+          "pubDate": "2026-01-16 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zU0FGRF9XalVabl9QUVZqZVRidFZxTDBnenY1SXFMMGhjNVJ5aENRaFVGM3JaWW9iYU5rZ0k3RG4zdGVxcXRqc2oyYzd1eFRYUlk2cU42N3lKZw?oc=5\" target=\"_blank\">Ashley St Clair, mother of Elon Musk's child, sues xAI over Grok deepfakes</a>  BBC",
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+        }
+      ]
     }
   ]
 }
