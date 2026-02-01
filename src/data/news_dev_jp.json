@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-01T07:10:36.768Z",
+  "fetchedAt": "2026-02-01T13:24:41.192Z",
   "locale": "jp",
   "companies": [
     {
@@ -48,13 +48,6 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilotの旧メトリクスAPI、提供終了へ - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yV0Fzb2ZneFlyUFdYWDNRa0NPY0t6c0l1dHZuTUozMldTRFFRWkxfMVN0U1Y1YnVRbjQwaDZBWGY2QkxXREl4VU9mbWJfUQ?oc=5",
-          "pubDate": "2026-01-30 07:00:25",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yV0Fzb2ZneFlyUFdYWDNRa0NPY0t6c0l1dHZuTUozMldTRFFRWkxfMVN0U1Y1YnVRbjQwaDZBWGY2QkxXREl4VU9mbWJfUQ?oc=5\" target=\"_blank\">GitHub Copilotの旧メトリクスAPI、提供終了へ</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
-        },
-        {
           "title": "JetBrainsとZed、ACPレジストリを発表 ——GitHub Copilot CLIのACP対応もパブリックプレビューに - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXhCSUF0RWhfQlI3ZndIX1FhSkZ2M3lhMEhKbzQwTFdYQWxlMmVTQ3ZYSVl1OXJocDNiVG4xQTgyVmJ0amFvRHhwaDUyLXIyYUpkTU5pQWw?oc=5",
           "pubDate": "2026-01-29 06:23:00",
@@ -62,11 +55,18 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
+          "title": "GitHub CopilotのC++アプリモダナイゼーション支援機能、Microsoftがパブリックプレビュー公開 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcDhtVjA5ZEJSOHhWNGx1a0FsVXEzTU1aTDV1SDdaNDU5QmNMUG9nclRjdU85ZHhTbnByYzFxWWgyNDRYb0tNTnUzc0pvdw?oc=5",
+          "pubDate": "2026-01-29 01:00:39",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcDhtVjA5ZEJSOHhWNGx1a0FsVXEzTU1aTDV1SDdaNDU5QmNMUG9nclRjdU85ZHhTbnByYzFxWWgyNDRYb0tNTnUzc0pvdw?oc=5\" target=\"_blank\">GitHub CopilotのC++アプリモダナイゼーション支援機能、Microsoftがパブリックプレビュー公開</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
           "title": "GitHub Copilot CLIのエージェント機能をコードから自在に呼び出してAIエージェントアプリが作れる「GitHub Copilot SDK」テクニカルプレビュー公開 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFVZaHV5Sk9pUXZWVHgxRm1kS2NaVC03SlBUMWtYRkRYSFQ3SWh4aWVvVzFSaHl3V1ZXdUF6VHhBYnJ4UTlyTTVPTzlTY2xEVFRVR05ZTTZsUVZGc0szU19xX3V3TlVveDA1a0VEMGd2QjJUM2MyX000bXhlalp0QU9hUQ?oc=5",
           "pubDate": "2026-01-25 14:00:12",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFVZaHV5Sk9pUXZWVHgxRm1kS2NaVC03SlBUMWtYRkRYSFQ3SWh4aWVvVzFSaHl3V1ZXdUF6VHhBYnJ4UTlyTTVPTzlTY2xEVFRVR05ZTTZsUVZGc0szU19xX3V3TlVveDA1a0VEMGd2QjJUM2MyX000bXhlalp0QU9hUQ?oc=5\" target=\"_blank\">GitHub Copilot CLIのエージェント機能をコードから自在に呼び出してAIエージェントアプリが作れる「GitHub Copilot SDK」テクニカルプレビュー公開</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "GitHub Copilot SDKの発表 - The GitHub Blog",
@@ -80,7 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5",
           "pubDate": "2025-12-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzhNblJoUWRub1U3OXpyT0hmSElrbkxFRnkxZklPeHF3aDZEM05ybUwzaEowUTNQN2RPT0FFWW9Ya0dyaExZMmJhOER0Z3MyS0x5Nk5UaHY4ZnFHWUVfSE1HajVGZzh0OUg5WHFnbnQtc25MNWhwdHQ0blJXRTg4Ry1rVTh4eGYwM0hLbTJGS3c1WXFZS0xudmZ0c08?oc=5\" target=\"_blank\">GitHub Copilotを個人の道具からチームの脳へ 〜カスタムコマンド導入で開発工数を34%削減した話〜</a>  ソフトバンク",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -171,18 +171,11 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google Antigravityでエージェントファースト開発を始めよう 第2回 エージェントに指示してブックマーク管理アプリを作成する - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFdQRHZqNHVMSG1pRHJJWUNUVWEtWmI1YW5KR2JxNGkxcTdvYU5jNzRsOTVjeHhoOHRHbjR1WGpYQXlBRnBpYTBmTENYU0t4eUdzSHNoT1pzSnhvYlhLYk5WNG9QdWRTQVhHZmxEODdTVzBJRDNmSnQ0aFpqMUhrQtIBfEFVX3lxTE1Mc3dQaUpoNXl2a1IzUVNjWDRBRXFOVkYyYUdTTW1teVV6OE9WeGpremtnVmtVd3hxcnVUWFBsaFZuX3ZWcXdxZENvMjVPdlpwZmtuX3V5VTlXck9hRVdFbjV2WHNXQ0hlbzhlcW9VMllxZjItZFRGdVNaMTI?oc=5",
-          "pubDate": "2026-01-31 21:54:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFdQRHZqNHVMSG1pRHJJWUNUVWEtWmI1YW5KR2JxNGkxcTdvYU5jNzRsOTVjeHhoOHRHbjR1WGpYQXlBRnBpYTBmTENYU0t4eUdzSHNoT1pzSnhvYlhLYk5WNG9QdWRTQVhHZmxEODdTVzBJRDNmSnQ0aFpqMUhrQtIBfEFVX3lxTE1Mc3dQaUpoNXl2a1IzUVNjWDRBRXFOVkYyYUdTTW1teVV6OE9WeGpremtnVmtVd3hxcnVUWFBsaFZuX3ZWcXdxZENvMjVPdlpwZmtuX3V5VTlXck9hRVdFbjV2WHNXQ0hlbzhlcW9VMllxZjItZFRGdVNaMTI?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう 第2回 エージェントに指示してブックマーク管理アプリを作成する</a>  ｄメニューニュース",
+          "title": "Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5",
+          "pubDate": "2026-01-30 23:30:40",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する</a>  マイナビニュース",
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
-          "title": "Agent Factory のハイライト: Remik と学ぶ Antigravity と Nano Banana Pro - Google Cloud",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk8wMXBHbUVRajJuNm5vXzhEWTdNUF9wSlY2UW94QTMxY0t6NWozcHZkb3Z2WDc0eW42RFlnRkRyaHE4Uzh4azRRSE5lRVJvVUR1NEJwOTh4TURJWF96M28waGNqZlcyaloyR2J2YUVsTHNoUW0xOFpvcURkY3E0aGZwa0g0ZXdTcXNtWG5ORmtYbDVSNU14bVdRcWEwcDFzRV9jZFdDR1dRcEZrdGpPczljZjZyRjFaRnAzRWZGRFZSRktVMlE?oc=5",
-          "pubDate": "2026-01-29 01:18:17",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk8wMXBHbUVRajJuNm5vXzhEWTdNUF9wSlY2UW94QTMxY0t6NWozcHZkb3Z2WDc0eW42RFlnRkRyaHE4Uzh4azRRSE5lRVJvVUR1NEJwOTh4TURJWF96M28waGNqZlcyaloyR2J2YUVsTHNoUW0xOFpvcURkY3E0aGZwa0g0ZXdTcXNtWG5ORmtYbDVSNU14bVdRcWEwcDFzRV9jZFdDR1dRcEZrdGpPczljZjZyRjFaRnAzRWZGRFZSRktVMlE?oc=5\" target=\"_blank\">Agent Factory のハイライト: Remik と学ぶ Antigravity と Nano Banana Pro</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
@@ -190,6 +183,13 @@
           "pubDate": "2026-01-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5\" target=\"_blank\">無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+        },
+        {
+          "title": "Googleの開発用プラットフォーム「Antigravity」に“Agent Skills”登場 エージェントに作業手順を配布できるオープン標準 - Ledge.ai",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nZU1KLU12eDZLdmo1Q0lhRUktcUxFa01ybDA2VC1obUQwNVJacHE3akJLekRrdnNNN2ZCYXZRSG9PMFRnYjVoYzRDZ1ZNdHF5MkJlQXhPWUV0NVR0a0VMdVIyUHZSa1pJemZCR081RVNTQ0w1aEg4ZXpjOA?oc=5",
+          "pubDate": "2026-01-16 08:06:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9nZU1KLU12eDZLdmo1Q0lhRUktcUxFa01ybDA2VC1obUQwNVJacHE3akJLekRrdnNNN2ZCYXZRSG9PMFRnYjVoYzRDZ1ZNdHF5MkJlQXhPWUV0NVR0a0VMdVIyUHZSa1pJemZCR081RVNTQ0w1aEg4ZXpjOA?oc=5\" target=\"_blank\">Googleの開発用プラットフォーム「Antigravity」に“Agent Skills”登場 エージェントに作業手順を配布できるオープン標準</a>  Ledge.ai",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "Google Antigravityとは？使い方や料金をご紹介 - AIsmiley",
