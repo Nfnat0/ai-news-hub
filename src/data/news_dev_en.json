@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-02T10:12:23.671Z",
+  "fetchedAt": "2026-02-02T15:57:53.739Z",
   "locale": "en",
   "companies": [
     {
@@ -25,7 +25,7 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5",
           "pubDate": "2026-01-26 16:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5\" target=\"_blank\">How Cursor Actually Indexes Your Codebase</a>  Towards Data Science",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Cursor is better at marketing than coding - theregister.com",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5\" target=\"_blank\">Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         }
       ]
     },
@@ -103,13 +103,6 @@
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
-          "title": "Fake Clawdbot VS Code Extension Installs ScreenConnect RAT - Aikido Security",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xNTdQSGs2Q21QWkJWNlRiM3A5QkZ0SHZ4ZzlCXzJ2d2U1SWpEZzAtOVhVMnFPT3NVUGVGUFphc0xzZlo5enpQNlpBVngyX0NxSTFGTVlJVnJOV2VOcEI3U3JMd241SFVqOTdYZHJFQnNLT2kw?oc=5",
-          "pubDate": "2026-01-27 11:53:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1xNTdQSGs2Q21QWkJWNlRiM3A5QkZ0SHZ4ZzlCXzJ2d2U1SWpEZzAtOVhVMnFPT3NVUGVGUFphc0xzZlo5enpQNlpBVngyX0NxSTFGTVlJVnJOV2VOcEI3U3JMd241SFVqOTdYZHJFQnNLT2kw?oc=5\" target=\"_blank\">Fake Clawdbot VS Code Extension Installs ScreenConnect RAT</a>  Aikido Security",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
           "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code - The Hacker News",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG1kTGFVdkQ0OXpUQVFaVnNPVkY4b1RadmZrUi10R0h2LVJsU0w0clU3MXpZZUkxYy1xbGhoUnVpR1hkOVBuVFN4RHJRSEJvUmdmdXl6RG9ZaExJQ3d4YXg0TDRXbDUwUDlmblo5OU5YZ08xWlhzTW10RGZ2YkJIdnh1dk0?oc=5",
           "pubDate": "2026-01-26 15:43:00",
@@ -122,6 +115,13 @@
           "pubDate": "2026-01-23 20:11:58",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXN6a2hXNm1FRTV4OFdtUEc5dnZvTVd0dkpzaFRkUjlHV0RFaXlaZVVCanB2QUZRLUFFWEJ5Rmc0aWFHNWYxMmtMLWt1cVZhM3lDdEw5aWJ2clNUNWlEbWJtMDItVzhjRlJVZi1MTmhTLVptOXIzamxCbnp4Y1d2SVZuNVdWQUVjbk9xNGdQRWpBZXVDdlIzWWNpSzJfZlA3QnJTaGRXY2ZranlXWDhvblJCeVjSAboBQVVfeXFMTklXbkVHbHc0c0FyOWZGMmJMVDVDY2wxaFZWQVBIemo0SHhMUnpBNGtxMnJ6ejYzSTRGVGZWZXRGZTM3SlVnM1NvZzRyMXRiZm5PNUQwU3BkOGdyNzZ5Y3U3dkhOMWVZcTdhelBZUjliT284WHNBeUhiTGt1QTlMVTNjbzktZVBsanctd2VDTGYyQU5sVGNsanhadDZSck9XeHZJcXpWVEx2RGVqTWdGb1MxSTVaWS1GSjlB?oc=5\" target=\"_blank\">Malicious AI extensions on VSCode Marketplace steal developer data</a>  BleepingComputer",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+        },
+        {
+          "title": "Copilot Studio Extension for Visual Studio Code Is Now Generally Available - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFAxQ2VORVJSTzNPcENaOUpab1oya08ySDA0bnNNbHgwR1VSdzZmWDFIeVB0bExTaGwzNUFuaU9kZGhOdkdaT2I4QW4tejNBZ1FXelhpVWo5NHM5ZGZvaDRfZWxaTmZEWmlmWDBEM3BCbU9xdHpVOEZtbTFtZGpYZVdRc2ZWbk5neDlNSk5wQUVHLXZuZlRjeEkzZmFxbU5YUjc5cHR4Q1VoMGt0T1BIV2pNNWwwV1RlM1NGS0hWZVI2djZoa2c2MjdOYUhNTjQ1QmhVYw?oc=5",
+          "pubDate": "2026-01-20 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFAxQ2VORVJSTzNPcENaOUpab1oya08ySDA0bnNNbHgwR1VSdzZmWDFIeVB0bExTaGwzNUFuaU9kZGhOdkdaT2I4QW4tejNBZ1FXelhpVWo5NHM5ZGZvaDRfZWxaTmZEWmlmWDBEM3BCbU9xdHpVOEZtbTFtZGpYZVdRc2ZWbk5neDlNSk5wQUVHLXZuZlRjeEkzZmFxbU5YUjc5cHR4Q1VoMGt0T1BIV2pNNWwwV1RlM1NGS0hWZVI2djZoa2c2MjdOYUhNTjQ1QmhVYw?oc=5\" target=\"_blank\">Copilot Studio Extension for Visual Studio Code Is Now Generally Available</a>  Microsoft",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
