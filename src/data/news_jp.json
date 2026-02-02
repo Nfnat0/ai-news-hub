@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-01T18:17:26.425Z",
+  "fetchedAt": "2026-02-02T00:58:54.746Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "グーグル、Chromeに最新AI「Gemini 3」を統合、サイドパネルからNano Bananaも利用可能に - ビジネス+IT",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mb1pxZXViUFQ5LUdsdlNHV0tSUzI0Vnd6WnNXcDg5elJrbU9DU3VmUVo4Vk9jRVphUzJPWDUxWENib213TGlCMk9TOVh5Q1FmX09v?oc=5",
-          "pubDate": "2026-01-30 23:02:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mb1pxZXViUFQ5LUdsdlNHV0tSUzI0Vnd6WnNXcDg5elJrbU9DU3VmUVo4Vk9jRVphUzJPWDUxWENib213TGlCMk9TOVh5Q1FmX09v?oc=5\" target=\"_blank\">グーグル、Chromeに最新AI「Gemini 3」を統合、サイドパネルからNano Bananaも利用可能に</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "title": "【保存版】Nano Banana Proが優秀すぎる…日本語が崩れない“神プロンプト”10選 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tanlENENQYllGYWowS3F4TWVEWXJBR3BheTVDTFFPRnJkYk9acjRVMm1Jc0ZUZXhCeWpleDB4dnFEdHBnLXFXbU5McUNBdVViS0Z3?oc=5",
+          "pubDate": "2026-02-01 22:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tanlENENQYllGYWowS3F4TWVEWXJBR3BheTVDTFFPRnJkYk9acjRVMm1Jc0ZUZXhCeWpleDB4dnFEdHBnLXFXbU5McUNBdVViS0Z3?oc=5\" target=\"_blank\">【保存版】Nano Banana Proが優秀すぎる…日本語が崩れない“神プロンプト”10選 連載：きょうから使える生成AI仕事術</a>  ビジネス+IT",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
+          "title": "AIサービス利用実態調査、ChatGPTとGeminiの評価は - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nRlg2UF9vQTU4RUVUUHBTVWhSWW40Znc5NXFKREJHSkdtYy01Y3FQT01EaG9qSV9sbjJ1aWVadGlmUEdpMXlBSzYwUjY2ZkhhN1V0Z3Ezbkc0M1gxaDFKRExMbjM5Y3RQcXhhVA?oc=5",
+          "pubDate": "2026-02-01 20:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9nRlg2UF9vQTU4RUVUUHBTVWhSWW40Znc5NXFKREJHSkdtYy01Y3FQT01EaG9qSV9sbjJ1aWVadGlmUEdpMXlBSzYwUjY2ZkhhN1V0Z3Ezbkc0M1gxaDFKRExMbjM5Y3RQcXhhVA?oc=5\" target=\"_blank\">AIサービス利用実態調査、ChatGPTとGeminiの評価は</a>  日経クロステック",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        },
+        {
+          "title": "【2026年最新】NotebookLMとは？機能一覧や使い方、料金まで徹底解説 - 株式会社SHIFT AI",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wUmgwYmhTNnl2dGNWMnhoblp1VEhGem5sWV9ma3dTeElnTmlhUUhhVTFYVld5WDBEbzhnODR6TTZFZ2FKQzJoVmRR?oc=5",
+          "pubDate": "2026-01-30 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wUmgwYmhTNnl2dGNWMnhoblp1VEhGem5sWV9ma3dTeElnTmlhUUhhVTFYVld5WDBEbzhnODR6TTZFZ2FKQzJoVmRR?oc=5\" target=\"_blank\">【2026年最新】NotebookLMとは？機能一覧や使い方、料金まで徹底解説</a>  株式会社SHIFT AI",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど - Impress Watch",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNjJIeUtSdnQ4d0YxcDRhSXlpX1JwOThNenUtVUhYR0NtZ2RpLUtwVXVvSlBPX3pxTnpBSmlBemdsNGN1LUp4RlRoNjM3eGRfVmlCb2VhcDlnMmNxRW5pb0pfeVE?oc=5",
           "pubDate": "2026-01-29 02:24:58",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNjJIeUtSdnQ4d0YxcDRhSXlpX1JwOThNenUtVUhYR0NtZ2RpLUtwVXVvSlBPX3pxTnpBSmlBemdsNGN1LUp4RlRoNjM3eGRfVmlCb2VhcDlnMmNxRW5pb0pfeVE?oc=5\" target=\"_blank\">グーグル、Gemini 3搭載の新Chrome サイドパネルや自動ブラウズなど</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Google、ChromeブラウザもGemini3に サイドパネルUIでNano Bananaも統合 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50ZjNYdTA3dmVTMndqTWIzMHVPa2RFNWd1TURSa2R4amZLbFctTlZMbHBFZmZiN3JoRHdhVms0QXNsVjNWd3Y2TlNSQm9hdmI3SC1QdGxya25ackprT0lSLTAwa2tDajZfcEJudHowaw?oc=5",
-          "pubDate": "2026-01-28 23:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE50ZjNYdTA3dmVTMndqTWIzMHVPa2RFNWd1TURSa2R4amZLbFctTlZMbHBFZmZiN3JoRHdhVms0QXNsVjNWd3Y2TlNSQm9hdmI3SC1QdGxya25ackprT0lSLTAwa2tDajZfcEJudHowaw?oc=5\" target=\"_blank\">Google、ChromeブラウザもGemini3に サイドパネルUIでNano Bananaも統合</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
-        },
-        {
-          "title": "グーグルがAIサブスク「Google AI Plus」日本でも提供開始 Geminiが月額1,200円で利用可能に（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4M1ZqQW5BeGI5dTBaRURnaklRUDZrMjE2Y29JamdjSk5vVnV6akZiNS1LRTlMX0VXNkRuZUJkTDBEM0dKczhaS0NCd1ZkZ3NlOVN4allwYmxibndsZ0poY0R0LXFUY2s4UFJjYTR1anZ3emEwSmRIT2x4dHlpc1k?oc=5",
-          "pubDate": "2026-01-28 12:30:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB4M1ZqQW5BeGI5dTBaRURnaklRUDZrMjE2Y29JamdjSk5vVnV6akZiNS1LRTlMX0VXNkRuZUJkTDBEM0dKczhaS0NCd1ZkZ3NlOVN4allwYmxibndsZ0poY0R0LXFUY2s4UFJjYTR1anZ3emEwSmRIT2x4dHlpc1k?oc=5\" target=\"_blank\">グーグルがAIサブスク「Google AI Plus」日本でも提供開始 Geminiが月額1,200円で利用可能に（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Google AI Plus を提供開始 - blog.google",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4WjRIdGJfQzNaN1FvWEJRamg3MjctVGpiNUlSVmVITzdnVF9yU2pmaHloZmpkOG85c0ViNUNKV1o5dlZIdkl0bHMtbVFfS3BQakdMY3Q3RVdaaHRwWWd5Z2dKZDU1VVExYmlJbEZfTGxkRkdJejdrOXVR?oc=5",
           "pubDate": "2026-01-28 03:52:43",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB4WjRIdGJfQzNaN1FvWEJRamg3MjctVGpiNUlSVmVITzdnVF9yU2pmaHloZmpkOG85c0ViNUNKV1o5dlZIdkl0bHMtbVFfS3BQakdMY3Q3RVdaaHRwWWd5Z2dKZDU1VVExYmlJbEZfTGxkRkdJejdrOXVR?oc=5\" target=\"_blank\">Google AI Plus を提供開始</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         }
       ]
     },
@@ -48,17 +48,24 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "ChatGPTが日本円・税込表示に変更。Proは数千円値下げも、既存契約は解約→再契約が必要 - 携帯総合研究所",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XTU9WQjRsRVA4ZFlWQXVkQXR0R21XLXNkV1UxYkZpczAyZDJwZU5qUUFHTUpFdWk3R0xjTFFKOEs0TWxFOXlSMTFNbFI2cnkyWlBYZnNlNHExSTQzWnQwcHhXaVBrUkZuQXp2c0ZiMkE?oc=5",
-          "pubDate": "2026-01-31 03:00:50",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9XTU9WQjRsRVA4ZFlWQXVkQXR0R21XLXNkV1UxYkZpczAyZDJwZU5qUUFHTUpFdWk3R0xjTFFKOEs0TWxFOXlSMTFNbFI2cnkyWlBYZnNlNHExSTQzWnQwcHhXaVBrUkZuQXp2c0ZiMkE?oc=5\" target=\"_blank\">ChatGPTが日本円・税込表示に変更。Proは数千円値下げも、既存契約は解約→再契約が必要</a>  携帯総合研究所",
+          "title": "OpenAI、「GPT-4o」などの提供を終了へ--ユーザーへの影響は？ - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EZ1RKeWxzblBfMTNaMy1SQWt3X3hFbnl1MGpZRlFpZklfajZwWk80OENISnM2VnpFNzc3WkptaW5Od1BpWG9zZDRkclNVVjVMSFVn?oc=5",
+          "pubDate": "2026-02-02 00:47:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EZ1RKeWxzblBfMTNaMy1SQWt3X3hFbnl1MGpZRlFpZklfajZwWk80OENISnM2VnpFNzc3WkptaW5Od1BpWG9zZDRkclNVVjVMSFVn?oc=5\" target=\"_blank\">OpenAI、「GPT-4o」などの提供を終了へ--ユーザーへの影響は？</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "ChatGPT広告の最低契約金額は20万ドルだがそれ以下の提示もありか - ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQV1czLW44cTZaZVhkUHVxZlM4c3VMUG5UeXd5RWFOQUVQWE5qOUFiMGNuWFk4S0lkdWJNQmVmam5LUmtlWnhjRzRrSTVKdGlpblVEMHo4a1VQUVRzTTBr?oc=5",
+          "pubDate": "2026-02-01 13:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQV1czLW44cTZaZVhkUHVxZlM4c3VMUG5UeXd5RWFOQUVQWE5qOUFiMGNuWFk4S0lkdWJNQmVmam5LUmtlWnhjRzRrSTVKdGlpblVEMHo4a1VQUVRzTTBr?oc=5\" target=\"_blank\">ChatGPT広告の最低契約金額は20万ドルだがそれ以下の提示もありか</a>  ライブドアニュース",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
-          "title": "ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま（ITmedia NEWS） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzdlYxMVZIcXZ2c3Q3dUhHdHZiSFhJdDNvOEowMWNHN2x1UGRvY2RzcEhpaDFpYU5Mel9wLVRIcUNrUUlLSWtIcTJIcENSdTQza3JyNFdXSmpGanh6aTIzZ0ZjSGVMNGhMeXNRZnVGN2RjdUNSTmR1czdJN0E0VWM?oc=5",
-          "pubDate": "2026-01-30 07:07:16",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzdlYxMVZIcXZ2c3Q3dUhHdHZiSFhJdDNvOEowMWNHN2x1UGRvY2RzcEhpaDFpYU5Mel9wLVRIcUNrUUlLSWtIcTJIcENSdTQza3JyNFdXSmpGanh6aTIzZ0ZjSGVMNGhMeXNRZnVGN2RjdUNSTmR1czdJN0E0VWM?oc=5\" target=\"_blank\">ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま（ITmedia NEWS）</a>  Yahoo!ニュース",
+          "title": "ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VLUJRNWw0RDBreEYxNHZSanpCMHlZS1I1ekZjRXpEVzlDa3NQQ0p6am9icThVR1l1cklKV01RMWJlM3EyZ2RQYVc4S093VnBDX1drT19yVE9LeW5kUGlEeTFwMVkyWm0tN2VYbXhQUQ?oc=5",
+          "pubDate": "2026-01-30 07:05:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5VLUJRNWw0RDBreEYxNHZSanpCMHlZS1I1ekZjRXpEVzlDa3NQQ0p6am9icThVR1l1cklKV01RMWJlM3EyZ2RQYVc4S093VnBDX1drT19yVE9LeW5kUGlEeTFwMVkyWm0tN2VYbXhQUQ?oc=5\" target=\"_blank\">ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
@@ -66,21 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXZDTlVBcGNFX0VFLW8xdGM0blRmdURzdXhJVlRKX0tiTzFMd3hNMHd2MldnSjRmNFZENThCRFY3V2VzTUFCd0lsaFltaEhzcFlDcFFHUHpOZ2lfSFJPM3ltZDc?oc=5",
           "pubDate": "2026-01-30 05:06:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMXZDTlVBcGNFX0VFLW8xdGM0blRmdURzdXhJVlRKX0tiTzFMd3hNMHd2MldnSjRmNFZENThCRFY3V2VzTUFCd0lsaFltaEhzcFlDcFFHUHpOZ2lfSFJPM3ltZDc?oc=5\" target=\"_blank\">「さよならGPT-4o」 2月13日にChatGPTで提供終了 APIは継続</a>  Impress Watch",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
-        },
-        {
-          "title": "OpenAI、「GPT-4o」など旧モデルの提供を2月13日に終了へ - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VOGlMM3h3cThJTHplVFFrVmNoQlgtWjhwY0FraGtlOWVNbllqemh2dGMxYkYxR2k1NFFtRzg0clEzbDFYYl9FbDZ2M3gxSEdudHRaRGlENTR5WTNNeWJpVFV0cC1fUVRoV2NJbml1VQ?oc=5",
-          "pubDate": "2026-01-30 02:40:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1VOGlMM3h3cThJTHplVFFrVmNoQlgtWjhwY0FraGtlOWVNbllqemh2dGMxYkYxR2k1NFFtRzg0clEzbDFYYl9FbDZ2M3gxSEdudHRaRGlENTR5WTNNeWJpVFV0cC1fUVRoV2NJbml1VQ?oc=5\" target=\"_blank\">OpenAI、「GPT-4o」など旧モデルの提供を2月13日に終了へ</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
-        },
-        {
-          "title": "ついにChatGPTで「GPT-4o」や「GPT-4.1」が使用不能に - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRGMwSkladDlaTUdIUlZqV0ZyVk5leE9nMl9GRHRzMDZsYlkzV2I0aTd6bksyU0I2Vm5qN3BRakQ4emY5MzEyY2ZQWVZUa1R6SUxHZjNaeTZqRVJWTEw2RkRRTFRxUzNtOUlN?oc=5",
-          "pubDate": "2026-01-30 01:33:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRGMwSkladDlaTUdIUlZqV0ZyVk5leE9nMl9GRHRzMDZsYlkzV2I0aTd6bksyU0I2Vm5qN3BRakQ4emY5MzEyY2ZQWVZUa1R6SUxHZjNaeTZqRVJWTEw2RkRRTFRxUzNtOUlN?oc=5\" target=\"_blank\">ついにChatGPTで「GPT-4o」や「GPT-4.1」が使用不能に</a>  GIGAZINE",
           "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "ChatGPT「GPT-4o」廃止へ 「わずか0.1%のユーザーしか選択しないため」（アスキー） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15S3dlMzROVWlWcjNrUnJ6SXlZVElfeVlqdlcyTHhhX2VPbzk1Y25IelVwUFlBYlQwamFPWGVaU0FSSkF1aGx4UkxpLXBhVU56MDBfbXZvdGU4MW5tUkRvY3g1ZTRSb3AxV0xoalpNeFJBX3ExY3p1cUtyZHlJQ1U?oc=5",
+          "pubDate": "2026-01-30 04:10:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE15S3dlMzROVWlWcjNrUnJ6SXlZVElfeVlqdlcyTHhhX2VPbzk1Y25IelVwUFlBYlQwamFPWGVaU0FSSkF1aGx4UkxpLXBhVU56MDBfbXZvdGU4MW5tUkRvY3g1ZTRSb3AxV0xoalpNeFJBX3ExY3p1cUtyZHlJQ1U?oc=5\" target=\"_blank\">ChatGPT「GPT-4o」廃止へ 「わずか0.1%のユーザーしか選択しないため」（アスキー）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "title": "名古屋市、職員400名超に対して自治体DXを加速させる「Copilot・AI推進プログラム」を実施 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTTVabGJHOTlJQnNXTTA1S2g0Z3FTQ1ZfM2xqQ2NKVlQwel9reUlYQWl1Tlp5Qmt6clFHZ2VLQU1yRkVhZ3hoUU8zRjhlZU9nQlFUQkF0Z18yT0pTWHZQaWFBLUhaeTJMcnc?oc=5",
-          "pubDate": "2026-01-20 22:00:01",
+          "pubDate": "2026-01-21 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTTVabGJHOTlJQnNXTTA1S2g0Z3FTQ1ZfM2xqQ2NKVlQwel9reUlYQWl1Tlp5Qmt6clFHZ2VLQU1yRkVhZ3hoUU8zRjhlZU9nQlFUQkF0Z18yT0pTWHZQaWFBLUhaeTJMcnc?oc=5\" target=\"_blank\">名古屋市、職員400名超に対して自治体DXを加速させる「Copilot・AI推進プログラム」を実施</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
@@ -130,11 +130,11 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "Claudeの「Agent Skills」がMCPと同様、オープン標準に どんな便利スキルがある？ - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoUWxXSV90MU9VT2gtR1VrdVVPNDJUM0xLa3VESkZ6WTdOWVNncllMcjhQbEhTVkNGam9pUk9qWnI3V3V2Nk8xTHBSMElrbkp2UFl5R2JLUVdHcll2RlRrOFI5Z3dqTWttY1loWEd4SHoxUQ?oc=5",
-          "pubDate": "2026-01-29 04:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBoUWxXSV90MU9VT2gtR1VrdVVPNDJUM0xLa3VESkZ6WTdOWVNncllMcjhQbEhTVkNGam9pUk9qWnI3V3V2Nk8xTHBSMElrbkp2UFl5R2JLUVdHcll2RlRrOFI5Z3dqTWttY1loWEd4SHoxUQ?oc=5\" target=\"_blank\">Claudeの「Agent Skills」がMCPと同様、オープン標準に どんな便利スキルがある？</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "title": "「AIに頼るとスキルが向上しない」という言説の実態をAnthropicが調査 - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aZFQtNkFSQXJwODNscHlQeGFobEFTYVpCTG53QjJSN29YNDR1MFd0WlpmTi04VEs3VmdCOHFfNWIwM3JycFU3OUJoMUhFNE5ISkt0a1JmQmdJamdtU0ZwZEItVU5RVW9G?oc=5",
+          "pubDate": "2026-02-01 21:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aZFQtNkFSQXJwODNscHlQeGFobEFTYVpCTG53QjJSN29YNDR1MFd0WlpmTi04VEs3VmdCOHFfNWIwM3JycFU3OUJoMUhFNE5ISkt0a1JmQmdJamdtU0ZwZEItVU5RVW9G?oc=5\" target=\"_blank\">「AIに頼るとスキルが向上しない」という言説の実態をAnthropicが調査</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "AIネイティブ開発が評価されAnthropic社『Claude Code』先進活用事例に選出 - 株式会社マネーフォワード",
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZGFySFYxODY1dDFnYTZxSnVORTA4RnBvSjI2c1hVb043TzVuVHpaUEtQbDBMRFFmb094WW5zV3B2bnRCa2VfcWltREVWa012bW9Nc3JXVUFlWlJxRUhWMTUtX0hOcG5FMERJ?oc=5",
           "pubDate": "2026-01-26 23:58:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZGFySFYxODY1dDFnYTZxSnVORTA4RnBvSjI2c1hVb043TzVuVHpaUEtQbDBMRFFmb094WW5zV3B2bnRCa2VfcWltREVWa012bW9Nc3JXVUFlWlJxRUhWMTUtX0hOcG5FMERJ?oc=5\" target=\"_blank\">知っているようで知らないCLAUDE.mdを深掘りする</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
     },
@@ -219,18 +219,11 @@
           "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
-          "title": "Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表 - 知財図鑑",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iaFNhZ3dYQ0xsampwY3pLWGRpeVNBZnlFc2JVTFR5bXYwejF3Q0xWeHJxVDZ5OUFTSUJ6cWxVMEdZWXlsaVB6dU1waGJRRFFJS3Naek4tZnh6NHVsZFNlM3hB?oc=5",
-          "pubDate": "2026-01-22 08:53:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iaFNhZ3dYQ0xsampwY3pLWGRpeVNBZnlFc2JVTFR5bXYwejF3Q0xWeHJxVDZ5OUFTSUJ6cWxVMEdZWXlsaVB6dU1waGJRRFFJS3Naek4tZnh6NHVsZFNlM3hB?oc=5\" target=\"_blank\">Meta、AIグラス「Meta Ray-Ban Display」の最新アップデート情報を発表</a>  知財図鑑",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
-        },
-        {
           "title": "LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート - リコーグループ",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5",
           "pubDate": "2025-12-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5\" target=\"_blank\">LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート</a>  リコーグループ",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "Meta、AIアシスタント「Meta AI」日本で段階的に提供開始 - AIsmiley",
@@ -245,6 +238,13 @@
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
+          "title": "Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5",
+          "pubDate": "2025-09-24 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5\" target=\"_blank\">Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
