@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-02T12:28:24.212Z",
+  "fetchedAt": "2026-02-02T18:25:48.569Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,25 +7,32 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "【3年前】Geminiはかつて〇〇と呼ばれていた - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hS19vTllxVjF2Qk9SMnRmMUVPOTdudlc0VVQ0SHJzX3ZuQXZ5YUxWYUN1VWdiR0VPUllpclFEeFZxVktNelNWMk9XdWpkbmh1SGhmbVZFaHJSSnQ4a3I5alNWTHhNZw?oc=5",
-          "pubDate": "2026-02-02 05:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hS19vTllxVjF2Qk9SMnRmMUVPOTdudlc0VVQ0SHJzX3ZuQXZ5YUxWYUN1VWdiR0VPUllpclFEeFZxVktNelNWMk9XdWpkbmh1SGhmbVZFaHJSSnQ4a3I5alNWTHhNZw?oc=5\" target=\"_blank\">【3年前】Geminiはかつて〇〇と呼ばれていた</a>  ギズモード・ジャパン",
+          "title": "Gemini×勉強術：毎日20時に問題をつくって送ってもらおう - ライフハッカー・ジャパン",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1AwbWZNQUxYdTY2b1VOcGNsWlBQazRqdy1pRmdRaDJFaHJ2d0MtcFBmaE1vT3h1aF80aE00Y2pvWDk4RUJ4aDlyZm9PeHAxMXY3eW0wZzU4dTlJTW5tQUxUU05pUVgteEVHbzJNLV9Cc0lmcUM3aUJOVzQzaVBMeFJodHNOQWMzakN5RHBPR185UENuX2UwRFhybnVoLV94TVRr?oc=5",
+          "pubDate": "2026-02-02 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1AwbWZNQUxYdTY2b1VOcGNsWlBQazRqdy1pRmdRaDJFaHJ2d0MtcFBmaE1vT3h1aF80aE00Y2pvWDk4RUJ4aDlyZm9PeHAxMXY3eW0wZzU4dTlJTW5tQUxUU05pUVgteEVHbzJNLV9Cc0lmcUM3aUJOVzQzaVBMeFJodHNOQWMzakN5RHBPR185UENuX2UwRFhybnVoLV94TVRr?oc=5\" target=\"_blank\">Gemini×勉強術：毎日20時に問題をつくって送ってもらおう</a>  ライフハッカー・ジャパン",
           "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
-          "title": "「使えない」とあきらめない、NotebookLM作成スライドを実務レベルに引き上げる3つの秘策 - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrM2hwc1E2TElxbW1lTmlvQzA2UXVaM2Z2Vm0yaEFzV0dPTy1xTHFDaTA1VU0wTDI1SmdMeFhxcGhsVjE5V3M1N1M4Z3IxbTM1ZHdRRg?oc=5",
-          "pubDate": "2026-02-02 03:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrM2hwc1E2TElxbW1lTmlvQzA2UXVaM2Z2Vm0yaEFzV0dPTy1xTHFDaTA1VU0wTDI1SmdMeFhxcGhsVjE5V3M1N1M4Z3IxbTM1ZHdRRg?oc=5\" target=\"_blank\">「使えない」とあきらめない、NotebookLM作成スライドを実務レベルに引き上げる3つの秘策</a>  ASCII.jp",
+          "title": "Google AI Plusの機能・料金を徹底解説！Proとの違いやビジネス活用法、競合比較まで - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vSUtIdU9JVTRKQU5ET2l2RVpzZFVtUENUOG1BWFY3aUFkTHJ1b3VGUXlYQ2FlbTd3Qklkb2xJQ0U2eG5OMnFGbWhvTGsxVEQxSzNudnpaeUlIeU9hQWQ4eEJwdw?oc=5",
+          "pubDate": "2026-02-02 09:11:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vSUtIdU9JVTRKQU5ET2l2RVpzZFVtUENUOG1BWFY3aUFkTHJ1b3VGUXlYQ2FlbTd3Qklkb2xJQ0U2eG5OMnFGbWhvTGsxVEQxSzNudnpaeUlIeU9hQWQ4eEJwdw?oc=5\" target=\"_blank\">Google AI Plusの機能・料金を徹底解説！Proとの違いやビジネス活用法、競合比較まで</a>  AIsmiley",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
-          "title": "車限定だった「Geminiナビ」が徒歩・自転車にも拡大──Google マップで利用可能に - Ledge.ai",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBveFRIeEdXNG5NQ29HY1U5SjEtWXFhZW10X1U4NWI1TDNSZ0JaRk5mZTlrekNzclA3ek01VXZjU3lib0JFVXpyLVhHVkdYeC1HY2FPU0d0NldSTVZVVmJKWFJfaHFLcG40b09jbEx1TTBJenZjZTM0bXI4WQ?oc=5",
-          "pubDate": "2026-02-02 01:58:16",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBveFRIeEdXNG5NQ29HY1U5SjEtWXFhZW10X1U4NWI1TDNSZ0JaRk5mZTlrekNzclA3ek01VXZjU3lib0JFVXpyLVhHVkdYeC1HY2FPU0d0NldSTVZVVmJKWFJfaHFLcG40b09jbEx1TTBJenZjZTM0bXI4WQ?oc=5\" target=\"_blank\">車限定だった「Geminiナビ」が徒歩・自転車にも拡大──Google マップで利用可能に</a>  Ledge.ai",
+          "title": "BigQuery AI: Gemini 3.0 対応、エンベディング生成の簡素化、新しい類似度関数 - Google Cloud",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDVfNFFNb056Tzk4WmlDYmtXNFc1ZEpteG1feVJrYjZWREw2OGhla3lzVkd6eThjb0ZHY291VzZKdlZEcW1fazdQbGJjTkljcmhIM2FCaXJ5Wk1lOG5hSmtoVkx6VFBLMVFtTHhjSjJqdi1TTDFVVDg4NVVoS3QwRHJaVVh0blhTcElVTWtOd2M5RUZqcjNiS00xRTJta2c1eUo0UTNEV1FJQWRoTVRZWA?oc=5",
+          "pubDate": "2026-02-02 07:58:43",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDVfNFFNb056Tzk4WmlDYmtXNFc1ZEpteG1feVJrYjZWREw2OGhla3lzVkd6eThjb0ZHY291VzZKdlZEcW1fazdQbGJjTkljcmhIM2FCaXJ5Wk1lOG5hSmtoVkx6VFBLMVFtTHhjSjJqdi1TTDFVVDg4NVVoS3QwRHJaVVh0blhTcElVTWtOd2M5RUZqcjNiS00xRTJta2c1eUo0UTNEV1FJQWRoTVRZWA?oc=5\" target=\"_blank\">BigQuery AI: Gemini 3.0 対応、エンベディング生成の簡素化、新しい類似度関数</a>  Google Cloud",
           "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        },
+        {
+          "title": "AIが勝手にメッセージ送信？…Geminiの“誤爆”体験談が韓国のネットで炎上中（KOREA WAVE） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZWpCZGZQTDMtYjZ2M1Z1aXVpMjFYZVhvaEtJNjR0YjFxR21xYmxhM2NFOHVPdTlEU010bkE3X0ZIUDRQS1E1ZGh6aTROWEJ2NVR0RzhEZUxuc0pDU2xtU1o2LVJ4QjJIVE44TG9RVzBtd3p2X0ZCcEZQZDNQVmM?oc=5",
+          "pubDate": "2026-02-02 02:54:14",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZWpCZGZQTDMtYjZ2M1Z1aXVpMjFYZVhvaEtJNjR0YjFxR21xYmxhM2NFOHVPdTlEU010bkE3X0ZIUDRQS1E1ZGh6aTROWEJ2NVR0RzhEZUxuc0pDU2xtU1o2LVJ4QjJIVE44TG9RVzBtd3p2X0ZCcEZQZDNQVmM?oc=5\" target=\"_blank\">AIが勝手にメッセージ送信？…Geminiの“誤爆”体験談が韓国のネットで炎上中（KOREA WAVE）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "【保存版】Nano Banana Proが優秀すぎる…日本語が崩れない“神プロンプト”10選 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
@@ -33,13 +40,6 @@
           "pubDate": "2026-02-01 22:10:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tanlENENQYllGYWowS3F4TWVEWXJBR3BheTVDTFFPRnJkYk9acjRVMm1Jc0ZUZXhCeWpleDB4dnFEdHBnLXFXbU5McUNBdVViS0Z3?oc=5\" target=\"_blank\">【保存版】Nano Banana Proが優秀すぎる…日本語が崩れない“神プロンプト”10選 連載：きょうから使える生成AI仕事術</a>  ビジネス+IT",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "AIサービス利用実態調査、ChatGPTとGeminiの評価は - 日経クロステック",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nRlg2UF9vQTU4RUVUUHBTVWhSWW40Znc5NXFKREJHSkdtYy01Y3FQT01EaG9qSV9sbjJ1aWVadGlmUEdpMXlBSzYwUjY2ZkhhN1V0Z3Ezbkc0M1gxaDFKRExMbjM5Y3RQcXhhVA?oc=5",
-          "pubDate": "2026-02-01 20:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9nRlg2UF9vQTU4RUVUUHBTVWhSWW40Znc5NXFKREJHSkdtYy01Y3FQT01EaG9qSV9sbjJ1aWVadGlmUEdpMXlBSzYwUjY2ZkhhN1V0Z3Ezbkc0M1gxaDFKRExMbjM5Y3RQcXhhVA?oc=5\" target=\"_blank\">AIサービス利用実態調査、ChatGPTとGeminiの評価は</a>  日経クロステック",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
+          "title": "OpenAIはChatGPTの広告掲出をさっそくテストするべくアプリをアップデートしている - ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSX29wM0VkNDRwd2VJU0MxdGdXT1Awd0RTUThXY2tkM0lUWmc2RF9POVA3bEFhd1dyWW9JMEdEWEFDWG1TVU9Yb0FQMEFSc19sZ3ZPMk9BMWVCb01KZHpR?oc=5",
+          "pubDate": "2026-02-02 10:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSX29wM0VkNDRwd2VJU0MxdGdXT1Awd0RTUThXY2tkM0lUWmc2RF9POVA3bEFhd1dyWW9JMEdEWEFDWG1TVU9Yb0FQMEFSc19sZ3ZPMk9BMWVCb01KZHpR?oc=5\" target=\"_blank\">OpenAIはChatGPTの広告掲出をさっそくテストするべくアプリをアップデートしている</a>  ライブドアニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
           "title": "OpenAI、「GPT-4o」などの提供を終了へ--ユーザーへの影響は？ - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRjA3dVRKYWJfOTA2TEJlUVhNRGZ0d0liN29HeWlCMjBZQXhNWTZ6eFh6MFduc3dkaEV3U050eUdPSVNVa3NkbkRQYU11X0ZUZGtYYzRkU0RxZno0eHpZZGdlWUgtcHBHTk12di1PYVB5M0RtNXJwb29WTnNvalU?oc=5",
           "pubDate": "2026-02-02 00:47:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRjA3dVRKYWJfOTA2TEJlUVhNRGZ0d0liN29HeWlCMjBZQXhNWTZ6eFh6MFduc3dkaEV3U050eUdPSVNVa3NkbkRQYU11X0ZUZGtYYzRkU0RxZno0eHpZZGdlWUgtcHBHTk12di1PYVB5M0RtNXJwb29WTnNvalU?oc=5\" target=\"_blank\">OpenAI、「GPT-4o」などの提供を終了へ--ユーザーへの影響は？</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "ChatGPT広告の最低契約金額は20万ドルだがそれ以下の提示もありか - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EM2pPZms0MS1aMHlLVXljYXZIQzZVbzU3MEZwcmVqTEpHdm1naENoQWNEaEpiZVJRSmVzTFFpdzltMzg4U0szLW5neC1tdEEzeEs0UzhCdXB1Y2h6VDM5X0lyckJjb1R6dkZXb1NmcmF5aXhm?oc=5",
+          "pubDate": "2026-02-01 13:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1EM2pPZms0MS1aMHlLVXljYXZIQzZVbzU3MEZwcmVqTEpHdm1naENoQWNEaEpiZVJRSmVzTFFpdzltMzg4U0szLW5neC1tdEEzeEs0UzhCdXB1Y2h6VDM5X0lyckJjb1R6dkZXb1NmcmF5aXhm?oc=5\" target=\"_blank\">ChatGPT広告の最低契約金額は20万ドルだがそれ以下の提示もありか</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "「ChatGPT」の価格が日本円建てに Plusは3000円、Proは3万円 わかりやすく - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MW9ObVd5Yk1mSlJfM3plM3V6VF9xMk9JV09DTkVPYWwzRWJaSnl6b2NrUUM1c290c1VFQVQtZVVEMGV4cFJBQTZLZWozWmF6d0E?oc=5",
           "pubDate": "2026-01-30 20:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MW9ObVd5Yk1mSlJfM3plM3V6VF9xMk9JV09DTkVPYWwzRWJaSnl6b2NrUUM1c290c1VFQVQtZVVEMGV4cFJBQTZLZWozWmF6d0E?oc=5\" target=\"_blank\">「ChatGPT」の価格が日本円建てに Plusは3000円、Proは3万円 わかりやすく</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
           "title": "ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VLUJRNWw0RDBreEYxNHZSanpCMHlZS1I1ekZjRXpEVzlDa3NQQ0p6am9icThVR1l1cklKV01RMWJlM3EyZ2RQYVc4S093VnBDX1drT19yVE9LeW5kUGlEeTFwMVkyWm0tN2VYbXhQUQ?oc=5",
           "pubDate": "2026-01-30 07:05:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5VLUJRNWw0RDBreEYxNHZSanpCMHlZS1I1ekZjRXpEVzlDa3NQQ0p6am9icThVR1l1cklKV01RMWJlM3EyZ2RQYVc4S093VnBDX1drT19yVE9LeW5kUGlEeTFwMVkyWm0tN2VYbXhQUQ?oc=5\" target=\"_blank\">ChatGPT、新規ユーザーの利用料金が“円建て”に 実質値下げ 既存ドル建てユーザーは現状そのまま</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
-        },
-        {
-          "title": "ChatGPT、翻訳特化型の新ツール「ChatGPT Translate」 - ケータイ Watch",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VaWZva0dadTdwUEd4QU9yOXN3SjU3TmdRdDM1YU1XanpsbW9LTXdCQVdpQlJmQjNHVWJKWEx3ajdjT3F1NHpFWGJma1o4akJCSHpkaG1qR19tQ0w5dGZyRXZpQ29lVnc?oc=5",
-          "pubDate": "2026-01-30 05:30:42",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VaWZva0dadTdwUEd4QU9yOXN3SjU3TmdRdDM1YU1XanpsbW9LTXdCQVdpQlJmQjNHVWJKWEx3ajdjT3F1NHpFWGJma1o4akJCSHpkaG1qR19tQ0w5dGZyRXZpQ29lVnc?oc=5\" target=\"_blank\">ChatGPT、翻訳特化型の新ツール「ChatGPT Translate」</a>  ケータイ Watch",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
-          "title": "ついにChatGPTで「GPT-4o」や「GPT-4.1」が使用不能に - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRGMwSkladDlaTUdIUlZqV0ZyVk5leE9nMl9GRHRzMDZsYlkzV2I0aTd6bksyU0I2Vm5qN3BRakQ4emY5MzEyY2ZQWVZUa1R6SUxHZjNaeTZqRVJWTEw2RkRRTFRxUzNtOUlN?oc=5",
-          "pubDate": "2026-01-30 01:33:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRGMwSkladDlaTUdIUlZqV0ZyVk5leE9nMl9GRHRzMDZsYlkzV2I0aTd6bksyU0I2Vm5qN3BRakQ4emY5MzEyY2ZQWVZUa1R6SUxHZjNaeTZqRVJWTEw2RkRRTFRxUzNtOUlN?oc=5\" target=\"_blank\">ついにChatGPTで「GPT-4o」や「GPT-4.1」が使用不能に</a>  GIGAZINE",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         }
       ]
     },
@@ -134,14 +134,14 @@
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNalVUTWRBTkJORWVYMHBwOTZmMnJTVGRmcTFuM2FsWV9rLURkMlFzZzg0aWZMdVVJVlVobnF5eWZXRVVMb2JGZ29HTFdidkpadGpVNzFJbTVHZGFrNXcyRjQ4MzVRdHNBTjY5blY1ajM0Q18yZ1lVY3dqZ09rejhEMTJTQVFmZERtTFJFMS1LaV9BMGdONGN5c0YxaVptLXFESXl4ZDlnTU55N040UTlwalZHQ29ONEkxSlVSQkxVdmxtYlVSMXNzUzBjQkpTNFhmTDBSV0xwaVV4M0licmVGTUdkT05RMnVMOVNjd293UllOQlhVNjJseHZJR1BzQQ?oc=5",
           "pubDate": "2026-02-02 03:26:29",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNalVUTWRBTkJORWVYMHBwOTZmMnJTVGRmcTFuM2FsWV9rLURkMlFzZzg0aWZMdVVJVlVobnF5eWZXRVVMb2JGZ29HTFdidkpadGpVNzFJbTVHZGFrNXcyRjQ4MzVRdHNBTjY5blY1ajM0Q18yZ1lVY3dqZ09rejhEMTJTQVFmZERtTFJFMS1LaV9BMGdONGN5c0YxaVptLXFESXl4ZDlnTU55N040UTlwalZHQ29ONEkxSlVSQkxVdmxtYlVSMXNzUzBjQkpTNFhmTDBSV0xwaVV4M0licmVGTUdkT05RMnVMOVNjd293UllOQlhVNjJseHZJR1BzQQ?oc=5\" target=\"_blank\">安全性と信頼性を重視した対話型AIのAnthropic、Claude AIでNASAの火星探査車を自律走行へ</a>  AT PARTNERS",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
-          "title": "「AIで火星探査機の経路を指定する」という実験が成功し実際にパーサヴィアランスがClaudeの計画に沿って火星を走行 - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0hucmltaVd5TDE3TFduSXp2eDUtYjNQczRrdU5hZDlPMElYeGxVUDJISWZYRnl6OFZlTXB6MXA0LXplcktRMGlwTHM0VFY4UlVWc1R2TXhzWGxuT2Zhd3JSaHVlYy14djR2YVZySUJIN2ZqdlNUX2k4clRZZ01VTA?oc=5",
-          "pubDate": "2026-02-02 02:06:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0hucmltaVd5TDE3TFduSXp2eDUtYjNQczRrdU5hZDlPMElYeGxVUDJISWZYRnl6OFZlTXB6MXA0LXplcktRMGlwTHM0VFY4UlVWc1R2TXhzWGxuT2Zhd3JSaHVlYy14djR2YVZySUJIN2ZqdlNUX2k4clRZZ01VTA?oc=5\" target=\"_blank\">「AIで火星探査機の経路を指定する」という実験が成功し実際にパーサヴィアランスがClaudeの計画に沿って火星を走行</a>  GIGAZINE",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "title": "Anthropic CEO「超人的AIは2027年までに到来し得る」と警告──文明規模のリスク - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSHBRajN0akl2TE02NnRfeVE1NHJOVkhyblAtXy1oQWxRdk1aMlVXXzZTUEtSNV9Lcy1qUk5WR2doNFR0VUQ0ZUpHdnFTT19WQ1VzeWxpSXBPSlZRTi1rWDZiOG91ZXJkVUhJb0Q1N1NHcW81MTl5MTRyVWc1YTA?oc=5",
+          "pubDate": "2026-02-01 01:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSHBRajN0akl2TE02NnRfeVE1NHJOVkhyblAtXy1oQWxRdk1aMlVXXzZTUEtSNV9Lcy1qUk5WR2doNFR0VUQ0ZUpHdnFTT19WQ1VzeWxpSXBPSlZRTi1rWDZiOG91ZXJkVUhJb0Q1N1NHcW81MTl5MTRyVWc1YTA?oc=5\" target=\"_blank\">Anthropic CEO「超人的AIは2027年までに到来し得る」と警告──文明規模のリスク</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "AIネイティブ開発が評価されAnthropic社『Claude Code』先進活用事例に選出 - 株式会社マネーフォワード",
@@ -253,18 +253,18 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "これまでにない最大の飛躍 ～xAI、画像・動画生成AI「Grok Imagine 1.0」を発表 - forest.impress.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbjdkNmhnTHVKdXJ0X0lCZXF1cWp4Mlc4YW5Td3hPNFhvYl9QMjV0SVlmNW1acEdTbHBuUHhQLTMtWVFZTXFVY0RDak5qREN6OXdnNWlId0dzdjVhOVNwRGhrVkc?oc=5",
-          "pubDate": "2026-02-02 06:06:06",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbjdkNmhnTHVKdXJ0X0lCZXF1cWp4Mlc4YW5Td3hPNFhvYl9QMjV0SVlmNW1acEdTbHBuUHhQLTMtWVFZTXFVY0RDak5qREN6OXdnNWlId0dzdjVhOVNwRGhrVkc?oc=5\" target=\"_blank\">これまでにない最大の飛躍 ～xAI、画像・動画生成AI「Grok Imagine 1.0」を発表</a>  forest.impress.co.jp",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "title": "これまでにない最大の飛躍 ～xAI、画像・動画生成AI「Grok Imagine 1.0」を発表（窓の杜） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOR1JOalJHMENlZjZXNURMUVhwNEs2VENpWGI0ZU5BZjlNYUhqT09kV2N5WVYzSng3Q2plS0NqbzgwZUZjWjJKV0V5WGQtdkdieHB1alNZRHdIS0JMTkk5dW9VSmhOLTJpbHJ1bDliXzdWZ0c5TUs1OG9CX1BOZVE?oc=5",
+          "pubDate": "2026-02-02 16:06:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBOR1JOalJHMENlZjZXNURMUVhwNEs2VENpWGI0ZU5BZjlNYUhqT09kV2N5WVYzSng3Q2plS0NqbzgwZUZjWjJKV0V5WGQtdkdieHB1alNZRHdIS0JMTkk5dW9VSmhOLTJpbHJ1bDliXzdWZ0c5TUs1OG9CX1BOZVE?oc=5\" target=\"_blank\">これまでにない最大の飛躍 ～xAI、画像・動画生成AI「Grok Imagine 1.0」を発表（窓の杜）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
-          "title": "Grokへのアクセスブロック措置をインドネシアが解除 - GIGAZINE",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dThIaHpuMWZXTEQ4Mmhkbko4eVFjY3B4U09pRFdnM1lCRTB2clN6bHpPSE1sbnlWZ1ZJRDBGZWZmbzZPNWRJdVFJOG41eVRfNkpycEZUbFBXQXVyN2tQR0IxMWF6TzlSZEJF?oc=5",
-          "pubDate": "2026-02-02 02:50:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE11dThIaHpuMWZXTEQ4Mmhkbko4eVFjY3B4U09pRFdnM1lCRTB2clN6bHpPSE1sbnlWZ1ZJRDBGZWZmbzZPNWRJdVFJOG41eVRfNkpycEZUbFBXQXVyN2tQR0IxMWF6TzlSZEJF?oc=5\" target=\"_blank\">Grokへのアクセスブロック措置をインドネシアが解除</a>  GIGAZINE",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "title": "スペースX、xAIとの統合協議が進んだ段階－関係者 - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z0tRMVFxRjlsTjA0dDhVMTlDdktqbHVZTERSREtBV2NYNS1ncDFLN1AyTl82QUh6YkJ0ZDhlVkVQMEhBeFVYXzZIbm9HMm41a1VVNTZBaFpCV3RuNWt3MF92U3ptbUJFSVAzUE83WkI0dEJ5amNj?oc=5",
+          "pubDate": "2026-02-02 11:58:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE53Z0tRMVFxRjlsTjA0dDhVMTlDdktqbHVZTERSREtBV2NYNS1ncDFLN1AyTl82QUh6YkJ0ZDhlVkVQMEhBeFVYXzZIbm9HMm41a1VVNTZBaFpCV3RuNWt3MF92U3ptbUJFSVAzUE83WkI0dEJ5amNj?oc=5\" target=\"_blank\">スペースX、xAIとの統合協議が進んだ段階－関係者</a>  Bloomberg",
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "マスク氏のスペースＸ、ｘＡＩやテスラとの合併検討 ＩＰＯ控え - ロイター",
