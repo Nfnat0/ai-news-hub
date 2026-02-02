@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-02T07:33:09.015Z",
+  "fetchedAt": "2026-02-02T13:40:02.404Z",
   "locale": "jp",
   "companies": [
     {
@@ -25,7 +25,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor 2.0リリース、マルチエージェントに対応、エージェント型コーディングモデルComposerを導入 - gihyo.jp",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5\" target=\"_blank\">AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン)</a>  Mercari",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -130,38 +130,38 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5",
           "pubDate": "2026-01-22 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5\" target=\"_blank\">Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5\" target=\"_blank\">Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
-          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
           "pubDate": "2025-11-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
-          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
           "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
-          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
           "pubDate": "2025-07-15 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
