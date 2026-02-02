@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-01T18:59:52.676Z",
+  "fetchedAt": "2026-02-02T03:24:03.050Z",
   "locale": "jp",
   "companies": [
     {
@@ -12,13 +12,6 @@
           "pubDate": "2026-01-28 02:08:24",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rWXV2VlQ1UDdxXzYxZVBiZXV6MGVNWlZHWTQyZXZHS3pEbl9YMzhpLU50MmFYUk9KNEhpU0Nvd1hQYk5ZeW1ONHAwX3N1UQ?oc=5\" target=\"_blank\">Cursor、同社ブログ内でDropboxにおける利用状況を紹介</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
-        },
-        {
-          "title": "GPT-5.2-Codexが主要ツールで解禁 「Windows最適化」×「長時間エージェント」で実用性が向上 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcmlaTEExYkx1dkR2cVVQQ2VvdFR2dmZ1Ymx5azFLODBnMllxUEFDdnp2anNQaGlXWWVWaXVQZUNTbU0yajFNbVZmeDBBOWpWdFJRUlhlWGV0bExjVmZFSWhwZUVuXzl0cFBNQkFkVnRWdw?oc=5",
-          "pubDate": "2026-01-20 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1CcmlaTEExYkx1dkR2cVVQQ2VvdFR2dmZ1Ymx5azFLODBnMllxUEFDdnp2anNQaGlXWWVWaXVQZUNTbU0yajFNbVZmeDBBOWpWdFJRUlhlWGV0bExjVmZFSWhwZUVuXzl0cFBNQkFkVnRWdw?oc=5\" target=\"_blank\">GPT-5.2-Codexが主要ツールで解禁 「Windows最適化」×「長時間エージェント」で実用性が向上</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
           "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
@@ -35,6 +28,13 @@
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
+          "title": "Cursor 2.0リリース、マルチエージェントに対応、エージェント型コーディングモデルComposerを導入 - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yQTlCOEN3c0oxRzhlX3RXWGMyblA1MXJyRGVmQ3ByNDI4bmtNNVpxNDhuMEJ1SXFpeUs3T3RNQWhKOU9hYjdvVllCOE1La0ZaYS1ma0hB?oc=5",
+          "pubDate": "2025-10-30 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yQTlCOEN3c0oxRzhlX3RXWGMyblA1MXJyRGVmQ3ByNDI4bmtNNVpxNDhuMEJ1SXFpeUs3T3RNQWhKOU9hYjdvVllCOE1La0ZaYS1ma0hB?oc=5\" target=\"_blank\">Cursor 2.0リリース、マルチエージェントに対応、エージェント型コーディングモデルComposerを導入</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+        },
+        {
           "title": "AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン) - Mercari",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
@@ -48,18 +48,18 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub Copilotの旧メトリクスAPI、提供終了へ - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yV0Fzb2ZneFlyUFdYWDNRa0NPY0t6c0l1dHZuTUozMldTRFFRWkxfMVN0U1Y1YnVRbjQwaDZBWGY2QkxXREl4VU9mbWJfUQ?oc=5",
+          "pubDate": "2026-01-30 07:00:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yV0Fzb2ZneFlyUFdYWDNRa0NPY0t6c0l1dHZuTUozMldTRFFRWkxfMVN0U1Y1YnVRbjQwaDZBWGY2QkxXREl4VU9mbWJfUQ?oc=5\" target=\"_blank\">GitHub Copilotの旧メトリクスAPI、提供終了へ</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
           "title": "JetBrainsとZed、ACPレジストリを発表 ——GitHub Copilot CLIのACP対応もパブリックプレビューに - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXhCSUF0RWhfQlI3ZndIX1FhSkZ2M3lhMEhKbzQwTFdYQWxlMmVTQ3ZYSVl1OXJocDNiVG4xQTgyVmJ0amFvRHhwaDUyLXIyYUpkTU5pQWw?oc=5",
           "pubDate": "2026-01-29 06:23:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vdXhCSUF0RWhfQlI3ZndIX1FhSkZ2M3lhMEhKbzQwTFdYQWxlMmVTQ3ZYSVl1OXJocDNiVG4xQTgyVmJ0amFvRHhwaDUyLXIyYUpkTU5pQWw?oc=5\" target=\"_blank\">JetBrainsとZed、ACPレジストリを発表 ——GitHub Copilot CLIのACP対応もパブリックプレビューに</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "GitHub CopilotのC++アプリモダナイゼーション支援機能、Microsoftがパブリックプレビュー公開 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcDhtVjA5ZEJSOHhWNGx1a0FsVXEzTU1aTDV1SDdaNDU5QmNMUG9nclRjdU85ZHhTbnByYzFxWWgyNDRYb0tNTnUzc0pvdw?oc=5",
-          "pubDate": "2026-01-29 01:00:39",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcDhtVjA5ZEJSOHhWNGx1a0FsVXEzTU1aTDV1SDdaNDU5QmNMUG9nclRjdU85ZHhTbnByYzFxWWgyNDRYb0tNTnUzc0pvdw?oc=5\" target=\"_blank\">GitHub CopilotのC++アプリモダナイゼーション支援機能、Microsoftがパブリックプレビュー公開</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
           "title": "GitHub Copilot CLIのエージェント機能をコードから自在に呼び出してAIエージェントアプリが作れる「GitHub Copilot SDK」テクニカルプレビュー公開 - Publickey",
@@ -130,38 +130,38 @@
       "displayName": "AWS Kiro",
       "news": [
         {
-          "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ - Amazon Web Services",
+          "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5",
           "pubDate": "2026-01-22 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5\" target=\"_blank\">Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5\" target=\"_blank\">Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services",
+          "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
-          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services",
+          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
           "pubDate": "2025-11-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
-          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services",
+          "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
           "pubDate": "2025-11-18 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
-          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services",
+          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
           "pubDate": "2025-07-15 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
@@ -171,11 +171,11 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5",
-          "pubDate": "2026-01-30 23:30:40",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+          "title": "GoogleのAIエージェント搭載開発ツール「Antigravity」、何ができるのか？ - マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSjk4UUp4ZnI5N2t2UzhiRmlQTkRfUnpDc3pzWjdyeXQxVEw0QWVHQ1ZXUk9fWXJwZjd1OW5qdHNjeFVVclZsWXFUTWdMWndiQlZBTDZaVHpQb3UybEZXMC1xTVE?oc=5",
+          "pubDate": "2026-01-27 23:36:08",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSjk4UUp4ZnI5N2t2UzhiRmlQTkRfUnpDc3pzWjdyeXQxVEw0QWVHQ1ZXUk9fWXJwZjd1OW5qdHNjeFVVclZsWXFUTWdMWndiQlZBTDZaVHpQb3UybEZXMC1xTVE?oc=5\" target=\"_blank\">GoogleのAIエージェント搭載開発ツール「Antigravity」、何ができるのか？</a>  マイナビニュース",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
@@ -196,7 +196,7 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5",
           "pubDate": "2026-01-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5\" target=\"_blank\">Google Antigravityとは？使い方や料金をご紹介</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
