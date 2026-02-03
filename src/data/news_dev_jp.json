@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-02T13:40:02.404Z",
+  "fetchedAt": "2026-02-03T03:18:17.064Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,10 +7,10 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor、同社ブログ内でDropboxにおける利用状況を紹介 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rWXV2VlQ1UDdxXzYxZVBiZXV6MGVNWlZHWTQyZXZHS3pEbl9YMzhpLU50MmFYUk9KNEhpU0Nvd1hQYk5ZeW1ONHAwX3N1UQ?oc=5",
-          "pubDate": "2026-01-28 02:08:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rWXV2VlQ1UDdxXzYxZVBiZXV6MGVNWlZHWTQyZXZHS3pEbl9YMzhpLU50MmFYUk9KNEhpU0Nvd1hQYk5ZeW1ONHAwX3N1UQ?oc=5\" target=\"_blank\">Cursor、同社ブログ内でDropboxにおける利用状況を紹介</a>  CodeZine",
+          "title": "Cursor、大規模コードベースのインデックス化を高速化する新手法を発表 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYeHBNUS1VYmZWdU9YZlUwY0N5WjF4WndLa2U4RGZYY09zc1dQRFFmUGVac0VfZjAyQlBibW1DRFJoR3dUMGd6UG04Ukpqdw?oc=5",
+          "pubDate": "2026-01-29 00:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYeHBNUS1VYmZWdU9YZlUwY0N5WjF4WndLa2U4RGZYY09zc1dQRFFmUGVac0VfZjAyQlBibW1DRFJoR3dUMGd6UG04Ukpqdw?oc=5\" target=\"_blank\">Cursor、大規模コードベースのインデックス化を高速化する新手法を発表</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
@@ -25,7 +25,7 @@
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Cursor 2.0リリース、マルチエージェントに対応、エージェント型コーディングモデルComposerを導入 - gihyo.jp",
@@ -39,7 +39,7 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5\" target=\"_blank\">AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン)</a>  Mercari",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         }
       ]
     },
@@ -98,29 +98,29 @@
         {
           "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5",
-          "pubDate": "2026-01-21 15:24:00",
+          "pubDate": "2026-01-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWFhyZDIxZDlPUXI5T1JKalJ4RzNRTHlnaXo2Mm9nRTd6RlFjWWY0R0ZybkdaTXNaS2wxbDQxM3gyMDc2M2JYejFLaTVhYUZzSENaRTVEaG9iU2VvYUc1Y0dVMVpaTl9jX2JYb0RwRUx5ZGotYndIcnplenptR0k?oc=5\" target=\"_blank\">Anthropic、「Claude Code for VS Code」の一般提供を開始（窓の杜）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "VS Code、AIにタスクの手順や知識を組み込める「Agent Skills」に実験的対応。新バージョン「VS Code December 2025 (version 1.108)」リリース - Publickey",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWdtZ20tMlB5OFY1dk1HVUV3cTJsNmYtSGJ4Q3Z3Rnh1YWhHU0tDeEhUUU1Bd2VnUktfalJseXFSWVRnaHc0NFBaVU5LZDdBQndIa1MzT3o1anNqSEtYY0dIbjZiN2Y0V3F2bnFuVUV1T0NRWDBHNTlBajZLdFZ1X0tBYnRLYkxDSnljbWp1R1BCZ2NGRDI5dl9R?oc=5",
           "pubDate": "2026-01-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWdtZ20tMlB5OFY1dk1HVUV3cTJsNmYtSGJ4Q3Z3Rnh1YWhHU0tDeEhUUU1Bd2VnUktfalJseXFSWVRnaHc0NFBaVU5LZDdBQndIa1MzT3o1anNqSEtYY0dIbjZiN2Y0V3F2bnFuVUV1T0NRWDBHNTlBajZLdFZ1X0tBYnRLYkxDSnljbWp1R1BCZ2NGRDI5dl9R?oc=5\" target=\"_blank\">VS Code、AIにタスクの手順や知識を組み込める「Agent Skills」に実験的対応。新バージョン「VS Code December 2025 (version 1.108)」リリース</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
-          "title": "VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性 - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5",
-          "pubDate": "2026-01-14 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtdG9ReDg2aFVlRnhBSWRfWklzNlZ4NUo0bWhESTRoVEtnVWRVVzlXX1NlRWo5cjhMaEZ1YUhUQzM4VEZieklRZVdGR2dwelV6bnJFeURoakl2WXBhUkNxX1VFSV95dTZNaDJ6VjF5UjdJUQ?oc=5\" target=\"_blank\">VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性</a>  ITmedia",
+          "title": "VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5",
+          "pubDate": "2025-12-26 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBucU5GenA3X0pXVnZrQnNHVkdCMEo2ak55VFdkanpCRkRCUnFEdWh4RGM0VWpnYWJpZlM4cXpPV1pxRkJvTnBkZ3JOUnM1eVM4NDhOUGVKNFFPbGpaUktYcGN5NmhLQ2NCNXFYaTJVWWg2QQ?oc=5\" target=\"_blank\">VS Code 1.107公開 複数の開発用AIエージェントの協調はどう役立つのか：TypeScript 7に対応</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
-          "pubDate": "2025-08-08 02:21:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
+          "pubDate": "2025-08-08 02:21:04",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
@@ -171,17 +171,17 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "バイブコーディングでWebデザイン勝負! どのAIエージェントが一番「刺さる」モックアップを作れるか - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdmFwMzZWTzdZY0o1RUpYTUE4SDJLZGxmNkVLSm1CZ090Y0lfdHNNanBRcUUxM3FaV0QwN0VVaV92ajVjY2JVYk9sLXQxWUIzUFA4OEE1WlVNME9qMlJDSE9wVUJRUQ?oc=5",
+          "pubDate": "2026-02-02 23:20:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdmFwMzZWTzdZY0o1RUpYTUE4SDJLZGxmNkVLSm1CZ090Y0lfdHNNanBRcUUxM3FaV0QwN0VVaV92ajVjY2JVYk9sLXQxWUIzUFA4OEE1WlVNME9qMlJDSE9wVUJRUQ?oc=5\" target=\"_blank\">バイブコーディングでWebデザイン勝負! どのAIエージェントが一番「刺さる」モックアップを作れるか</a>  Impress Watch",
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+        },
+        {
           "title": "GoogleのAIエージェント搭載開発ツール「Antigravity」、何ができるのか？ - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSjk4UUp4ZnI5N2t2UzhiRmlQTkRfUnpDc3pzWjdyeXQxVEw0QWVHQ1ZXUk9fWXJwZjd1OW5qdHNjeFVVclZsWXFUTWdMWndiQlZBTDZaVHpQb3UybEZXMC1xTVE?oc=5",
           "pubDate": "2026-01-27 23:36:08",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSjk4UUp4ZnI5N2t2UzhiRmlQTkRfUnpDc3pzWjdyeXQxVEw0QWVHQ1ZXUk9fWXJwZjd1OW5qdHNjeFVVclZsWXFUTWdMWndiQlZBTDZaVHpQb3UybEZXMC1xTVE?oc=5\" target=\"_blank\">GoogleのAIエージェント搭載開発ツール「Antigravity」、何ができるのか？</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
-        },
-        {
-          "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5",
-          "pubDate": "2026-01-20 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5\" target=\"_blank\">無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5",
           "pubDate": "2025-12-17 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUalloOGxKMmdNSWRtdG1rQWFtNkFNNGhXeDlEclR3SWI2S3VuRGdVYUJsVVZ5VmhYVGNuWkd6clNvU25WSGNpNXhkbThmd2s?oc=5\" target=\"_blank\">【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説</a>  クラウドエース株式会社",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         }
       ]
     }
