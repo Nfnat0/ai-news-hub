@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-04T10:07:49.480Z",
+  "fetchedAt": "2026-02-04T16:07:58.325Z",
   "locale": "en",
   "companies": [
     {
@@ -7,38 +7,38 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution - infoq.com",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15NjV2N0otdTRsVFhUUGZYOWh1M0V3WGlCRlFGRktXZ3B0ZkNGcGRHQW9sdUZHTVBETkE5bGd5dzQ0YUNwX09DalBNV1dnbWlxczRTdFFRRHFITlY1WW9fbHh0dDM?oc=5",
+          "pubDate": "2026-02-04 10:00:39",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE15NjV2N0otdTRsVFhUUGZYOWh1M0V3WGlCRlFGRktXZ3B0ZkNGcGRHQW9sdUZHTVBETkE5bGd5dzQ0YUNwX09DalBNV1dnbWlxczRTdFFRRHFITlY1WW9fbHh0dDM?oc=5\" target=\"_blank\">Agent Trace: Cursor Proposes an Open Specification for AI Code Attribution</a>  infoq.com",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
           "title": "OpenAI Launches Codex App for Mac to Take On Cursor - The Tech Buzz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1htcUJ4WS16OVlKUm45VjkzelR0eE9va1RBZ3Y0bDZRbk9fMmxsWHhqcUlvR1BaRHNXYTNmUjlrOVRzcXFnOERQaHNTMF9BdHhuTnNGS01JaUQwNWRmX1B4TUExNmgwWWdJRHdNV1VlQ1huazl3QW5hUUg1YWloQUZqbVVqVmlsRTFrMg?oc=5",
           "pubDate": "2026-02-02 18:49:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1htcUJ4WS16OVlKUm45VjkzelR0eE9va1RBZ3Y0bDZRbk9fMmxsWHhqcUlvR1BaRHNXYTNmUjlrOVRzcXFnOERQaHNTMF9BdHhuTnNGS01JaUQwNWRmX1B4TUExNmgwWWdJRHdNV1VlQ1huazl3QW5hUUg1YWloQUZqbVVqVmlsRTFrMg?oc=5\" target=\"_blank\">OpenAI Launches Codex App for Mac to Take On Cursor</a>  The Tech Buzz",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
           "title": "What a Difference a VS Code Fork Makes: Antigravity, Cursor and Windsurf Compared - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5",
           "pubDate": "2026-01-27 04:32:51",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5\" target=\"_blank\">What a Difference a VS Code Fork Makes: Antigravity, Cursor and Windsurf Compared</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "How Cursor Actually Indexes Your Codebase - Towards Data Science",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5",
-          "pubDate": "2026-01-26 16:30:00",
+          "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5\" target=\"_blank\">How Cursor Actually Indexes Your Codebase</a>  Towards Data Science",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "Cursor is better at marketing than coding - theregister.com",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVzA0NkJGTUJmTEVlUlFUczV6S3FMUktieEFQa0Z3R3RTMDEzYTlBSlJLdEp0Z2VWWF9wLUN0aW9NS3I4cERBR3pDTHl4d2ZXZENPWjNnbmY3a1dPWGN2M3JCWGU?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVzA0NkJGTUJmTEVlUlFUczV6S3FMUktieEFQa0Z3R3RTMDEzYTlBSlJLdEp0Z2VWWF9wLUN0aW9NS3I4cERBR3pDTHl4d2ZXZENPWjNnbmY3a1dPWGN2M3JCWGU?oc=5\" target=\"_blank\">Cursor is better at marketing than coding</a>  theregister.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
-        },
-        {
-          "title": "Cursor used a swarm of AI agents powered by OpenAI to build and run a web browser for a week—with no human help. Here’s why developers are buzzing - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5",
-          "pubDate": "2026-01-23 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5\" target=\"_blank\">Cursor used a swarm of AI agents powered by OpenAI to build and run a web browser for a week—with no human help. Here’s why developers are buzzing</a>  Fortune",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
@@ -62,25 +62,25 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
+          "title": "ACP support in Copilot CLI is now in public preview - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ0cEkzd2c5TzZJZjV0cnlPWHlIbFBXa3pBYjV0TW10ZzZoQ2d4aUxTT2pwTFJlX205LVZGbUt6ZXdYT1NfaDN4RmNMLUY5c3JRUlJ0bldNOUtZZk9EcXN6S1BoLUlaU0V5VjY1bjdnekJ5by1lQXVZajBUaGJjd3hkX0hOZ3JCTWd5S3hLSGtBQXZkRkVDag?oc=5",
+          "pubDate": "2026-01-28 15:00:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ0cEkzd2c5TzZJZjV0cnlPWHlIbFBXa3pBYjV0TW10ZzZoQ2d4aUxTT2pwTFJlX205LVZGbUt6ZXdYT1NfaDN4RmNMLUY5c3JRUlJ0bldNOUtZZk9EcXN6S1BoLUlaU0V5VjY1bjdnekJ5by1lQXVZajBUaGJjd3hkX0hOZ3JCTWd5S3hLSGtBQXZkRkVDag?oc=5\" target=\"_blank\">ACP support in Copilot CLI is now in public preview</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
           "title": "Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give... - Times of India",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5",
-          "pubDate": "2026-01-27 06:08:00",
+          "pubDate": "2026-01-27 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5\" target=\"_blank\">Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give...</a>  Times of India",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "Power agentic workflows in your terminal with GitHub Copilot CLI - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3VWRmo2NUphOFlvRk50bVhFR01JUjFNSkNObkxQN0ZSVFpHYmJjcVpVWnpQZ1BLczhPQm5FWmhqSGxDUkgtZXQtUkVMa2ZHMGExczBsNFZTQTRyWk9tS1ZwQVoxUEN4MXZ5bHBhZVFwTC1UVVhzOGp1YWhYWHFNM18wbVViOUVmVU5hWXdXNUZOVmk2YkItVnZnQmVwNmdDbFZCWmV5RGUyU2EweHhz?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3VWRmo2NUphOFlvRk50bVhFR01JUjFNSkNObkxQN0ZSVFpHYmJjcVpVWnpQZ1BLczhPQm5FWmhqSGxDUkgtZXQtUkVMa2ZHMGExczBsNFZTQTRyWk9tS1ZwQVoxUEN4MXZ5bHBhZVFwTC1UVVhzOGp1YWhYWHFNM18wbVViOUVmVU5hWXdXNUZOVmk2YkItVnZnQmVwNmdDbFZCWmV5RGUyU2EweHhz?oc=5\" target=\"_blank\">Power agentic workflows in your terminal with GitHub Copilot CLI</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
-          "title": "A cheat sheet to slash commands in GitHub Copilot CLI - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2JsajQ0enZnbmJQcjlSTHZkQV8ycFVKTEpKZG5vWnRtYVZicnFHeUxDWE9OSFNkRnBucXJBQjh2STd5aW1SX1cxOFpIb081LTZBYWxPXzh4NFp0eVJIdDkzZHJMbGJXUmFsSGxKWDN2WkVfUUxld0F2YnlSM1FXUEo3cUUxQml0UDN2aTV0YzlDZDhYQUlLNGdFOXVaVk5L?oc=5",
-          "pubDate": "2026-01-21 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2JsajQ0enZnbmJQcjlSTHZkQV8ycFVKTEpKZG5vWnRtYVZicnFHeUxDWE9OSFNkRnBucXJBQjh2STd5aW1SX1cxOFpIb081LTZBYWxPXzh4NFp0eVJIdDkzZHJMbGJXUmFsSGxKWDN2WkVfUUxld0F2YnlSM1FXUEo3cUUxQml0UDN2aTV0YzlDZDhYQUlLNGdFOXVaVk5L?oc=5\" target=\"_blank\">A cheat sheet to slash commands in GitHub Copilot CLI</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         }
       ]
     },
@@ -93,14 +93,14 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBneDhmVVRVYWNPVWhnZHIxMWlyU2tKTVdXTndJbUZ3UHNvYjNTb3NDRnZQalFodFZfQ1JNemxQVVpCaXQ1SGNMTnFIUXdfeG1PS2o3Sm1LY3BBb1FKS18xYUdtc1BPTVI2VkhTV1VUQktOQ2FXWUJ3Y1hNVVNUNjFyZmNMWDR0SndMNC0xak9MMHpBRFE?oc=5",
           "pubDate": "2026-02-03 07:57:27",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBneDhmVVRVYWNPVWhnZHIxMWlyU2tKTVdXTndJbUZ3UHNvYjNTb3NDRnZQalFodFZfQ1JNemxQVVpCaXQ1SGNMTnFIUXdfeG1PS2o3Sm1LY3BBb1FKS18xYUdtc1BPTVI2VkhTV1VUQktOQ2FXWUJ3Y1hNVVNUNjFyZmNMWDR0SndMNC0xak9MMHpBRFE?oc=5\" target=\"_blank\">VSCode CMake Tools Extension Updated</a>  i-programmer.info",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
           "title": "Visual Studio Code is eating up hundreds of gigabytes on Linux - How-To Geek",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0xUR2NaWEZ3SldHWTVWY0FxZWxjN1k4dVhoRW1NNkNaeUFhcTM5Zl9kemlkR0hBcThoMGFJcVlQOFU2emdVM3ZCb2IwS3FmTV8yVW9UMEc4cjNwWDJ6VC1uUVNDeDQtYnBxVUdQT2U1QnFWcXB3U2l4QVZObkpyMENzOXJaeENycndhNGdORktsNWs?oc=5",
           "pubDate": "2026-02-02 20:09:15",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0xUR2NaWEZ3SldHWTVWY0FxZWxjN1k4dVhoRW1NNkNaeUFhcTM5Zl9kemlkR0hBcThoMGFJcVlQOFU2emdVM3ZCb2IwS3FmTV8yVW9UMEc4cjNwWDJ6VC1uUVNDeDQtYnBxVUdQT2U1QnFWcXB3U2l4QVZObkpyMENzOXJaeENycndhNGdORktsNWs?oc=5\" target=\"_blank\">Visual Studio Code is eating up hundreds of gigabytes on Linux</a>  How-To Geek",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware - The Hacker News",
@@ -137,13 +137,6 @@
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
-          "title": "Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5",
-          "pubDate": "2026-01-05 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNGeGRPY2FkaFRGYlh5WHd1LVR1YlQxOWpDZHpTLWdHa2V3Nm1sRkRHU2tTUkNaYTdBT3RLYm9acERGeTJCemo2c0dLRUtzRFpXcTJILU1DMXFPcW82UU0yLTJORTJYN21FczRoNmpmenhzX0xvMkpoWGIzN1ZOMUNaQWRsb21rZFc3cmJieVRwOV9xdEJLUWhvcndkdEYxaWYxYTBtZGp6YnFiYWwwVGhFM3EwQnFyYzVIWUU0VXlJLWc1QWthS3NSSElsZDJG?oc=5\" target=\"_blank\">Agentic Cloud Modernization: Accelerating Modernization with AWS MCPs and Kiro</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
-        },
-        {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
           "pubDate": "2025-12-02 08:00:00",
@@ -163,6 +156,13 @@
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
           "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+        },
+        {
+          "title": "Forked Again: AWS's Kiro Is Latest AI Assistant Based on VS Code - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekoxMzlncTQzLVFvUHhhRnhiaHNYVW9PYkVYNEJTWFpndkwzYnJ3Z1hlM0lFdXp5bThpVTdGZlAtaTRPSkhGR0habGJOY0g1NUh6dGNEdEdoalBOSVozZnFETjRzTmUtNmQ1UGZoZkdJOVZfN0o1cUlpeVNtalNsN251eHlsWmpLSzJuaEhHX3ByVV9Jc18yYXB1R2VlczhtTzVsaVZsRDJReFVKQkFoMEdYZTlXQk5J?oc=5",
+          "pubDate": "2025-07-21 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekoxMzlncTQzLVFvUHhhRnhiaHNYVW9PYkVYNEJTWFpndkwzYnJ3Z1hlM0lFdXp5bThpVTdGZlAtaTRPSkhGR0habGJOY0g1NUh6dGNEdEdoalBOSVozZnFETjRzTmUtNmQ1UGZoZkdJOVZfN0o1cUlpeVNtalNsN251eHlsWmpLSzJuaEhHX3ByVV9Jc18yYXB1R2VlczhtTzVsaVZsRDJReFVKQkFoMEdYZTlXQk5J?oc=5\" target=\"_blank\">Forked Again: AWS's Kiro Is Latest AI Assistant Based on VS Code</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
     },
@@ -171,11 +171,11 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google Antigravity vs Continue: Evaluating AI Coding Assistants for Enterprise Legacy Codebases - Augment Code",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhSzduWXJvTmI3aWFZUmM0TXBleTdkVWZPWXF2Rk9qM2F6bkl0Wl9OakI5eGlHOGs3WTlMTHNPVDdEaC0wNnJCSElGWFl2NEdkYzdmZlZ0aklZNVBrcTBjY1JrN1hzRTEtME9WTDF5eU5vQQ?oc=5",
-          "pubDate": "2026-01-30 21:51:31",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBhSzduWXJvTmI3aWFZUmM0TXBleTdkVWZPWXF2Rk9qM2F6bkl0Wl9OakI5eGlHOGs3WTlMTHNPVDdEaC0wNnJCSElGWFl2NEdkYzdmZlZ0aklZNVBrcTBjY1JrN1hzRTEtME9WTDF5eU5vQQ?oc=5\" target=\"_blank\">Google Antigravity vs Continue: Evaluating AI Coding Assistants for Enterprise Legacy Codebases</a>  Augment Code",
-          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
+          "title": "Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise? - Augment Code",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5",
+          "pubDate": "2026-01-16 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5\" target=\"_blank\">Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise?</a>  Augment Code",
+          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
         },
         {
           "title": "Google Antigravity: AI-First Development with This New IDE - KDnuggets",
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5",
           "pubDate": "2025-11-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXZvMTBTRjdhMGx6NTlvbTZQSlJqYUhMbDZ4bTBHUWlmZTZXWlctd2lhVzVneExtcDlxQUFPMlE4Si14OUplNS10MnhYNkdfWW04QXBaMndpUHVSMWZ3QkhTdzRjVUx2c1QyeTFUNUhfUkZpTUdIa1BEWGphM1g3QW51VVI2ZjFJZkhDakJwS1dWZXBEVHRWbUpDWVBvcnBZUHA0?oc=5\" target=\"_blank\">Build with Google Antigravity, our new agentic development platform</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         }
       ]
     }
