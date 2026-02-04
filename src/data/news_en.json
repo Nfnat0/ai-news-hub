@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-04T15:42:42.249Z",
+  "fetchedAt": "2026-02-04T21:32:18.844Z",
   "locale": "en",
   "companies": [
     {
@@ -128,7 +128,43 @@
     {
       "company": "anthropic",
       "displayName": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "title": "Claude is a space to think - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jMExmNmlOVlNsTFFNRFp1YkdjcFVFNHZQbUxPRzFMUllNN3NZZjNHanAwdHEyVXVDLVd0NV8yODRsbUJic0VCLTBJZWcxWm5BNTBwV1RDS1NENHdIS0VUdU9pcHRtTEFN?oc=5",
+          "pubDate": "2026-02-04 12:09:13",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jMExmNmlOVlNsTFFNRFp1YkdjcFVFNHZQbUxPRzFMUllNN3NZZjNHanAwdHEyVXVDLVd0NV8yODRsbUJic0VCLTBJZWcxWm5BNTBwV1RDS1NENHdIS0VUdU9pcHRtTEFN?oc=5\" target=\"_blank\">Claude is a space to think</a>  Anthropic</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTkN6WXVOMFM4UjMzRW43cnJoS1dtMmRuTVUyalRsNGxyMkJiUzRvNDFOS1AzWlJkVzNhWE1Damk3Qm5rUWhOYS1lRFRTTXpBRXB4YWUxWlEzejJfbG1MYk4tUmtUZ1NOcGdJbTc4UDkyZmdueDJaNTZzZWl4aGxINFotalprTmQtQTRj0gGQAUFVX3lxTFBRRDd2Q0VYMkdJcmktU2dyb1VmY2lqZmhVNkpPSlpsOFN1T2Jzc3BWcFFXaHVJbTYtSDBUSkEwOHNOR3Ryem9zNnl2SVg1RTc1X3N2X1VRblRPLUUxQnFMakFZOVViSFJGbHNnVWJfOEp4Z1Q5NlZYejFtVGVvbm9fZHBxTDB3MTAxR2NyVE9odw?oc=5\" target=\"_blank\">Anthropic says no to ads on Claude chatbot, weeks after OpenAI made move to test them</a>  CNBC</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVWRGMVMxQnNOQ3dPZVNxSzRqTDNVUERVX0s4azZscXlXWHQ4Q2dVZkoxZy1TODhvai04N0ZLRnhWZGJQalFPYnktUUdQNjRDR1dicXIyOUIwWHFIdmhDQ3pYLWlLM3c?oc=5\" target=\"_blank\">Anthropic takes a swing at ChatGPT in a new Super Bowl ad</a>  qz.com</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+        },
+        {
+          "title": "Apple adds agents from Anthropic and OpenAI to its coding tool - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJfMXNqaFZmbjZhUlFBVjFoa0tLSGJLd1o5bGR6Y3d3eFJaY2dYWVo4XzVzRDJMTVMwZWMxd3hxREhwQXZiSW5IZURVcDhhdzFES1l4X0I2N0tIRy1pa2dvYzFLUUVTaVkzSlBZMUZpUW5rQmlieThsTGRKOVBobWtFdV9FeGVRblFrNGVVYkVrODdOTzNUYW5WREN5d9IBowFBVV95cUxOQzR6d25LdmVxQkZoRUVaT2tNdWtfNmZVVVBPR3pKRkNVWFYxY092R0wxUlZaUlF5ME15Q0IxejdfUEEzS0RQX25LQ21YUkhGSWwwaWx3TUpUSlVOTDRlSmxmNXBUM3FKMXhtTlJySjJqVXFRV2F2T0NTR0p4bENVWGZIcXZac3lkU1JjR2hxWjZxY1VIaXdOWk5TT0diX0xuV0hJ?oc=5",
+          "pubDate": "2026-02-03 20:23:53",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJfMXNqaFZmbjZhUlFBVjFoa0tLSGJLd1o5bGR6Y3d3eFJaY2dYWVo4XzVzRDJMTVMwZWMxd3hxREhwQXZiSW5IZURVcDhhdzFES1l4X0I2N0tIRy1pa2dvYzFLUUVTaVkzSlBZMUZpUW5rQmlieThsTGRKOVBobWtFdV9FeGVRblFrNGVVYkVrODdOTzNUYW5WREN5d9IBowFBVV95cUxOQzR6d25LdmVxQkZoRUVaT2tNdWtfNmZVVVBPR3pKRkNVWFYxY092R0wxUlZaUlF5ME15Q0IxejdfUEEzS0RQX25LQ21YUkhGSWwwaWx3TUpUSlVOTDRlSmxmNXBUM3FKMXhtTlJySjJqVXFRV2F2T0NTR0p4bENVWGZIcXZac3lkU1JjR2hxWjZxY1VIaXdOWk5TT0diX0xuV0hJ?oc=5\" target=\"_blank\">Apple adds agents from Anthropic and OpenAI to its coding tool</a>  CNBC",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+        },
+        {
+          "title": "Apple’s Xcode now supports the Claude Agent SDK - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRnBUalp5eFVVdEltdzFNblYtaXlabkhVbkNQQk9ZVm54dFNPbDRQcjFiWVItWEY3WnV4RVMtVFlsMzI1MnFkSWtSTG0xTjRGWTBQUEtxek9MREpXSWNURG93cUtfUm1WSjlN?oc=5",
+          "pubDate": "2026-02-03 18:19:36",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRnBUalp5eFVVdEltdzFNblYtaXlabkhVbkNQQk9ZVm54dFNPbDRQcjFiWVItWEY3WnV4RVMtVFlsMzI1MnFkSWtSTG0xTjRGWTBQUEtxek9MREpXSWNURG93cUtfUm1WSjlN?oc=5\" target=\"_blank\">Apple’s Xcode now supports the Claude Agent SDK</a>  Anthropic",
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+        },
+        {
+          "title": "Anthropic unveils Claude legal plugin and causes market meltdown - Legal IT Insider",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzekVuWEVzVDZCZHBhVHJsZGJFT3IwWng0V21jUXVBeTJHalp1bUdULXltYVF5RWw0UTZOQTNwSjJqQkViVXhxX1ltM3d1a25OV1lEMVlfT29MNHNra243V01WQkRSRmVxNXVYTDI3alBLb1ZZSEpVQ041eVdWeWo1MWo2ZWRKWlpPYldzM0p2ZlV6WE1Sa1hNZWxjOUlWQ0FNVVBfWQ?oc=5",
+          "pubDate": "2026-02-03 16:56:59",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzekVuWEVzVDZCZHBhVHJsZGJFT3IwWng0V21jUXVBeTJHalp1bUdULXltYVF5RWw0UTZOQTNwSjJqQkViVXhxX1ltM3d1a25OV1lEMVlfT29MNHNra243V01WQkRSRmVxNXVYTDI3alBLb1ZZSEpVQ041eVdWeWo1MWo2ZWRKWlpPYldzM0p2ZlV6WE1Sa1hNZWxjOUlWQ0FNVVBfWQ?oc=5\" target=\"_blank\">Anthropic unveils Claude legal plugin and causes market meltdown</a>  Legal IT Insider</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQaHkxeUNRSTN1T2g1U3FJa2Z2V196QjZmX2xjTXhNZFhNQkJRdVVGaVNHRDJKLUtWM1BQQXZLVG03amZtei16Y1FsUFV4RlVYOVlKVTYxQzZrN2hHUDBNajdQMjB1aFhlQy1Sb1ZMRFcyeHJHQ3R1alpDLW1sRzVyN1lfRjJkTHdwSW1nYnRsaWd6amJBLUsySG5zWmF0MW9GVVFyeTlULXZlS2RBb1Blb3ROYVZVXzc0MXJ6cWp5MjRtQnFjQnhiWnRQc1k5WGl3cHFCMWtyX3VDZnc4OFNhT0U3UjMzNzNWVXRLVkNGemZyZmphaENyZl9SRDhoMWhiRkZlV0hnbXRqUdIBjwJBVV95cUxNZ3gxNHl4NGU1VWViODRPYlFFV2poc2xpU2hocWdJYnpsMWs1S081RW9jdGtBdDF2MDVmOTNZMmdILUowNk9mTm9aVFE4U3VQWGpjU0tvZ3pNV2ZQSTRacDJibjIySW51d19VMWh6Z05lbzk3cWRYVlJzakVvZ2ctTGtZeEtiWWY0Y29LU29BeTA5Y19UTE1Ob3VCbWlSV21wcndsNm51ZE9wSFp2d3JJdXFQSjZQUFlwWUM5eTJrTDVmZG14LTJDc09ibk5iYV9iRk40c2RPS042d3pKaDJpQW9DM1RPbWp1WUZicDZEZjhGTTF5RFNjOXZ6VjdsSzhGWnNVdzlnaUZFU2hHQ1dj?oc=5\" target=\"_blank\">Explained: What is Anthropic's AI tool that wiped $285 billion off software stocks in a single day</a>  Times of India</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3lpZk93ZllEZHVrOTU2azhDV0JtQTRYLTh1LVRWaEZ1U3Yyb3gtYW14SVQ3VFhja19VWmt2RWNuRlZOeFlhSXR6TGRMdHlQc3NIWXI2a1pSOXV2emw5YkJuVHNHa3I4c1VNRWl4MEdUaGdZZnhuM1RtSVdUdk9zUEJKcDlkcFYt?oc=5\" target=\"_blank\">Anthropic Claude’s Legal Plugin Poses AI Threat to Big Law’s Billable Hours</a>  Yahoo Finance</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
+          "title": "Claude Code was down, forcing developers to take a long coffee break - The Verge",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jb1VicjZaa1Y5V0N2UWROY01QREo4eFE3Ym0zVUlRbzRJTWxtdFRlSWctZEtrY0owcVJpTVZUZWZtVmZWODFlYTd5OEUzaUpiWFBFbzltYWdkTThlUnpmblJaLVFCcDF2ZDFPR2M2TWpSd3M0S0lNOTN3?oc=5",
+          "pubDate": "2026-02-03 16:05:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jb1VicjZaa1Y5V0N2UWROY01QREo4eFE3Ym0zVUlRbzRJTWxtdFRlSWctZEtrY0owcVJpTVZUZWZtVmZWODFlYTd5OEUzaUpiWFBFbzltYWdkTThlUnpmblJaLVFCcDF2ZDFPR2M2TWpSd3M0S0lNOTN3?oc=5\" target=\"_blank\">Claude Code was down, forcing developers to take a long coffee break</a>  The Verge",
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        }
+      ]
     },
     {
       "company": "amazon",
