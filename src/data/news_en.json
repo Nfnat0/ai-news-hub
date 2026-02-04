@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-03T21:34:21.568Z",
+  "fetchedAt": "2026-02-04T04:28:26.850Z",
   "locale": "en",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Google",
       "news": [
         {
+          "title": "Alphabet Conference: Google AI Chief Says Gemini 3 Is State-of-the-Art, Eyes Space Data Centers - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3R2ZlY5Ri1XRXdDT1lXRU9WVmJ5bTBRZGJvaVZqbEtDNGJsTUl5WGlvdjNDRTZJOFJ5LXQyMVJjM2FHaWJ6UFF5YTJxX0FKakdJckRNZHAxUDVzUFRfLTFUSThVeThiY1E4Q3dOMk9hWFNGWmxXekdTQUc0NTJ5QWthNlBYeDhK?oc=5",
+          "pubDate": "2026-02-04 02:07:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3R2ZlY5Ri1XRXdDT1lXRU9WVmJ5bTBRZGJvaVZqbEtDNGJsTUl5WGlvdjNDRTZJOFJ5LXQyMVJjM2FHaWJ6UFF5YTJxX0FKakdJckRNZHAxUDVzUFRfLTFUSThVeThiY1E4Q3dOMk9hWFNGWmxXekdTQUc0NTJ5QWthNlBYeDhK?oc=5\" target=\"_blank\">Alphabet Conference: Google AI Chief Says Gemini 3 Is State-of-the-Art, Eyes Space Data Centers</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "Gemini Horoscope Today: February 4, 2026 - Vogue India",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PZ2tpbVBpN1BPVndIZ1AwWUh0RFlVOXRqQVZJb2FlRWZxWDYzU1VERmx4a2dFZjlNTklrck0ybWY4WFRjeU1nRjBVOU9QMjloYVRJdFpWdGFVd0tYSk1UTlMzWXNJUm0zQmRZU3d6Y3h4T3RTN3c?oc=5",
+          "pubDate": "2026-02-04 00:20:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1PZ2tpbVBpN1BPVndIZ1AwWUh0RFlVOXRqQVZJb2FlRWZxWDYzU1VERmx4a2dFZjlNTklrck0ybWY4WFRjeU1nRjBVOU9QMjloYVRJdFpWdGFVd0tYSk1UTlMzWXNJUm0zQmRZU3d6Y3h4T3RTN3c?oc=5\" target=\"_blank\">Gemini Horoscope Today: February 4, 2026</a>  Vogue India",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
+          "title": "Google's Gemini is beating OpenAI's ChatGPT in the AI chatbot race - qz.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xbWk4SjNVeVZIQjhZOHBGNTVqc1pHYVpiZHJSUTJaSC1mZzFIUUJEVGNDN1BfMnd5NmcyMmJ0QjFIU2s0YV9kdERVS2hlQjdvenFVcUJwS1I5TjNSQmJkV2p6SFRfcWR5SUc1LVQ3SQ?oc=5",
+          "pubDate": "2026-02-03 21:08:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9xbWk4SjNVeVZIQjhZOHBGNTVqc1pHYVpiZHJSUTJaSC1mZzFIUUJEVGNDN1BfMnd5NmcyMmJ0QjFIU2s0YV9kdERVS2hlQjdvenFVcUJwS1I5TjNSQmJkV2p6SFRfcWR5SUc1LVQ3SQ?oc=5\" target=\"_blank\">Google's Gemini is beating OpenAI's ChatGPT in the AI chatbot race</a>  qz.com",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+        },
+        {
+          "title": "6 Best Gemini Photo Editing Prompts in 2026: How to Get Better AI Images - eWeek",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNXRDRm5OaE1NQjRCTTcxR3RrMmZCWER2WWl5RVloQ3BmN25sNXlubDdqc25aQ1lsWWZNemJCcTNvbC1mZUZ1aENHd25vYzlaU3lhZFZpd3hyLW1ELWFMNHZUd3dxWmNMVXVFZlNR?oc=5",
+          "pubDate": "2026-02-03 20:26:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNXRDRm5OaE1NQjRCTTcxR3RrMmZCWER2WWl5RVloQ3BmN25sNXlubDdqc25aQ1lsWWZNemJCcTNvbC1mZUZ1aENHd25vYzlaU3lhZFZpd3hyLW1ELWFMNHZUd3dxWmNMVXVFZlNR?oc=5\" target=\"_blank\">6 Best Gemini Photo Editing Prompts in 2026: How to Get Better AI Images</a>  eWeek",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        },
+        {
           "title": "In Google earnings, analysts want answers on Apple's Siri-Gemini deal - CNBC",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPempQeXlyd243VldhaG9lRXNlR0o5eWpiMm5KZFJhNGs3UFNzX3NzUDdUMExvV1FsbWVIcUUyQ2IxYy1QWTRaa2VNelhiWFRpNDA4RFNxajlYQjU5MDdpQ2RKeWtVWHc3aTRWVHdrcXkyTm1JZUpuVWNDWjU2ZEtsN0l1NXhrRnREVHJ3NURKcEh5cGJmNzRuY1hWdHVTek9Jd1dSa0pJQdIBrAFBVV95cUxPUWpkV3NRcDBLeG9jVklsLVVaUGlqU1dTb1Bubl9Xdm1zTW5LRVlIeTBRTGkwNjdiOUxTMDFaV3hTR1ctLXg0eXNGOTBVNzM3am0tdXF0SjlEc2d4RnVobHRRb3ZNdnFjQVFTZHdYdWNxUW1MYl91TEhvMTB1NF9GWXpQUkprMjhidkwwSjlIbWI2TmtjaHUtSTl0bDFlZ1M5dWRPM2MtSERLamZJ?oc=5",
           "pubDate": "2026-02-03 12:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPempQeXlyd243VldhaG9lRXNlR0o5eWpiMm5KZFJhNGs3UFNzX3NzUDdUMExvV1FsbWVIcUUyQ2IxYy1QWTRaa2VNelhiWFRpNDA4RFNxajlYQjU5MDdpQ2RKeWtVWHc3aTRWVHdrcXkyTm1JZUpuVWNDWjU2ZEtsN0l1NXhrRnREVHJ3NURKcEh5cGJmNzRuY1hWdHVTek9Jd1dSa0pJQdIBrAFBVV95cUxPUWpkV3NRcDBLeG9jVklsLVVaUGlqU1dTb1Bubl9Xdm1zTW5LRVlIeTBRTGkwNjdiOUxTMDFaV3hTR1ctLXg0eXNGOTBVNzM3am0tdXF0SjlEc2d4RnVobHRRb3ZNdnFjQVFTZHdYdWNxUW1MYl91TEhvMTB1NF9GWXpQUkprMjhidkwwSjlIbWI2TmtjaHUtSTl0bDFlZ1M5dWRPM2MtSERLamZJ?oc=5\" target=\"_blank\">In Google earnings, analysts want answers on Apple's Siri-Gemini deal</a>  CNBC",
           "thumbnail": "https://picsum.photos/seed/google-0/400/225"
-        },
-        {
-          "title": "After Nano Banana Pro: China’s AI Image Models Are Closing The Gap - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDVQTU1GT2xGSGtZRTZGMXFBR1pJZU1wQkpiWklBSXh3SmZnMnF4VTRTM0ZjQlpBS1lzUTBxandjX3dwTTZLME5fT1BoN2c1SFhTeDFnc0tSSl9pb0R1WG9HUnpvZ1d5UHVZMlh3eVRFcDVfaFdZdlZDR0dILVVFNV9jUkFvSUJRQWk0TUc0OGpBVUlSbmZHb3B4b041SHR3ZmFxQzVEU1FoQlJpWkVDTGRoZkxPUQ?oc=5",
-          "pubDate": "2026-02-03 10:38:41",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDVQTU1GT2xGSGtZRTZGMXFBR1pJZU1wQkpiWklBSXh3SmZnMnF4VTRTM0ZjQlpBS1lzUTBxandjX3dwTTZLME5fT1BoN2c1SFhTeDFnc0tSSl9pb0R1WG9HUnpvZ1d5UHVZMlh3eVRFcDVfaFdZdlZDR0dILVVFNV9jUkFvSUJRQWk0TUc0OGpBVUlSbmZHb3B4b041SHR3ZmFxQzVEU1FoQlJpWkVDTGRoZkxPUQ?oc=5\" target=\"_blank\">After Nano Banana Pro: China’s AI Image Models Are Closing The Gap</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
-        },
-        {
-          "title": "5 Ways to Use Google Gemini to Streamline Your Workday - inc.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWQxVjlKRG9YVkRWUUI0Y3FrejlzSUlOcW15ODF5R3g3NGFNcXhWLV9aUzdqaEV3OG9EeWx6MDZxR09Pbm1ncmU2SHZsX0gyN0tRMGwtaVpfSEcyT2tWZlJWRlVVMG5xY1BWUUQ5eVNYbWIyMGJMZUdNUGREcWE2Q3lhNEFzQ09KRkZpNVhKWURqcnZxTjUyRFhwUVE?oc=5",
-          "pubDate": "2026-02-03 10:12:49",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWQxVjlKRG9YVkRWUUI0Y3FrejlzSUlOcW15ODF5R3g3NGFNcXhWLV9aUzdqaEV3OG9EeWx6MDZxR09Pbm1ncmU2SHZsX0gyN0tRMGwtaVpfSEcyT2tWZlJWRlVVMG5xY1BWUUQ5eVNYbWIyMGJMZUdNUGREcWE2Q3lhNEFzQ09KRkZpNVhKWURqcnZxTjUyRFhwUVE?oc=5\" target=\"_blank\">5 Ways to Use Google Gemini to Streamline Your Workday</a>  inc.com",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
-        },
-        {
-          "title": "Gemini Live rolling out floating pill redesign on Android - 9to5Google",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWGxLbUo2Q1JueDBNbHdCYXJ5VXJMcmFLMHN2ZjVvcEVwdVRVVTlZeHprd3NZQUpQWl9VX0xiYURPVndlaFljcVBjSWZndGotVUxqT3U2dGFyanpzZDQ3WlFhU3R2Ry03ZzdWWVBIMjhKQQ?oc=5",
-          "pubDate": "2026-02-02 19:33:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBzWGxLbUo2Q1JueDBNbHdCYXJ5VXJMcmFLMHN2ZjVvcEVwdVRVVTlZeHprd3NZQUpQWl9VX0xiYURPVndlaFljcVBjSWZndGotVUxqT3U2dGFyanpzZDQ3WlFhU3R2Ry03ZzdWWVBIMjhKQQ?oc=5\" target=\"_blank\">Gemini Live rolling out floating pill redesign on Android</a>  9to5Google",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
-        },
-        {
-          "title": "Find out what’s new in the Gemini app in January's Gemini Drop. - blog.google",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1dUcFZYdTc0Z2Y4TmY1ZlV2QmxtajBEVkh3bTJhZTBNdXVKTl9jdzlxU1N5VFpCV0pSVzVfQXF6ZFhOeEVnOUNBck1HTW4tOEhfU0ZMOWdIWHU2V2s2bzFqYkJad2R5Zk5pbDN0bzY2cnFlSzFXUVlHV3RXdnZJRG9VZENoc2xLbkRz?oc=5",
-          "pubDate": "2026-01-30 17:24:05",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT1dUcFZYdTc0Z2Y4TmY1ZlV2QmxtajBEVkh3bTJhZTBNdXVKTl9jdzlxU1N5VFpCV0pSVzVfQXF6ZFhOeEVnOUNBck1HTW4tOEhfU0ZMOWdIWHU2V2s2bzFqYkJad2R5Zk5pbDN0bzY2cnFlSzFXUVlHV3RXdnZJRG9VZENoc2xLbkRz?oc=5\" target=\"_blank\">Find out what’s new in the Gemini app in January's Gemini Drop.</a>  blog.google",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI’s ChatGPT push triggers senior staff exits - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SlpZejF2dVZhZi0wYlItR1I0aVpkeE0yZUQtc2RfeG9kdnVyUlVEYnR0R0NVSEF3Mk9pUGRwN1RkWTVySFQ2clNBelhjRGJjWDhXSXpLeTdmWmRWS2NtVy0wM0ljQndUdDR4TVM0WXo?oc=5",
-          "pubDate": "2026-02-03 05:00:41",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95SlpZejF2dVZhZi0wYlItR1I0aVpkeE0yZUQtc2RfeG9kdnVyUlVEYnR0R0NVSEF3Mk9pUGRwN1RkWTVySFQ2clNBelhjRGJjWDhXSXpLeTdmWmRWS2NtVy0wM0ljQndUdDR4TVM0WXo?oc=5\" target=\"_blank\">OpenAI’s ChatGPT push triggers senior staff exits</a>  Financial Times",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "title": "ChatGPT was down for many, as OpenAI confirmed an issue — here's everything we know - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1luSmlJOFdQMGV4QzlVN3FXa0V2eDNLbU83enRGaGdSOTJoN3g1Sl9KWGpzYmpwMjdzTHRSQ0kxX1E4SjllS3JpNkhhY1dBWnVRTklxNHZQUmNIcUNfZkwyUUg4Ql92cVFhR0o1aXBJTDFtN2c1bG02YWxpWHNpejlEU1ZhZw?oc=5",
+          "pubDate": "2026-02-03 21:47:05",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1luSmlJOFdQMGV4QzlVN3FXa0V2eDNLbU83enRGaGdSOTJoN3g1Sl9KWGpzYmpwMjdzTHRSQ0kxX1E4SjllS3JpNkhhY1dBWnVRTklxNHZQUmNIcUNfZkwyUUg4Ql92cVFhR0o1aXBJTDFtN2c1bG02YWxpWHNpejlEU1ZhZw?oc=5\" target=\"_blank\">ChatGPT was down for many, as OpenAI confirmed an issue — here's everything we know</a>  TechRadar",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
-          "title": "ChatGPT GPT-4o users are raging at OpenAI on Reddit right now - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEI1eExJRDVfclppUmUzb19BWUR0OG93MTlzVFMzOFJoSXJ3aHNJSTVuY1JWLW1PSDRXSzdlN0dTUHZRN19HakozXzZIYkJLNFpUaU44VENxb3NZMWZQUkNwTnlMQjd3ZU9EX2o1M0gtVVFqME5KaUpISEhvdFIzXzBQdTVFYldIV25ESg?oc=5",
-          "pubDate": "2026-02-02 18:20:31",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEI1eExJRDVfclppUmUzb19BWUR0OG93MTlzVFMzOFJoSXJ3aHNJSTVuY1JWLW1PSDRXSzdlN0dTUHZRN19HakozXzZIYkJLNFpUaU44VENxb3NZMWZQUkNwTnlMQjd3ZU9EX2o1M0gtVVFqME5KaUpISEhvdFIzXzBQdTVFYldIV25ESg?oc=5\" target=\"_blank\">ChatGPT GPT-4o users are raging at OpenAI on Reddit right now</a>  Mashable",
+          "title": "ChatGPT Down: OpenAI Admits Outage Means It’s ‘Experiencing Issues’ - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXlHT1BEM0t4QW1iM1pqekx4aEZ6bklMMFpCM1QwVzdoQURETjBpMW1JUGdmelNpdmFjWXluaXJ5c2M4UmxGeGVxbFBkcmx4TXNDYVl5NGQ1aG9jZ3BjVEZJeGJLajRCT0hTMENzWk5mTG9rRF9VbEZFNmZOTkQtQlpCV2swUlI4UGJlczUxOHRBTTAwbGRTbGtERndvaHp3M1IzM0RlcDFSaDZYNzVESXJhOW9UVjg?oc=5",
+          "pubDate": "2026-02-03 21:40:51",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXlHT1BEM0t4QW1iM1pqekx4aEZ6bklMMFpCM1QwVzdoQURETjBpMW1JUGdmelNpdmFjWXluaXJ5c2M4UmxGeGVxbFBkcmx4TXNDYVl5NGQ1aG9jZ3BjVEZJeGJLajRCT0hTMENzWk5mTG9rRF9VbEZFNmZOTkQtQlpCV2swUlI4UGJlczUxOHRBTTAwbGRTbGtERndvaHp3M1IzM0RlcDFSaDZYNzVESXJhOW9UVjg?oc=5\" target=\"_blank\">ChatGPT Down: OpenAI Admits Outage Means It’s ‘Experiencing Issues’</a>  Forbes",
           "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
-          "title": "Introducing the Codex app - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BTXZIQmFLa3hwVHdySUJyYk42bjFNQnNYWW4xWV9iSzZsWkxXQkU2eTdEaFdubmpHQ3hpOWY3NUd2U3FhOHJBZWY5bGdxdTk3MEt1MzVHVk93MThOZEVxYQ?oc=5",
-          "pubDate": "2026-02-02 18:06:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BTXZIQmFLa3hwVHdySUJyYk42bjFNQnNYWW4xWV9iSzZsWkxXQkU2eTdEaFdubmpHQ3hpOWY3NUd2U3FhOHJBZWY5bGdxdTk3MEt1MzVHVk93MThOZEVxYQ?oc=5\" target=\"_blank\">Introducing the Codex app</a>  OpenAI",
+          "title": "ChatGPT is down for many users in major OpenAI outage - 9to5Mac",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkNYWW84Tm9TVzVobGROMm1FSExQNDhnbmFfLWNWcVlpRWJoU2E1OWFKR3FBb1cyWmhlbnVoS1FMOXhMY2FDRHh1OW02SWVGYVVtVzUyM1hlZEZPX2tOakwxTHpua0pwTVU1MHBOQlBXWlo4TXhDTUtrblduYk1YUWl6YXg?oc=5",
+          "pubDate": "2026-02-03 20:37:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkNYWW84Tm9TVzVobGROMm1FSExQNDhnbmFfLWNWcVlpRWJoU2E1OWFKR3FBb1cyWmhlbnVoS1FMOXhMY2FDRHh1OW02SWVGYVVtVzUyM1hlZEZPX2tOakwxTHpua0pwTVU1MHBOQlBXWlo4TXhDTUtrblduYk1YUWl6YXg?oc=5\" target=\"_blank\">ChatGPT is down for many users in major OpenAI outage</a>  9to5Mac",
           "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation - BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQm1QMHpFbDB4ZUxxaXkxcnpHME5oQjRqYkhaNTdvTkxMN21pek53ck5naVE2dFFfUlBUNXFWMktJdkFPRGlYVkE5WTFjVERqWUpXZjZRZDZPcDAtV09jTmtpZnZtdlFfQ01ZMTJONTRsZy15ZmlBWmFoU2E1b0JndWpVaTFtdlFvSEYxckdubVpLanQ0VVFwWTZORWZ6elJtcW9NQ29ic1NtM0lnRHJzSVlXM21UVEc2YllGVkNNMWc5Rm9GSU1fcUFvaGVIZWp0RjZGX2dmZUZwbnBW0gHiAUFVX3lxTFBwNXpmdnlPZ3c3UHF4MWd4V3JZRDM2MXQ3MUFuUDQ5RGFLblU0UWNxM0JGNm1Kam5xREZKWW1sdlpHZ3NsY3AxSXBtUGd6RTRBZGY2Q2Z1aGNuNDZuaHFxcDdSeVU0TDJlSHE1YUltMGxGUWRzajJ6TWJYTmxIMlNIMnl1dUN1dmtrQ2FWZzdlNlhjQVZVbHBPR2FOM29YeUV1WUR3R2dSbTF1N01PS1dFR3V2VTYyRmlHMDgzX2ZoaGFSVWF6bXNEenFUMlBfeS1FTGJ0V1pnYXpJYWY2R0pEQ1E?oc=5",
-          "pubDate": "2026-02-01 02:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQm1QMHpFbDB4ZUxxaXkxcnpHME5oQjRqYkhaNTdvTkxMN21pek53ck5naVE2dFFfUlBUNXFWMktJdkFPRGlYVkE5WTFjVERqWUpXZjZRZDZPcDAtV09jTmtpZnZtdlFfQ01ZMTJONTRsZy15ZmlBWmFoU2E1b0JndWpVaTFtdlFvSEYxckdubVpLanQ0VVFwWTZORWZ6elJtcW9NQ29ic1NtM0lnRHJzSVlXM21UVEc2YllGVkNNMWc5Rm9GSU1fcUFvaGVIZWp0RjZGX2dmZUZwbnBW0gHiAUFVX3lxTFBwNXpmdnlPZ3c3UHF4MWd4V3JZRDM2MXQ3MUFuUDQ5RGFLblU0UWNxM0JGNm1Kam5xREZKWW1sdlpHZ3NsY3AxSXBtUGd6RTRBZGY2Q2Z1aGNuNDZuaHFxcDdSeVU0TDJlSHE1YUltMGxGUWRzajJ6TWJYTmxIMlNIMnl1dUN1dmtrQ2FWZzdlNlhjQVZVbHBPR2FOM29YeUV1WUR3R2dSbTF1N01PS1dFR3V2VTYyRmlHMDgzX2ZoaGFSVWF6bXNEenFUMlBfeS1FTGJ0V1pnYXpJYWY2R0pEQ1E?oc=5\" target=\"_blank\">OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation</a>  BleepingComputer",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "OpenAI’s ChatGPT push triggers senior staff exits - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SlpZejF2dVZhZi0wYlItR1I0aVpkeE0yZUQtc2RfeG9kdnVyUlVEYnR0R0NVSEF3Mk9pUGRwN1RkWTVySFQ2clNBelhjRGJjWDhXSXpLeTdmWmRWS2NtVy0wM0ljQndUdDR4TVM0WXo?oc=5",
+          "pubDate": "2026-02-03 05:00:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95SlpZejF2dVZhZi0wYlItR1I0aVpkeE0yZUQtc2RfeG9kdnVyUlVEYnR0R0NVSEF3Mk9pUGRwN1RkWTVySFQ2clNBelhjRGJjWDhXSXpLeTdmWmRWS2NtVy0wM0ljQndUdDR4TVM0WXo?oc=5\" target=\"_blank\">OpenAI’s ChatGPT push triggers senior staff exits</a>  Financial Times",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
           "title": "EXCLUSIVE: OpenAI Confirms $200,000 Minimum Commitment for ChatGPT Ads - ADWEEK",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamVZN2ZGV2F0YktxMndjN3g5MWN1Z29sRGJwcm5PQ3lDZGlQLWlzVmlMRy1ucVhOTW1CN05Ub3ZPdnU0RGRvcVpGMHBUekdXX2tjVHFRS2V4YmRWVWlaaU5meGRGVXRYdGlGRHRnYlkzTHZLdzh0UThaY3VnbDhYYk1qTWM0cGdDMk5USVd1ejY0YU95dE40MW05RTFfUQ?oc=5",
           "pubDate": "2026-02-01 00:16:54",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOamVZN2ZGV2F0YktxMndjN3g5MWN1Z29sRGJwcm5PQ3lDZGlQLWlzVmlMRy1ucVhOTW1CN05Ub3ZPdnU0RGRvcVpGMHBUekdXX2tjVHFRS2V4YmRWVWlaaU5meGRGVXRYdGlGRHRnYlkzTHZLdzh0UThaY3VnbDhYYk1qTWM0cGdDMk5USVd1ejY0YU95dE40MW05RTFfUQ?oc=5\" target=\"_blank\">EXCLUSIVE: OpenAI Confirms $200,000 Minimum Commitment for ChatGPT Ads</a>  ADWEEK",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         }
       ]
     },
@@ -89,10 +89,10 @@
       "displayName": "Microsoft",
       "news": [
         {
-          "title": "Microsoft AI chief says Moltbook makes AI appear more human than it really is - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUY0OHN5cm1JUnE0UzIzWDRDSGVna1JPRjVYUGlZNlZuMVVhNTJrS2tnRlpYT1FWcHVNLTFucFlKcXNhYXU2VTVQeWlLNnhJNGJpbzAtaWJHN3NaQmVYcTh0aXJSVGxtX0oyTmQxYW1feVFHc25Yak5fSTVVeWp2SmdBZjhXTExGdHZDWEFDWXRDY2FOQ1B3?oc=5",
-          "pubDate": "2026-02-03 11:44:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUY0OHN5cm1JUnE0UzIzWDRDSGVna1JPRjVYUGlZNlZuMVVhNTJrS2tnRlpYT1FWcHVNLTFucFlKcXNhYXU2VTVQeWlLNnhJNGJpbzAtaWJHN3NaQmVYcTh0aXJSVGxtX0oyTmQxYW1feVFHc25Yak5fSTVVeWp2SmdBZjhXTExGdHZDWEFDWXRDY2FOQ1B3?oc=5\" target=\"_blank\">Microsoft AI chief says Moltbook makes AI appear more human than it really is</a>  Business Insider",
+          "title": "Microsoft AI Licensing Content Framework Gives Publishers Revenue Stream 02/03/2026 - MediaPost",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1ZkSUFtaS1jRzVoVUpuZE1Pd2R2ZTNYSE9TQkVxTmdqSnJDZGg3cDZHNzJ3T1M4MVlMSnBINnh5cnZENTBxUnBRbGtzLWxNWnBpeVBmSWFMZ2JtR0x0UUhMVGhqRFllRm54TTVXLUhPV25TdWdMRThsdFBwcmFGeW1nNDNsMDlsQnVwbTBrUno2QndocGdublBBTDNFRWVFeDFObEk0T2k1VUs4ZHc?oc=5",
+          "pubDate": "2026-02-03 21:24:42",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1ZkSUFtaS1jRzVoVUpuZE1Pd2R2ZTNYSE9TQkVxTmdqSnJDZGg3cDZHNzJ3T1M4MVlMSnBINnh5cnZENTBxUnBRbGtzLWxNWnBpeVBmSWFMZ2JtR0x0UUhMVGhqRFllRm54TTVXLUhPV25TdWdMRThsdFBwcmFGeW1nNDNsMDlsQnVwbTBrUno2QndocGdublBBTDNFRWVFeDFObEk0T2k1VUs4ZHc?oc=5\" target=\"_blank\">Microsoft AI Licensing Content Framework Gives Publishers Revenue Stream 02/03/2026</a>  MediaPost",
           "thumbnail": "https://picsum.photos/seed/microsoft-4/400/225"
         },
         {
@@ -130,39 +130,39 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "Anthropic is about to drop Sonnet 5 during Super Bowl week - TestingCatalog",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkRaQjMzTGk4bEs4LVFVTkY3SkFNbFpTS2NPaUNVd1VRbVhhZlEyMnVPRFRyQnFTNWx3VDVYTTczOGdlcVFmWEt3bVY3aEhyMkxjM0E1VDdUd1o0WXlkWElYemhWYjVSdVJDbllQU1Nka3hCeFhpUXpNVG9FbURER3BjRVVKeUdFYkJ5bGhwckl1MFJP?oc=5",
-          "pubDate": "2026-02-03 01:52:30",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkRaQjMzTGk4bEs4LVFVTkY3SkFNbFpTS2NPaUNVd1VRbVhhZlEyMnVPRFRyQnFTNWx3VDVYTTczOGdlcVFmWEt3bVY3aEhyMkxjM0E1VDdUd1o0WXlkWElYemhWYjVSdVJDbllQU1Nka3hCeFhpUXpNVG9FbURER3BjRVVKeUdFYkJ5bGhwckl1MFJP?oc=5\" target=\"_blank\">Anthropic is about to drop Sonnet 5 during Super Bowl week</a>  TestingCatalog",
+          "title": "Apple adds agents from Anthropic and OpenAI to its coding tool - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJfMXNqaFZmbjZhUlFBVjFoa0tLSGJLd1o5bGR6Y3d3eFJaY2dYWVo4XzVzRDJMTVMwZWMxd3hxREhwQXZiSW5IZURVcDhhdzFES1l4X0I2N0tIRy1pa2dvYzFLUUVTaVkzSlBZMUZpUW5rQmlieThsTGRKOVBobWtFdV9FeGVRblFrNGVVYkVrODdOTzNUYW5WREN5d9IBowFBVV95cUxOQzR6d25LdmVxQkZoRUVaT2tNdWtfNmZVVVBPR3pKRkNVWFYxY092R0wxUlZaUlF5ME15Q0IxejdfUEEzS0RQX25LQ21YUkhGSWwwaWx3TUpUSlVOTDRlSmxmNXBUM3FKMXhtTlJySjJqVXFRV2F2T0NTR0p4bENVWGZIcXZac3lkU1JjR2hxWjZxY1VIaXdOWk5TT0diX0xuV0hJ?oc=5",
+          "pubDate": "2026-02-03 20:23:53",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcDJfMXNqaFZmbjZhUlFBVjFoa0tLSGJLd1o5bGR6Y3d3eFJaY2dYWVo4XzVzRDJMTVMwZWMxd3hxREhwQXZiSW5IZURVcDhhdzFES1l4X0I2N0tIRy1pa2dvYzFLUUVTaVkzSlBZMUZpUW5rQmlieThsTGRKOVBobWtFdV9FeGVRblFrNGVVYkVrODdOTzNUYW5WREN5d9IBowFBVV95cUxOQzR6d25LdmVxQkZoRUVaT2tNdWtfNmZVVVBPR3pKRkNVWFYxY092R0wxUlZaUlF5ME15Q0IxejdfUEEzS0RQX25LQ21YUkhGSWwwaWx3TUpUSlVOTDRlSmxmNXBUM3FKMXhtTlJySjJqVXFRV2F2T0NTR0p4bENVWGZIcXZac3lkU1JjR2hxWjZxY1VIaXdOWk5TT0diX0xuV0hJ?oc=5\" target=\"_blank\">Apple adds agents from Anthropic and OpenAI to its coding tool</a>  CNBC",
           "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
-          "title": "Anthropic and Atlassian Williams F1 Team announce multi-year partnership, naming Claude the team’s ‘Official Thinking Partner’ - williamsf1",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRDFsWG1mTjlTR3B0dWpXUkJyR0JTRWplaHZ5Rk9SWHBudXM3VWxTMmY0d015Yk9UcDQzRGIzVi1RUWhraXNCaDhPVk5Ib1hrWnVaSVF6U3JQdndjMGZNMEJUZWVOQVFOQmpnQkN0Z1pNOFVOTnFfOFc1MXpmWURhV3YzS2oyS0pQMTFpek5OWl8wSU94ZUxlSWI2M1RJWmdBd3JKZGNiRDdpQTdobFlzN3BUYTJLNXpRZGdkSWpIaW15d0VjbzlPb2lpOXh0ME9IdHBjZHJrVmFqQWFOS3VRTzFBUW9zeklDdGxhOVpUUGk2dnphRm1mVw?oc=5",
-          "pubDate": "2026-02-02 13:06:32",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRDFsWG1mTjlTR3B0dWpXUkJyR0JTRWplaHZ5Rk9SWHBudXM3VWxTMmY0d015Yk9UcDQzRGIzVi1RUWhraXNCaDhPVk5Ib1hrWnVaSVF6U3JQdndjMGZNMEJUZWVOQVFOQmpnQkN0Z1pNOFVOTnFfOFc1MXpmWURhV3YzS2oyS0pQMTFpek5OWl8wSU94ZUxlSWI2M1RJWmdBd3JKZGNiRDdpQTdobFlzN3BUYTJLNXpRZGdkSWpIaW15d0VjbzlPb2lpOXh0ME9IdHBjZHJrVmFqQWFOS3VRTzFBUW9zeklDdGxhOVpUUGk2dnphRm1mVw?oc=5\" target=\"_blank\">Anthropic and Atlassian Williams F1 Team announce multi-year partnership, naming Claude the team’s ‘Official Thinking Partner’</a>  williamsf1",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
+          "title": "Apple’s Xcode now supports the Claude Agent SDK - Anthropic",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRnBUalp5eFVVdEltdzFNblYtaXlabkhVbkNQQk9ZVm54dFNPbDRQcjFiWVItWEY3WnV4RVMtVFlsMzI1MnFkSWtSTG0xTjRGWTBQUEtxek9MREpXSWNURG93cUtfUm1WSjlN?oc=5",
+          "pubDate": "2026-02-03 18:19:36",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRnBUalp5eFVVdEltdzFNblYtaXlabkhVbkNQQk9ZVm54dFNPbDRQcjFiWVItWEY3WnV4RVMtVFlsMzI1MnFkSWtSTG0xTjRGWTBQUEtxek9MREpXSWNURG93cUtfUm1WSjlN?oc=5\" target=\"_blank\">Apple’s Xcode now supports the Claude Agent SDK</a>  Anthropic",
+          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
-          "title": "Anthropic’s Claude AI Strikes F1 Partnership With Atlassian Williams - Variety",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3IwR0pWR1NxWDNWYUl3c0NlVG15UkFhWHh0dGU2VldjYkRaTHYzYzVjdFg0LXdSVFNIZXlrOWpGNjVTTUxfSTV4dnJTTkVCaTlDY1JfTFZxMDVkZHVXajlnbndELU01OHBGcjJONVpJQlY2UzVxVGlUc0NtYzBnVS02TzRBV296cy1FamxORHBjZW9JcVBSTF9LVTZOWmlH?oc=5",
-          "pubDate": "2026-02-02 13:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3IwR0pWR1NxWDNWYUl3c0NlVG15UkFhWHh0dGU2VldjYkRaTHYzYzVjdFg0LXdSVFNIZXlrOWpGNjVTTUxfSTV4dnJTTkVCaTlDY1JfTFZxMDVkZHVXajlnbndELU01OHBGcjJONVpJQlY2UzVxVGlUc0NtYzBnVS02TzRBV296cy1FamxORHBjZW9JcVBSTF9LVTZOWmlH?oc=5\" target=\"_blank\">Anthropic’s Claude AI Strikes F1 Partnership With Atlassian Williams</a>  Variety",
+          "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc09Ka2NTWlBMZnJ4M2M2ODhSVnlaWC1KSXhnRFJDQml6UjBWUUlYQWtGcnpUTVNrUGZpS3VPQXFVNmlQMUwzaEVuWldOQlZYS2EzenRmeTVzMFhTMGU2bnlxQjN5cE02X1R1LUJhV2pTN3NxNWo4NWFLQkxEV3ppR1hTbkRFeHpDdUY5NGdNOWtvU3lPUkpSdHZlN2szSGVZZlFoek13N2R6SzhzTE16bjhn?oc=5",
+          "pubDate": "2026-02-03 18:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc09Ka2NTWlBMZnJ4M2M2ODhSVnlaWC1KSXhnRFJDQml6UjBWUUlYQWtGcnpUTVNrUGZpS3VPQXFVNmlQMUwzaEVuWldOQlZYS2EzenRmeTVzMFhTMGU2bnlxQjN5cE02X1R1LUJhV2pTN3NxNWo4NWFLQkxEV3ppR1hTbkRFeHpDdUY5NGdNOWtvU3lPUkpSdHZlN2szSGVZZlFoek13N2R6SzhzTE16bjhn?oc=5\" target=\"_blank\">Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations</a>  TechCrunch",
           "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+        },
+        {
+          "title": "Anthropic unveils Claude legal plugin and causes market meltdown - Legal IT Insider",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzekVuWEVzVDZCZHBhVHJsZGJFT3IwWng0V21jUXVBeTJHalp1bUdULXltYVF5RWw0UTZOQTNwSjJqQkViVXhxX1ltM3d1a25OV1lEMVlfT29MNHNra243V01WQkRSRmVxNXVYTDI3alBLb1ZZSEpVQ041eVdWeWo1MWo2ZWRKWlpPYldzM0p2ZlV6WE1Sa1hNZWxjOUlWQ0FNVVBfWQ?oc=5",
+          "pubDate": "2026-02-03 16:56:59",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzekVuWEVzVDZCZHBhVHJsZGJFT3IwWng0V21jUXVBeTJHalp1bUdULXltYVF5RWw0UTZOQTNwSjJqQkViVXhxX1ltM3d1a25OV1lEMVlfT29MNHNra243V01WQkRSRmVxNXVYTDI3alBLb1ZZSEpVQ041eVdWeWo1MWo2ZWRKWlpPYldzM0p2ZlV6WE1Sa1hNZWxjOUlWQ0FNVVBfWQ?oc=5\" target=\"_blank\">Anthropic unveils Claude legal plugin and causes market meltdown</a>  Legal IT Insider",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
           "title": "Anthropic Moves Into Legal Tech - Artificial Lawyer",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzJHY0VNRjJSV0pSN2c4c1lIdlhDcWdYbm1yUGZJejBwZzdPTEFscEktUVRPMldYNlNqcVlvT2cxaWdRRXZ4SllGcENxbFpFdWp6TTQ1MmJWOEptTFB3NGJKbjZ1NlBxMXM0OERLRDMybkZHSC1uSVEtdkFaYXNXQnl3?oc=5",
           "pubDate": "2026-02-02 09:32:06",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzJHY0VNRjJSV0pSN2c4c1lIdlhDcWdYbm1yUGZJejBwZzdPTEFscEktUVRPMldYNlNqcVlvT2cxaWdRRXZ4SllGcENxbFpFdWp6TTQ1MmJWOEptTFB3NGJKbjZ1NlBxMXM0OERLRDMybkZHSC1uSVEtdkFaYXNXQnl3?oc=5\" target=\"_blank\">Anthropic Moves Into Legal Tech</a>  Artificial Lawyer",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
-        },
-        {
-          "title": "Claude on Mars - Anthropic",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lV3pTQmNRdDVkdHBPdkVRSWVFRWNFY1dIeEdUSjlNeVpaTzNhX0s1d1Z1RjFRbHQzLTFEb09FX2l3Si03VFkyYVowaDJhLXZ5S2xsSWoyREFOY19pb2c?oc=5",
-          "pubDate": "2026-01-30 19:55:50",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lV3pTQmNRdDVkdHBPdkVRSWVFRWNFY1dIeEdUSjlNeVpaTzNhX0s1d1Z1RjFRbHQzLTFEb09FX2l3Si03VFkyYVowaDJhLXZ5S2xsSWoyREFOY19pb2c?oc=5\" target=\"_blank\">Claude on Mars</a>  Anthropic",
-          "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3J1dnJuaDhuODZ0RnBEMnJ4YzU1THRobkIzeUdsNjFmaUpjN0lmMlZJc2ZwSHhONksycmtQN1MtLVRjb1ZBNWFiVHVyaU83SG11ZmVMQlpFak9RYmxMc3lCaVZqd2w0cHI1WElLcG9PNFpXcUQ5bGVRX3g4bnRIZlh5UldqWEZleGRYbTJzbDZMN0s4dmhjZXZnTWgwYmQyMXI0c0I2YXJUQTJlbnVINC1zMVJ3WUZMWE5mS3FXN01YaFRh?oc=5",
           "pubDate": "2026-02-02 23:49:20",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3J1dnJuaDhuODZ0RnBEMnJ4YzU1THRobkIzeUdsNjFmaUpjN0lmMlZJc2ZwSHhONksycmtQN1MtLVRjb1ZBNWFiVHVyaU83SG11ZmVMQlpFak9RYmxMc3lCaVZqd2w0cHI1WElLcG9PNFpXcUQ5bGVRX3g4bnRIZlh5UldqWEZleGRYbTJzbDZMN0s4dmhjZXZnTWgwYmQyMXI0c0I2YXJUQTJlbnVINC1zMVJ3WUZMWE5mS3FXN01YaFRh?oc=5\" target=\"_blank\">Amazon’s AI Shift With OpenAI Talks And Layoffs Meets Undervaluation Concerns</a>  simplywall.st",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
           "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models - Amazon Web Services",
@@ -189,14 +189,14 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU4NXR3MlpTNWw1M096emNwWXdlNDl5Q1Rpa0h3M0hFUnFkUW81QWdWd1RVbGVuTnNaT0kwQU5fRUxTSEN1cDIwUnAySWJfS2wtTVBNWmFzRC1LSkpTbU40RnB6MjVIbFh0b3lTdWdqMGZ1UVpVMWZzYjVSNTdUTlVtdXZzc2NWaTRCR0lDN2dqdFNVS3JtNUlCbzY5SGxFTDR4QzRnd0RfcHR4bDc0cHpB?oc=5",
           "pubDate": "2026-01-30 07:29:51",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU4NXR3MlpTNWw1M096emNwWXdlNDl5Q1Rpa0h3M0hFUnFkUW81QWdWd1RVbGVuTnNaT0kwQU5fRUxTSEN1cDIwUnAySWJfS2wtTVBNWmFzRC1LSkpTbU40RnB6MjVIbFh0b3lTdWdqMGZ1UVpVMWZzYjVSNTdUTlVtdXZzc2NWaTRCR0lDN2dqdFNVS3JtNUlCbzY5SGxFTDR4QzRnd0RfcHR4bDc0cHpB?oc=5\" target=\"_blank\">Amazon AI Cuts, Snap Spins Out AR, VR Content Studios Retreat</a>  Forbes",
-          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
         },
         {
           "title": "Amazon’s AI push raises employee climate, layoff concerns - The Wenatchee World",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBaVUVKZmxfRWo3TGR5bi03RUg3azI4dGg0dzFMS005WWRaVDk1TF8zOVU5b183bDdrZlZwZ2dMNjJmX0dVSnFnbmpSQ2VMemVFRjY4ajBRVkRqTG5WUGl6V3owMEtpenNEU1NVZTRDZVV2VlhUdWpUNW9laVVkcjhidlkwNGRRUHJ4RkhFMlFSSUxVUWZKdGFndWlxREdxUVE1bGdGN0REejFTYmRvZmJhQ0JOb0NmNGdEVmFPcG1wODJFbXp1c3pVUkRKVG4wVUtKWEIycUxMemxRRFU0?oc=5",
           "pubDate": "2026-01-29 16:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBaVUVKZmxfRWo3TGR5bi03RUg3azI4dGg0dzFMS005WWRaVDk1TF8zOVU5b183bDdrZlZwZ2dMNjJmX0dVSnFnbmpSQ2VMemVFRjY4ajBRVkRqTG5WUGl6V3owMEtpenNEU1NVZTRDZVV2VlhUdWpUNW9laVVkcjhidlkwNGRRUHJ4RkhFMlFSSUxVUWZKdGFndWlxREdxUVE1bGdGN0REejFTYmRvZmJhQ0JOb0NmNGdEVmFPcG1wODJFbXp1c3pVUkRKVG4wVUtKWEIycUxMemxRRFU0?oc=5\" target=\"_blank\">Amazon’s AI push raises employee climate, layoff concerns</a>  The Wenatchee World",
-          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
         },
         {
           "title": "Amazon’s AI push raises employee climate, layoff concerns - The Seattle Times",
@@ -212,39 +212,39 @@
       "displayName": "Meta",
       "news": [
         {
+          "title": "Shop llama crocs Flash Sales Llama Jibbitz Shoe Charm Crocs - Through The Fence Baseball",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YbEctQk1ZMy1Kbzl2X1J5QTgzTWJGcXc1Vlp1Zy16R2o3RWpIelRweEFENVlqQTlXRE9EbWtvcFkxelZNMDRJYWluaVpYUFJxRzJwVzExNUJNMHNBRjBIRGJSOXFFRHdvS3dCOFpR?oc=5",
+          "pubDate": "2026-02-03 23:02:27",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9YbEctQk1ZMy1Kbzl2X1J5QTgzTWJGcXc1Vlp1Zy16R2o3RWpIelRweEFENVlqQTlXRE9EbWtvcFkxelZNMDRJYWluaVpYUFJxRzJwVzExNUJNMHNBRjBIRGJSOXFFRHdvS3dCOFpR?oc=5\" target=\"_blank\">Shop llama crocs Flash Sales Llama Jibbitz Shoe Charm Crocs</a>  Through The Fence Baseball",
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
           "title": "Llama-3.1-8b Achieves 96.0% Math Performance With Hidden Gem Checkpoints - Quantum Zeitgeist",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekY4OUl3Vnh3LUJQS1phWVpKajdRMU5nUjF2MXU1UDVFdTBVYm5ZMUpNdHVHQmhGOEJSQjNoUndKZmF5N2NmQW00WWk2VXkzRTdjbjRCRlktVkVac0tkejNpNFYzS0RLemthTDIyamVvU19UbnR0bkdBZnIxcVNmNFFZWUx3X3l2akpBZVpB?oc=5",
           "pubDate": "2026-02-03 11:32:37",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOekY4OUl3Vnh3LUJQS1phWVpKajdRMU5nUjF2MXU1UDVFdTBVYm5ZMUpNdHVHQmhGOEJSQjNoUndKZmF5N2NmQW00WWk2VXkzRTdjbjRCRlktVkVac0tkejNpNFYzS0RLemthTDIyamVvU19UbnR0bkdBZnIxcVNmNFFZWUx3X3l2akpBZVpB?oc=5\" target=\"_blank\">Llama-3.1-8b Achieves 96.0% Math Performance With Hidden Gem Checkpoints</a>  Quantum Zeitgeist",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
-        },
-        {
-          "title": "Patriots vs. Seahawks: Meta AI predicts Super Bowl 60 winner - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkZBYWwwc2lua3VNeEt2Y3BzdFNTZzBiWWhFYVhaZ2JYV2pLeXliN1dNMkJNWG9QdlNqZFhEOWxMNDM0ZEZQamlxajJBTW5pSW1NOVBVV0RVXzA3RHdCYnFuOVdqajBVWjE5NjdleEZZWmJxbEpMN2R2N09vVWctMUx4Y2dpTUswT3RNaTVvY0xETEJXM2pna2QwZHM4T2U4V3djeGl6RkoxaG9LWkFYbG5kSlJtQmllVU55RHBNdXNNejZzQTE1Sl9fVlM1Z00?oc=5",
-          "pubDate": "2026-02-03 11:01:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkZBYWwwc2lua3VNeEt2Y3BzdFNTZzBiWWhFYVhaZ2JYV2pLeXliN1dNMkJNWG9QdlNqZFhEOWxMNDM0ZEZQamlxajJBTW5pSW1NOVBVV0RVXzA3RHdCYnFuOVdqajBVWjE5NjdleEZZWmJxbEpMN2R2N09vVWctMUx4Y2dpTUswT3RNaTVvY0xETEJXM2pna2QwZHM4T2U4V3djeGl6RkoxaG9LWkFYbG5kSlJtQmllVU55RHBNdXNNejZzQTE1Sl9fVlM1Z00?oc=5\" target=\"_blank\">Patriots vs. Seahawks: Meta AI predicts Super Bowl 60 winner</a>  USA Today",
           "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
-          "title": "Plush giraffe, llama toys sold at Hobby Lobby recalled over choking risk - NBC 5 Chicago",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3JyMmo4UkFzazhacnRXaDZYRjdLbFZOZldnOGdETUZHTHFkektHMTFUQ0RWZHZlZDVJR2Z0TEUzM0RpSFJLQ1JqNHNkcnpvaFB3RlZST1Y2RkpEZW5ETUpzbzlRMjdjTWhKZ3JLVzNiRGI5V2xYTV9sckxCeU1PaG5iREYwOXhMamJXS29ab2ZhaXMzTTBVeFVmd3AtWURFeFNNQTk0d1hFaEo3RDl5b0lIZjJfMDNDd0HSAcIBQVVfeXFMTi12cmtoN0xma29VRnowLW84M3drNTdwbktFTkJjUGpjUE4yV2ZFOXNNbElCdjYyRV92MHkwVGlEdGNDZ2E5RUdNc3NGanRLdDhOMVRZSWRvYTRjTnRjTWJnUXZNb1ZfY3lMRTNfaTNzOEJaV0JXMnhURnVoQi1uTXh0OEtjSXJVLVlaelIzTWk5N1UxTFZwUWNNenBNMEk2Y0xJQkVvWmRFcTVaRTdKZFh4Y2YyVG9aRFZaQ2IwcDBfNFE?oc=5",
-          "pubDate": "2026-02-03 02:20:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3JyMmo4UkFzazhacnRXaDZYRjdLbFZOZldnOGdETUZHTHFkektHMTFUQ0RWZHZlZDVJR2Z0TEUzM0RpSFJLQ1JqNHNkcnpvaFB3RlZST1Y2RkpEZW5ETUpzbzlRMjdjTWhKZ3JLVzNiRGI5V2xYTV9sckxCeU1PaG5iREYwOXhMamJXS29ab2ZhaXMzTTBVeFVmd3AtWURFeFNNQTk0d1hFaEo3RDl5b0lIZjJfMDNDd0HSAcIBQVVfeXFMTi12cmtoN0xma29VRnowLW84M3drNTdwbktFTkJjUGpjUE4yV2ZFOXNNbElCdjYyRV92MHkwVGlEdGNDZ2E5RUdNc3NGanRLdDhOMVRZSWRvYTRjTnRjTWJnUXZNb1ZfY3lMRTNfaTNzOEJaV0JXMnhURnVoQi1uTXh0OEtjSXJVLVlaelIzTWk5N1UxTFZwUWNNenBNMEk2Y0xJQkVvWmRFcTVaRTdKZFh4Y2YyVG9aRFZaQ2IwcDBfNFE?oc=5\" target=\"_blank\">Plush giraffe, llama toys sold at Hobby Lobby recalled over choking risk</a>  NBC 5 Chicago",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "title": "Oakley Meta Glasses | Super Bowl Ad 2026 - Meta Store",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMnRQUlJXLWNwcHplOHlfbVg0a1VlSDhHMWRSMW1odV9vdU5yaHZUMGJpeDEwMlpjRU0zbXM1ZGhfRExnM1VsU0RlNzRia09WT2tkUEFQRkxMVFZFSlFwX3ZwdzU3UQ?oc=5",
+          "pubDate": "2026-02-02 20:41:17",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMnRQUlJXLWNwcHplOHlfbVg0a1VlSDhHMWRSMW1odV9vdU5yaHZUMGJpeDEwMlpjRU0zbXM1ZGhfRExnM1VsU0RlNzRia09WT2tkUEFQRkxMVFZFSlFwX3ZwdzU3UQ?oc=5\" target=\"_blank\">Oakley Meta Glasses | Super Bowl Ad 2026</a>  Meta Store",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
         },
         {
-          "title": "What to Watch: February 2026 Highlights - Meta Store",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnBrSVdUVDhXaGJmZW1zOVFyT05rTXp5Y1BYZGpYdUg2N2Q3SHhOWm9MTDN4WDFualpZQkEtZjlQMENRXzVxRHFfT3BabzdGY2djOFFlUE9BSk5oOWxHajFUcVRuUzk4eXQ0WDhjTnAxSHplN19McmFIaEJvbXB0dlNUX18yLVRY?oc=5",
-          "pubDate": "2026-02-02 21:05:01",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnBrSVdUVDhXaGJmZW1zOVFyT05rTXp5Y1BYZGpYdUg2N2Q3SHhOWm9MTDN4WDFualpZQkEtZjlQMENRXzVxRHFfT3BabzdGY2djOFFlUE9BSk5oOWxHajFUcVRuUzk4eXQ0WDhjTnAxSHplN19McmFIaEJvbXB0dlNUX18yLVRY?oc=5\" target=\"_blank\">What to Watch: February 2026 Highlights</a>  Meta Store",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "title": "Jim Cramer on Meta: “AI Is Changing the Company’s Fortunes in a Way That Is Just Extraordinary” - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVjVFMW81VTRYcjR1d3VEdEw1OWU4V0dxb2NFcGNWNXcwNnlSOVlzd3FDclFHWGxKQjYwNmI1dWk3U2djRzBlVjJuSkxLYVBMcmZPWDU0bGhodExrbHBKOUVqYTVoSndZRVFWREhMU2d1c0JlYmIyNHVILWJwdw?oc=5",
+          "pubDate": "2026-02-02 20:18:21",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVjVFMW81VTRYcjR1d3VEdEw1OWU4V0dxb2NFcGNWNXcwNnlSOVlzd3FDclFHWGxKQjYwNmI1dWk3U2djRzBlVjJuSkxLYVBMcmZPWDU0bGhodExrbHBKOUVqYTVoSndZRVFWREhMU2d1c0JlYmIyNHVILWJwdw?oc=5\" target=\"_blank\">Jim Cramer on Meta: “AI Is Changing the Company’s Fortunes in a Way That Is Just Extraordinary”</a>  Yahoo Finance",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         },
         {
           "title": "Hobby Lobby Recalls Giraffe and Llama Plush Toys with Clips Due to Choking Hazard - CPSC.gov",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJnMS1fWXUxc3NUWEVYUm50SXlKVXQtTTl3emQza09aNGlvRk5IVHM5czhjNkYyR2NFTWRQYzc1NFNqcm94akJMc1ZLZmloRGRTcDFtcEFqQzZVa242TFpaSmpTdTR2NFZXM1M4Y2Y0UFlfOHhyaU00MDl0YThSeDQwdlV3ZjNuWk1sNzB5eHRyN0lUYUxSUEw3eVQxVlBJTTgwWUJTOVFaNnRwaHRQcUdDeDNSZw?oc=5",
           "pubDate": "2026-01-29 14:06:37",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJnMS1fWXUxc3NUWEVYUm50SXlKVXQtTTl3emQza09aNGlvRk5IVHM5czhjNkYyR2NFTWRQYzc1NFNqcm94akJMc1ZLZmloRGRTcDFtcEFqQzZVa242TFpaSmpTdTR2NFZXM1M4Y2Y0UFlfOHhyaU00MDl0YThSeDQwdlV3ZjNuWk1sNzB5eHRyN0lUYUxSUEw3eVQxVlBJTTgwWUJTOVFaNnRwaHRQcUdDeDNSZw?oc=5\" target=\"_blank\">Hobby Lobby Recalls Giraffe and Llama Plush Toys with Clips Due to Choking Hazard</a>  CPSC.gov",
-          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         }
       ]
     },
@@ -253,10 +253,17 @@
       "displayName": "xAI",
       "news": [
         {
-          "title": "🇺🇸 xAI is hiring crypto experts to teach Grok how to trade DeFi protocols, perpetual futures, and cross-exchange arbitrage in \"high-volatility 24/7 markets.\" The job posting is basically looking for people who can explain MEV-aware execution without breaking a - x.com",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51enFOY0EtWlNaUkxpQ3c2Y3c1V0xDdE4tT002Sk94bEtwVS1sUzdJemNKX0pmMHhDUGh5bmFIVzNzNGRkTXVSZ2RocE4yb0w0c095Qmd4UnNjR3FWdFFRLWF3?oc=5",
-          "pubDate": "2026-02-03 07:35:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE51enFOY0EtWlNaUkxpQ3c2Y3c1V0xDdE4tT002Sk94bEtwVS1sUzdJemNKX0pmMHhDUGh5bmFIVzNzNGRkTXVSZ2RocE4yb0w0c095Qmd4UnNjR3FWdFFRLWF3?oc=5\" target=\"_blank\">🇺🇸 xAI is hiring crypto experts to teach Grok how to trade DeFi protocols, perpetual futures, and cross-exchange arbitrage in \"high-volatility 24/7 markets.\" The job posting is basically looking for people who can explain MEV-aware execution without breaking a</a>  x.com",
+          "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFBIcGdwVUExU21FYnNxU0w2b3hjQnFWZmxQRWgyMDVJM0F4UXB2UmZWNTdMTlJ0THFNYk5Eb0RNN0pud3dUSTFiOEMtRTktRkc5WWVZdzNNMlR1Qm1QOTNGdm0yVkRWNTBlT1JYSTVwdk5VdHF2OXE3Q1o4cDdDQ0Y4dU5UcU9TaHlSb1o4cmNxUVF1SEp1U3ZuZTNCYzNLVjNjdUlnQjVaS3lQalZtc0F6TGxrTXpXeUhnYVBR?oc=5",
+          "pubDate": "2026-02-03 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFBIcGdwVUExU21FYnNxU0w2b3hjQnFWZmxQRWgyMDVJM0F4UXB2UmZWNTdMTlJ0THFNYk5Eb0RNN0pud3dUSTFiOEMtRTktRkc5WWVZdzNNMlR1Qm1QOTNGdm0yVkRWNTBlT1JYSTVwdk5VdHF2OXE3Q1o4cDdDQ0Y4dU5UcU9TaHlSb1o4cmNxUVF1SEp1U3ZuZTNCYzNLVjNjdUlnQjVaS3lQalZtc0F6TGxrTXpXeUhnYVBR?oc=5\" target=\"_blank\">UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes</a>  The Guardian",
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+        },
+        {
+          "title": "Elon Musk’s SpaceX acquires Elon Musk's xAI, including social media platform X - Mashable",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBanFZcmJ0eld2QWp0UElib0hRNU96X1M4d1g1S3pCMEtXZFljM3p4WXBXU2NvSzFYaFlySkpyNjZ2b19OLVRzeHpnMzNCVzd0czloQTNIN0pkalRIMmktdVJMV3dxaUd5aE15czk2M3VuUTQ?oc=5",
+          "pubDate": "2026-02-03 12:17:54",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBBanFZcmJ0eld2QWp0UElib0hRNU96X1M4d1g1S3pCMEtXZFljM3p4WXBXU2NvSzFYaFlySkpyNjZ2b19OLVRzeHpnMzNCVzd0czloQTNIN0pkalRIMmktdVJMV3dxaUd5aE15czk2M3VuUTQ?oc=5\" target=\"_blank\">Elon Musk’s SpaceX acquires Elon Musk's xAI, including social media platform X</a>  Mashable",
           "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
@@ -264,27 +271,20 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFdnVWtoLXRweF9iS0hUd01SS1dPQTl0S2czNWdyeWdBbnJibGcxOG0xOU1jLVVVMW5CMTRaelpyalhhYmwzUHlqNThzU3dKdV9GVFdvaTlfS1BSUVZnNjREcTd3THQwOFdUclRpY1N1aTR6cGxBRlRjdzJodXM1MGpJRTVNX19TelFzYXJlZlZGcDRWeWhsdlhST0hYQklCT3c?oc=5",
           "pubDate": "2026-02-02 23:06:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFdnVWtoLXRweF9iS0hUd01SS1dPQTl0S2czNWdyeWdBbnJibGcxOG0xOU1jLVVVMW5CMTRaelpyalhhYmwzUHlqNThzU3dKdV9GVFdvaTlfS1BSUVZnNjREcTd3THQwOFdUclRpY1N1aTR6cGxBRlRjdzJodXM1MGpJRTVNX19TelFzYXJlZlZGcDRWeWhsdlhST0hYQklCT3c?oc=5\" target=\"_blank\">Elon Musk strikes $1.25tn deal to unite SpaceX and Grok</a>  The Telegraph",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
-        },
-        {
-          "title": "Musk's SpaceX and xAI merge to make world's most valuable private company - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CT1UzVF9DTW5pSXRtQkRmV2kyQWZpWDVwM2phN09laGNyRnphNTZlSXNKczMtYkZrbms0THlPUzdiUVpyM294Rmw3NlF4NFE3U3NUUTdQMm5nRzJv?oc=5",
-          "pubDate": "2026-02-02 22:21:02",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CT1UzVF9DTW5pSXRtQkRmV2kyQWZpWDVwM2phN09laGNyRnphNTZlSXNKczMtYkZrbms0THlPUzdiUVpyM294Rmw3NlF4NFE3U3NUUTdQMm5nRzJv?oc=5\" target=\"_blank\">Musk's SpaceX and xAI merge to make world's most valuable private company</a>  BBC",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "xAI joins SpaceX - xAI",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IM29sS0RBcjVVRWhMWkUzc0ZBZGUtenNhRW1XLUpMdTNPRmVXcnprUkNjV3ZNay1zOTRUM1FOb0gzdUowN2o4Vjl3?oc=5",
           "pubDate": "2026-02-02 21:44:04",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IM29sS0RBcjVVRWhMWkUzc0ZBZGUtenNhRW1XLUpMdTNPRmVXcnprUkNjV3ZNay1zOTRUM1FOb0gzdUowN2o4Vjl3?oc=5\" target=\"_blank\">xAI joins SpaceX</a>  xAI",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "Inside Musk’s bet to hook users that turned Grok into a porn generator - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlhGS2xuX3RpSzd6aHIxdVVFazdXUHM5OGZqbXQzc0hkTy1Tb3BPUGlyOGlDaC1LVk1Qci0zSkQwMkRIZFUxTjN3aHhBcFEtaU1JNm9WRGFmNlZWbHVRTWh0VW00MFpwdUcxVk5TeUszdkdpRk1ZdWNYSWlZcS10N1NUYzFfZ1JqbUhr?oc=5",
           "pubDate": "2026-02-02 18:00:06",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlhGS2xuX3RpSzd6aHIxdVVFazdXUHM5OGZqbXQzc0hkTy1Tb3BPUGlyOGlDaC1LVk1Qci0zSkQwMkRIZFUxTjN3aHhBcFEtaU1JNm9WRGFmNlZWbHVRTWh0VW00MFpwdUcxVk5TeUszdkdpRk1ZdWNYSWlZcS10N1NUYzFfZ1JqbUhr?oc=5\" target=\"_blank\">Inside Musk’s bet to hook users that turned Grok into a porn generator</a>  The Washington Post</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFBIcGdwVUExU21FYnNxU0w2b3hjQnFWZmxQRWgyMDVJM0F4UXB2UmZWNTdMTlJ0THFNYk5Eb0RNN0pud3dUSTFiOEMtRTktRkc5WWVZdzNNMlR1Qm1QOTNGdm0yVkRWNTBlT1JYSTVwdk5VdHF2OXE3Q1o4cDdDQ0Y4dU5UcU9TaHlSb1o4cmNxUVF1SEp1U3ZuZTNCYzNLVjNjdUlnQjVaS3lQalZtc0F6TGxrTXpXeUhnYVBR?oc=5\" target=\"_blank\">UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes</a>  The Guardian</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONVN2RTJRb0pYQ3kzUTNJaFpUNDhvdzVNZV9qLUpPQktMcTNvbzd1aHdVUmVNUG1vcy1leFpPQ01HSTREdnVBS1FyRzNIcTY1QzJTa2tLekpiN1E1Z2hHUTBEbkhEVUpXcWpneGVhR2xRSGoyd0F5YUFkRkt2U19zeG51eEJFdGEyUnkyTUsza0E4YThRT0VyU1l4YjdXVUFSUUxMVGtRUTRScURjb3JCSjVQWkNEZw?oc=5\" target=\"_blank\">Elon Musk’s xAI Faces Second UK Probe For Grok Sexualized Images</a>  Bloomberg.com</li>\n</ol>",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVlhGS2xuX3RpSzd6aHIxdVVFazdXUHM5OGZqbXQzc0hkTy1Tb3BPUGlyOGlDaC1LVk1Qci0zSkQwMkRIZFUxTjN3aHhBcFEtaU1JNm9WRGFmNlZWbHVRTWh0VW00MFpwdUcxVk5TeUszdkdpRk1ZdWNYSWlZcS10N1NUYzFfZ1JqbUhr?oc=5\" target=\"_blank\">Inside Musk’s bet to hook users that turned Grok into a porn generator</a>  The Washington Post</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQODIwQXFKbTRJWUJjb0RYQ3Jic0lDLUV2MHA2M0FVc0V6RkNjWVJBUjNpRFRQT2djVDZQV0NXUkRTaFJ2WDFOYjdBSDZLajZrczYyZHdGLS1Sd1RQYUdYZFowNUhkVnViV0I5WWRCa290eElMOUd2YjB3b0s4alJPbnVVNkcwWmJSRzZ3WjF6RG5zQ1hqS29Pa0Q0cnFPY01xakY0VjBUTmtYTGQ3VWtMXzVzSWl5eGdwQ0tiQVdSWmVjZmRXdnc?oc=5\" target=\"_blank\">Elon Musk's xAI chatbot Grok faces ICO probe after allegedly creating sexual imagery of children</a>  Sky News</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObXVGMS1nWjF1VW5PZ3FKV2VPSjk5X3M2dERHeGd6SEdYNXcxTzdmS1NqbzNtcmJPMXlFcUhpM1JwUkZtOFY5YV9YdnVIMlgzUFg2MEx2QktqLWRaaEhMUHA4SUg0am1YNnoxRnRvZmduWEdxMnBQbGRhUVZNMjMzM1FrdHRGeVYyMlJsQmtGdHBhanRhaElLMEJKN2tLSEZuckpzUUxZbHZoYWZFWkVaSmd2QnRWQXh0VW0xdkhB?oc=5\" target=\"_blank\">Exclusive: Despite new curbs, Elon Musk’s Grok at times produces sexualized images - even when told subjects didn’t consent</a>  Reuters</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         }
       ]
