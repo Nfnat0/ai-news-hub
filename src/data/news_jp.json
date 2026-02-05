@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-05T12:30:05.300Z",
+  "fetchedAt": "2026-02-05T18:33:45.890Z",
   "locale": "jp",
   "companies": [
     {
@@ -52,7 +52,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbGQyZVBQUG9EeGdiSFdlNzNmVVQwMm40OGhzS0RoWGZHcDNCVW1adjNfam5QNks2aVdoaE9LZEsyNTZmRXhsNlFKZ1lvajh0Qnc?oc=5",
           "pubDate": "2026-02-04 21:50:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbGQyZVBQUG9EeGdiSFdlNzNmVVQwMm40OGhzS0RoWGZHcDNCVW1adjNfam5QNks2aVdoaE9LZEsyNTZmRXhsNlFKZ1lvajh0Qnc?oc=5\" target=\"_blank\">「Claudeに広告は表示しません」Anthropicが宣言--ChatGPTに対抗か</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "Anthropicのクロードは、OpenAIのChatGPTとは異なり広告なしを維持 執筆 - Investing.com 日本",
@@ -66,13 +66,13 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WaTNKUi1wbmxCWTgwWk9HckRybEk5bzJYNE5jYVpYTk9LYlBYRWZTelpzMHpFM1lmVTBjdk8tVGhEcmU0UW8yempaQjBiS0EwTl82SjlRdkM2Sk5ZTFQyVzhQN1VsM280VHNIb0hDRFAwX0FVR2dCdmg2TWRDTjA?oc=5",
           "pubDate": "2026-02-04 02:16:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5WaTNKUi1wbmxCWTgwWk9HckRybEk5bzJYNE5jYVpYTk9LYlBYRWZTelpzMHpFM1lmVTBjdk8tVGhEcmU0UW8yempaQjBiS0EwTl82SjlRdkM2Sk5ZTFQyVzhQN1VsM280VHNIb0hDRFAwX0FVR2dCdmg2TWRDTjA?oc=5\" target=\"_blank\">ChatGPTで障害発生 会話しづらい状態に（アスキー）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
-          "title": "AIのユーザー獲得競争激化、スーパーボウルで存在感示したいChatGPT - Bloomberg",
+          "title": "AIのユーザー獲得競争激化、スーパーボウルで存在感示したいChatGPT - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtNHJGNE5XdDE3ekMxaFNHRmtaN25fRUZ0UDQ0X1pLdTBFMmZTUTgyNldTWkZkMTMzSUpRSWtUMkVRR2ZyRFQ1QW4wWHNxZDczQjBmajV0Q1ZHWW5rcU9GVEExZlM1WUU2VGM5S3hYZ3NyRVYyV0Q4?oc=5",
           "pubDate": "2026-02-03 03:53:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAtNHJGNE5XdDE3ekMxaFNHRmtaN25fRUZ0UDQ0X1pLdTBFMmZTUTgyNldTWkZkMTMzSUpRSWtUMkVRR2ZyRFQ1QW4wWHNxZDczQjBmajV0Q1ZHWW5rcU9GVEExZlM1WUU2VGM5S3hYZ3NyRVYyV0Q4?oc=5\" target=\"_blank\">AIのユーザー獲得競争激化、スーパーボウルで存在感示したいChatGPT</a>  Bloomberg",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAtNHJGNE5XdDE3ekMxaFNHRmtaN25fRUZ0UDQ0X1pLdTBFMmZTUTgyNldTWkZkMTMzSUpRSWtUMkVRR2ZyRFQ1QW4wWHNxZDczQjBmajV0Q1ZHWW5rcU9GVEExZlM1WUU2VGM5S3hYZ3NyRVYyV0Q4?oc=5\" target=\"_blank\">AIのユーザー獲得競争激化、スーパーボウルで存在感示したいChatGPT</a>  Bloomberg.com",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
@@ -130,11 +130,18 @@
       "displayName": "Anthropic",
       "news": [
         {
+          "title": "「SaaSの死」に3つの疑問 再び株価急落、震源はAnthropicのAI新機能 - 日経クロステック",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwaUpyUXBEZlo4eERncEh6OFpYMDMtUmJEYjdfU0dHY3pibWxPaFVuR2NhYV9ha2gtX2dleUtPWnRya3V1YXdGQldVZlFqMmVVTklaSGRqTGZ6bUYxd0c3U1NOeGpXMGtZeVhkbQ?oc=5",
+          "pubDate": "2026-02-05 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAwaUpyUXBEZlo4eERncEh6OFpYMDMtUmJEYjdfU0dHY3pibWxPaFVuR2NhYV9ha2gtX2dleUtPWnRya3V1YXdGQldVZlFqMmVVTklaSGRqTGZ6bUYxd0c3U1NOeGpXMGtZeVhkbQ?oc=5\" target=\"_blank\">「SaaSの死」に3つの疑問 再び株価急落、震源はAnthropicのAI新機能</a>  日経クロステック",
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+        },
+        {
           "title": "『Anthropic Claude』が仕掛けるスーパーボウルCMでの『脱・広告』への聖戦 #エキスパートトピ（神田敏晶） - エキスパート - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGhBNV8tTG9sUGRZc0NRaUg5bkh5M1lPWUYtV2o2c0RnVkJOajJMOEduZFkwU05YYU1BTU9Gb3V2cmdscXVNU1RmQmZLZHhvWnBvZ0RIbmxobTl3dTdqY3IzNXRidjNNVzcxd1hsTGtCRmU5aFVxMzZsM0luTlhZc3RuU1pMX2Fi?oc=5",
           "pubDate": "2026-02-05 01:34:57",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGhBNV8tTG9sUGRZc0NRaUg5bkh5M1lPWUYtV2o2c0RnVkJOajJMOEduZFkwU05YYU1BTU9Gb3V2cmdscXVNU1RmQmZLZHhvWnBvZ0RIbmxobTl3dTdqY3IzNXRidjNNVzcxd1hsTGtCRmU5aFVxMzZsM0luTlhZc3RuU1pMX2Fi?oc=5\" target=\"_blank\">『Anthropic Claude』が仕掛けるスーパーボウルCMでの『脱・広告』への聖戦 #エキスパートトピ（神田敏晶） - エキスパート</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "GitHubコーディングエージェントでAnthropicのClaudeとOpenAI Codexが利用可能に - The GitHub Blog",
@@ -142,13 +149,6 @@
           "pubDate": "2026-02-05 01:05:50",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkhUM1V6bVJ3Yk9lTGw0RTAta2xPY1AySklWU3ZKWEp6SnJKTXVkMkQtYW9TMUYyZ3lkQXZyRG4zVmhpRUFRMC1mQW8xMmJ4UmFzUS1QTWkzUWYxenN4MDlpX00xbkJWdEFaZHJkZVZGc0dWX1g4TWdHZ2s5ZnFvdE9xalFhRVpNN3BB?oc=5\" target=\"_blank\">GitHubコーディングエージェントでAnthropicのClaudeとOpenAI Codexが利用可能に</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
-        },
-        {
-          "title": "「Claudeに広告は表示しません」Anthropicが宣言--ChatGPTに対抗か - CNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbGQyZVBQUG9EeGdiSFdlNzNmVVQwMm40OGhzS0RoWGZHcDNCVW1adjNfam5QNks2aVdoaE9LZEsyNTZmRXhsNlFKZ1lvajh0Qnc?oc=5",
-          "pubDate": "2026-02-04 21:50:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zbGQyZVBQUG9EeGdiSFdlNzNmVVQwMm40OGhzS0RoWGZHcDNCVW1adjNfam5QNks2aVdoaE9LZEsyNTZmRXhsNlFKZ1lvajh0Qnc?oc=5\" target=\"_blank\">「Claudeに広告は表示しません」Anthropicが宣言--ChatGPTに対抗か</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
           "title": "Anthropic、AIへの広告導入はしないと宣言 「Claudeは思考のための純粋な道具であるべき」 - ITmedia",
@@ -162,7 +162,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbG10ekRXTW5DWW9YeXRfZEx6WUh2NVIwYWtmMjJYa3VZU1RaMmdzbWNSVkFpdDdyY2xUbVpuV2ZPaUhHcWxwWG1pOGlWUHFSa0FMVkc5T281c2N1R2FpQkhIZ2pXczA?oc=5",
           "pubDate": "2026-02-04 06:32:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbG10ekRXTW5DWW9YeXRfZEx6WUh2NVIwYWtmMjJYa3VZU1RaMmdzbWNSVkFpdDdyY2xUbVpuV2ZPaUhHcWxwWG1pOGlWUHFSa0FMVkc5T281c2N1R2FpQkhIZ2pXczA?oc=5\" target=\"_blank\">サーバーワークス、Anthropicの生成AIモデル「Claude」をAWS上で正規ライセンス販売</a>  クラウド Watch",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         }
       ]
     },
@@ -212,13 +212,6 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "オークリー × Meta、AIスマートグラスのクールなスーパーボウルCM スパイク・リー、iShowSpeedらが登場（CAGE） - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WaE1JUWFxTnhIUGtOVTJGWTZQRUpFWjBJcmtlc3hBeEtTbE54cThLTjY0WkxSV2lnWVo4cFlWYW5aMDdLOHNGYUFLazhSbk1zcm1fM1VOOXZQZ0s4dU92RXZqRjkxeDJqbUhjcV9nVERuMzg5TTE0aA?oc=5",
-          "pubDate": "2026-02-04 22:16:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1WaE1JUWFxTnhIUGtOVTJGWTZQRUpFWjBJcmtlc3hBeEtTbE54cThLTjY0WkxSV2lnWVo4cFlWYW5aMDdLOHNGYUFLazhSbk1zcm1fM1VOOXZQZ0s4dU92RXZqRjkxeDJqbUhjcV9nVERuMzg5TTE0aA?oc=5\" target=\"_blank\">オークリー × Meta、AIスマートグラスのクールなスーパーボウルCM スパイク・リー、iShowSpeedらが登場（CAGE）</a>  ｄメニューニュース",
-          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
-        },
-        {
           "title": "オークリー × Meta、AIスマートグラスのクールなスーパーボウルCM スパイク・リー、iShowSpeedらが登場 - ニフティニュース",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Tlk2ZklpRWJmbDBQM2dEWm9lNjlhb3BIRXJnOXNPem9nQ3pZdUVHWWVMYnp3MGdmTFVnd1pyT0FGYUYzeXhtU01UWUJHTzloZzJtcVRKZXc1dUxoNW1La2ZFbTRYUQ?oc=5",
           "pubDate": "2026-02-04 22:00:40",
@@ -226,18 +219,25 @@
           "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
+          "title": "オークリー × Meta、AIスマートグラスのクールなスーパーボウルCM スパイク・リー、iShowSpeedらが登場（CAGE） - ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UVJ2bHEyTEdRT3pJaG1WVHNwekJYVXhYWWhrT0YzYlZOcWhGX3lHQkNSSGctRkpUakpkLVZqSWx4UU02RjZIQ1pyMzljNlNvQ0xEZlNGekZZbGZhb01oWHl5dGhQQ0xud202MHMtTUVhQ1AwcTdPeGFMeFQzZw?oc=5",
+          "pubDate": "2026-02-04 22:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UVJ2bHEyTEdRT3pJaG1WVHNwekJYVXhYWWhrT0YzYlZOcWhGX3lHQkNSSGctRkpUakpkLVZqSWx4UU02RjZIQ1pyMzljNlNvQ0xEZlNGekZZbGZhb01oWHl5dGhQQ0xud202MHMtTUVhQ1AwcTdPeGFMeFQzZw?oc=5\" target=\"_blank\">オークリー × Meta、AIスマートグラスのクールなスーパーボウルCM スパイク・リー、iShowSpeedらが登場（CAGE）</a>  ｄメニューニュース",
+          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+        },
+        {
           "title": "Tschüss, ChatGPT-Abo! Llama 3.1 &amp; DeepSeek lokal nutzen – So baust du dir mit dem Mac mini M4 Pro deine eigene, private KI-Zentrale - Xpert.Digital - Konrad Wolfenstein",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnhQbDZPUThRajlUYVhFc0k4eDR3MHBHSFE3bFJKLWE3d0phQjhjYTNjZVllUmtfQnZXWDBmMzdoMkNYUDAyM1dKNFVjXzhua1BjeTU3aktSOEk1dDZ5by00YnZ4MFBCdlhaNURWMnYwRWhSZXVlak12Z1lXa0FvMmh0TEhQTy11X280R18tUzNhZ3FRSHhieWJCVXpTMzU5Wk9fck80aUo2eVdlYmJhYjhTMlRpNE5zcHh6a3lXV0lXOFpHU204R2V30gHSAUFVX3lxTE1SV1BPeDJXLXVGWG5tNVA5ZGJRNmNfcTAwSVlwQS1SSURTRDdFT25raGxRdk5qazhrVVU2RE9Sbm53TVNQSGFSWVYwSVh4aFdxbktrZ01ZTXdzUlNPNmVQbjRpVG1rT1BBcUpUR0hEVW45Xzh3cGt3Tmo4dlpsaHZSeFFKZENJYjZNZG1TYTJOenNoWHZZdV81UVBtMk1YZU5nTS1qQVJLZU1aWEIyTDNTd2RHZmEzVHVrNHBhT3FjNWY5d3hrNVN0clI1WXBLUFRLZw?oc=5",
           "pubDate": "2026-02-04 07:20:29",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnhQbDZPUThRajlUYVhFc0k4eDR3MHBHSFE3bFJKLWE3d0phQjhjYTNjZVllUmtfQnZXWDBmMzdoMkNYUDAyM1dKNFVjXzhua1BjeTU3aktSOEk1dDZ5by00YnZ4MFBCdlhaNURWMnYwRWhSZXVlak12Z1lXa0FvMmh0TEhQTy11X280R18tUzNhZ3FRSHhieWJCVXpTMzU5Wk9fck80aUo2eVdlYmJhYjhTMlRpNE5zcHh6a3lXV0lXOFpHU204R2V30gHSAUFVX3lxTE1SV1BPeDJXLXVGWG5tNVA5ZGJRNmNfcTAwSVlwQS1SSURTRDdFT25raGxRdk5qazhrVVU2RE9Sbm53TVNQSGFSWVYwSVh4aFdxbktrZ01ZTXdzUlNPNmVQbjRpVG1rT1BBcUpUR0hEVW45Xzh3cGt3Tmo4dlpsaHZSeFFKZENJYjZNZG1TYTJOenNoWHZZdV81UVBtMk1YZU5nTS1qQVJLZU1aWEIyTDNTd2RHZmEzVHVrNHBhT3FjNWY5d3hrNVN0clI1WXBLUFRLZw?oc=5\" target=\"_blank\">Tschüss, ChatGPT-Abo! Llama 3.1 &amp; DeepSeek lokal nutzen – So baust du dir mit dem Mac mini M4 Pro deine eigene, private KI-Zentrale</a>  Xpert.Digital - Konrad Wolfenstein",
-          "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5",
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
-          "thumbnail": "https://picsum.photos/seed/meta-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
           "title": "Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説 - AIsmiley",
@@ -264,7 +264,7 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WVlMYlF3S0daMWhUUlNLaWxhRU02bFNmWjNFb3ZYNUxZT0RzYThqRG5ibkNlQXJ5M2dKNkZHbkswMkluemgwNDVuZnlCWFJ2dW1hNDN1MmtPeXJPMDlWdU40ckV5bDVka2lKekxNck5LaVhoTWh0eA?oc=5",
           "pubDate": "2026-02-03 17:42:51",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE54WVlMYlF3S0daMWhUUlNLaWxhRU02bFNmWjNFb3ZYNUxZT0RzYThqRG5ibkNlQXJ5M2dKNkZHbkswMkluemgwNDVuZnlCWFJ2dW1hNDN1MmtPeXJPMDlWdU40ckV5bDVka2lKekxNck5LaVhoTWh0eA?oc=5\" target=\"_blank\">「グロック」、自主規制後も性的画像生成 管理不適切なら罰則も</a>  ロイター",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "時給2万円も！ xAIがGrokトレーナーにプロ作家ら募集もハードル高すぎ - ギズモード・ジャパン",
@@ -274,10 +274,10 @@
           "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
-          "title": "マスク氏率いるスペースＸ、「Ｘ」や対話型ＡＩ「グロック」傘下に持つ「ｘＡＩ」買収…「ＡＩ発展の唯一の手段は宇宙」 - 読売新聞オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSlh5LXhYN2pWTWJUa1ZWQkgwRkVOaEtJMlJrYWptcFN4dXFyYlFXT29IZEtVbzVJX2JmeUViYTJfN2IxS0x5cTdLZzJabzFVcFFkWGFqTnN5RXBodVhlWFVvYVI?oc=5",
-          "pubDate": "2026-02-03 01:49:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSlh5LXhYN2pWTWJUa1ZWQkgwRkVOaEtJMlJrYWptcFN4dXFyYlFXT29IZEtVbzVJX2JmeUViYTJfN2IxS0x5cTdLZzJabzFVcFFkWGFqTnN5RXBodVhlWFVvYVI?oc=5\" target=\"_blank\">マスク氏率いるスペースＸ、「Ｘ」や対話型ＡＩ「グロック」傘下に持つ「ｘＡＩ」買収…「ＡＩ発展の唯一の手段は宇宙」</a>  読売新聞オンライン",
+          "title": "イーロン・マスクのxAI、動画生成AI最新モデル「Grok Imagine 1.0」を発表 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KTnZ2NDUwakgxSEN6X0NvQTBUQWpvMmwxWHExX2pHaU5sMGtKaldiRzFWR3JWS0VwdXRCbFYyd3FUSVNpdzhUbXl0UF9HWWpxTGNv?oc=5",
+          "pubDate": "2026-02-02 23:03:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KTnZ2NDUwakgxSEN6X0NvQTBUQWpvMmwxWHExX2pHaU5sMGtKaldiRzFWR3JWS0VwdXRCbFYyd3FUSVNpdzhUbXl0UF9HWWpxTGNv?oc=5\" target=\"_blank\">イーロン・マスクのxAI、動画生成AI最新モデル「Grok Imagine 1.0」を発表</a>  ビジネス+IT",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
@@ -285,7 +285,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOR1JOalJHMENlZjZXNURMUVhwNEs2VENpWGI0ZU5BZjlNYUhqT09kV2N5WVYzSng3Q2plS0NqbzgwZUZjWjJKV0V5WGQtdkdieHB1alNZRHdIS0JMTkk5dW9VSmhOLTJpbHJ1bDliXzdWZ0c5TUs1OG9CX1BOZVE?oc=5",
           "pubDate": "2026-02-02 16:06:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBOR1JOalJHMENlZjZXNURMUVhwNEs2VENpWGI0ZU5BZjlNYUhqT09kV2N5WVYzSng3Q2plS0NqbzgwZUZjWjJKV0V5WGQtdkdieHB1alNZRHdIS0JMTkk5dW9VSmhOLTJpbHJ1bDliXzdWZ0c5TUs1OG9CX1BOZVE?oc=5\" target=\"_blank\">これまでにない最大の飛躍 ～xAI、画像・動画生成AI「Grok Imagine 1.0」を発表（窓の杜）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         }
       ]
     }
