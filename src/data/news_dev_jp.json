@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-06T07:27:58.435Z",
+  "fetchedAt": "2026-02-06T13:40:16.137Z",
   "locale": "jp",
   "companies": [
     {
@@ -48,25 +48,25 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub CopilotがVisual Studio向けの1月アップデートを公開 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNmdxZnRJWi1fU25ST0RXY2ptdzA2dGpxX1NlYTI5YVJYbFNRWlhSbmtEMFR0V09YbEl5aTFta3JaZU0yMm1rZUJ0d00wdw?oc=5",
+          "pubDate": "2026-02-06 05:05:56",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNmdxZnRJWi1fU25ST0RXY2ptdzA2dGpxX1NlYTI5YVJYbFNRWlhSbmtEMFR0V09YbEl5aTFta3JaZU0yMm1rZUJ0d00wdw?oc=5\" target=\"_blank\">GitHub CopilotがVisual Studio向けの1月アップデートを公開</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
           "title": "GitHub CopilotがVS Code向けの1月アップデートを発表 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RUmZGUFFtV1N6VnE5ZTdiQ2ZHbFZZdDRGT0p4MHlFcnBLRmh6bkJRY2lheGRlanhyRlQzckJqRU1ELW8yYldJdjM3ME41Zw?oc=5",
           "pubDate": "2026-02-05 23:03:45",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RUmZGUFFtV1N6VnE5ZTdiQ2ZHbFZZdDRGT0p4MHlFcnBLRmh6bkJRY2lheGRlanhyRlQzckJqRU1ELW8yYldJdjM3ME41Zw?oc=5\" target=\"_blank\">GitHub CopilotがVS Code向けの1月アップデートを発表</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "コードエディタに統合するAIエージェントを自由に選べる「ACP（Agent Client Protocol）レジストリ」始動。Gemini CLIやGitHub Copilot、OpenCodeなどが対応 - Publickey",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmhXTGNOTXhId1hRaTN2ZWdkQlNkUWJQM2QyWFpXdWxyR09QTmVwMDVzU3QyWEd1ZDQ2VkRPbDJfNldaVmdJMmItNm1oN09JNzdua0NuWUpXaHZXZ0xJdGsySUFnM2V4dnY5N0xCZjdoQ243dlpkS2VZcWpwczdBSnRkcnR3ZW9DNjhlSUNwOGlydkhHV1JlT0JQMDdsQQ?oc=5",
           "pubDate": "2026-02-05 13:41:50",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVmhXTGNOTXhId1hRaTN2ZWdkQlNkUWJQM2QyWFpXdWxyR09QTmVwMDVzU3QyWEd1ZDQ2VkRPbDJfNldaVmdJMmItNm1oN09JNzdua0NuWUpXaHZXZ0xJdGsySUFnM2V4dnY5N0xCZjdoQ243dlpkS2VZcWpwczdBSnRkcnR3ZW9DNjhlSUNwOGlydkhHV1JlT0JQMDdsQQ?oc=5\" target=\"_blank\">コードエディタに統合するAIエージェントを自由に選べる「ACP（Agent Client Protocol）レジストリ」始動。Gemini CLIやGitHub Copilot、OpenCodeなどが対応</a>  Publickey",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
-        },
-        {
-          "title": "GitHub Copilot Pro+、EnterpriseでClaudeとCodexの利用が可能に - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SjgxRzkxNHRqUEpJblhnTjNCOTh3cThSLTJIV2RZX3dJT1ZfeC1PVnB1S3Q0ZkhCZHNDV0NvNWtEOWJ4OUUwbW9JYjhrQQ?oc=5",
-          "pubDate": "2026-02-05 07:02:31",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SjgxRzkxNHRqUEpJblhnTjNCOTh3cThSLTJIV2RZX3dJT1ZfeC1PVnB1S3Q0ZkhCZHNDV0NvNWtEOWJ4OUUwbW9JYjhrQQ?oc=5\" target=\"_blank\">GitHub Copilot Pro+、EnterpriseでClaudeとCodexの利用が可能に</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に - Digital PR Platform",
@@ -80,7 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5",
           "pubDate": "2026-02-03 04:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5\" target=\"_blank\">「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         }
       ]
     },
@@ -96,18 +96,18 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "GitHubとVS CodeにClaudeとCodexが統合 - マルチエージェント開発が本格化 - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wV1VoUUk1ekFKcGVJdmlINVcySUs3RUpUNDdfOENGT2NHUjlpRDdMaTZxLXRRMTVpdzRWRDduZnFpWkdqakd5bmZSUmRMYTRkMEl2Y203b1lNVUZtSUxMV00wRFdWTHg2LXlsS2tnWEhKc3prcVlz0gF8QVVfeXFMTk9BTEpTUzR6TDNBYUNWaHhiWFdsblduUVpqNndGd3V2VWxmTzJEem1UUnVsdFQ4cm84UFBCbFh6NXVfWEdpYmx4ZHFGMkNMNVBCdWMzdjNZenZCU0VjUXVQR1hDd1cyYWttVENPS1JsdFFoRGxnTXEyMV85ag?oc=5",
-          "pubDate": "2026-02-05 04:05:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE0wV1VoUUk1ekFKcGVJdmlINVcySUs3RUpUNDdfOENGT2NHUjlpRDdMaTZxLXRRMTVpdzRWRDduZnFpWkdqakd5bmZSUmRMYTRkMEl2Y203b1lNVUZtSUxMV00wRFdWTHg2LXlsS2tnWEhKc3prcVlz0gF8QVVfeXFMTk9BTEpTUzR6TDNBYUNWaHhiWFdsblduUVpqNndGd3V2VWxmTzJEem1UUnVsdFQ4cm84UFBCbFh6NXVfWEdpYmx4ZHFGMkNMNVBCdWMzdjNZenZCU0VjUXVQR1hDd1cyYWttVENPS1JsdFFoRGxnTXEyMV85ag?oc=5\" target=\"_blank\">GitHubとVS CodeにClaudeとCodexが統合 - マルチエージェント開発が本格化</a>  ｄメニューニュース",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
           "title": "「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5",
           "pubDate": "2026-02-05 04:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5\" target=\"_blank\">「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        },
+        {
+          "title": "ユーザー向けにパブリックプレビューで提供開始 - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rRG1oNGRGM3FyaFJ0R2xkQTdvMWxGOU95NHpJbEpUcThMOHdBcEtFSmVuUlFkZ2JZQ1VuRnNBY28wcm9uSkpnTzdZb0NsOFlBMVZjZDB0TDd4aDdWdlZ4dDBfNTVTcFV0emdXQ3J5OGZJYlk?oc=5",
+          "pubDate": "2026-02-05 03:46:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5rRG1oNGRGM3FyaFJ0R2xkQTdvMWxGOU95NHpJbEpUcThMOHdBcEtFSmVuUlFkZ2JZQ1VuRnNBY28wcm9uSkpnTzdZb0NsOFlBMVZjZDB0TDd4aDdWdlZ4dDBfNTVTcFV0emdXQ3J5OGZJYlk?oc=5\" target=\"_blank\">ユーザー向けにパブリックプレビューで提供開始</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に - Digital PR Platform",
@@ -130,39 +130,39 @@
       "displayName": "AWS Kiro",
       "news": [
         {
+          "title": "Kiro で Opus 4.6 が利用可能になりました - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeFJ1MHg2MjdYU29HYkNDVEI1ZTBtNExpSTFhRWVNUjBrWTlya1NFM053YkVOckMzS20tb1JvM0RhOWdJQ0JZM250bWZjbThsN0lmdjRkRV96YjlaU0ZUQQ?oc=5",
+          "pubDate": "2026-02-06 03:48:58",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeFJ1MHg2MjdYU29HYkNDVEI1ZTBtNExpSTFhRWVNUjBrWTlya1NFM053YkVOckMzS20tb1JvM0RhOWdJQ0JZM250bWZjbThsN0lmdjRkRV96YjlaU0ZUQQ?oc=5\" target=\"_blank\">Kiro で Opus 4.6 が利用可能になりました</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+        },
+        {
           "title": "Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5",
           "pubDate": "2026-01-22 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMnY0WUdva2ZaZmNKMXZrRHdfUk9jZWlLb2Q1US1XdVNQTHVHN3BOSWRPMDdxUXBVS1lYWkZ5SGlPQ3l4STV5SVVINDdHa1BnbGZzSTYxMXdOZTRPLUZwZllvV3VlQWF2U2Y4M2J3S3lsWGc?oc=5\" target=\"_blank\">Kiro CLI 新機能まとめ : v1.21.0 から v1.23.0 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
           "title": "Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5",
           "pubDate": "2025-11-29 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmlObmlCRnM0WWtuQUdvSkNaRVEzR00xTFRGeVA5QUhPN2dMYU5lTUJoNUd0ODVHdXd3YVhqSTJUb3ROcDRqYklFc2swSEJ5TUhlZVFQY19MMjdlQkFNQ0s5M0J0Mm9rcVJES2lSNVh1X1hIX2Q2MDBnVlJna2FObEdISXRtZDBOcGY3UnA0eGFZUjJfbG9CdUFR?oc=5\" target=\"_blank\">Kiro をはじめる第一歩：あなたに合った学習パスを見つける | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
-        },
-        {
-          "title": "Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5",
-          "pubDate": "2025-11-21 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsN19XOGF1TEZFcnk3aUZxRGdVejl5UkF5QmxlQ3ZBMG4tZDYtSUE2aE9sQXJoSXlGN0docW52czVCMEJaYy1KanFIUzVpMGZnLUV2Wnk3NzdCMEQ4M0FKUmFtbHQxOVZfaTZNaEdkczNLMXlvY1lIdTBGQW5mVlFtZ0tQSlJBdThKWThxcw?oc=5\" target=\"_blank\">Kiro を組織で利用するためのセキュリティとガバナンス | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
           "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
           "pubDate": "2025-11-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
         },
         {
           "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
           "pubDate": "2025-07-15 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
     },
@@ -192,10 +192,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
-          "title": "「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4) - ASCII.jp",
+          "title": "「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4) - ascii.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5",
           "pubDate": "2026-01-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5\" target=\"_blank\">「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4)</a>  ASCII.jp",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5\" target=\"_blank\">「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4)</a>  ascii.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
