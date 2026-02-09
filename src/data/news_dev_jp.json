@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-09T07:36:55.298Z",
+  "fetchedAt": "2026-02-09T13:53:06.205Z",
   "locale": "jp",
   "companies": [
     {
@@ -48,24 +48,24 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "ターミナルで動作するAIコーディングエージェント「GitHub Copilot CLI」v0.0.406 ほか - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5",
+          "pubDate": "2026-02-09 09:07:35",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5\" target=\"_blank\">ターミナルで動作するAIコーディングエージェント「GitHub Copilot CLI」v0.0.406 ほか</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
+          "title": "GitHub Copilot、Claude Opus 4.6「Fast mode」をプレビュー提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPYmQ5T0ZXU3B5cEhvYXBuUEdVbDFKV3FhZVhMVkVJNDVVNE1mN1liZWJmay0tcGp1NWRZLW4wUjNNVnlJaUwwYklEbWI0QQ?oc=5",
+          "pubDate": "2026-02-09 08:37:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPYmQ5T0ZXU3B5cEhvYXBuUEdVbDFKV3FhZVhMVkVJNDVVNE1mN1liZWJmay0tcGp1NWRZLW4wUjNNVnlJaUwwYklEbWI0QQ?oc=5\" target=\"_blank\">GitHub Copilot、Claude Opus 4.6「Fast mode」をプレビュー提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
           "title": "GitHub CopilotでClaude Opus 4.6の提供を開始 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5",
           "pubDate": "2026-02-09 00:04:34",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5\" target=\"_blank\">GitHub CopilotでClaude Opus 4.6の提供を開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
-        },
-        {
-          "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に | GitHub Japan - Digital PR Platform",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5",
-          "pubDate": "2026-02-05 02:33:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5\" target=\"_blank\">GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に | GitHub Japan</a>  Digital PR Platform",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
-          "title": "「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5",
-          "pubDate": "2026-02-03 04:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5\" target=\"_blank\">「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "GitHub Copilot SDKの発表 - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5\" target=\"_blank\">GitHub Copilot SDKの発表</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -151,18 +151,18 @@
           "thumbnail": "https://picsum.photos/seed/kiro-3/400/225"
         },
         {
+          "title": "Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5",
+          "pubDate": "2025-11-19 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWi1fQWlJN29XcHhGZUNMbEM5V3J1X0VYbDI1XzhpOXQzMVpWdFdSRWhZa01HRnNGQ2VOUlBHWFdTU3l6TF9OTDk1ZVpQUjlKc3Yzc2VVNi1RQVd2Q0o5S2RwZnQteFRsMWlrSml2aHZXSnF6akVLMUc3NU9qVGhNTGgza05DMlh0eXZyLXMwODM?oc=5\" target=\"_blank\">Kiro 導入ガイド：始める前に知っておくべきすべてのこと | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
+        },
+        {
           "title": "Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5",
           "pubDate": "2025-11-18 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZzVMVU1FZ2pSR183R1o4TEYzWHU5UDc0RjdwOWk0TVRib2VIbVBaM2IzUHJhbTVYWk1UcTMyYWFMZklnd0RKUk9McUxkNGIxY2wxczg0bDhoTnRRazQ2YWtXVkE2S1hITFE?oc=5\" target=\"_blank\">Kiro が一般提供開始: IDE とターミナルでチームと共に開発 | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-2/400/225"
-        },
-        {
-          "title": "Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ - Amazon Web Services (AWS)",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5",
-          "pubDate": "2025-07-15 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4bXZEQnRqOHpjQTJrLVZhRFZHenhEYWVfcmJtWFV6QkpGblRSVEJpQkN0MUFiOXU0aXNjNE9GNkZMdUJGaFk2WWhfblljN1p3TzE1a3dvRlNfNjB6YWpsZGkxT0s?oc=5\" target=\"_blank\">Kiro のご紹介 – プロトタイプからプロダクションまで、あなたと共に働く新しい Agentic IDE | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
     },
@@ -194,7 +194,7 @@
         {
           "title": "Google Antigravity、エージェント拡張機能「Skills」の搭載を発表 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSW4xOXRTdUptMmluNmFQTVhiMTZuZHB5Q0NRb1p1V3NQWG84dVVHT1JTZGRjRjh6bTNDSk5aR1RITjRSYTMteU9WNzllUQ?oc=5",
-          "pubDate": "2026-01-14 08:00:00",
+          "pubDate": "2026-01-14 07:30:46",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qSW4xOXRTdUptMmluNmFQTVhiMTZuZHB5Q0NRb1p1V3NQWG84dVVHT1JTZGRjRjh6bTNDSk5aR1RITjRSYTMteU9WNzllUQ?oc=5\" target=\"_blank\">Google Antigravity、エージェント拡張機能「Skills」の搭載を発表</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
