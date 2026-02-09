@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-09T01:00:49.776Z",
+  "fetchedAt": "2026-02-09T06:51:57.960Z",
   "locale": "jp",
   "companies": [
     {
@@ -169,7 +169,43 @@
     {
       "company": "amazon",
       "displayName": "Amazon",
-      "news": []
+      "news": [
+        {
+          "title": "Amazon、AI活用で映画・TV制作を加速。3月にベータ開始、ハリウッドに波紋 - innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tNzM3anBncm55bWN5aGEyQ3NMRU9rS2duLXhaQnhxOEttaEtsQ3pEdENzWFpJakpvaEpBOEJIMmNINTk3VWtWNE5qWnJkRjBkQWpqUmRyYmhtMXV4WS1HZE9uUm1CdUtTOHdj?oc=5",
+          "pubDate": "2026-02-05 23:37:13",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1tNzM3anBncm55bWN5aGEyQ3NMRU9rS2duLXhaQnhxOEttaEtsQ3pEdENzWFpJakpvaEpBOEJIMmNINTk3VWtWNE5qWnJkRjBkQWpqUmRyYmhtMXV4WS1HZE9uUm1CdUtTOHdj?oc=5\" target=\"_blank\">Amazon、AI活用で映画・TV制作を加速。3月にベータ開始、ハリウッドに波紋</a>  innovaTopia",
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+        },
+        {
+          "title": "Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5",
+          "pubDate": "2025-10-29 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5\" target=\"_blank\">Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表</a>  日本経済新聞",
+          "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
+        },
+        {
+          "title": "Amazon、AIスマートグラスを配達業務に導入--配達員の視界にナビや荷物情報を表示 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTE1ickJsR1dFU3ItTHBjeXZJSzdkVUVfRm5TUnR3Zlo2SWo3dG1FVXMzT0lsakp2TmVWcTFCOVBkNzBsRFNQbHVUWlYycGxYbjRn?oc=5",
+          "pubDate": "2025-10-23 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTE1ickJsR1dFU3ItTHBjeXZJSzdkVUVfRm5TUnR3Zlo2SWo3dG1FVXMzT0lsakp2TmVWcTFCOVBkNzBsRFNQbHVUWlYycGxYbjRn?oc=5\" target=\"_blank\">Amazon、AIスマートグラスを配達業務に導入--配達員の視界にナビや荷物情報を表示</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/amazon-2/400/225"
+        },
+        {
+          "title": "Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例 - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEJQUEp5U0xfU1M4Wmw5Z2hKaVhoR21RZjFUMFEzQTkwZ1o3NEQ3ZWZfUnkzV2tOeVBRSDV5b2Ytd2FEZldlWjNTc1VGWjRiLTRiN3d5VU9uTElaSXFtU0F4ZmhzQXgtcmNNZ093NDR4ZHFyVGE1R0ljQ3RaVHVnNFBpQVJfSlNG?oc=5",
+          "pubDate": "2025-10-02 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEJQUEp5U0xfU1M4Wmw5Z2hKaVhoR21RZjFUMFEzQTkwZ1o3NEQ3ZWZfUnkzV2tOeVBRSDV5b2Ytd2FEZldlWjNTc1VGWjRiLTRiN3d5VU9uTElaSXFtU0F4ZmhzQXgtcmNNZ093NDR4ZHFyVGE1R0ljQ3RaVHVnNFBpQVJfSlNG?oc=5\" target=\"_blank\">Cline with Amazon Bedrock で始める Vibe Coding ~ テックアカデミーにおける活用事例</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
+        },
+        {
+          "title": "Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に - About Amazon Japan",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5",
+          "pubDate": "2025-09-02 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5\" target=\"_blank\">Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に</a>  About Amazon Japan",
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
+        }
+      ]
     },
     {
       "company": "meta",
