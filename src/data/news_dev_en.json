@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-08T21:51:18.299Z",
+  "fetchedAt": "2026-02-09T05:16:31.607Z",
   "locale": "en",
   "companies": [
     {
@@ -55,10 +55,10 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
-          "title": "Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give... - Times of India",
+          "title": "Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give... - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5",
           "pubDate": "2026-01-27 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5\" target=\"_blank\">Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give...</a>  Times of India",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5\" target=\"_blank\">Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give...</a>  The Times of India",
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
@@ -89,6 +89,13 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "Beyond the Magic Word: Testing VS Code 1.109's New Agentic AI Workspace Priming - Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGRiQkdNbzdwV0k5UU5sVXFsUVRHcFZHMzFoVWtfdEYydlVmTnZLNGtTQm81TE9LM2c3bnJYVlF0Szl0T0FXUWNmVExadFZ2LUE0MkVpOGlrMUw5bFBsX2R4eUtvZHExbEVFOFd6WWFzZDlzR3dQWkwzbnJBaFpDN2FlZld5ZDBPVndMQUo1bENGUmNPWUdPQlVmb1VKNDNrbzZSX25OVWNfWUdhTHk2WWRYZWtuR2VoUk5TNFpmT2kxbHM?oc=5",
+          "pubDate": "2026-02-05 23:12:26",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGRiQkdNbzdwV0k5UU5sVXFsUVRHcFZHMzFoVWtfdEYydlVmTnZLNGtTQm81TE9LM2c3bnJYVlF0Szl0T0FXUWNmVExadFZ2LUE0MkVpOGlrMUw5bFBsX2R4eUtvZHExbEVFOFd6WWFzZDlzR3dQWkwzbnJBaFpDN2FlZld5ZDBPVndMQUo1bENGUmNPWUdPQlVmb1VKNDNrbzZSX25OVWNfWUdhTHk2WWRYZWtuR2VoUk5TNFpmT2kxbHM?oc=5\" target=\"_blank\">Beyond the Magic Word: Testing VS Code 1.109's New Agentic AI Workspace Priming</a>  Visual Studio Magazine",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+        },
+        {
           "title": "Visual Studio Code update shines on coding agents - InfoWorld",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXNHaC1HQWd4RktLZ3ZRdlFjMnZ4Tmp6cWpmLTJRbDZMUnR4YzVZeXZxaGZzeXllUGFqNmlURU1pejJXamxHdlJvVkpOd0lUWXRwMWZIZUdQczNiVUZ4aXdYTmtLSVJjSDdzYlpLYjZaOWoySXpWNXRfVGNDRGN6YXVJTF9FczEwalIzQmFuOFBPQ0Nla2xNLUo1d3E?oc=5",
           "pubDate": "2026-02-05 22:14:49",
@@ -96,31 +103,24 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
+          "title": "VS Code Configs Expose GitHub Codespaces to Attacks - SecurityWeek",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzVDQWpuT2puRXcxS09MaU5hQkRTM2xxWGtMZFJiaEplLTl3amtvZldZX3FwLVZWeUU3MEtyLXJxcEtDck9VbklJSHdqMHhpSEt2bjN0VTBlc0FMQnUyQWpTYnczU19scHJNZHhHak11NS1VNkg0dWdfTmVfRzVVQzFwQ1VPZ09j0gGOAUFVX3lxTE52V2VDYzVzbHJqeVg0bUMtY0x2R3kwLWdZYk9RTDZ5VFp5X0VyN3JNSXVCVEx0dFdtZ3hzVnh0RTZOWG1VbHVkYVdiME5jNUROVzA2S2pWX1Ixak1ha1RyeDRlOFYyWE1ReUkwWWRQUkpaeUJSMWFIdXZEMllPcjhhZHVEYllzVHg1dXJ5REE?oc=5",
+          "pubDate": "2026-02-05 13:41:48",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzVDQWpuT2puRXcxS09MaU5hQkRTM2xxWGtMZFJiaEplLTl3amtvZldZX3FwLVZWeUU3MEtyLXJxcEtDck9VbklJSHdqMHhpSEt2bjN0VTBlc0FMQnUyQWpTYnczU19scHJNZHhHak11NS1VNkg0dWdfTmVfRzVVQzFwQ1VPZ09j0gGOAUFVX3lxTE52V2VDYzVzbHJqeVg0bUMtY0x2R3kwLWdZYk9RTDZ5VFp5X0VyN3JNSXVCVEx0dFdtZ3hzVnh0RTZOWG1VbHVkYVdiME5jNUROVzA2S2pWX1Ixak1ha1RyeDRlOFYyWE1ReUkwWWRQUkpaeUJSMWFIdXZEMllPcjhhZHVEYllzVHg1dXJ5REE?oc=5\" target=\"_blank\">VS Code Configs Expose GitHub Codespaces to Attacks</a>  SecurityWeek",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+        },
+        {
           "title": "GitHub Copilot in Visual Studio Code v1.109 – January Release - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0ZLX2h0QkdvUXdUOTZFTUlNQlJSWGZJcXpEM0YwRWNabHlMLUxuOGdicGZjb2taMVpwS21uY0h2OWtjNi1lVU9CMnpUUFpJUmVyLUtYeFc3MkgzTWtCNTdIVXNfaEw1N2F1cXV0VHBZRUxLWHNMZTYtZUVndmlwaWJqVVZNeWFBRDJGb1dqVUFXQTVBTHZrcG1hbnlmYzVSMTFJ?oc=5",
           "pubDate": "2026-02-04 18:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0ZLX2h0QkdvUXdUOTZFTUlNQlJSWGZJcXpEM0YwRWNabHlMLUxuOGdicGZjb2taMVpwS21uY0h2OWtjNi1lVU9CMnpUUFpJUmVyLUtYeFc3MkgzTWtCNTdIVXNfaEw1N2F1cXV0VHBZRUxLWHNMZTYtZUVndmlwaWJqVVZNeWFBRDJGb1dqVUFXQTVBTHZrcG1hbnlmYzVSMTFJ?oc=5\" target=\"_blank\">GitHub Copilot in Visual Studio Code v1.109 – January Release</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
-          "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWJXRzhHUmtrU0U1Y083dTJNSS1QdVk1b2dzeDdoMklMdi1zVHNGQ2NRb2F1SVdIWGtMWmxiOTRTZlRYZ2JORV9LYWJHQlp5YUhzOVdxZXVnSV92Nk13M0VBUERLS3kyUUtxT2NZNUJjazY1T09OVjZaaDVhQm40RXhWbw?oc=5",
-          "pubDate": "2026-01-28 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWJXRzhHUmtrU0U1Y083dTJNSS1QdVk1b2dzeDdoMklMdi1zVHNGQ2NRb2F1SVdIWGtMWmxiOTRTZlRYZ2JORV9LYWJHQlp5YUhzOVdxZXVnSV92Nk13M0VBUERLS3kyUUtxT2NZNUJjazY1T09OVjZaaDVhQm40RXhWbw?oc=5\" target=\"_blank\">Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware</a>  The Hacker News",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
-          "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG1kTGFVdkQ0OXpUQVFaVnNPVkY4b1RadmZrUi10R0h2LVJsU0w0clU3MXpZZUkxYy1xbGhoUnVpR1hkOVBuVFN4RHJRSEJvUmdmdXl6RG9ZaExJQ3d4YXg0TDRXbDUwUDlmblo5OU5YZ08xWlhzTW10RGZ2YkJIdnh1dk0?oc=5",
-          "pubDate": "2026-01-26 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG1kTGFVdkQ0OXpUQVFaVnNPVkY4b1RadmZrUi10R0h2LVJsU0w0clU3MXpZZUkxYy1xbGhoUnVpR1hkOVBuVFN4RHJRSEJvUmdmdXl6RG9ZaExJQ3d4YXg0TDRXbDUwUDlmblo5OU5YZ08xWlhzTW10RGZ2YkJIdnh1dk0?oc=5\" target=\"_blank\">Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</a>  The Hacker News",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
-          "title": "Malicious AI extensions on VSCode Marketplace steal developer data - BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXN6a2hXNm1FRTV4OFdtUEc5dnZvTVd0dkpzaFRkUjlHV0RFaXlaZVVCanB2QUZRLUFFWEJ5Rmc0aWFHNWYxMmtMLWt1cVZhM3lDdEw5aWJ2clNUNWlEbWJtMDItVzhjRlJVZi1MTmhTLVptOXIzamxCbnp4Y1d2SVZuNVdWQUVjbk9xNGdQRWpBZXVDdlIzWWNpSzJfZlA3QnJTaGRXY2ZranlXWDhvblJCeVjSAboBQVVfeXFMTklXbkVHbHc0c0FyOWZGMmJMVDVDY2wxaFZWQVBIemo0SHhMUnpBNGtxMnJ6ejYzSTRGVGZWZXRGZTM3SlVnM1NvZzRyMXRiZm5PNUQwU3BkOGdyNzZ5Y3U3dkhOMWVZcTdhelBZUjliT284WHNBeUhiTGt1QTlMVTNjbzktZVBsanctd2VDTGYyQU5sVGNsanhadDZSck9XeHZJcXpWVEx2RGVqTWdGb1MxSTVaWS1GSjlB?oc=5",
-          "pubDate": "2026-01-23 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXN6a2hXNm1FRTV4OFdtUEc5dnZvTVd0dkpzaFRkUjlHV0RFaXlaZVVCanB2QUZRLUFFWEJ5Rmc0aWFHNWYxMmtMLWt1cVZhM3lDdEw5aWJ2clNUNWlEbWJtMDItVzhjRlJVZi1MTmhTLVptOXIzamxCbnp4Y1d2SVZuNVdWQUVjbk9xNGdQRWpBZXVDdlIzWWNpSzJfZlA3QnJTaGRXY2ZranlXWDhvblJCeVjSAboBQVVfeXFMTklXbkVHbHc0c0FyOWZGMmJMVDVDY2wxaFZWQVBIemo0SHhMUnpBNGtxMnJ6ejYzSTRGVGZWZXRGZTM3SlVnM1NvZzRyMXRiZm5PNUQwU3BkOGdyNzZ5Y3U3dkhOMWVZcTdhelBZUjliT284WHNBeUhiTGt1QTlMVTNjbzktZVBsanctd2VDTGYyQU5sVGNsanhadDZSck9XeHZJcXpWVEx2RGVqTWdGb1MxSTVaWS1GSjlB?oc=5\" target=\"_blank\">Malicious AI extensions on VSCode Marketplace steal developer data</a>  BleepingComputer",
+          "title": "Microsoft Brings Copilot Studio Agents Directly Into Visual Studio Code - Cloud Wars",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcl9rQVhXM1ZIdUJnVnBYdzhVSEZsMEY3aENhMlc0VHlvdEtCbldOSlNVREtWUWo3VF9oV1hxZmFPbUtwVE53MEtiSjZqV0hmbUFvV1YwbnY5MzEwaHY1akJZdzRCWk5GeloyX3l0X2xSamFza2hNU1FTcTYxMnB6MWh0Mmo5cEtRX1lMQ2lTaEFqQ1BkYW1hWkdkbnpESE9EOWljM091OVZWQmlCWWh0V1Nn?oc=5",
+          "pubDate": "2026-02-04 12:30:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcl9rQVhXM1ZIdUJnVnBYdzhVSEZsMEY3aENhMlc0VHlvdEtCbldOSlNVREtWUWo3VF9oV1hxZmFPbUtwVE53MEtiSjZqV0hmbUFvV1YwbnY5MzEwaHY1akJZdzRCWk5GeloyX3l0X2xSamFza2hNU1FTcTYxMnB6MWh0Mmo5cEtRX1lMQ2lTaEFqQ1BkYW1hWkdkbnpESE9EOWljM091OVZWQmlCWWh0V1Nn?oc=5\" target=\"_blank\">Microsoft Brings Copilot Studio Agents Directly Into Visual Studio Code</a>  Cloud Wars",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         }
       ]
