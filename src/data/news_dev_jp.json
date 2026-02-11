@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-11T07:34:21.628Z",
+  "fetchedAt": "2026-02-11T13:54:18.284Z",
   "locale": "jp",
   "companies": [
     {
@@ -9,7 +9,7 @@
         {
           "title": "Cursor、強化学習を活用した新コーディングモデル「Composer 1.5」を発表 - CodeZine",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVmljYnVtOWNmYXFpMFRnVzlfN05wZXhWODVlRENMbno5LXdYVnQxeU1aYm0xRmtrNFU2QzU4anIwNWFFTUlhWFZIaGF3dw?oc=5",
-          "pubDate": "2026-02-11 01:03:14",
+          "pubDate": "2026-02-11 01:03:34",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVmljYnVtOWNmYXFpMFRnVzlfN05wZXhWODVlRENMbno5LXdYVnQxeU1aYm0xRmtrNFU2QzU4anIwNWFFTUlhWFZIaGF3dw?oc=5\" target=\"_blank\">Cursor、強化学習を活用した新コーディングモデル「Composer 1.5」を発表</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
@@ -69,17 +69,17 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
-          "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
-          "pubDate": "2026-01-23 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
           "title": "GitHub Copilot SDKの発表 - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5\" target=\"_blank\">GitHub Copilot SDKの発表</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
+          "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
+          "pubDate": "2026-01-23 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
@@ -107,7 +107,7 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5",
           "pubDate": "2026-02-05 04:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5\" target=\"_blank\">「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に | GitHub Japan - Digital PR Platform",
@@ -121,7 +121,7 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5",
           "pubDate": "2026-02-03 04:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5\" target=\"_blank\">「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -171,25 +171,18 @@
       "displayName": "Google Antigravity",
       "news": [
         {
-          "title": "Google が AI 開発ツール Antigravity IDE と Gemini CLI の選び方を紹介 - HelenTech",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtUDQ0cjZrZmZ2cTkzaDdtYVRRWWI2S2RGQ3l3ZzZrYmxENXZKZWtGTzVYWEUtMWdGYTIwdm1rdTMweU9nd2NZ?oc=5",
-          "pubDate": "2026-02-05 02:08:24",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtUDQ0cjZrZmZ2cTkzaDdtYVRRWWI2S2RGQ3l3ZzZrYmxENXZKZWtGTzVYWEUtMWdGYTIwdm1rdTMweU9nd2NZ?oc=5\" target=\"_blank\">Google が AI 開発ツール Antigravity IDE と Gemini CLI の選び方を紹介</a>  HelenTech",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
           "title": "Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する - マイナビニュース",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5",
           "pubDate": "2026-01-31 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する</a>  マイナビニュース",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5",
           "pubDate": "2026-01-20 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ac0swQmUwd2hSUGRjVnBQMEFMWE9pckRqeGZLeFFqcXRtUUFRTThfOW1RZk9pM0FpRjN0azlRcGd1emtBdk1uMTNNTjlvN05TQWVCYTVlNXh1WkVzNUlLeTlTc1NaY2ZMQ0I2NVFxTThDZVFIcWpwOQ?oc=5\" target=\"_blank\">無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
         },
         {
           "title": "「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4) - ASCII.jp",
@@ -197,6 +190,13 @@
           "pubDate": "2026-01-19 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVGxxOWRmM1BtRTVnZ1lvc0Q4VllCTFhUcDZiWlBNTVl1WkhsYWJNVXVIRHBJanhvREl4R1FMSEJLcHo5dXFTUGJqWldLZi0yNnV0OQ?oc=5\" target=\"_blank\">「こんなもの欲しいな」が、わずか数時間で形になる。AIツール「Google Antigravity」が消した“実装”という高い壁 (1/4)</a>  ASCII.jp",
           "thumbnail": "https://picsum.photos/seed/antigravity-1/400/225"
+        },
+        {
+          "title": "Google Antigravityとは？使い方や料金をご紹介 - AIsmiley",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5",
+          "pubDate": "2026-01-09 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYzE5NThiMmdDYWZaVEtDLVJGek5ocDJObzNybEx2c0ZYVG9ZYkN1T1JCNkRyLTJFY0gyQXAta2dWbGZzQktwanRVdER5NkZSV3FacU5mcEd0QUJJV05UM09OeEhJRFFo?oc=5\" target=\"_blank\">Google Antigravityとは？使い方や料金をご紹介</a>  AIsmiley",
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "【完全ガイド】Google Antigravityとは？日本語化の方法や、導入から実践までを徹底解説 - クラウドエース株式会社",
