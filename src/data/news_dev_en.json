@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-10T22:06:12.728Z",
+  "fetchedAt": "2026-02-11T05:16:18.010Z",
   "locale": "en",
   "companies": [
     {
@@ -25,7 +25,7 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5\" target=\"_blank\">What a Difference a VS Code Fork Makes: Antigravity, Cursor and Windsurf Compared</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters - Fortune",
@@ -35,11 +35,11 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side - starkinsider.com",
+          "title": "Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side - Stark Insider",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5",
           "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5\" target=\"_blank\">Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side</a>  starkinsider.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5\" target=\"_blank\">Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side</a>  Stark Insider",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
     },
@@ -55,10 +55,10 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
-          "title": "GitHub adds Claude and Codex AI coding agents - theverge.com",
+          "title": "GitHub adds Claude and Codex AI coding agents - The Verge",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFBLVzVCdnFMSXVQYWpzek13V21kdHVsUmM5dVZ6SlQ4MlpPTlhHSVQ0WTgzOTVkbFVSbWxIenVwX01UYXZadWhqTkJfTEJoMEtlY3lxNWhsV1U2T0FmbmNON1dWQmNFM1pMOU5aaVlWMTRJ?oc=5",
           "pubDate": "2026-02-04 17:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFBLVzVCdnFMSXVQYWpzek13V21kdHVsUmM5dVZ6SlQ4MlpPTlhHSVQ0WTgzOTVkbFVSbWxIenVwX01UYXZadWhqTkJfTEJoMEtlY3lxNWhsV1U2T0FmbmNON1dWQmNFM1pMOU5aaVlWMTRJ?oc=5\" target=\"_blank\">GitHub adds Claude and Codex AI coding agents</a>  theverge.com",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFBLVzVCdnFMSXVQYWpzek13V21kdHVsUmM5dVZ6SlQ4MlpPTlhHSVQ0WTgzOTVkbFVSbWxIenVwX01UYXZadWhqTkJfTEJoMEtlY3lxNWhsV1U2T0FmbmNON1dWQmNFM1pMOU5aaVlWMTRJ?oc=5\" target=\"_blank\">GitHub adds Claude and Codex AI coding agents</a>  The Verge",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
@@ -107,14 +107,14 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0ZLX2h0QkdvUXdUOTZFTUlNQlJSWGZJcXpEM0YwRWNabHlMLUxuOGdicGZjb2taMVpwS21uY0h2OWtjNi1lVU9CMnpUUFpJUmVyLUtYeFc3MkgzTWtCNTdIVXNfaEw1N2F1cXV0VHBZRUxLWHNMZTYtZUVndmlwaWJqVVZNeWFBRDJGb1dqVUFXQTVBTHZrcG1hbnlmYzVSMTFJ?oc=5",
           "pubDate": "2026-02-04 18:00:01",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0ZLX2h0QkdvUXdUOTZFTUlNQlJSWGZJcXpEM0YwRWNabHlMLUxuOGdicGZjb2taMVpwS21uY0h2OWtjNi1lVU9CMnpUUFpJUmVyLUtYeFc3MkgzTWtCNTdIVXNfaEw1N2F1cXV0VHBZRUxLWHNMZTYtZUVndmlwaWJqVVZNeWFBRDJGb1dqVUFXQTVBTHZrcG1hbnlmYzVSMTFJ?oc=5\" target=\"_blank\">GitHub Copilot in Visual Studio Code v1.109 – January Release</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "Microsoft Brings Copilot Studio Agents Directly Into Visual Studio Code - Cloud Wars",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcl9rQVhXM1ZIdUJnVnBYdzhVSEZsMEY3aENhMlc0VHlvdEtCbldOSlNVREtWUWo3VF9oV1hxZmFPbUtwVE53MEtiSjZqV0hmbUFvV1YwbnY5MzEwaHY1akJZdzRCWk5GeloyX3l0X2xSamFza2hNU1FTcTYxMnB6MWh0Mmo5cEtRX1lMQ2lTaEFqQ1BkYW1hWkdkbnpESE9EOWljM091OVZWQmlCWWh0V1Nn?oc=5",
           "pubDate": "2026-02-04 12:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcl9rQVhXM1ZIdUJnVnBYdzhVSEZsMEY3aENhMlc0VHlvdEtCbldOSlNVREtWUWo3VF9oV1hxZmFPbUtwVE53MEtiSjZqV0hmbUFvV1YwbnY5MzEwaHY1akJZdzRCWk5GeloyX3l0X2xSamFza2hNU1FTcTYxMnB6MWh0Mmo5cEtRX1lMQ2lTaEFqQ1BkYW1hWkdkbnpESE9EOWljM091OVZWQmlCWWh0V1Nn?oc=5\" target=\"_blank\">Microsoft Brings Copilot Studio Agents Directly Into Visual Studio Code</a>  Cloud Wars",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code - The Hacker News",
@@ -130,11 +130,18 @@
       "displayName": "AWS Kiro",
       "news": [
         {
+          "title": "Modernize your applications using Amazon Bedrock AgentCore Gateway and Kiro powers - Amazon Web Services (AWS)",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdm5CcUMyVHBPOXlaQU9tN1NyVkVPOEFYSW1taTFPVHd5WXJfTWlwQjI3aTJxZmJsVHFNZU1ZeWNiSkxqbWhQX3dJekNJcEtrUkZmVDVoR0V2b1RRM0x3cWRCd0pTUm51OHVIUExORTEyZjVQbWl0T3MtT1lrT28yUmpMU0Q4V1loNFlxTmY5WS1tS0dBbU1OUzZFR1dmLWZUZVpRb0U5S2RiaEJNMk1wRm5Ic0ZUY1AyR0VRU1U1cHFvLWduMV96MW5wOEtxd1N1M0JHcHlrSQ?oc=5",
+          "pubDate": "2026-02-06 14:39:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdm5CcUMyVHBPOXlaQU9tN1NyVkVPOEFYSW1taTFPVHd5WXJfTWlwQjI3aTJxZmJsVHFNZU1ZeWNiSkxqbWhQX3dJekNJcEtrUkZmVDVoR0V2b1RRM0x3cWRCd0pTUm51OHVIUExORTEyZjVQbWl0T3MtT1lrT28yUmpMU0Q4V1loNFlxTmY5WS1tS0dBbU1OUzZFR1dmLWZUZVpRb0U5S2RiaEJNMk1wRm5Ic0ZUY1AyR0VRU1U1cHFvLWduMV96MW5wOEtxd1N1M0JHcHlrSQ?oc=5\" target=\"_blank\">Modernize your applications using Amazon Bedrock AgentCore Gateway and Kiro powers</a>  Amazon Web Services (AWS)",
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+        },
+        {
           "title": "5 ways to use Kiro and Amazon Q to optimize your Infrastructure - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
           "pubDate": "2026-01-09 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services (AWS)",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
@@ -156,13 +163,6 @@
           "pubDate": "2025-09-20 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3M3aXc2QlZRcUM3NFFUYVV0ZlpIaHlFV1BJa3BzUFBFMFNhRDJRcDhkSjJOcWRqY0Z0TkVZZHdCYm1zdkY4azN1SVNxSmxTX1NHTU1BMlVQVmFPV2gzSlRDa1ZqczNUd05YVWI0Uy1NbDktUGZPSTN6R2czTFUxX1l3VWc?oc=5\" target=\"_blank\">AWS Kiro: Testing an AI IDE with a Spec-Driven Approach</a>  The New Stack",
           "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
-        },
-        {
-          "title": "Forked Again: AWS's Kiro Is Latest AI Assistant Based on VS Code - Visual Studio Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekoxMzlncTQzLVFvUHhhRnhiaHNYVW9PYkVYNEJTWFpndkwzYnJ3Z1hlM0lFdXp5bThpVTdGZlAtaTRPSkhGR0habGJOY0g1NUh6dGNEdEdoalBOSVozZnFETjRzTmUtNmQ1UGZoZkdJOVZfN0o1cUlpeVNtalNsN251eHlsWmpLSzJuaEhHX3ByVV9Jc18yYXB1R2VlczhtTzVsaVZsRDJReFVKQkFoMEdYZTlXQk5J?oc=5",
-          "pubDate": "2025-07-21 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekoxMzlncTQzLVFvUHhhRnhiaHNYVW9PYkVYNEJTWFpndkwzYnJ3Z1hlM0lFdXp5bThpVTdGZlAtaTRPSkhGR0habGJOY0g1NUh6dGNEdEdoalBOSVozZnFETjRzTmUtNmQ1UGZoZkdJOVZfN0o1cUlpeVNtalNsN251eHlsWmpLSzJuaEhHX3ByVV9Jc18yYXB1R2VlczhtTzVsaVZsRDJReFVKQkFoMEdYZTlXQk5J?oc=5\" target=\"_blank\">Forked Again: AWS's Kiro Is Latest AI Assistant Based on VS Code</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/kiro-4/400/225"
         }
       ]
     },
