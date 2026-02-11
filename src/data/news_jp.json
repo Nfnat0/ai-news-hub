@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-11T06:46:52.856Z",
+  "fetchedAt": "2026-02-11T12:36:33.980Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,38 +7,38 @@
       "displayName": "Google",
       "news": [
         {
+          "title": "渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も - Fany Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5",
+          "pubDate": "2026-02-11 05:39:53",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5\" target=\"_blank\">渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も</a>  Fany Magazine",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
           "title": "Gemini Enterprise でインテリジェントな従業員オンボーディングを実現 - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDZIeXhBaDRCbU5zOG11MUVINHJSM2h4aERFUjVUVlhTRHNNa1BadFZPUkJjTzJCNjc1NE1JdUVFenNvMENnQmVnZ0dvUEQ2U3RIcTZjMEIwcnVNYmlYek1hcWpmN1N3bi1xLVVmSC1BdG1ORDhXY29XUjBjcXVUNFZuckd5aEtKX0QtbjVxblBETUxWTEVPT1hTcHNPc0M0Skw5dDR0Q3VaaUdSTnZhMVdTQ3RNQ1ZZV3c?oc=5",
           "pubDate": "2026-02-10 09:13:49",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDZIeXhBaDRCbU5zOG11MUVINHJSM2h4aERFUjVUVlhTRHNNa1BadFZPUkJjTzJCNjc1NE1JdUVFenNvMENnQmVnZ0dvUEQ2U3RIcTZjMEIwcnVNYmlYek1hcWpmN1N3bi1xLVVmSC1BdG1ORDhXY29XUjBjcXVUNFZuckd5aEtKX0QtbjVxblBETUxWTEVPT1hTcHNPc0M0Skw5dDR0Q3VaaUdSTnZhMVdTQ3RNQ1ZZV3c?oc=5\" target=\"_blank\">Gemini Enterprise でインテリジェントな従業員オンボーディングを実現</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "NotebookLMに続く「最強の学習ツール」はGeminiの中にあった - ライフハッカー・ジャパン",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGlDeDZHR0V4Y3QwamtmWEZuc0gxU3pjWGxKR0ZqY3htenNseDl5VWVGRHFoalBTQzdjc0FuMTZjalZJTUxpLV9EWGhYTldDLURfVTM3REYxSkZCODVGSWFBUC1rUHZIdEFNOC1HbWJQbERZMEFNTkQtVDh3VlRXTldINFNEbmhYb1F4LXBrR1NQQVFFajZjcTFwUGRBWmFTT2VVRDNxOGRiMEl5aXFN?oc=5",
           "pubDate": "2026-02-09 11:30:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGlDeDZHR0V4Y3QwamtmWEZuc0gxU3pjWGxKR0ZqY3htenNseDl5VWVGRHFoalBTQzdjc0FuMTZjalZJTUxpLV9EWGhYTldDLURfVTM3REYxSkZCODVGSWFBUC1rUHZIdEFNOC1HbWJQbERZMEFNTkQtVDh3VlRXTldINFNEbmhYb1F4LXBrR1NQQVFFajZjcTFwUGRBWmFTT2VVRDNxOGRiMEl5aXFN?oc=5\" target=\"_blank\">NotebookLMに続く「最強の学習ツール」はGeminiの中にあった</a>  ライフハッカー・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "Geminiの快進撃がとまらない。アクティブユーザー数が、ChatGPTまであと一歩 - ギズモード・ジャパン",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzlaM0ZPVGNMbnBiRVdwcEN6eDMyb3lNZzBwUDZ3bEVGYlJtS0NIenFSYXVQWFo0dXdzUkkybzNEcE9ZcVd2MnY1YlhWcTVIdTE2cmttY0ZBV25hbFFxS1EwazhNQ1ZER2JoWEVyRTlXZTNlSTVDRVBITXVoejZ5SzU5WGZQWUliUF92UjBoU3BQVzB2T095bmlGaUpKUFl3R0N6RGNIU0szRXNY?oc=5",
           "pubDate": "2026-02-07 02:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzlaM0ZPVGNMbnBiRVdwcEN6eDMyb3lNZzBwUDZ3bEVGYlJtS0NIenFSYXVQWFo0dXdzUkkybzNEcE9ZcVd2MnY1YlhWcTVIdTE2cmttY0ZBV25hbFFxS1EwazhNQ1ZER2JoWEVyRTlXZTNlSTVDRVBITXVoejZ5SzU5WGZQWUliUF92UjBoU3BQVzB2T095bmlGaUpKUFl3R0N6RGNIU0szRXNY?oc=5\" target=\"_blank\">Geminiの快進撃がとまらない。アクティブユーザー数が、ChatGPTまであと一歩</a>  ギズモード・ジャパン",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Googleマップの「Geminiナビ」が徒歩・自転車にも対応 - ビジネス+IT",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMGwzSWV6djhpbUFTRHdIcjFCUGVEa0I4RXZDa3RRRkhWbGRKTDJ1TUZCNjdlYURnUllibDdNbGRYRHNkXzZnbnI4WW0yMjBhdGQw?oc=5",
           "pubDate": "2026-02-04 16:52:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMGwzSWV6djhpbUFTRHdIcjFCUGVEa0I4RXZDa3RRRkhWbGRKTDJ1TUZCNjdlYURnUllibDdNbGRYRHNkXzZnbnI4WW0yMjBhdGQw?oc=5\" target=\"_blank\">Googleマップの「Geminiナビ」が徒歩・自転車にも対応</a>  ビジネス+IT",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
-        },
-        {
-          "title": "機能の大幅な強化を発表 - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5COUMyLWFNS2V5TWRzWVdyY25jZEQxcEVSRDdUQ3VkY1JwSzZ0TjVJcUNsWHVBVkZzakM2UU9ZcGhBNkxuR3haV3R6cWlMckdlSmZBVGVteGZYUWlwUS1wag?oc=5",
-          "pubDate": "2026-01-29 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5COUMyLWFNS2V5TWRzWVdyY25jZEQxcEVSRDdUQ3VkY1JwSzZ0TjVJcUNsWHVBVkZzakM2UU9ZcGhBNkxuR3haV3R6cWlMckdlSmZBVGVteGZYUWlwUS1wag?oc=5\" target=\"_blank\">機能の大幅な強化を発表</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         }
       ]
@@ -48,31 +48,31 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAI、ChatGPTの無料・Goプランで広告表示テストを米国で開始 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BeWlzZkFtRmRYdm5TTmxQNnJfUWVzMGhVZmlRNEo5WFZIQjF6NUtqTnBOOGJaX1p1c3UzOFFiZkNUN19TLXNRUFBzWFRuUQ?oc=5",
-          "pubDate": "2026-02-10 06:33:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BeWlzZkFtRmRYdm5TTmxQNnJfUWVzMGhVZmlRNEo5WFZIQjF6NUtqTnBOOGJaX1p1c3UzOFFiZkNUN19TLXNRUFBzWFRuUQ?oc=5\" target=\"_blank\">OpenAI、ChatGPTの無料・Goプランで広告表示テストを米国で開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+          "title": "OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に（ITmedia NEWS） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcVMzYl9JclhKazdveE5EZ3ZuZ3ZFSjZBR0I3M3BCTGJ5Qy1QanlTbmtfcFNjWEpuMTFtdmVIUFZGcFRZVF94V1RydHlzLVpwTmtZUV9naTEzd3RDaTNzU3VHVFAxLXl6eWNwVjJHZW9NbEhsOTlSbEw1Y0tIdnc?oc=5",
+          "pubDate": "2026-02-11 03:12:10",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcVMzYl9JclhKazdveE5EZ3ZuZ3ZFSjZBR0I3M3BCTGJ5Qy1QanlTbmtfcFNjWEpuMTFtdmVIUFZGcFRZVF94V1RydHlzLVpwTmtZUV9naTEzd3RDaTNzU3VHVFAxLXl6eWNwVjJHZW9NbEhsOTlSbEw1Y0tIdnc?oc=5\" target=\"_blank\">OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に（ITmedia NEWS）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         },
         {
           "title": "電通グループとOpenAIが戦略連携 ChatGPTでマーケ支援 - AdverTimes.（アドタイ） by 宣伝会議",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uaDIxLTFXSHNyMHIwRFc2LWRfVWFvbFRKQ2FpZkpXbHJOOWFTSE1Ka2xqYzdFNkVxdmNBREc0c1JickxHVW54OHRLbEhmQXhwYkxjRWMzVmMyNHc5YVRN?oc=5",
           "pubDate": "2026-02-10 05:00:37",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uaDIxLTFXSHNyMHIwRFc2LWRfVWFvbFRKQ2FpZkpXbHJOOWFTSE1Ka2xqYzdFNkVxdmNBREc0c1JickxHVW54OHRLbEhmQXhwYkxjRWMzVmMyNHc5YVRN?oc=5\" target=\"_blank\">電通グループとOpenAIが戦略連携 ChatGPTでマーケ支援</a>  AdverTimes.（アドタイ） by 宣伝会議",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
-          "title": "OpenAI、米国防総省向けにChatGPTを提供（アスキー） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xaTZYX1dYRGE2b0VKV3lrVUFYcktkLXJsT0Jrc0ZPRGNjcHFxVWhTM2xzTmtoUy1qX28xR3RLYUc1UGx6TWNUaGVISFFaX0VhaHk3WEUycVRscExORk9YbklLQkZ1UDVHV3lYbThaNWJLd3d3a0dPRzc4LWxNLXM?oc=5",
+          "title": "OpenAI、米国防総省向けにChatGPTを提供 - ASCII.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0QzRTTld6TFEwNnhIT3lhTjB5djBzTmFoS1RhUlFDU2Rva0RwOUZHV1ZIeUc2RHdJdHRNYW5IclhUR1FtMTNNRVpIQXRHeE1FYTQzRw?oc=5",
           "pubDate": "2026-02-10 04:15:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1xaTZYX1dYRGE2b0VKV3lrVUFYcktkLXJsT0Jrc0ZPRGNjcHFxVWhTM2xzTmtoUy1qX28xR3RLYUc1UGx6TWNUaGVISFFaX0VhaHk3WEUycVRscExORk9YbklLQkZ1UDVHV3lYbThaNWJLd3d3a0dPRzc4LWxNLXM?oc=5\" target=\"_blank\">OpenAI、米国防総省向けにChatGPTを提供（アスキー）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0QzRTTld6TFEwNnhIT3lhTjB5djBzTmFoS1RhUlFDU2Rva0RwOUZHV1ZIeUc2RHdJdHRNYW5IclhUR1FtMTNNRVpIQXRHeE1FYTQzRw?oc=5\" target=\"_blank\">OpenAI、米国防総省向けにChatGPTを提供</a>  ASCII.jp",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
           "title": "OpenAI、「ChatGPT」無料・低価格プランに広告 米国でテスト開始 - CNET Japan",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YeXhqbTN5MnVTYkFKOXRPbGk5eXYxdV81WWF2a3l5dUw2ZkQybFBLZmNVVDRBUEItdWYxYlR2Z0RBdUhaMW1zdWVMZXBJRDJVdWc?oc=5",
           "pubDate": "2026-02-10 01:22:00",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YeXhqbTN5MnVTYkFKOXRPbGk5eXYxdV81WWF2a3l5dUw2ZkQybFBLZmNVVDRBUEItdWYxYlR2Z0RBdUhaMW1zdWVMZXBJRDJVdWc?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」無料・低価格プランに広告 米国でテスト開始</a>  CNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQY0FRWlBVX0lBdDhPaXFlMFpHcVR0cTNXdjN4ejFQbnlndVJfUExxWl9rYkpzbi0wWFZfR3Iwc1J0Z1g4ZG1LZHZ6aUd4eF92Sm92T3AyNm1NUGVia1p5a3pfS2FrWnlE?oc=5\" target=\"_blank\">OpenAI、ChatGPTで広告表示テスト開始 無料版とGoプランが対象</a>  マイナビニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE01R3FONjlWbTF5VFNCNnBSR2YySTJFOUNlOWl1UTA3MVI3emd6WkFfSDBoMzF3VGlsLWtXNnNKMUViTmdSZnE5ck9VSk93aWNfOXVyVVVYNEE1cTBuS2t4RjhpTWc3QQ?oc=5\" target=\"_blank\">OpenAIが広告事業に本格参入 “広告帝国”Googleに対抗できる理由</a>  日経クロストレンド</li>\n</ol>",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YeXhqbTN5MnVTYkFKOXRPbGk5eXYxdV81WWF2a3l5dUw2ZkQybFBLZmNVVDRBUEItdWYxYlR2Z0RBdUhaMW1zdWVMZXBJRDJVdWc?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」無料・低価格プランに広告 米国でテスト開始</a>  CNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQY0FRWlBVX0lBdDhPaXFlMFpHcVR0cTNXdjN4ejFQbnlndVJfUExxWl9rYkpzbi0wWFZfR3Iwc1J0Z1g4ZG1LZHZ6aUd4eF92Sm92T3AyNm1NUGVia1p5a3pfS2FrWnlE?oc=5\" target=\"_blank\">OpenAI、ChatGPTで広告表示テスト開始 無料版とGoプランが対象</a>  マイナビニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mVnpPVjVPZ1RKWXd3ZE9VSzR0SkluVmVwREpjaV9YZFRQNmlTQlBaQUgtb0VNbFRDaVg0VC1yejFzeGtPZEdJWXJzRWgyS2FncW5xbkRKMVVicTRpUGVGTDRrc0c?oc=5\" target=\"_blank\">ChatGPT での広告のテスト</a>  OpenAI</li>\n</ol>",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
         },
         {
@@ -80,7 +80,7 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92NTZXSktfNm1ZVFJMWUhqUnpLVmEyVkwxeGV6eURHbnd3SFphNmdIZktYT1JWQXAzRTA4QTg1ckl4bEJwT3BzYUczUmYyQTdzYi1RLUZHQ1ZxQk52Y3ZMQ2oyb0Vhd2M1ek5lZQ?oc=5",
           "pubDate": "2026-02-08 17:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE92NTZXSktfNm1ZVFJMWUhqUnpLVmEyVkwxeGV6eURHbnd3SFphNmdIZktYT1JWQXAzRTA4QTg1ckl4bEJwT3BzYUczUmYyQTdzYi1RLUZHQ1ZxQk52Y3ZMQ2oyb0Vhd2M1ek5lZQ?oc=5\" target=\"_blank\">電通グループ、ChatGPTでマーケティング提案 キャッチコピーなど</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -130,10 +130,10 @@
       "displayName": "Anthropic",
       "news": [
         {
-          "title": "米2強が狙う“AI社員”の普及 Anthropicは「業務代行」、OpenAIは「運用プラットフォーム」：AIニュースピックアップ - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT3l6UmYtRjZjRWVOcTlNaDN4V1JURmRyVDVVc0x1X2d3amNtNkhrVHYyVmVRZEMyWmpjQnY5SXRma3NkRFNONXdzUEYtM3MyeU0welVpWTNJSUxNTVhGVzNsZ2FCSHEwQlZPUnJnM0FqSVk4?oc=5",
-          "pubDate": "2026-02-10 23:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aT3l6UmYtRjZjRWVOcTlNaDN4V1JURmRyVDVVc0x1X2d3amNtNkhrVHYyVmVRZEMyWmpjQnY5SXRma3NkRFNONXdzUEYtM3MyeU0welVpWTNJSUxNTVhGVzNsZ2FCSHEwQlZPUnJnM0FqSVk4?oc=5\" target=\"_blank\">米2強が狙う“AI社員”の普及 Anthropicは「業務代行」、OpenAIは「運用プラットフォーム」：AIニュースピックアップ</a>  ITmedia",
+          "title": "Anthropic社の「影の書庫」データ流用訴訟から実感したAI時代の著作権問題 - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbWM4dFNVX3V3REgwMFJpNUlYZnV3aEFiZEtMUUN0Z3U4WnZxWWEtUmM3eHJ5NXBjdGVMaUhPNFFFLVhteWhuZFNOVHcySkJKV1dseV9NS1pDby1YU3NoR0QxYk1BWldzQ19JUUV6cTFYSHR0RFQ1UFFNY0lhd28?oc=5",
+          "pubDate": "2026-02-11 06:15:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbWM4dFNVX3V3REgwMFJpNUlYZnV3aEFiZEtMUUN0Z3U4WnZxWWEtUmM3eHJ5NXBjdGVMaUhPNFFFLVhteWhuZFNOVHcySkJKV1dseV9NS1pDby1YU3NoR0QxYk1BWldzQ19JUUV6cTFYSHR0RFQ1UFFNY0lhd28?oc=5\" target=\"_blank\">Anthropic社の「影の書庫」データ流用訴訟から実感したAI時代の著作権問題</a>  Yahoo!ニュース",
           "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         },
         {
@@ -144,10 +144,10 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-0/400/225"
         },
         {
-          "title": "ウォール街をざわつかせたAnthropicの新AIモデル、Claude Opus4.6とは - ギズモード・ジャパン",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR29NVXpXZjFTcmZETXZWNGlBYjhzTzdxaDhTZGJOMjFVSXgwbmk1QzEzZmVJalByNm12ekplYnFpMUJpU0xESHJPT1hIbWxXbGsybGtDTC1ZaFNpUDZtN1Jyc1lSNzhETGxjSHdQZ0lQWVJ2Q2lCVDNIZmNQVjc5RDJ3cDdQSG9LQzRnNEVRNG1xU084akdCY0c3cXJnV3JQLU1zdkh3Vzh5cmdRa29Tdmh3ZHplVWZnamRJZ1dLZWNnM3h6NUdF?oc=5",
-          "pubDate": "2026-02-08 22:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNR29NVXpXZjFTcmZETXZWNGlBYjhzTzdxaDhTZGJOMjFVSXgwbmk1QzEzZmVJalByNm12ekplYnFpMUJpU0xESHJPT1hIbWxXbGsybGtDTC1ZaFNpUDZtN1Jyc1lSNzhETGxjSHdQZ0lQWVJ2Q2lCVDNIZmNQVjc5RDJ3cDdQSG9LQzRnNEVRNG1xU084akdCY0c3cXJnV3JQLU1zdkh3Vzh5cmdRa29Tdmh3ZHplVWZnamRJZ1dLZWNnM3h6NUdF?oc=5\" target=\"_blank\">ウォール街をざわつかせたAnthropicの新AIモデル、Claude Opus4.6とは</a>  ギズモード・ジャパン",
+          "title": "「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91X05QdGJaVDlpZk8wUGhEQXA0UGluOXB5ZlJocV91QjJjMlAzSlZsOUtqN2F3a0ozNFJ4WE54cnhJWDNDUVZZWDU1RTRHLXF5c29oS0I5TEtETVc0aFlPRHltWF8xVU9yR29NTmlEQQ?oc=5",
+          "pubDate": "2026-02-08 22:37:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE91X05QdGJaVDlpZk8wUGhEQXA0UGluOXB5ZlJocV91QjJjMlAzSlZsOUtqN2F3a0ozNFJ4WE54cnhJWDNDUVZZWDU1RTRHLXF5c29oS0I5TEtETVc0aFlPRHltWF8xVU9yR29NTmlEQQ?oc=5\" target=\"_blank\">「Claude Opus 4.6」に2.5倍速で利用料6倍の「fast mode」、リサーチプレビューとして登場</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
@@ -212,13 +212,6 @@
       "displayName": "Meta",
       "news": [
         {
-          "title": "Tschüss, ChatGPT-Abo! Llama 3.1 &amp; DeepSeek lokal nutzen – So baust du dir mit dem Mac mini M4 Pro deine eigene, private KI-Zentrale - Xpert.Digital - Konrad Wolfenstein",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnhQbDZPUThRajlUYVhFc0k4eDR3MHBHSFE3bFJKLWE3d0phQjhjYTNjZVllUmtfQnZXWDBmMzdoMkNYUDAyM1dKNFVjXzhua1BjeTU3aktSOEk1dDZ5by00YnZ4MFBCdlhaNURWMnYwRWhSZXVlak12Z1lXa0FvMmh0TEhQTy11X280R18tUzNhZ3FRSHhieWJCVXpTMzU5Wk9fck80aUo2eVdlYmJhYjhTMlRpNE5zcHh6a3lXV0lXOFpHU204R2V30gHSAUFVX3lxTE1SV1BPeDJXLXVGWG5tNVA5ZGJRNmNfcTAwSVlwQS1SSURTRDdFT25raGxRdk5qazhrVVU2RE9Sbm53TVNQSGFSWVYwSVh4aFdxbktrZ01ZTXdzUlNPNmVQbjRpVG1rT1BBcUpUR0hEVW45Xzh3cGt3Tmo4dlpsaHZSeFFKZENJYjZNZG1TYTJOenNoWHZZdV81UVBtMk1YZU5nTS1qQVJLZU1aWEIyTDNTd2RHZmEzVHVrNHBhT3FjNWY5d3hrNVN0clI1WXBLUFRLZw?oc=5",
-          "pubDate": "2026-02-04 07:20:29",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnhQbDZPUThRajlUYVhFc0k4eDR3MHBHSFE3bFJKLWE3d0phQjhjYTNjZVllUmtfQnZXWDBmMzdoMkNYUDAyM1dKNFVjXzhua1BjeTU3aktSOEk1dDZ5by00YnZ4MFBCdlhaNURWMnYwRWhSZXVlak12Z1lXa0FvMmh0TEhQTy11X280R18tUzNhZ3FRSHhieWJCVXpTMzU5Wk9fck80aUo2eVdlYmJhYjhTMlRpNE5zcHh6a3lXV0lXOFpHU204R2V30gHSAUFVX3lxTE1SV1BPeDJXLXVGWG5tNVA5ZGJRNmNfcTAwSVlwQS1SSURTRDdFT25raGxRdk5qazhrVVU2RE9Sbm53TVNQSGFSWVYwSVh4aFdxbktrZ01ZTXdzUlNPNmVQbjRpVG1rT1BBcUpUR0hEVW45Xzh3cGt3Tmo4dlpsaHZSeFFKZENJYjZNZG1TYTJOenNoWHZZdV81UVBtMk1YZU5nTS1qQVJLZU1aWEIyTDNTd2RHZmEzVHVrNHBhT3FjNWY5d3hrNVN0clI1WXBLUFRLZw?oc=5\" target=\"_blank\">Tschüss, ChatGPT-Abo! Llama 3.1 &amp; DeepSeek lokal nutzen – So baust du dir mit dem Mac mini M4 Pro deine eigene, private KI-Zentrale</a>  Xpert.Digital - Konrad Wolfenstein",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
-        },
-        {
           "title": "第897回 GPUに画像の文字を解析させる⁠⁠、あるいはQwen3-VL入門 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uN0Nrdk9RS2gySFhnU2ppRkJMbFBJcUx6QzVZajZCeWxfbExwT2l3OExWNGsxeVcwcW10eXRxdHAwY19fanlZQklVV1p4dUJqTjVZWmRPWncySXEzVll3LQ?oc=5",
           "pubDate": "2026-01-28 08:00:00",
@@ -230,7 +223,7 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5",
           "pubDate": "2025-12-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE12bjNlZThiaVpoVEtDb1d6ekExeXYyOF9YUlNXQ2JTYlpaNGVlZDRtaFkwY2xHUUlzQWJiczlyaGdBdGhLX2hiX2FKUDVSb1Y4Nnc?oc=5\" target=\"_blank\">LLM出力の有害判別に対応 リコー製ガードレールモデルをアップデート</a>  リコーグループ",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "Meta AIを日本で段階的に提供開始 - Meta Store",
@@ -238,6 +231,13 @@
           "pubDate": "2025-11-25 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3NJay02ZHRzTGhWdW9oUFM3VHNqZzRVVld0a3FNUGUxSE56ekV3dlFoMy1oN2tkVkdsQm1fc3pMa3ROS3pETEd1RkpRWXVWWllKM2lIc1UyT2RiOGpZYVFtakFrRC1EWGFBMXNJamxaUDI2THhKdW9Bd0YtTFFBWjJQQdIBiAFBVV95cUxNdGhVR0pMbzE4TnFSZGFYeHZNTmNJZU9ROHo1VnJrRFozMmN3bTljX3ZCekQySjRlMWZqVlRiTDV5a0Vnemk1V2ZDem9xMGE1T3FMRUxfc2VSUUh5X05jeE5PS0pFbmNVM3FhN3paWURGY09FR3ZUbGdHX2N6Q21sMVZNMkFDejF6?oc=5\" target=\"_blank\">Meta AIを日本で段階的に提供開始</a>  Meta Store",
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
+        },
+        {
+          "title": "Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加 - ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5",
+          "pubDate": "2025-09-24 07:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5\" target=\"_blank\">Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加</a>  ZDNET Japan",
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         },
         {
           "title": "Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説 - AIsmiley",
@@ -257,35 +257,35 @@
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wSVZ6NFUtb01wWTNUU1hrTE5PX1lBSXJHYk9oRldOeVQwV05CdXVTWFZ5NU9OUlVjU2xsVkUwSGJydzc2Vk1HODAxZWdCeS1TdDNBSGxn?oc=5",
           "pubDate": "2026-02-10 21:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wSVZ6NFUtb01wWTNUU1hrTE5PX1lBSXJHYk9oRldOeVQwV05CdXVTWFZ5NU9OUlVjU2xsVkUwSGJydzc2Vk1HODAxZWdCeS1TdDNBSGxn?oc=5\" target=\"_blank\">「AIは宇宙に置く」マスク氏がスペースXとxAIを合併、中国も宇宙データセンターを強力推進、AI競争の主戦場は宇宙に(1/6)</a>  JBpress",
-          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
         },
         {
           "title": "アポロ、ｘＡＩ関連の事業体に約34億ドル融資へ＝報道 - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ1hXblB5ZEhTMkV6eWlTNm44bTdKZnFpdjdaUWFDZTlCbjJZZ0lkV2ZfVDBGeS01aGN6UmxQYlZQemJuR3NJdGxhZHQydXVfcmV1NFNSTVVWLXAzTGY1TVdmMkRCdXhMbHhWM2RUWDJObTlYclVNRWZLX3lodzhCWg?oc=5",
           "pubDate": "2026-02-09 16:28:33",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ1hXblB5ZEhTMkV6eWlTNm44bTdKZnFpdjdaUWFDZTlCbjJZZ0lkV2ZfVDBGeS01aGN6UmxQYlZQemJuR3NJdGxhZHQydXVfcmV1NFNSTVVWLXAzTGY1TVdmMkRCdXhMbHhWM2RUWDJObTlYclVNRWZLX3lodzhCWg?oc=5\" target=\"_blank\">アポロ、ｘＡＩ関連の事業体に約34億ドル融資へ＝報道</a>  Reuters",
-          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         },
         {
           "title": "X、Grokによるオンラインでの写真編集を個別にブロックする機能の追加を検討中か【やじうまWatch】 - INTERNET Watch",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYU9ndE1EUFhvc0NJSkVjd0QtZ1RJVGtnRGVnWTh4UGFqa2JsOC1GWHM5VmN2c0JNajVpOXhHMlF0OUNMUU9FRU1VUnNETFZHSzFTUnlpMmJOVkpSQ0ozMUxHZFBZX0xaRW54bDdTaw?oc=5",
           "pubDate": "2026-02-09 02:12:29",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYU9ndE1EUFhvc0NJSkVjd0QtZ1RJVGtnRGVnWTh4UGFqa2JsOC1GWHM5VmN2c0JNajVpOXhHMlF0OUNMUU9FRU1VUnNETFZHSzFTUnlpMmJOVkpSQ0ozMUxHZFBZX0xaRW54bDdTaw?oc=5\" target=\"_blank\">X、Grokによるオンラインでの写真編集を個別にブロックする機能の追加を検討中か【やじうまWatch】</a>  INTERNET Watch",
-          "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "AI「Grok」のディープフェイク騒動、倫理後回しの投資回収に危うさ - 日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zeGJxb0RVa1BmUGR3anBXenVEY1VEdHBDQ29HOXpfVDZNSDRFdU5mWjdVNmsyQ1lSY2ZfQWlpdTUzdUtZdWE3V08yRW9ZVENSMk5sdGpOTUh0Rm9xWjg2MUozTTI4OUhMSlBjSA?oc=5",
           "pubDate": "2026-02-06 20:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zeGJxb0RVa1BmUGR3anBXenVEY1VEdHBDQ29HOXpfVDZNSDRFdU5mWjdVNmsyQ1lSY2ZfQWlpdTUzdUtZdWE3V08yRW9ZVENSMk5sdGpOTUh0Rm9xWjg2MUozTTI4OUhMSlBjSA?oc=5\" target=\"_blank\">AI「Grok」のディープフェイク騒動、倫理後回しの投資回収に危うさ</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
           "title": "スペースXがxAIを買収へ、マスク氏の企業統合進む - BBC",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dDlQX3N1LXNMd2ZyMnlFYlM3RDRRd3dlYlJiN0p6cXRIcExuNVlZR2xwOU9FeV95YkVmS2NSSTlKdWpLVFQtbDJNd3pPdkNrdE5HM1dYOHNFYVRGQ2o40gFkQVVfeXFMTVRSOFJpZzJEUXBkZWR1Ti15TGtySEFGOXVLUjM2LW1vYlk2eUtOOWdtbkpHbHl6YnptVi1MYkwwSWEyUDF3dk9SWklKUFZybDhBVnlQS0xBXzJlWU5HTTNoOVJvVw?oc=5",
           "pubDate": "2026-02-03 09:43:40",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dDlQX3N1LXNMd2ZyMnlFYlM3RDRRd3dlYlJiN0p6cXRIcExuNVlZR2xwOU9FeV95YkVmS2NSSTlKdWpLVFQtbDJNd3pPdkNrdE5HM1dYOHNFYVRGQ2o40gFkQVVfeXFMTVRSOFJpZzJEUXBkZWR1Ti15TGtySEFGOXVLUjM2LW1vYlk2eUtOOWdtbkpHbHl6YnptVi1MYkwwSWEyUDF3dk9SWklKUFZybDhBVnlQS0xBXzJlWU5HTTNoOVJvVw?oc=5\" target=\"_blank\">スペースXがxAIを買収へ、マスク氏の企業統合進む</a>  BBC",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         }
       ]
     }
