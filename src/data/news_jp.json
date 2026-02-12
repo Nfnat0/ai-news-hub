@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-12T00:59:04.852Z",
+  "fetchedAt": "2026-02-12T06:46:02.341Z",
   "locale": "jp",
   "companies": [
     {
@@ -46,7 +46,43 @@
     {
       "company": "openai",
       "displayName": "OpenAI",
-      "news": []
+      "news": [
+        {
+          "title": "AI Hack、Hakuhodo DY ONEが運営するAIO研究開発組織「ONE-AIO Lab」にてOpenAI「Apps in ChatGPT」を活用した独自アプリ開発体制の構築を技術面で支援 - PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lNnBTdW5USDVxUW9VUlpQYTFsZHBmYkVfM3JpUHdSdW5TVjQyMVpVd2RwU3FGU3NqdDQzeEJGSWdZVmZmYmNMOVMxZzdZZkFwVDVYVlR1WFV0blZaZHdZWHFnZndOazJKTWc?oc=5",
+          "pubDate": "2026-02-12 02:00:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1lNnBTdW5USDVxUW9VUlpQYTFsZHBmYkVfM3JpUHdSdW5TVjQyMVpVd2RwU3FGU3NqdDQzeEJGSWdZVmZmYmNMOVMxZzdZZkFwVDVYVlR1WFV0blZaZHdZWHFnZndOazJKTWc?oc=5\" target=\"_blank\">AI Hack、Hakuhodo DY ONEが運営するAIO研究開発組織「ONE-AIO Lab」にてOpenAI「Apps in ChatGPT」を活用した独自アプリ開発体制の構築を技術面で支援</a>  PR TIMES",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "ChatGPTのdeep research、GPT-5.2ベースに強化 - Impress Watch",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kOWtsVmlITDZTZWV3TGtVV1NaUV9hWUNyajVmZV94bVdpRmlCdG5sd1NCTHdDX1pneW5LckJBaHctam5nYkZNdXVqcEUxRXlSRW5ZenhoYVlTSVBmb3RXOS1qYXo?oc=5",
+          "pubDate": "2026-02-11 13:22:10",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kOWtsVmlITDZTZWV3TGtVV1NaUV9hWUNyajVmZV94bVdpRmlCdG5sd1NCTHdDX1pneW5LckJBaHctam5nYkZNdXVqcEUxRXlSRW5ZenhoYVlTSVBmb3RXOS1qYXo?oc=5\" target=\"_blank\">ChatGPTのdeep research、GPT-5.2ベースに強化</a>  Impress Watch",
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+        },
+        {
+          "title": "OpenAI「deep research」をGPT-5.2対応で強化 特定サイトや社内データからのレポート生成に対応 - ビジネス+IT",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Qak9ocnBRM09uXzNWN0x0ZHJ6eUZTRV9UUzFoeTRZcVI3S21xSzNTUFhsYlpwVHhST2YtTmZWMjgtTC0xUE9LaGZ1NXBXd1JtX3Vv?oc=5",
+          "pubDate": "2026-02-11 11:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Qak9ocnBRM09uXzNWN0x0ZHJ6eUZTRV9UUzFoeTRZcVI3S21xSzNTUFhsYlpwVHhST2YtTmZWMjgtTC0xUE9LaGZ1NXBXd1JtX3Vv?oc=5\" target=\"_blank\">OpenAI「deep research」をGPT-5.2対応で強化 特定サイトや社内データからのレポート生成に対応</a>  ビジネス+IT",
+          "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQjNFY2VBQmM1TTNqYUtRQy1tdzY3dFF1akxKTWFOVVEzd1JPdExHN3ppQzlJZHM1RzdLNHJlYm5oVkF3a05sWUlvcWxaZk9wb3dMY3hJVFVPQ0RPY01DR0E0QWx1aHJpRTY5WDhGdw?oc=5",
+          "pubDate": "2026-02-11 03:08:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQjNFY2VBQmM1TTNqYUtRQy1tdzY3dFF1akxKTWFOVVEzd1JPdExHN3ppQzlJZHM1RzdLNHJlYm5oVkF3a05sWUlvcWxaZk9wb3dMY3hJVFVPQ0RPY01DR0E0QWx1aHJpRTY5WDhGdw?oc=5\" target=\"_blank\">OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+        },
+        {
+          "title": "OpenAI、「ChatGPT」無料・低価格プランに広告 米国でテスト開始 - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YeXhqbTN5MnVTYkFKOXRPbGk5eXYxdV81WWF2a3l5dUw2ZkQybFBLZmNVVDRBUEItdWYxYlR2Z0RBdUhaMW1zdWVMZXBJRDJVdWc?oc=5",
+          "pubDate": "2026-02-10 01:22:00",
+          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YeXhqbTN5MnVTYkFKOXRPbGk5eXYxdV81WWF2a3l5dUw2ZkQybFBLZmNVVDRBUEItdWYxYlR2Z0RBdUhaMW1zdWVMZXBJRDJVdWc?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」無料・低価格プランに広告 米国でテスト開始</a>  CNET Japan</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBHT1NLS0lVV3RvRzdmaFQ1SC1LU1hqU0szY21KS181akJmYzhBMEN3cmhXbUhYakd5QTJEdXhJSFM3VzZLajVrNTQ5eHlOUWRyeV9KeTRIaW5HYlJGWElwYmR3Zk90cTJVa2Y3clI3czA5QXAyNFRmNTFBbzNGbWM?oc=5\" target=\"_blank\">OpenAI、「ChatGPT」で広告表示テストを開始 米国の無料版と「Go」プランが対象（ITmedia NEWS）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNGVkMHB6Q1RYck4wQUJBSEpJRE8xbkZLem1XbkZwQ2E3Z2Y0aEhROThsSFNicGgxUThoeXotaS11WmNqdXVuUExJVlVqcDVJZ0dXbXJDLUFEbjhPM042R0VFN2lHaHczYzVMYloyaUt0bjQ?oc=5\" target=\"_blank\">OpenAIの研究者がChatGPTの広告を理由に辞任、「Facebook」と同じ道を歩むことを警告</a>  GIGAZINE</li>\n</ol>",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
+        }
+      ]
     },
     {
       "company": "microsoft",
