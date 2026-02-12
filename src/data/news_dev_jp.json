@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-11T19:32:30.206Z",
+  "fetchedAt": "2026-02-12T03:26:53.934Z",
   "locale": "jp",
   "companies": [
     {
@@ -14,10 +14,10 @@
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "CursorがNVIDIAの導入状況を紹介、コミットされるコード量は従来の3倍以上に - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nVTA0emZoQ0N5VjRWbG5XeDBjLXlZa2dtb0gzSW15TVd0VmFCSzd4ZzEzWE1yOEZpOE12R1N3RDNhUW5XbEEyb1dfTExVZw?oc=5",
-          "pubDate": "2026-02-09 23:30:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nVTA0emZoQ0N5VjRWbG5XeDBjLXlZa2dtb0gzSW15TVd0VmFCSzd4ZzEzWE1yOEZpOE12R1N3RDNhUW5XbEEyb1dfTExVZw?oc=5\" target=\"_blank\">CursorがNVIDIAの導入状況を紹介、コミットされるコード量は従来の3倍以上に</a>  CodeZine",
+          "title": "5大コーディングエージェントの比較で分かった「バイブコーディング」の落とし穴：共通する弱点と3つの教訓 Tenzai分析 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WMjlQU000LUpGSkw5cTRaWjhtUEdZSWJtMXhGdUNldjBLcWFkbThlcWV1LXBoUlI2Zml4eWRqQnFTUmpFRnprQ3M3SHJhclpIX3Fub3ZVUnNJQXlnVjlaYlNNaDdSZjUtX3diN24wb3ZqZw?oc=5",
+          "pubDate": "2026-02-09 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WMjlQU000LUpGSkw5cTRaWjhtUEdZSWJtMXhGdUNldjBLcWFkbThlcWV1LXBoUlI2Zml4eWRqQnFTUmpFRnprQ3M3SHJhclpIX3Fub3ZVUnNJQXlnVjlaYlNNaDdSZjUtX3diN24wb3ZqZw?oc=5\" target=\"_blank\">5大コーディングエージェントの比較で分かった「バイブコーディング」の落とし穴：共通する弱点と3つの教訓 Tenzai分析</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
@@ -48,6 +48,13 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
+          "title": "GitHub CopilotでGPT-5.3-Codexが一般提供開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lTFdyclJGM2Jwd3BmdHFhQWdJOGh4RmY1dnIyRXRiaWJrSzYzSDhZdTNfVEZzcTFNM2xTSm4wQUlDaWF0S3BLYlJ2VmF4Zw?oc=5",
+          "pubDate": "2026-02-12 00:03:44",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lTFdyclJGM2Jwd3BmdHFhQWdJOGh4RmY1dnIyRXRiaWJrSzYzSDhZdTNfVEZzcTFNM2xTSm4wQUlDaWF0S3BLYlJ2VmF4Zw?oc=5\" target=\"_blank\">GitHub CopilotでGPT-5.3-Codexが一般提供開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+        },
+        {
           "title": "日本で一番レガシーシステムと対峙してきた5社がGitHub Copilotと出会うインパクト (1/2) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYTFAtVlhvOEVRNzdvMDRMQ1hkdWdUZkJZcVBMclZwX3NNLUxEV1o2V3dBZE5BUDQ1Z01qZlFFRUg5ejd1eGQwSFhpVk13Vmk4QjBRMg?oc=5",
           "pubDate": "2026-02-09 22:00:00",
@@ -62,24 +69,17 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
-          "title": "GitHub CopilotでClaude Opus 4.6の提供を開始 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5",
-          "pubDate": "2026-02-09 00:04:34",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5\" target=\"_blank\">GitHub CopilotでClaude Opus 4.6の提供を開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
+          "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
+          "pubDate": "2026-01-23 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "GitHub Copilot SDKの発表 - The GitHub Blog",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHRwNXpKdVUxVy0yRl9aYXVuRFh4MVZKU0tMeExHRmgzcjY2MFJLdUNEMmVEVzc5QTdrVl9faXdSa1JnQ2Z6cm5tTVgtRnRlbHotaGY3ZmxmZ3VTRmEtYUQyUzRncU9LVEUwdXNfWnZJZnJ4bmtLQmxWVzhfazI3cHFkZnZvOVhjRFhBbVJwY2UtdDNl?oc=5\" target=\"_blank\">GitHub Copilot SDKの発表</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
-        },
-        {
-          "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
-          "pubDate": "2026-01-23 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
           "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
@@ -96,24 +96,17 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
-          "title": "GitHub CopilotがVS Code向けの1月アップデートを発表 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RUmZGUFFtV1N6VnE5ZTdiQ2ZHbFZZdDRGT0p4MHlFcnBLRmh6bkJRY2lheGRlanhyRlQzckJqRU1ELW8yYldJdjM3ME41Zw?oc=5",
-          "pubDate": "2026-02-05 23:03:45",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RUmZGUFFtV1N6VnE5ZTdiQ2ZHbFZZdDRGT0p4MHlFcnBLRmh6bkJRY2lheGRlanhyRlQzckJqRU1ELW8yYldJdjM3ME41Zw?oc=5\" target=\"_blank\">GitHub CopilotがVS Code向けの1月アップデートを発表</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "title": "Visual Studio Code 1.109リリース、複数AIエージェントの並列実行が可能に - innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GVzN0WmhGTFhDQnRaekJrWkxrTXc1ZVhWZGlxdjhmWjF5MkFFZnpmZE9vbV9rcVRDVkp2cGNIWjc4c1FNaWR1WF9ndm9PTHVDR0E?oc=5",
+          "pubDate": "2026-02-08 09:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GVzN0WmhGTFhDQnRaekJrWkxrTXc1ZVhWZGlxdjhmWjF5MkFFZnpmZE9vbV9rcVRDVkp2cGNIWjc4c1FNaWR1WF9ndm9PTHVDR0E?oc=5\" target=\"_blank\">Visual Studio Code 1.109リリース、複数AIエージェントの並列実行が可能に</a>  innovaTopia",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
-          "title": "「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充 - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5",
-          "pubDate": "2026-02-05 04:02:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5\" target=\"_blank\">「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
-        },
-        {
-          "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に | GitHub Japan - Digital PR Platform",
+          "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に - Digital PR Platform",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5",
-          "pubDate": "2026-02-05 02:33:57",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5\" target=\"_blank\">GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に | GitHub Japan</a>  Digital PR Platform",
+          "pubDate": "2026-02-05 02:33:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5\" target=\"_blank\">GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に</a>  Digital PR Platform",
           "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
@@ -121,7 +114,14 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5",
           "pubDate": "2026-02-03 04:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5\" target=\"_blank\">「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+        },
+        {
+          "title": "「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lOF8wMjA2aElqU2dZREllVlZzQnBaWk9RV2hSaUNfZldFeVdEbDRtWVdPLURFallTRjVZN3lZR2VVXzlZeU1TTi1jNTZVZGJ3UGdfYWFhS2xIazlOV0tFYkxYbXE2aFpD?oc=5",
+          "pubDate": "2026-01-27 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lOF8wMjA2aElqU2dZREllVlZzQnBaWk9RV2hSaUNfZldFeVdEbDRtWVdPLURFallTRjVZN3lZR2VVXzlZeU1TTi1jNTZVZGJ3UGdfYWFhS2xIazlOV0tFYkxYbXE2aFpD?oc=5\" target=\"_blank\">「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
     },
