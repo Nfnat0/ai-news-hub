@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-13T07:31:36.399Z",
+  "fetchedAt": "2026-02-13T13:41:22.493Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,39 +7,39 @@
       "displayName": "Cursor",
       "news": [
         {
-          "title": "Cursor、個人向けプランでAutoとComposer 1.5の利用枠を大幅拡大 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVOW5hTF93TFBENkdCVmNDOXJfZHlfS0hDeU5CZzRqY2RUVndLeDNtX3ptUGxodVlWLXpkQTl0YkhLVjFwdzZ1VG1lWW5JZw?oc=5",
-          "pubDate": "2026-02-13 02:04:36",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVOW5hTF93TFBENkdCVmNDOXJfZHlfS0hDeU5CZzRqY2RUVndLeDNtX3ptUGxodVlWLXpkQTl0YkhLVjFwdzZ1VG1lWW5JZw?oc=5\" target=\"_blank\">Cursor、個人向けプランでAutoとComposer 1.5の利用枠を大幅拡大</a>  CodeZine",
+          "title": "Cursor、長時間稼働するマルチエージェント型自律コーディング研究の成果を紹介 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92STdYbEhDREhSSS1lLWNOZ2hISHJjalF0VEgtQU95clBZU25PaXAtLVFhN0dGN1YxVUczd3JxaEstN2U2NTJhOV96NW5SQQ?oc=5",
+          "pubDate": "2026-02-13 11:13:30",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE92STdYbEhDREhSSS1lLWNOZ2hISHJjalF0VEgtQU95clBZU25PaXAtLVFhN0dGN1YxVUczd3JxaEstN2U2NTJhOV96NW5SQQ?oc=5\" target=\"_blank\">Cursor、長時間稼働するマルチエージェント型自律コーディング研究の成果を紹介</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
         },
         {
-          "title": "Cursor、強化学習を活用した新コーディングモデル「Composer 1.5」を発表 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVmljYnVtOWNmYXFpMFRnVzlfN05wZXhWODVlRENMbno5LXdYVnQxeU1aYm0xRmtrNFU2QzU4anIwNWFFTUlhWFZIaGF3dw?oc=5",
-          "pubDate": "2026-02-11 01:03:34",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVmljYnVtOWNmYXFpMFRnVzlfN05wZXhWODVlRENMbno5LXdYVnQxeU1aYm0xRmtrNFU2QzU4anIwNWFFTUlhWFZIaGF3dw?oc=5\" target=\"_blank\">Cursor、強化学習を活用した新コーディングモデル「Composer 1.5」を発表</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
+          "title": "Cursor、個人向けプランでAutoとComposer 1.5の利用枠を大幅拡大 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVOW5hTF93TFBENkdCVmNDOXJfZHlfS0hDeU5CZzRqY2RUVndLeDNtX3ptUGxodVlWLXpkQTl0YkhLVjFwdzZ1VG1lWW5JZw?oc=5",
+          "pubDate": "2026-02-13 02:14:25",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVOW5hTF93TFBENkdCVmNDOXJfZHlfS0hDeU5CZzRqY2RUVndLeDNtX3ptUGxodVlWLXpkQTl0YkhLVjFwdzZ1VG1lWW5JZw?oc=5\" target=\"_blank\">Cursor、個人向けプランでAutoとComposer 1.5の利用枠を大幅拡大</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
         },
         {
-          "title": "『Cursor完全入門』などプログラミング関連書が50％OFF！Amazonの「Kindle本 高価格タイトルセール」 - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDkxc0J2cF9ycktXRmFvMTBmaE9iZ3RyaUJQcGhxTzg0Ujc0QUhQbnBHNGllMkxSbEF2N09ueUNuMmhZejU3OHFoRG56cnJuSk41VFpmZXlGMEZEbmtsd0ViTWVxN2FwRmJqcFJ0dVZKamxOTkE?oc=5",
-          "pubDate": "2026-02-09 01:00:48",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDkxc0J2cF9ycktXRmFvMTBmaE9iZ3RyaUJQcGhxTzg0Ujc0QUhQbnBHNGllMkxSbEF2N09ueUNuMmhZejU3OHFoRG56cnJuSk41VFpmZXlGMEZEbmtsd0ViTWVxN2FwRmJqcFJ0dVZKamxOTkE?oc=5\" target=\"_blank\">『Cursor完全入門』などプログラミング関連書が50％OFF！Amazonの「Kindle本 高価格タイトルセール」</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "title": "再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5",
+          "pubDate": "2025-12-04 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbWExZlNJaEI4WFFNaVo2SUZjajUtUW9qNUR6S1lNQlVCTzJLNk8wMVFJZ1M5X1NaY3JrZkJEZ1ZlSy11Yl9mRjZEcUIzbVVMdy1YcUR6MGpQQVBGN3JkQnA2TWFDa2poaXVjVVVZTFk0QVU?oc=5\" target=\"_blank\">再び注目を集めるAIコーディングエディター「Cursor」の機能・使いこなしテク――ツール発展の歴史から、いまこそ試すべき理由を紐解く - 開発者と読み解くAIの世界</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         },
         {
           "title": "評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに - Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5",
           "pubDate": "2025-11-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cbm5zUjAzdWMxWWxqMWZ0WVNJVEZydXdzREllX0hWQm5BXzJfZHQxQmVRcXhmTFhidzJjZG0wVTRmOG1IeTJlNi1IN2JmQV9LZmFCVjFud0w?oc=5\" target=\"_blank\">評価額4.5兆円到達、AIコーディング「Cursor」の20代創業者4人がビリオネアに</a>  Forbes JAPAN",
-          "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン) - Mercari",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5",
           "pubDate": "2025-08-06 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbGlzOE1OMk5LZVprTHRGaHU5ZW1MN0lyYnRlQVZfY05KajhiR3Z1ZmM0XzFrcWRBTkFQSS00YVJCQWlzZFJWUDhTbjlXbzZkeTJQV0VnMVRLWmc4Snln?oc=5\" target=\"_blank\">AIコードエディタ「Cursor」のMeetup を開催！6,000人以上の注目を集めたイベントの最前線 | mercan (メルカン)</a>  Mercari",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         }
       ]
     },
@@ -48,13 +48,6 @@
       "displayName": "GitHub Copilot",
       "news": [
         {
-          "title": "GitHub Copilot、Claude Opus 4.6「Fast mode」をプレビュー提供開始 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPYmQ5T0ZXU3B5cEhvYXBuUEdVbDFKV3FhZVhMVkVJNDVVNE1mN1liZWJmay0tcGp1NWRZLW4wUjNNVnlJaUwwYklEbWI0QQ?oc=5",
-          "pubDate": "2026-02-12 14:45:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPYmQ5T0ZXU3B5cEhvYXBuUEdVbDFKV3FhZVhMVkVJNDVVNE1mN1liZWJmay0tcGp1NWRZLW4wUjNNVnlJaUwwYklEbWI0QQ?oc=5\" target=\"_blank\">GitHub Copilot、Claude Opus 4.6「Fast mode」をプレビュー提供開始</a>  CodeZine",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
-        },
-        {
           "title": "富士通は、Microsoft Dev Box と GitHub Copilot で市場投入までの時間 (TTM) を短縮し、セキュリティを強化 - Microsoft",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXRZZnU3bkt2Y1czRzdZdGhTRHZPSGRmQXFDR3JNc08yNFo0U0JnNzV3Q05fblg5SmtDMU1fd2RKTVNzMzlJQ29WX0RJRkZPaHAxdk1fVkR4eVg4WWZNWmhYbFFTYl80VGtHdUxLcEFUQ3VvUGxxTHRwWTdMWlM1Wm9uZU9zODZYTzMwTHhuS1U?oc=5",
           "pubDate": "2026-02-12 09:38:59",
@@ -62,18 +55,25 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
+          "title": "GitHub CopilotでClaude Opus 4.6の提供を開始 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5",
+          "pubDate": "2026-02-12 08:57:15",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5\" target=\"_blank\">GitHub CopilotでClaude Opus 4.6の提供を開始</a>  CodeZine",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
+        },
+        {
           "title": "日本で一番レガシーシステムと対峙してきた5社がGitHub Copilotと出会うインパクト (1/2) - ASCII.jp",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYTFAtVlhvOEVRNzdvMDRMQ1hkdWdUZkJZcVBMclZwX3NNLUxEV1o2V3dBZE5BUDQ1Z01qZlFFRUg5ejd1eGQwSFhpVk13Vmk4QjBRMg?oc=5",
           "pubDate": "2026-02-09 22:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYTFAtVlhvOEVRNzdvMDRMQ1hkdWdUZkJZcVBMclZwX3NNLUxEV1o2V3dBZE5BUDQ1Z01qZlFFRUg5ejd1eGQwSFhpVk13Vmk4QjBRMg?oc=5\" target=\"_blank\">日本で一番レガシーシステムと対峙してきた5社がGitHub Copilotと出会うインパクト (1/2)</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
         },
         {
           "title": "ターミナルで動作するAIコーディングエージェント「GitHub Copilot CLI」v0.0.406 ほか - ダイジェストニュース - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5",
           "pubDate": "2026-02-09 09:07:35",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5\" target=\"_blank\">ターミナルで動作するAIコーディングエージェント「GitHub Copilot CLI」v0.0.406 ほか - ダイジェストニュース</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         },
         {
           "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
@@ -89,38 +89,38 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "Claude Codeの「VS Code」拡張機能、一般公開 “CLIの操作体験”をエディタに融合 - ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTjZkcWN6a2FMUjcwMVZFR1UtUENVTVRybUFjeDE3R1gtUFFLS0dhaXdDQ0MwNmx0Nm12RTNDMlVWTlhUMERHSGtKUHZYRFlURTN3RlptY29zdS01d2lrTmplaGdrZ2JaNmlqNHRfVGxhZw?oc=5",
+          "pubDate": "2026-02-13 04:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5hTjZkcWN6a2FMUjcwMVZFR1UtUENVTVRybUFjeDE3R1gtUFFLS0dhaXdDQ0MwNmx0Nm12RTNDMlVWTlhUMERHSGtKUHZYRFlURTN3RlptY29zdS01d2lrTmplaGdrZ2JaNmlqNHRfVGxhZw?oc=5\" target=\"_blank\">Claude Codeの「VS Code」拡張機能、一般公開 “CLIの操作体験”をエディタに融合</a>  ITmedia",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "NXP マイコン Visual Studio Code 開発ガイド - macnica.co.jp",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JOENpMEdZNk5qMjJ2R2ptbVBrbjgtbUQtaENaZTNPc1YtWHVISkRxV2tqNUxSZE5neXMyTzBsZ0ZNcUFXUnVIZVZuMmhsVTQ0YWhZd0NsaG9Fd0JvNXBVbGdOZDFUQ2cyVy1TRkI3Tm5XazlxRlVQTg?oc=5",
           "pubDate": "2026-02-10 04:10:34",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JOENpMEdZNk5qMjJ2R2ptbVBrbjgtbUQtaENaZTNPc1YtWHVISkRxV2tqNUxSZE5neXMyTzBsZ0ZNcUFXUnVIZVZuMmhsVTQ0YWhZd0NsaG9Fd0JvNXBVbGdOZDFUQ2cyVy1TRkI3Tm5XazlxRlVQTg?oc=5\" target=\"_blank\">NXP マイコン Visual Studio Code 開発ガイド</a>  macnica.co.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+        },
+        {
+          "title": "「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充 - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5",
+          "pubDate": "2026-02-05 04:02:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5\" target=\"_blank\">「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         },
         {
           "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に - Digital PR Platform",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5",
           "pubDate": "2026-02-05 02:33:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5\" target=\"_blank\">GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に</a>  Digital PR Platform",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5",
-          "pubDate": "2026-02-03 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vUUgyNml0UjdDRHdmNlNfNy15c0JyU0hhUXE2ZG10TDVSaXJjS211M0xkZmpNM3RnSGJ5ZTBiZjA0ZmVET0pjZ2xlNHhlT0ZyQjJrQmpicXN1d0RoQzA5QXA4WXd0V2hzbFFEX3dIUzFPQQ?oc=5\" target=\"_blank\">「Visual Studio Code」バージョン1.108、GitHub Copilotのスキル機能など追加：Microsoft、2025年12月アップデート</a>  ITmedia",
           "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
-          "title": "「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lOF8wMjA2aElqU2dZREllVlZzQnBaWk9RV2hSaUNfZldFeVdEbDRtWVdPLURFallTRjVZN3lZR2VVXzlZeU1TTi1jNTZVZGJ3UGdfYWFhS2xIazlOV0tFYkxYbXE2aFpD?oc=5",
-          "pubDate": "2026-01-27 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lOF8wMjA2aElqU2dZREllVlZzQnBaWk9RV2hSaUNfZldFeVdEbDRtWVdPLURFallTRjVZN3lZR2VVXzlZeU1TTi1jNTZVZGJ3UGdfYWFhS2xIazlOV0tFYkxYbXE2aFpD?oc=5\" target=\"_blank\">「Visual Studio Code」が「MCP アプリ」に対応、AIエージェントの返答が視覚的・操作可能に</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
-        },
-        {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
-          "pubDate": "2025-08-08 02:21:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
+          "pubDate": "2025-08-08 02:21:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         }
       ]
