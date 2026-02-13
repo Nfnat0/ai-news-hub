@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-12T21:57:31.574Z",
+  "fetchedAt": "2026-02-13T05:09:21.534Z",
   "locale": "en",
   "companies": [
     {
@@ -7,24 +7,31 @@
       "displayName": "Cursor",
       "news": [
         {
+          "title": "Cursor claims Nvidia engineers produce three times more code with AI tools - TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUVBLQ0FPMmhOOTlNMkhsRmdQLWxSbS11LU1Fai1FVTZjVk95dkhXbHdUUE1BSW9Cd1lmbXBDU1JMM2dPelZ4S0M3S3dXMnNmd043VGpSWTB2T0pTdHBIMzF6ckJ0dFM1bTdvNklsNWw2ZktmTnpKWGtGRmxJMUNvV0YwcC1aNlRzSjdPckJneTdQdER4dDFrMjEyYk1sMkU1MWc1bkN0QXB4VXpQSmVyQjI5dU5CWWR4VEZNeG1sZnZpYVVPV1hoNENva1ZCaUp0eUZhUXFGcS1sWEUzQXQ3aVdCbnFqU3RsblRrbER2Nl9LVUxXOHhWSTJZa090S3VCSm5VdXpXdUs?oc=5",
+          "pubDate": "2026-02-12 21:40:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUVBLQ0FPMmhOOTlNMkhsRmdQLWxSbS11LU1Fai1FVTZjVk95dkhXbHdUUE1BSW9Cd1lmbXBDU1JMM2dPelZ4S0M3S3dXMnNmd043VGpSWTB2T0pTdHBIMzF6ckJ0dFM1bTdvNklsNWw2ZktmTnpKWGtGRmxJMUNvV0YwcC1aNlRzSjdPckJneTdQdER4dDFrMjEyYk1sMkU1MWc1bkN0QXB4VXpQSmVyQjI5dU5CWWR4VEZNeG1sZnZpYVVPV1hoNENva1ZCaUp0eUZhUXFGcS1sWEUzQXQ3aVdCbnFqU3RsblRrbER2Nl9LVUxXOHhWSTJZa090S3VCSm5VdXpXdUs?oc=5\" target=\"_blank\">Cursor claims Nvidia engineers produce three times more code with AI tools</a>  TechRadar",
+          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+        },
+        {
+          "title": "Nvidia now produces three times as much code as before AI — specialized version of Cursor is being used by over 30,000 Nvidia engineers internally - Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUzlROUFoRldLXzgwcWFUSm5BN2tIMFJHQXo2VlEzZWgtMU9pZXBIVVRGc0xHVERwaVBPX0Z3eERBUVZYYVdIVG1CR2R5ZDVZdkJnckRTWEZDR0lSTHhzM3RydXl4SjgxTGZOUUhwMzI2Z2NyalJuTGQ2WWRFOHJ1dWFDOGlfeWJhWExWaUpPU1ZveU1EYV9LU3lKRkdzTTlnS2RNTEdLTUV3bHE2bXFkNG9QYTA1alNUa3piT3pmTTNIV2EyX0FSdjF5WVR0ZFlsaGlZM18zRjdNeEdQVUpQWFhVeHhneWRoYnFqN1FHaGxsdFdCdEs0dkFmZGJWQ2FRTzM5eUpzcWZETnNRNklrWmN4RWQ0STRSQm11T2J6NXB0U25wcXNDMmNIQ3plUjZzQ1R4RnZ3?oc=5",
+          "pubDate": "2026-02-09 13:00:59",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxPUzlROUFoRldLXzgwcWFUSm5BN2tIMFJHQXo2VlEzZWgtMU9pZXBIVVRGc0xHVERwaVBPX0Z3eERBUVZYYVdIVG1CR2R5ZDVZdkJnckRTWEZDR0lSTHhzM3RydXl4SjgxTGZOUUhwMzI2Z2NyalJuTGQ2WWRFOHJ1dWFDOGlfeWJhWExWaUpPU1ZveU1EYV9LU3lKRkdzTTlnS2RNTEdLTUV3bHE2bXFkNG9QYTA1alNUa3piT3pmTTNIV2EyX0FSdjF5WVR0ZFlsaGlZM18zRjdNeEdQVUpQWFhVeHhneWRoYnFqN1FHaGxsdFdCdEs0dkFmZGJWQ2FRTzM5eUpzcWZETnNRNklrWmN4RWQ0STRSQm11T2J6NXB0U25wcXNDMmNIQ3plUjZzQ1R4RnZ3?oc=5\" target=\"_blank\">Nvidia now produces three times as much code as before AI — specialized version of Cursor is being used by over 30,000 Nvidia engineers internally</a>  Tom's Hardware",
+          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
+        },
+        {
           "title": "Cursor is better at marketing than coding - theregister.com",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVzA0NkJGTUJmTEVlUlFUczV6S3FMUktieEFQa0Z3R3RTMDEzYTlBSlJLdEp0Z2VWWF9wLUN0aW9NS3I4cERBR3pDTHl4d2ZXZENPWjNnbmY3a1dPWGN2M3JCWGU?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVzA0NkJGTUJmTEVlUlFUczV6S3FMUktieEFQa0Z3R3RTMDEzYTlBSlJLdEp0Z2VWWF9wLUN0aW9NS3I4cERBR3pDTHl4d2ZXZENPWjNnbmY3a1dPWGN2M3JCWGU?oc=5\" target=\"_blank\">Cursor is better at marketing than coding</a>  theregister.com",
-          "thumbnail": "https://picsum.photos/seed/cursor-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
         },
         {
           "title": "What a Difference a VS Code Fork Makes: Antigravity, Cursor and Windsurf Compared - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFNIMnJkMVZmbDFtZDItUEVMWUM5WWNRU2pSQnU4TnRTUkFQQjJvZ3FYM2tZaG93a0FWMG1TbFlwbDZSQ2JFRC0yUTluMmdZVW0wZmdLQV9ISWR2OXNkbUl0SkV0Z0lpRjBFTF8xZHZWQldmcmhzdHUtdUctS3dqUnBmX0VDU1RsbkZZM29qNVhEdG9RM1NjbkpnUE5pb2hEdmNhODBmeHRmV3FaT2VsR085a1czVmlEU0hCTEVrcWdBNXJhX2VXYnVOOERyYUs1TUlj?oc=5\" target=\"_blank\">What a Difference a VS Code Fork Makes: Antigravity, Cursor and Windsurf Compared</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/cursor-3/400/225"
-        },
-        {
-          "title": "How Cursor Actually Indexes Your Codebase - Towards Data Science",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5",
-          "pubDate": "2026-01-26 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SX1BHRVVFanNObHlJRGxCODY3N0NTbXltQWpaNmQyMllnRkVWNnl4TUVfWUVxYWczcTdJdjVNWEV1aGVXVEVDWU1JVTc3OUY3X2ZBU215OHh6NFRTSFpIUWJCbzFZOFpPVk1OeFF4WXNlRGFReUhobHdjdVN3Zw?oc=5\" target=\"_blank\">How Cursor Actually Indexes Your Codebase</a>  Towards Data Science",
           "thumbnail": "https://picsum.photos/seed/cursor-4/400/225"
         },
         {
@@ -32,13 +39,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNZWGtXSTY5UEhSRm1wUHE3V0ZSZXF5NXhhVzFsZF9EX244N01FX0VYUVB3Z040dTFCMkdSOWxoY3M4UHF1SzBXTTByZWJVRzlhS0E2LVBsWmlhbjZGTnc4YTc5THRSc2h0Tzl6ZEpicExfaVBteUE2WUI4RGd6YklndDJMbWRQMmNEMVZtZ3ZSanJWSUk0?oc=5\" target=\"_blank\">Cursor’s OpenAI-powered agents built and ran a browser for a week with no humans. Why that matters</a>  Fortune",
-          "thumbnail": "https://picsum.photos/seed/cursor-0/400/225"
-        },
-        {
-          "title": "Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side - Stark Insider",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5",
-          "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnRUTUM5c0cxLUU2M0lEd3BFdnctQjZIa0FJbzhuc2Y3S0R3MzRmNXAxMndtNHFxa3NLOWQ2X1pHUVBSbGpDY0tUdUZjQjZHQV9NZm5rWTYwOVROblM1bmtwLTBJeUF1OUJvT0JtVjkzaWk1ejlISzU4Ul9nVG81SUZsTFlLSlRBbFE?oc=5\" target=\"_blank\">Two AIs, One Codebase: Why I Run Claude Code and Cursor Side-by-Side</a>  Stark Insider",
           "thumbnail": "https://picsum.photos/seed/cursor-2/400/225"
         }
       ]
@@ -57,9 +57,16 @@
         {
           "title": "GitHub adds Claude and Codex AI coding agents - The Verge",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFBLVzVCdnFMSXVQYWpzek13V21kdHVsUmM5dVZ6SlQ4MlpPTlhHSVQ0WTgzOTVkbFVSbWxIenVwX01UYXZadWhqTkJfTEJoMEtlY3lxNWhsV1U2T0FmbmNON1dWQmNFM1pMOU5aaVlWMTRJ?oc=5",
-          "pubDate": "2026-02-04 17:00:00",
+          "pubDate": "2026-02-04 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVFBLVzVCdnFMSXVQYWpzek13V21kdHVsUmM5dVZ6SlQ4MlpPTlhHSVQ0WTgzOTVkbFVSbWxIenVwX01UYXZadWhqTkJfTEJoMEtlY3lxNWhsV1U2T0FmbmNON1dWQmNFM1pMOU5aaVlWMTRJ?oc=5\" target=\"_blank\">GitHub adds Claude and Codex AI coding agents</a>  The Verge",
           "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+        },
+        {
+          "title": "ACP support in Copilot CLI is now in public preview - The GitHub Blog",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ0cEkzd2c5TzZJZjV0cnlPWHlIbFBXa3pBYjV0TW10ZzZoQ2d4aUxTT2pwTFJlX205LVZGbUt6ZXdYT1NfaDN4RmNMLUY5c3JRUlJ0bldNOUtZZk9EcXN6S1BoLUlaU0V5VjY1bjdnekJ5by1lQXVZajBUaGJjd3hkX0hOZ3JCTWd5S3hLSGtBQXZkRkVDag?oc=5",
+          "pubDate": "2026-01-28 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ0cEkzd2c5TzZJZjV0cnlPWHlIbFBXa3pBYjV0TW10ZzZoQ2d4aUxTT2pwTFJlX205LVZGbUt6ZXdYT1NfaDN4RmNMLUY5c3JRUlJ0bldNOUtZZk9EcXN6S1BoLUlaU0V5VjY1bjdnekJ5by1lQXVZajBUaGJjd3hkX0hOZ3JCTWd5S3hLSGtBQXZkRkVDag?oc=5\" target=\"_blank\">ACP support in Copilot CLI is now in public preview</a>  The GitHub Blog",
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give... - Times of India",
@@ -74,13 +81,6 @@
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3VWRmo2NUphOFlvRk50bVhFR01JUjFNSkNObkxQN0ZSVFpHYmJjcVpVWnpQZ1BLczhPQm5FWmhqSGxDUkgtZXQtUkVMa2ZHMGExczBsNFZTQTRyWk9tS1ZwQVoxUEN4MXZ5bHBhZVFwTC1UVVhzOGp1YWhYWHFNM18wbVViOUVmVU5hWXdXNUZOVmk2YkItVnZnQmVwNmdDbFZCWmV5RGUyU2EweHhz?oc=5\" target=\"_blank\">Power agentic workflows in your terminal with GitHub Copilot CLI</a>  The GitHub Blog",
           "thumbnail": "https://picsum.photos/seed/github-copilot-2/400/225"
-        },
-        {
-          "title": "Building an agentic memory system for GitHub Copilot - The GitHub Blog",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5",
-          "pubDate": "2026-01-15 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQejFRQWd6M2VVcWk1SG1IN3BkYm02TlZlamxQNXFMZDRicXNkQmtQalRReC1CUlFPZ2RUVUFHdzE4dHFVQXdONmxJLVpGT090T3VHc2Q5b1BnNnowbVNXX0stR2RnRXYzWWZsU2xmOUw3Z21OSTFlVmpEUmRaNGpFamRvcFhoWFRtVEFhNUZzbzVCUHE5bC1nUTM5Y21iUEU?oc=5\" target=\"_blank\">Building an agentic memory system for GitHub Copilot</a>  The GitHub Blog",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         }
       ]
     },
@@ -89,25 +89,25 @@
       "displayName": "Visual Studio Code",
       "news": [
         {
+          "title": "VS Code becomes multi-agent command center for developers - The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFM1eVQ0NXZfRkJDQk0yWGtFOWdiTUc0dTI3OUxnanZyZW5mLWkydVBxQUlPbUo0Mlp6enpJQmI2LWoxRHJaNmhRcVJ6LXBSSEtRN3ozQVR5cF9tMHVTXzQxREphS0EzTC13LVhzVjZscmliWktOb0ZXamw5MVc4TW5GemhDWW1X?oc=5",
+          "pubDate": "2026-02-12 18:42:59",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFM1eVQ0NXZfRkJDQk0yWGtFOWdiTUc0dTI3OUxnanZyZW5mLWkydVBxQUlPbUo0Mlp6enpJQmI2LWoxRHJaNmhRcVJ6LXBSSEtRN3ozQVR5cF9tMHVTXzQxREphS0EzTC13LVhzVjZscmliWktOb0ZXamw5MVc4TW5GemhDWW1X?oc=5\" target=\"_blank\">VS Code becomes multi-agent command center for developers</a>  The New Stack",
+          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
+        },
+        {
           "title": "'Another dark day': Users slam Microsoft over Polyglot Notebooks deprecation - theregister.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kaGRNZ2p5RjhfR2o1eWZPOWRGbWtlZVg5cE9UbDgyZjdEN0xxWEYtaUVHeUs3SkZ3YlR6V0lQT3JCT0ZveHh2blF6YjltY0Q4NTJzWERyTENHQTIwTk9MZzh3VW5DWDJJeFV3NE1RQ09yZHR1elFnMzdR?oc=5",
           "pubDate": "2026-02-12 14:23:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9kaGRNZ2p5RjhfR2o1eWZPOWRGbWtlZVg5cE9UbDgyZjdEN0xxWEYtaUVHeUs3SkZ3YlR6V0lQT3JCT0ZveHh2blF6YjltY0Q4NTJzWERyTENHQTIwTk9MZzh3VW5DWDJJeFV3NE1RQ09yZHR1elFnMzdR?oc=5\" target=\"_blank\">'Another dark day': Users slam Microsoft over Polyglot Notebooks deprecation</a>  theregister.com",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "Hands-On: Developing a Rule-Aware QA Mode with VS Code 1.109 Agent Skills - Visual Studio Magazine",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTBoQ29GTjF2TjNLOENHcUpJU2xUY1hia1B4QmNNVTA5RElpU1h2Nm44S19EMXJwajg0c2FZNHNJOEliUkUxWXBoZjNuYkkzQmxIYlNsbEpiek5KMzREU0ZEeTVhQlR3SGdobm9pWjk0bU1vcHNJbzBYX2VIVFJBSkd4ejhxTXpZaVB6U09Ia3Viek5MaEpzX05rUElpM1k2YUhOYTRNVlN0a29zXzYw?oc=5",
           "pubDate": "2026-02-11 23:08:26",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTBoQ29GTjF2TjNLOENHcUpJU2xUY1hia1B4QmNNVTA5RElpU1h2Nm44S19EMXJwajg0c2FZNHNJOEliUkUxWXBoZjNuYkkzQmxIYlNsbEpiek5KMzREU0ZEeTVhQlR3SGdobm9pWjk0bU1vcHNJbzBYX2VIVFJBSkd4ejhxTXpZaVB6U09Ia3Viek5MaEpzX05rUElpM1k2YUhOYTRNVlN0a29zXzYw?oc=5\" target=\"_blank\">Hands-On: Developing a Rule-Aware QA Mode with VS Code 1.109 Agent Skills</a>  Visual Studio Magazine",
-          "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
-        },
-        {
-          "title": "Visual Studio Code update shines on coding agents - InfoWorld",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXNHaC1HQWd4RktLZ3ZRdlFjMnZ4Tmp6cWpmLTJRbDZMUnR4YzVZeXZxaGZzeXllUGFqNmlURU1pejJXamxHdlJvVkpOd0lUWXRwMWZIZUdQczNiVUZ4aXdYTmtLSVJjSDdzYlpLYjZaOWoySXpWNXRfVGNDRGN6YXVJTF9FczEwalIzQmFuOFBPQ0Nla2xNLUo1d3E?oc=5",
-          "pubDate": "2026-02-05 22:14:49",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXNHaC1HQWd4RktLZ3ZRdlFjMnZ4Tmp6cWpmLTJRbDZMUnR4YzVZeXZxaGZzeXllUGFqNmlURU1pejJXamxHdlJvVkpOd0lUWXRwMWZIZUdQczNiVUZ4aXdYTmtLSVJjSDdzYlpLYjZaOWoySXpWNXRfVGNDRGN6YXVJTF9FczEwalIzQmFuOFBPQ0Nla2xNLUo1d3E?oc=5\" target=\"_blank\">Visual Studio Code update shines on coding agents</a>  InfoWorld",
-          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
         },
         {
           "title": "Microsoft Brings Copilot Studio Agents Directly Into Visual Studio Code - Cloud Wars",
@@ -121,7 +121,7 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG1kTGFVdkQ0OXpUQVFaVnNPVkY4b1RadmZrUi10R0h2LVJsU0w0clU3MXpZZUkxYy1xbGhoUnVpR1hkOVBuVFN4RHJRSEJvUmdmdXl6RG9ZaExJQ3d4YXg0TDRXbDUwUDlmblo5OU5YZ08xWlhzTW10RGZ2YkJIdnh1dk0?oc=5",
           "pubDate": "2026-01-26 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVG1kTGFVdkQ0OXpUQVFaVnNPVkY4b1RadmZrUi10R0h2LVJsU0w0clU3MXpZZUkxYy1xbGhoUnVpR1hkOVBuVFN4RHJRSEJvUmdmdXl6RG9ZaExJQ3d4YXg0TDRXbDUwUDlmblo5OU5YZ08xWlhzTW10RGZ2YkJIdnh1dk0?oc=5\" target=\"_blank\">Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</a>  The Hacker News",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
     },
@@ -134,14 +134,14 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVJVSHZmaEtTeVJnOTNhMG52aEhxMG9NMjk4TzhYT1h3bWVyRjdQdzFzLW5qWEc0QUNpMmloSFBoeW5mUElZTVdySFY5Nk5pbnpJaW54akJ4NExmSUtHbWZzbHhBbXBkYWM3aDhWdFpLT3FHZmNsdzZKT19HNU42WmRfQ2lNN0JsX2tFQ1pwb2tLQTIzcnR0U19fbTNLTE80Z1JObVJsMEI?oc=5",
           "pubDate": "2026-02-11 10:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVJVSHZmaEtTeVJnOTNhMG52aEhxMG9NMjk4TzhYT1h3bWVyRjdQdzFzLW5qWEc0QUNpMmloSFBoeW5mUElZTVdySFY5Nk5pbnpJaW54akJ4NExmSUtHbWZzbHhBbXBkYWM3aDhWdFpLT3FHZmNsdzZKT19HNU42WmRfQ2lNN0JsX2tFQ1pwb2tLQTIzcnR0U19fbTNLTE80Z1JObVJsMEI?oc=5\" target=\"_blank\">Amazon Engineers Grate Against Internal Limits on Claude Code</a>  Business Insider",
-          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
         },
         {
-          "title": "5 ways to use Kiro and Amazon Q to optimize your Infrastructure - Amazon Web Services",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5",
-          "pubDate": "2026-01-09 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZCRzMxb0lGS2pJM3JOM1A0MUQwUGdMbzlERERMYk5Ca0FaZ1VyUzl2ZlRXdGZaQWlxa1JPZmxtYWIzdms4Y25yX1liVGxwQjBwR2hZQUt0R2pHNTJVcmFCeEJEaU45YjhsV2dxczdIUEh5QnJGN2ZBSWhrdlVsYkM0cnhZVFZ1N1RncjlGTjNhdFFKMjdNQjA1enQyUVVMZVJzMUh0XzBKclF0MWM3eGdjU0xOQQ?oc=5\" target=\"_blank\">5 ways to use Kiro and Amazon Q to optimize your Infrastructure</a>  Amazon Web Services",
-          "thumbnail": "https://picsum.photos/seed/kiro-1/400/225"
+          "title": "Modernize your applications using Amazon Bedrock AgentCore Gateway and Kiro powers - Amazon Web Services",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdm5CcUMyVHBPOXlaQU9tN1NyVkVPOEFYSW1taTFPVHd5WXJfTWlwQjI3aTJxZmJsVHFNZU1ZeWNiSkxqbWhQX3dJekNJcEtrUkZmVDVoR0V2b1RRM0x3cWRCd0pTUm51OHVIUExORTEyZjVQbWl0T3MtT1lrT28yUmpMU0Q4V1loNFlxTmY5WS1tS0dBbU1OUzZFR1dmLWZUZVpRb0U5S2RiaEJNMk1wRm5Ic0ZUY1AyR0VRU1U1cHFvLWduMV96MW5wOEtxd1N1M0JHcHlrSQ?oc=5",
+          "pubDate": "2026-02-06 14:39:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdm5CcUMyVHBPOXlaQU9tN1NyVkVPOEFYSW1taTFPVHd5WXJfTWlwQjI3aTJxZmJsVHFNZU1ZeWNiSkxqbWhQX3dJekNJcEtrUkZmVDVoR0V2b1RRM0x3cWRCd0pTUm51OHVIUExORTEyZjVQbWl0T3MtT1lrT28yUmpMU0Q4V1loNFlxTmY5WS1tS0dBbU1OUzZFR1dmLWZUZVpRb0U5S2RiaEJNMk1wRm5Ic0ZUY1AyR0VRU1U1cHFvLWduMV96MW5wOEtxd1N1M0JHcHlrSQ?oc=5\" target=\"_blank\">Modernize your applications using Amazon Bedrock AgentCore Gateway and Kiro powers</a>  Amazon Web Services",
+          "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
         {
           "title": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team - About Amazon",
@@ -171,25 +171,25 @@
       "displayName": "Google Antigravity",
       "news": [
         {
+          "title": "Gemini gave my Plex server a checkup. Its diagnosis surprised me - PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJ1ZWhEUDN5QVNmX1lYclhYS2xvQmVwTlhaYm9qNU5JQjhmSFJRRFF1SHFLaXBBRGUtN0MzMFRWYXBBcVRsSElvSGVqMUdXRGVBeDg2ZE1nQ1QxaFhNT1ZUVDFJelhPTUxyV0VWSS1iX19td2hsUDJ1T2djYTVWdC00LTJxRHFINnVjMXB5ZjduX21MMnZxRFVYOG9oSmpvWFFfSWUzU3BPQXQ5?oc=5",
+          "pubDate": "2026-02-10 18:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJ1ZWhEUDN5QVNmX1lYclhYS2xvQmVwTlhaYm9qNU5JQjhmSFJRRFF1SHFLaXBBRGUtN0MzMFRWYXBBcVRsSElvSGVqMUdXRGVBeDg2ZE1nQ1QxaFhNT1ZUVDFJelhPTUxyV0VWSS1iX19td2hsUDJ1T2djYTVWdC00LTJxRHFINnVjMXB5ZjduX21MMnZxRFVYOG9oSmpvWFFfSWUzU3BPQXQ5?oc=5\" target=\"_blank\">Gemini gave my Plex server a checkup. Its diagnosis surprised me</a>  PCWorld",
+          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
+        },
+        {
           "title": "Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise? - Augment Code",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5",
           "pubDate": "2026-01-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aTldnVnNsMkwzSzlnODFRQS1vc1FlMHN1M0ZrR3Ntb29fNGpjeXVQNmhtZ21nZVFuUk4wR0hQSkFxaEtNSG5tR21ndjJ1b0N5NEhXcUtuNFJvRFl5Y213QnFxRnZJQS1Wdm5XSGZXZXRtZw?oc=5\" target=\"_blank\">Google Antigravity vs Windsurf: Which AI Coding Assistant Is Ready for Enterprise?</a>  Augment Code",
-          "thumbnail": "https://picsum.photos/seed/antigravity-2/400/225"
-        },
-        {
-          "title": "Google Antigravity: AI-First Development with This New IDE - KDnuggets",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3hqWGx2UTZRTmkxX0pOZWpfQ3lnY0dGTlFTWi1uQzE4dXpPVnBtYldjcXlvLXg1akVhNVlQUjRuR1ZnTklOeVM5WU9jQkgyejBjM3pHTkxkQTZCZnZmdG9QUDc0UlQwTWlzYVkzSGRERFBYQmZScVd4a0c3QXNKWUd5MUxlUVJEblI0?oc=5",
-          "pubDate": "2026-01-15 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3hqWGx2UTZRTmkxX0pOZWpfQ3lnY0dGTlFTWi1uQzE4dXpPVnBtYldjcXlvLXg1akVhNVlQUjRuR1ZnTklOeVM5WU9jQkgyejBjM3pHTkxkQTZCZnZmdG9QUDc0UlQwTWlzYVkzSGRERFBYQmZScVd4a0c3QXNKWUd5MUxlUVJEblI0?oc=5\" target=\"_blank\">Google Antigravity: AI-First Development with This New IDE</a>  KDnuggets",
-          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
           "title": "Connect your enterprise data to Google’s new Antigravity IDE - Google Cloud",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5",
           "pubDate": "2025-12-16 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0ltd0FOZVREQjlZNWdDY1NZVGRZTmRfYnc5RXB2QXRsZ2UtNjZTejZFT0dqUS1NQWdBN3JRM0s4REdSaDFCcThwb3lqSklZUGY0d1JNTXJyS0dMQWhIZ2JLaV93S0JEbWJicm0xMUU5SS1NOXJqYzVBb01oWlJjT1BsMlNFeTVDQ3JSTEJLbzVoZjZsMUVfRUZFejc4bmdYcndCRFJOS0laTTgwNGxLdl91M2NRQQ?oc=5\" target=\"_blank\">Connect your enterprise data to Google’s new Antigravity IDE</a>  Google Cloud",
-          "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/antigravity-4/400/225"
         },
         {
           "title": "Hands-On With Antigravity: Google’s Newest AI Coding Experiment - The New Stack",
