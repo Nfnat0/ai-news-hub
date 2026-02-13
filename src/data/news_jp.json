@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-13T12:29:28.540Z",
+  "fetchedAt": "2026-02-13T18:29:16.806Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,11 +7,11 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "Google、推論AI「Gemini 3 Deep Think」劇的に刷新 科学分野で金メダル級性能を達成 - ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsZm9KTzdXUnF0VW5xUGVnTzFwWkF4UEdpdlZpSlBiM1hFcDI4dHZQVGJqdVBVRkdwRndWV3Yta3J4WDR1QXMxdDhyNmFheWRUaUpVRg?oc=5",
-          "pubDate": "2026-02-13 07:50:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsZm9KTzdXUnF0VW5xUGVnTzFwWkF4UEdpdlZpSlBiM1hFcDI4dHZQVGJqdVBVRkdwRndWV3Yta3J4WDR1QXMxdDhyNmFheWRUaUpVRg?oc=5\" target=\"_blank\">Google、推論AI「Gemini 3 Deep Think」劇的に刷新 科学分野で金メダル級性能を達成</a>  ASCII.jp",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "title": "「Gemini 3 Deep Think」がアップデート ～明確な正解がない複雑領域で頼りに（窓の杜） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FUUZoa0NJOUdJUHpEcnNDVjFmV0F2MjEzbU9DOWhtcllYWEdpYWVrQ2tFUloxU1BTOU81dkxGLU05YVJNVXZscC1yaFMzWmMxWTBHNmh6eWVHd3BMdExySnF2dkdWRlhCMnFHNWxEeXU4Ulg3RXdyTjNiU00yQkE?oc=5",
+          "pubDate": "2026-02-13 14:05:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5FUUZoa0NJOUdJUHpEcnNDVjFmV0F2MjEzbU9DOWhtcllYWEdpYWVrQ2tFUloxU1BTOU81dkxGLU05YVJNVXZscC1yaFMzWmMxWTBHNmh6eWVHd3BMdExySnF2dkdWRlhCMnFHNWxEeXU4Ulg3RXdyTjNiU00yQkE?oc=5\" target=\"_blank\">「Gemini 3 Deep Think」がアップデート ～明確な正解がない複雑領域で頼りに（窓の杜）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         },
         {
           "title": "Google 推論特化型AI「Gemini 3 Deep Think」を大幅刷新、数学オリンピックレベルの推論能力 - ビジネス+IT",
@@ -25,21 +25,21 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcUFtUWZHcGZPVHlyNDB3cDZXRU9lb2c0WUZfUk84TnJxdTFoSjNqZFBha3RvbWNLNVJTZUtWR0pzc0dkOWt5Q1FpcU1kckZIbGc?oc=5",
           "pubDate": "2026-02-13 01:51:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcUFtUWZHcGZPVHlyNDB3cDZXRU9lb2c0WUZfUk84TnJxdTFoSjNqZFBha3RvbWNLNVJTZUtWR0pzc0dkOWt5Q1FpcU1kckZIbGc?oc=5\" target=\"_blank\">グーグル「Gemini」の複製を狙う攻撃が判明、10万回超のプロンプトを浴びせる事案も</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
         },
         {
           "title": "Google、AI「Gemini」推論モデル改良 科学研究向けに - 日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDh4bVprbkc3bGNkRkIzdTlOcS04NkdoVGVYeFA5Q3FQNThpRnhCNk1Zam9YQkVlTW51SWdHbjVtQnJWd0g3MVFPM0JJYjJzT2hPU0lFWnNHdDdVMWJ4cFMwTUxtR3pybGRLVg?oc=5",
           "pubDate": "2026-02-12 21:12:20",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDh4bVprbkc3bGNkRkIzdTlOcS04NkdoVGVYeFA5Q3FQNThpRnhCNk1Zam9YQkVlTW51SWdHbjVtQnJWd0g3MVFPM0JJYjJzT2hPU0lFWnNHdDdVMWJ4cFMwTUxtR3pybGRLVg?oc=5\" target=\"_blank\">Google、AI「Gemini」推論モデル改良 科学研究向けに</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も - Fany Magazine",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5",
           "pubDate": "2026-02-11 05:39:53",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5\" target=\"_blank\">渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も</a>  Fany Magazine",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         }
       ]
     },
@@ -48,39 +48,39 @@
       "displayName": "OpenAI",
       "news": [
         {
-          "title": "OpenAIの元研究者が警告。あなたの「気持ち」が広告に使われるかも（ギズモード・ジャパン） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1veFVrQTZ3djRPdHZ6RHl1NE1Yc0s1aHRoa1VqUU4wdERvT3Bfa0V6QWFOZ2xPaFBfNGxJSUJaMW5POThuSW9xM2s3UzluTGhMaFp3eEh2bElJRHBRaGFQU21jVlhNQ1Q2cGZlUmcyLXR2akdTdnRodndCNkNlb1U?oc=5",
-          "pubDate": "2026-02-13 11:00:01",
-          "description": "<ol>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1veFVrQTZ3djRPdHZ6RHl1NE1Yc0s1aHRoa1VqUU4wdERvT3Bfa0V6QWFOZ2xPaFBfNGxJSUJaMW5POThuSW9xM2s3UzluTGhMaFp3eEh2bElJRHBRaGFQU21jVlhNQ1Q2cGZlUmcyLXR2akdTdnRodndCNkNlb1U?oc=5\" target=\"_blank\">OpenAIの元研究者が警告。あなたの「気持ち」が広告に使われるかも（ギズモード・ジャパン）</a>  Yahoo!ニュース</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB1WlZYZmJOMVRQT0hNUVJXOXNiUFJNQldfZXNXcFBnVmFkQXpmM3p0blBHa1RUTHRfUUtSUDg3eWdfWmtTV05HZGpJdVJqY0pITm1yMjVSbkdjWDQzaVpXekpNbXBUcEkzVS1Kb0tQSzk2Rko1UlpkU0JB?oc=5\" target=\"_blank\">OpenAIの元研究者が警告。あなたの「気持ち」が広告に使われるかも</a>  au Webポータル</li>\n<li>\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UHhHV2h1cGdQQ3NHd1F2dmcxMUp0WkVMVWNPOERkcmU3TmtSQWFQM0tDeHJBejZPM2ZoRUJFSm5uSndMSUpJbXNHMVVFN2RBYVE?oc=5\" target=\"_blank\">Anthropic、「Claude」無料版を大幅拡充 競合ChatGPTが広告導入の直後</a>  CNET Japan</li>\n</ol>",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
-        },
-        {
-          "title": "【OpenAIは“理念”より“野望”を優先】今井翔太「もうAI開発レースを止められない」／評価額「100兆円」でも儲からずChatGPTに広告／イーロン・マスクとの決別から始まった【AI QUEST】 - TBS NEWS DIG",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90T0tXU2MtRU1HRHdiMG10bUdzM2s0UHlNVWltY005aGg3LXcwMzNWTlJZcHRacTJTTGVmM3RUQkNYV2RMWmZiSWNPQWJJZFRfZEJJNFZzUzdUWUczVjFVN3JKZGdvZk5Id1Zra2R5WkpWMlNl?oc=5",
-          "pubDate": "2026-02-13 10:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE90T0tXU2MtRU1HRHdiMG10bUdzM2s0UHlNVWltY005aGg3LXcwMzNWTlJZcHRacTJTTGVmM3RUQkNYV2RMWmZiSWNPQWJJZFRfZEJJNFZzUzdUWUczVjFVN3JKZGdvZk5Id1Zra2R5WkpWMlNl?oc=5\" target=\"_blank\">【OpenAIは“理念”より“野望”を優先】今井翔太「もうAI開発レースを止められない」／評価額「100兆円」でも儲からずChatGPTに広告／イーロン・マスクとの決別から始まった【AI QUEST】</a>  TBS NEWS DIG",
-          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
-        },
-        {
           "title": "OpenAI、超高速応答の新AIモデル「GPT-5.3-Codex-Spark」（Impress Watch） - Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUlczQlRVWktpT2tvWUkxNmJ4WlNPWTBTaVRzUWFwNUtXTG0xN0UxMFBfRlBPcWkwcnVKNldQWUdMbWxZYW1ENTBTa3ZkQm5SLUZib1lmNkVkLTgxZTlRNFNfOXFEY0pvNHc1dmZ3VVRZOEdvb1FOczF3TFM2TEE?oc=5",
           "pubDate": "2026-02-13 02:46:30",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUlczQlRVWktpT2tvWUkxNmJ4WlNPWTBTaVRzUWFwNUtXTG0xN0UxMFBfRlBPcWkwcnVKNldQWUdMbWxZYW1ENTBTa3ZkQm5SLUZib1lmNkVkLTgxZTlRNFNfOXFEY0pvNHc1dmZ3VVRZOEdvb1FOczF3TFM2TEE?oc=5\" target=\"_blank\">OpenAI、超高速応答の新AIモデル「GPT-5.3-Codex-Spark」（Impress Watch）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         },
         {
           "title": "OpenAI、「GPT‑5.3‑Codex‑Spark」を発表 ～リアルタイム用途に特化した小型・高速版 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YlNzZmJnVW1YZ1ZuVkdxN0ZMSmxueGp3aVNFaU1wNklRRzEtYUtzWC1kS0VkaHJOWEFKNkRhazU5TFNPNmszTE1VMzZUWGsxRjJ3WjFBQ1dEc0dINHg0ZFdJR0ZVRXdG?oc=5",
           "pubDate": "2026-02-13 01:05:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YlNzZmJnVW1YZ1ZuVkdxN0ZMSmxueGp3aVNFaU1wNklRRzEtYUtzWC1kS0VkaHJOWEFKNkRhazU5TFNPNmszTE1VMzZUWGsxRjJ3WjFBQ1dEc0dINHg0ZFdJR0ZVRXdG?oc=5\" target=\"_blank\">OpenAI、「GPT‑5.3‑Codex‑Spark」を発表 ～リアルタイム用途に特化した小型・高速版</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/openai-2/400/225"
         },
         {
-          "title": "OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に - ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQjNFY2VBQmM1TTNqYUtRQy1tdzY3dFF1akxKTWFOVVEzd1JPdExHN3ppQzlJZHM1RzdLNHJlYm5oVkF3a05sWUlvcWxaZk9wb3dMY3hJVFVPQ0RPY01DR0E0QWx1aHJpRTY5WDhGdw?oc=5",
-          "pubDate": "2026-02-11 03:08:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBmQjNFY2VBQmM1TTNqYUtRQy1tdzY3dFF1akxKTWFOVVEzd1JPdExHN3ppQzlJZHM1RzdLNHJlYm5oVkF3a05sWUlvcWxaZk9wb3dMY3hJVFVPQ0RPY01DR0E0QWx1aHJpRTY5WDhGdw?oc=5\" target=\"_blank\">OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に</a>  ITmedia",
+          "title": "Anthropic、「Claude」無料版を大幅拡充 競合ChatGPTが広告導入の直後 - CNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UHhHV2h1cGdQQ3NHd1F2dmcxMUp0WkVMVWNPOERkcmU3TmtSQWFQM0tDeHJBejZPM2ZoRUJFSm5uSndMSUpJbXNHMVVFN2RBYVE?oc=5",
+          "pubDate": "2026-02-12 09:14:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UHhHV2h1cGdQQ3NHd1F2dmcxMUp0WkVMVWNPOERkcmU3TmtSQWFQM0tDeHJBejZPM2ZoRUJFSm5uSndMSUpJbXNHMVVFN2RBYVE?oc=5\" target=\"_blank\">Anthropic、「Claude」無料版を大幅拡充 競合ChatGPTが広告導入の直後</a>  CNET Japan",
+          "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
+        },
+        {
+          "title": "OpenAIの研究者がChatGPTの広告を理由に辞任、「Facebook」と同じ道を歩むことを警告 - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNGVkMHB6Q1RYck4wQUJBSEpJRE8xbkZLem1XbkZwQ2E3Z2Y0aEhROThsSFNicGgxUThoeXotaS11WmNqdXVuUExJVlVqcDVJZ0dXbXJDLUFEbjhPM042R0VFN2lHaHczYzVMYloyaUt0bjQ?oc=5",
+          "pubDate": "2026-02-12 02:26:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNGVkMHB6Q1RYck4wQUJBSEpJRE8xbkZLem1XbkZwQ2E3Z2Y0aEhROThsSFNicGgxUThoeXotaS11WmNqdXVuUExJVlVqcDVJZ0dXbXJDLUFEbjhPM042R0VFN2lHaHczYzVMYloyaUt0bjQ?oc=5\" target=\"_blank\">OpenAIの研究者がChatGPTの広告を理由に辞任、「Facebook」と同じ道を歩むことを警告</a>  GIGAZINE",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に（ITmedia NEWS） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcVMzYl9JclhKazdveE5EZ3ZuZ3ZFSjZBR0I3M3BCTGJ5Qy1QanlTbmtfcFNjWEpuMTFtdmVIUFZGcFRZVF94V1RydHlzLVpwTmtZUV9naTEzd3RDaTNzU3VHVFAxLXl6eWNwVjJHZW9NbEhsOTlSbEw1Y0tIdnc?oc=5",
+          "pubDate": "2026-02-11 03:12:10",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcVMzYl9JclhKazdveE5EZ3ZuZ3ZFSjZBR0I3M3BCTGJ5Qy1QanlTbmtfcFNjWEpuMTFtdmVIUFZGcFRZVF94V1RydHlzLVpwTmtZUV9naTEzd3RDaTNzU3VHVFAxLXl6eWNwVjJHZW9NbEhsOTlSbEw1Y0tIdnc?oc=5\" target=\"_blank\">OpenAI、ChatGPTの「deep research」を強化 GPT-5.2ベースでソース指定が可能に（ITmedia NEWS）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/openai-1/400/225"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "title": "AGRIST、Microsoft AI Co-Innovation Lab KOBEでフィジカルAIにより収穫性能向上に向けた開発検証を実施 - PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YlZmUUlGcl9EcERTV2JfOUlsMjhWRHZBdnp4YzRFOHVQYS1qNEg2c0pRSTZISTRtQWQtbXQwNjg1MVJiQXNTYTk3YWxlZlVTMzJLSENqMFUtdlVhTlBzX3h3N0pLQ0h4U3c?oc=5",
-          "pubDate": "2026-02-03 05:20:01",
+          "pubDate": "2026-02-03 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YlZmUUlGcl9EcERTV2JfOUlsMjhWRHZBdnp4YzRFOHVQYS1qNEg2c0pRSTZISTRtQWQtbXQwNjg1MVJiQXNTYTk3YWxlZlVTMzJLSENqMFUtdlVhTlBzX3h3N0pLQ0h4U3c?oc=5\" target=\"_blank\">AGRIST、Microsoft AI Co-Innovation Lab KOBEでフィジカルAIにより収穫性能向上に向けた開発検証を実施</a>  PR TIMES",
           "thumbnail": "https://picsum.photos/seed/microsoft-2/400/225"
         },
