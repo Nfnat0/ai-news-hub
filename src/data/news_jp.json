@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-14T06:29:28.974Z",
+  "fetchedAt": "2026-02-14T12:19:52.224Z",
   "locale": "jp",
   "companies": [
     {
@@ -7,11 +7,11 @@
       "displayName": "Google",
       "news": [
         {
-          "title": "【Google x Apple】GeminiとColabを使って2GBのヘルスケアデータを活用しよう｜クラウドテクノロジーブログ - ソフトバンク",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa19xSldOREhuLWtqb1NhYUtNdW1uNWJNc0c4Z21TUzBPeVpXaGJGaDRZTHIzc3E5WUdLZE1CT1hOVG1oNWdlMUhJVXJkUzVDNWwtNTBXNjh5OXQwdzFFV3RjaVR1MGNLUGlWckJHWHJ1RFFsXzhjMUJLU0tBTTR6WHhJT09CMkJmS2RMSmtGSmx4ZEpqdTNjanRJYzg?oc=5",
-          "pubDate": "2026-02-13 14:23:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa19xSldOREhuLWtqb1NhYUtNdW1uNWJNc0c4Z21TUzBPeVpXaGJGaDRZTHIzc3E5WUdLZE1CT1hOVG1oNWdlMUhJVXJkUzVDNWwtNTBXNjh5OXQwdzFFV3RjaVR1MGNLUGlWckJHWHJ1RFFsXzhjMUJLU0tBTTR6WHhJT09CMkJmS2RMSmtGSmx4ZEpqdTNjanRJYzg?oc=5\" target=\"_blank\">【Google x Apple】GeminiとColabを使って2GBのヘルスケアデータを活用しよう｜クラウドテクノロジーブログ</a>  ソフトバンク",
-          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+          "title": "「Gemini 3 Deep Think」がアップデート ～明確な正解がない複雑領域で頼りに - 窓の杜",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CNHhGZXcyWno0dU1LaHFvbVFEd3RENG5XMWFNemRkMmM0Mjh5R3RaTndZdG1jRXVOYkVMWFJpYWtqc1hCMlBZZHJ4VVZ5WE85Y2hrRFRmOWdtYmZkcVFkRElRUEd3andK?oc=5",
+          "pubDate": "2026-02-13 04:05:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CNHhGZXcyWno0dU1LaHFvbVFEd3RENG5XMWFNemRkMmM0Mjh5R3RaTndZdG1jRXVOYkVMWFJpYWtqc1hCMlBZZHJ4VVZ5WE85Y2hrRFRmOWdtYmZkcVFkRElRUEd3andK?oc=5\" target=\"_blank\">「Gemini 3 Deep Think」がアップデート ～明確な正解がない複雑領域で頼りに</a>  窓の杜",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
         },
         {
           "title": "Google 推論特化型AI「Gemini 3 Deep Think」を大幅刷新、数学オリンピックレベルの推論能力 - ビジネス+IT",
@@ -25,21 +25,21 @@
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcUFtUWZHcGZPVHlyNDB3cDZXRU9lb2c0WUZfUk84TnJxdTFoSjNqZFBha3RvbWNLNVJTZUtWR0pzc0dkOWt5Q1FpcU1kckZIbGc?oc=5",
           "pubDate": "2026-02-13 01:51:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IcUFtUWZHcGZPVHlyNDB3cDZXRU9lb2c0WUZfUk84TnJxdTFoSjNqZFBha3RvbWNLNVJTZUtWR0pzc0dkOWt5Q1FpcU1kckZIbGc?oc=5\" target=\"_blank\">グーグル「Gemini」の複製を狙う攻撃が判明、10万回超のプロンプトを浴びせる事案も</a>  CNET Japan",
-          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
         },
         {
           "title": "Google、AI「Gemini」推論モデル改良 科学研究向けに - 日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDh4bVprbkc3bGNkRkIzdTlOcS04NkdoVGVYeFA5Q3FQNThpRnhCNk1Zam9YQkVlTW51SWdHbjVtQnJWd0g3MVFPM0JJYjJzT2hPU0lFWnNHdDdVMWJ4cFMwTUxtR3pybGRLVg?oc=5",
           "pubDate": "2026-02-12 21:12:20",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDh4bVprbkc3bGNkRkIzdTlOcS04NkdoVGVYeFA5Q3FQNThpRnhCNk1Zam9YQkVlTW51SWdHbjVtQnJWd0g3MVFPM0JJYjJzT2hPU0lFWnNHdDdVMWJ4cFMwTUxtR3pybGRLVg?oc=5\" target=\"_blank\">Google、AI「Gemini」推論モデル改良 科学研究向けに</a>  日本経済新聞",
-          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
         },
         {
           "title": "渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も - Fany Magazine",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5",
           "pubDate": "2026-02-11 05:39:53",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zZy0ySnlfcGVjQzJqUHdCOEhwOU1GN2tyYlp2RVVLX1FsU3hBeTJveVI0OHdNcEticDhlUXQ2UlFGOEpnZW11dg?oc=5\" target=\"_blank\">渡辺直美、いよいよ東京ドーム当日! Geminiで直美の脳内を体験できる企画も</a>  Fany Magazine",
-          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
         }
       ]
     },
@@ -66,13 +66,6 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUlczQlRVWktpT2tvWUkxNmJ4WlNPWTBTaVRzUWFwNUtXTG0xN0UxMFBfRlBPcWkwcnVKNldQWUdMbWxZYW1ENTBTa3ZkQm5SLUZib1lmNkVkLTgxZTlRNFNfOXFEY0pvNHc1dmZ3VVRZOEdvb1FOczF3TFM2TEE?oc=5",
           "pubDate": "2026-02-13 02:46:30",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUlczQlRVWktpT2tvWUkxNmJ4WlNPWTBTaVRzUWFwNUtXTG0xN0UxMFBfRlBPcWkwcnVKNldQWUdMbWxZYW1ENTBTa3ZkQm5SLUZib1lmNkVkLTgxZTlRNFNfOXFEY0pvNHc1dmZ3VVRZOEdvb1FOczF3TFM2TEE?oc=5\" target=\"_blank\">OpenAI、超高速応答の新AIモデル「GPT-5.3-Codex-Spark」（Impress Watch）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
-        },
-        {
-          "title": "OpenAI、「GPT‑5.3‑Codex‑Spark」を発表 ～リアルタイム用途に特化した小型・高速版 - 窓の杜",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YlNzZmJnVW1YZ1ZuVkdxN0ZMSmxueGp3aVNFaU1wNklRRzEtYUtzWC1kS0VkaHJOWEFKNkRhazU5TFNPNmszTE1VMzZUWGsxRjJ3WjFBQ1dEc0dINHg0ZFdJR0ZVRXdG?oc=5",
-          "pubDate": "2026-02-13 01:05:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16YlNzZmJnVW1YZ1ZuVkdxN0ZMSmxueGp3aVNFaU1wNklRRzEtYUtzWC1kS0VkaHJOWEFKNkRhazU5TFNPNmszTE1VMzZUWGsxRjJ3WjFBQ1dEc0dINHg0ZFdJR0ZVRXdG?oc=5\" target=\"_blank\">OpenAI、「GPT‑5.3‑Codex‑Spark」を発表 ～リアルタイム用途に特化した小型・高速版</a>  窓の杜",
           "thumbnail": "https://picsum.photos/seed/openai-4/400/225"
         },
         {
@@ -81,6 +74,13 @@
           "pubDate": "2026-02-12 09:14:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UHhHV2h1cGdQQ3NHd1F2dmcxMUp0WkVMVWNPOERkcmU3TmtSQWFQM0tDeHJBejZPM2ZoRUJFSm5uSndMSUpJbXNHMVVFN2RBYVE?oc=5\" target=\"_blank\">Anthropic、「Claude」無料版を大幅拡充 競合ChatGPTが広告導入の直後</a>  CNET Japan",
           "thumbnail": "https://picsum.photos/seed/openai-0/400/225"
+        },
+        {
+          "title": "OpenAIの研究者がChatGPTの広告を理由に辞任、「Facebook」と同じ道を歩むことを警告 - GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNGVkMHB6Q1RYck4wQUJBSEpJRE8xbkZLem1XbkZwQ2E3Z2Y0aEhROThsSFNicGgxUThoeXotaS11WmNqdXVuUExJVlVqcDVJZ0dXbXJDLUFEbjhPM042R0VFN2lHaHczYzVMYloyaUt0bjQ?oc=5",
+          "pubDate": "2026-02-12 02:26:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hNGVkMHB6Q1RYck4wQUJBSEpJRE8xbkZLem1XbkZwQ2E3Z2Y0aEhROThsSFNicGgxUThoeXotaS11WmNqdXVuUExJVlVqcDVJZ0dXbXJDLUFEbjhPM042R0VFN2lHaHczYzVMYloyaUt0bjQ?oc=5\" target=\"_blank\">OpenAIの研究者がChatGPTの広告を理由に辞任、「Facebook」と同じ道を歩むことを警告</a>  GIGAZINE",
+          "thumbnail": "https://picsum.photos/seed/openai-3/400/225"
         }
       ]
     },
@@ -137,11 +137,11 @@
           "thumbnail": "https://picsum.photos/seed/anthropic-4/400/225"
         },
         {
-          "title": "Anthropic、「Claude」無料版にファイル作成や外部連携など4機能を解放（ビジネス＋IT） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NGZZajFmRzNRNWdjT3BxNVhTQlR2OERnQTRJbVh6N3FDYmkxZXlhaXpRU2ZrY04tMmVZNkVSUm82azlqUWRuTjBIVlZBWU1seXgwUUVuVWZoR2s1MzI0U2FVMEhqVkcyV1B1R1JrS2xjRWZzYXRrVElRSVJ3QlU?oc=5",
-          "pubDate": "2026-02-12 12:00:07",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45NGZZajFmRzNRNWdjT3BxNVhTQlR2OERnQTRJbVh6N3FDYmkxZXlhaXpRU2ZrY04tMmVZNkVSUm82azlqUWRuTjBIVlZBWU1seXgwUUVuVWZoR2s1MzI0U2FVMEhqVkcyV1B1R1JrS2xjRWZzYXRrVElRSVJ3QlU?oc=5\" target=\"_blank\">Anthropic、「Claude」無料版にファイル作成や外部連携など4機能を解放（ビジネス＋IT）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
+          "title": "Claude Opus 4.6は人間を裏切るか？Anthropicが公開した「AIによる妨害活動」リスク報告書の全貌 - XenoSpectrum",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2Vhb1RoNXRrbFZGMUQzc0FfbFRwQ3pLelBleVN1LVBrRjVROE5tVWRLeE8tVDlqRFNNT2xGLVFKM0ZPM1RReHBnU2lfQVR2YVFEdVdKOWlNbzVjbzlVUDdoVVIwVFR2bFRvMGFLaHZPSGg4S3otdmZIVFNBb1NGNWZrSG9pS3lx?oc=5",
+          "pubDate": "2026-02-13 09:00:34",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2Vhb1RoNXRrbFZGMUQzc0FfbFRwQ3pLelBleVN1LVBrRjVROE5tVWRLeE8tVDlqRFNNT2xGLVFKM0ZPM1RReHBnU2lfQVR2YVFEdVdKOWlNbzVjbzlVUDdoVVIwVFR2bFRvMGFLaHZPSGg4S3otdmZIVFNBb1NGNWZrSG9pS3lx?oc=5\" target=\"_blank\">Claude Opus 4.6は人間を裏切るか？Anthropicが公開した「AIによる妨害活動」リスク報告書の全貌</a>  XenoSpectrum",
+          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
         },
         {
           "title": "Anthropic、「Claude」無料版を大幅拡充 競合ChatGPTが広告導入の直後 - CNET Japan",
@@ -155,14 +155,14 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbTZpR3BxUW1QdHRkSWVlenFZMGRiWUtleHhJQ282Z0d2d0JpdHFnMHpNSTdWTGlKc1dxblB2UmtWaThfOVA4RkRMcFY2YmRrTDFheV9XRTg0R1lOVTJsMWxxTlYwMU5SX1dZcXhGSXI5N2o2Y1RadzhWV1U5RnM?oc=5",
           "pubDate": "2026-02-11 23:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbTZpR3BxUW1QdHRkSWVlenFZMGRiWUtleHhJQ282Z0d2d0JpdHFnMHpNSTdWTGlKc1dxblB2UmtWaThfOVA4RkRMcFY2YmRrTDFheV9XRTg0R1lOVTJsMWxxTlYwMU5SX1dZcXhGSXI5N2o2Y1RadzhWV1U5RnM?oc=5\" target=\"_blank\">AIに作業を丸投げできる「Claude Cowork」がWindows対応（Impress Watch）</a>  Yahoo!ニュース",
-          "thumbnail": "https://picsum.photos/seed/anthropic-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
         },
         {
           "title": "Anthropic、「Claude」無料版にスキルなど4機能を解放 - ITmedia",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSGNSTkxLdGRHMnQwVU9MX3drakQxaFFHNVp6bGYxQVRrNi1tOUVOUWV0WnhPR09wOWgtb3I4LWdIOGllanByVVU2c1VLUkNhdWFLSkNBeEhudlhrSHZ1SzM2d0VUYlMzZ0lGN0tYSQ?oc=5",
           "pubDate": "2026-02-11 22:35:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSGNSTkxLdGRHMnQwVU9MX3drakQxaFFHNVp6bGYxQVRrNi1tOUVOUWV0WnhPR09wOWgtb3I4LWdIOGllanByVVU2c1VLUkNhdWFLSkNBeEhudlhrSHZ1SzM2d0VUYlMzZ0lGN0tYSQ?oc=5\" target=\"_blank\">Anthropic、「Claude」無料版にスキルなど4機能を解放</a>  ITmedia",
-          "thumbnail": "https://picsum.photos/seed/anthropic-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/anthropic-1/400/225"
         }
       ]
     },
@@ -175,20 +175,20 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOSWg1OHctZnVSb0xfNGdlNTRuWjJlOGRmblNYVU9mbUZDc2p0OF9WbUsyUDF3U0d2YzhyVjM4bFBqVWs5dmhaSEhvSGNBeENXdmtzWEE5M3R4RVVZTFotUkwwLUVmQQ?oc=5",
           "pubDate": "2026-02-10 10:10:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOSWg1OHctZnVSb0xfNGdlNTRuWjJlOGRmblNYVU9mbUZDc2p0OF9WbUsyUDF3U0d2YzhyVjM4bFBqVWs5dmhaSEhvSGNBeENXdmtzWEE5M3R4RVVZTFotUkwwLUVmQQ?oc=5\" target=\"_blank\">Amazon、AIコンテンツのライセンス独占を目指し物議を醸すマーケットプレイスを計画</a>  Cryptopolitan",
-          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
         },
         {
-          "title": "Amazon、AI活用で映画・TV制作を加速。3月にベータ開始、ハリウッドに波紋 - innovaTopia",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tNzM3anBncm55bWN5aGEyQ3NMRU9rS2duLXhaQnhxOEttaEtsQ3pEdENzWFpJakpvaEpBOEJIMmNINTk3VWtWNE5qWnJkRjBkQWpqUmRyYmhtMXV4WS1HZE9uUm1CdUtTOHdj?oc=5",
-          "pubDate": "2026-02-05 23:37:13",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1tNzM3anBncm55bWN5aGEyQ3NMRU9rS2duLXhaQnhxOEttaEtsQ3pEdENzWFpJakpvaEpBOEJIMmNINTk3VWtWNE5qWnJkRjBkQWpqUmRyYmhtMXV4WS1HZE9uUm1CdUtTOHdj?oc=5\" target=\"_blank\">Amazon、AI活用で映画・TV制作を加速。3月にベータ開始、ハリウッドに波紋</a>  innovaTopia",
+          "title": "Amazon、AIによる買い物代行機能の停止要求。Perplexityは反発 - PC Watch",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Xc2JHcVJDUVRpZlR1NFVMeE9Leks2Nmg1dnFQS2ZfdFJZMGg3LXIwOEVxOEtNTUl6cHJyWUhKc1J1c0ZEaTdRbmFPX0lYT0VYSE9pMUlqQW5FVFo2bkpDb1lRSQ?oc=5",
+          "pubDate": "2025-11-07 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Xc2JHcVJDUVRpZlR1NFVMeE9Leks2Nmg1dnFQS2ZfdFJZMGg3LXIwOEVxOEtNTUl6cHJyWUhKc1J1c0ZEaTdRbmFPX0lYT0VYSE9pMUlqQW5FVFo2bkpDb1lRSQ?oc=5\" target=\"_blank\">Amazon、AIによる買い物代行機能の停止要求。Perplexityは反発</a>  PC Watch",
           "thumbnail": "https://picsum.photos/seed/amazon-4/400/225"
         },
         {
-          "title": "Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞",
+          "title": "Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞 - 日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5",
           "pubDate": "2025-10-29 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5\" target=\"_blank\">Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表</a>  日本経済新聞",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FajYwaVpPSDNBaXZaRDZwdTIwT05nR0g5dDcwX2p6OElLRkFjRWZoYl8tQ0xRTlRVbkxWbVB2WFpIbU9nekREUTFwN1pKNy03Q3AtcTJMeXhJNlhwRGpRMHpmbXQ5VTdVdnE2ZA?oc=5\" target=\"_blank\">Amazon、AIが促すホワイトカラーのリストラ 1万4000人削減を発表 - 日本経済新聞</a>  日本経済新聞",
           "thumbnail": "https://picsum.photos/seed/amazon-3/400/225"
         },
         {
@@ -203,7 +203,7 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5",
           "pubDate": "2025-09-02 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SUpjWllrTHZSb2pvSklLN2pNWEFhUnlmQXFLVkROby03VmVXaUZfN3FSUGFHOGdRVGR6Y2FqVjhZUDRxcGNscDRmWUE5YXpxM21nUUxwSS0xVUpNWGVoSG05ekxyWVFkRkx4Y2dTT3NiMkhqcm5rSG9fVnFhdw?oc=5\" target=\"_blank\">Amazonの生成AIを搭載した対話型ショッピングアシスタント Rufus（ルーファス）、日本のすべてのお客様が利用可能に</a>  About Amazon Japan",
-          "thumbnail": "https://picsum.photos/seed/amazon-0/400/225"
+          "thumbnail": "https://picsum.photos/seed/amazon-1/400/225"
         }
       ]
     },
@@ -217,6 +217,13 @@
           "pubDate": "2026-02-12 01:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKZmZxUjNGdjNRdlc0MFRqMXRNLVlyRzVUeW1ESlV5QzdwcnhuOXBmTEs2dFF5dWxyRFQzMHIxcVdpVGRla3k0LWFVc093OVlwU1M3bU5UNE15UFhKS3ZISlYwbmg1eDhlRGtsMG5aR3dKTUNDMm5Zckl0U00?oc=5\" target=\"_blank\">Meta AI、Facebookプロフィール写真をアニメーション化する新機能を展開。若年層回帰なるか</a>  innovaTopia",
           "thumbnail": "https://picsum.photos/seed/meta-2/400/225"
+        },
+        {
+          "title": "Ray-Banの親会社：Meta AIメガネの昨年の販売台数は700万本を超え、2倍以上の成長を記録 - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EWHdZcmlacWxicDVmQ3JFLXRWRVpiTkVYbENJcW10NFppYmZab1owdTI0QTBZNHV0MmZHUkU1R3pvVnlwT2QwS0luaTIzN0lHcFBQanM1c0ozQVAwWk1LRjhB0gFnQVVfeXFMTnF4MmJvSDdMNkZkRVFjOHA4dVVfZ3MxSVFvekxqeEdKQ2JDZWlSenRJLTY5UXk2OGtqQ0hhZ1BFMEtLNHkxR0tQQjRHM0U3d2p2MFNMN2hQUmxqdVFWV0N4Y1FnVkRsMA?oc=5",
+          "pubDate": "2026-02-11 10:04:57",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EWHdZcmlacWxicDVmQ3JFLXRWRVpiTkVYbENJcW10NFppYmZab1owdTI0QTBZNHV0MmZHUkU1R3pvVnlwT2QwS0luaTIzN0lHcFBQanM1c0ozQVAwWk1LRjhB0gFnQVVfeXFMTnF4MmJvSDdMNkZkRVFjOHA4dVVfZ3MxSVFvekxqeEdKQ2JDZWlSenRJLTY5UXk2OGtqQ0hhZ1BFMEtLNHkxR0tQQjRHM0U3d2p2MFNMN2hQUmxqdVFWV0N4Y1FnVkRsMA?oc=5\" target=\"_blank\">Ray-Banの親会社：Meta AIメガネの昨年の販売台数は700万本を超え、2倍以上の成長を記録</a>  Bitget",
+          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
         },
         {
           "title": "第897回 GPUに画像の文字を解析させる⁠⁠、あるいはQwen3-VL入門 - gihyo.jp",
@@ -233,18 +240,11 @@
           "thumbnail": "https://picsum.photos/seed/meta-0/400/225"
         },
         {
-          "title": "Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加 - ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5",
-          "pubDate": "2025-09-24 07:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOVRScXhuWVVBR0J1QTMyZ09CSEdWYWFqemp4cjZtbWRKbXJxcmxDdUlieUFXWmNiQkZudFRoam82bEl0Z05nLUFCTWhGWG5NQnNj?oc=5\" target=\"_blank\">Metaの「Llama」が米国政府で利用可能に--一般調達局が承認リストに追加</a>  ZDNET Japan",
-          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
-        },
-        {
           "title": "Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説 - AIsmiley",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5",
           "pubDate": "2025-07-18 07:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83MlZXRnE3dHhfNGJrWEJCUDJYcnVNZXN4LVh4al9vRk1pcndlZjJKcGU1UmFyNGROZFNLYWpLbHkzbkZYU25kV0RJNTdKR1I1Rm5DSlFvc3hqc0dlVkZrNXotVHBNZzQ?oc=5\" target=\"_blank\">Llama 4 とは？Meta 最新AIの3モデルの特徴や性能・安全性を徹底解説</a>  AIsmiley",
-          "thumbnail": "https://picsum.photos/seed/meta-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/meta-4/400/225"
         }
       ]
     },
@@ -257,21 +257,21 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZDN1WFRDenRxek13blduV2h2UlBPYmlJQXF6cWNsUEJqRmY5T3ZmeURhNDFvUENrOXUtYjNhdnpTRHZyZmdxdlJKLVNPOG9CT1RmQzI1d09EcXVSREpGY3AtNTVtZnJSZklaVlUyRklDRkpvbXdVTTExaVhXNWs?oc=5",
           "pubDate": "2026-02-13 22:10:02",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZDN1WFRDenRxek13blduV2h2UlBPYmlJQXF6cWNsUEJqRmY5T3ZmeURhNDFvUENrOXUtYjNhdnpTRHZyZmdxdlJKLVNPOG9CT1RmQzI1d09EcXVSREpGY3AtNTVtZnJSZklaVlUyRklDRkpvbXdVTTExaVhXNWs?oc=5\" target=\"_blank\">イーロン・マスク、xAIの新体制を発表、一部社員との「袂を分かつ」決断も明かす（海外）</a>  Yahoo!ニュース",
+          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
+        },
+        {
+          "title": "マスク氏の新たな資金調達、銀行団が計画－xAI巡る債務負担軽減へ - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW1SQ0tFMnhIWGlkWEpIUHdiQ1RRR0pJbVBsQzZaeFNtTmFrY3pYWjAybG1RaEhlR0tNcmhCcUFnTzNTbDVyLXlSbnlhODdRSWRnVnk2a0I0emRGRFRvOXgtOEJibTJhWXIzYWcxTkpyay1JM19J?oc=5",
+          "pubDate": "2026-02-13 17:45:19",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW1SQ0tFMnhIWGlkWEpIUHdiQ1RRR0pJbVBsQzZaeFNtTmFrY3pYWjAybG1RaEhlR0tNcmhCcUFnTzNTbDVyLXlSbnlhODdRSWRnVnk2a0I0emRGRFRvOXgtOEJibTJhWXIzYWcxTkpyay1JM19J?oc=5\" target=\"_blank\">マスク氏の新たな資金調達、銀行団が計画－xAI巡る債務負担軽減へ</a>  Bloomberg.com",
           "thumbnail": "https://picsum.photos/seed/xai-0/400/225"
         },
         {
-          "title": "SpaceX、xAIの買収を発表。AI開発の電力問題を宇宙衛星の打ち上げで解決を目指す - AIsmiley",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSHI4cXpXTm40cndpczNBTWF1UlNyckZJcDlLdHM0R2JoR0pNSnR2RXJvaGV6ZXZ1VEwxbDNsdFlOSzFvREc3MXRHR2xzdmRZTDh3WDFsanl5QQ?oc=5",
-          "pubDate": "2026-02-13 09:05:11",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSHI4cXpXTm40cndpczNBTWF1UlNyckZJcDlLdHM0R2JoR0pNSnR2RXJvaGV6ZXZ1VEwxbDNsdFlOSzFvREc3MXRHR2xzdmRZTDh3WDFsanl5QQ?oc=5\" target=\"_blank\">SpaceX、xAIの買収を発表。AI開発の電力問題を宇宙衛星の打ち上げで解決を目指す</a>  AIsmiley",
+          "title": "イーロン・マスクのGrok、DeepSeekを抜き「世界第3位のAIチャットボット」に - Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nY0RjY0J1VnBxRDNNVTZRQVlUSkxQc2VTdGJ3dWM2MWMwTkNDU29oMzlpZGs3XzVVRERGc1NJY1l4emN6Q1hQMHlQT0p5WndJV1AwMm9CWUE?oc=5",
+          "pubDate": "2026-02-12 00:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nY0RjY0J1VnBxRDNNVTZRQVlUSkxQc2VTdGJ3dWM2MWMwTkNDU29oMzlpZGs3XzVVRERGc1NJY1l4emN6Q1hQMHlQT0p5WndJV1AwMm9CWUE?oc=5\" target=\"_blank\">イーロン・マスクのGrok、DeepSeekを抜き「世界第3位のAIチャットボット」に</a>  Forbes JAPAN",
           "thumbnail": "https://picsum.photos/seed/xai-1/400/225"
-        },
-        {
-          "title": "マスク氏、xAIを4部門体制に再編－共同創業者の退社相次ぐ - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZ2FIbEdKREE2R3hNQi02elhwRWE4dzdreEh2Mmx6Z0M0em5xSkZSNWJYZkxoNGdIWThBT2Q5ZV9pSnVhaWpXTlhyakk0MUc0bGxZcnQwdEdsSVRlQUYxRWVEUVI3RWY2cUdYWlJPOFlTMGFIaFRR?oc=5",
-          "pubDate": "2026-02-12 03:14:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZ2FIbEdKREE2R3hNQi02elhwRWE4dzdreEh2Mmx6Z0M0em5xSkZSNWJYZkxoNGdIWThBT2Q5ZV9pSnVhaWpXTlhyakk0MUc0bGxZcnQwdEdsSVRlQUYxRWVEUVI3RWY2cUdYWlJPOFlTMGFIaFRR?oc=5\" target=\"_blank\">マスク氏、xAIを4部門体制に再編－共同創業者の退社相次ぐ</a>  Bloomberg.com",
-          "thumbnail": "https://picsum.photos/seed/xai-2/400/225"
         },
         {
           "title": "マスク氏がｘＡＩ再編、スペースＸとの統合受け - Reuters",
@@ -281,10 +281,10 @@
           "thumbnail": "https://picsum.photos/seed/xai-3/400/225"
         },
         {
-          "title": "マスク氏企業のAI「Grok」、性的な画像300万枚生成 Xでばらまき - 日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZkxob3NubDByVnNjT3RWMVg5UWhKZjR2Vmd4MGN3SDY1S2NfeS1YV2xlWFNFenJjb2xaVk5ablhHdFc4NUluWHVWdDZyNFpwVDJXNWdnc3ZSN0VwOG5EWmFSMjdRTEhTYVdnaw?oc=5",
-          "pubDate": "2026-01-28 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZkxob3NubDByVnNjT3RWMVg5UWhKZjR2Vmd4MGN3SDY1S2NfeS1YV2xlWFNFenJjb2xaVk5ablhHdFc4NUluWHVWdDZyNFpwVDJXNWdnc3ZSN0VwOG5EWmFSMjdRTEhTYVdnaw?oc=5\" target=\"_blank\">マスク氏企業のAI「Grok」、性的な画像300万枚生成 Xでばらまき</a>  日本経済新聞",
+          "title": "スペースXがxAIを買収へ、マスク氏の企業統合進む - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dDlQX3N1LXNMd2ZyMnlFYlM3RDRRd3dlYlJiN0p6cXRIcExuNVlZR2xwOU9FeV95YkVmS2NSSTlKdWpLVFQtbDJNd3pPdkNrdE5HM1dYOHNFYVRGQ2o40gFkQVVfeXFMTVRSOFJpZzJEUXBkZWR1Ti15TGtySEFGOXVLUjM2LW1vYlk2eUtOOWdtbkpHbHl6YnptVi1MYkwwSWEyUDF3dk9SWklKUFZybDhBVnlQS0xBXzJlWU5HTTNoOVJvVw?oc=5",
+          "pubDate": "2026-02-03 08:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11dDlQX3N1LXNMd2ZyMnlFYlM3RDRRd3dlYlJiN0p6cXRIcExuNVlZR2xwOU9FeV95YkVmS2NSSTlKdWpLVFQtbDJNd3pPdkNrdE5HM1dYOHNFYVRGQ2o40gFkQVVfeXFMTVRSOFJpZzJEUXBkZWR1Ti15TGtySEFGOXVLUjM2LW1vYlk2eUtOOWdtbkpHbHl6YnptVi1MYkwwSWEyUDF3dk9SWklKUFZybDhBVnlQS0xBXzJlWU5HTTNoOVJvVw?oc=5\" target=\"_blank\">スペースXがxAIを買収へ、マスク氏の企業統合進む</a>  BBC",
           "thumbnail": "https://picsum.photos/seed/xai-4/400/225"
         }
       ]
