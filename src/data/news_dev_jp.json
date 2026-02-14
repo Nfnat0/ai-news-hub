@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-02-14T07:08:44.029Z",
+  "fetchedAt": "2026-02-14T13:25:19.488Z",
   "locale": "jp",
   "companies": [
     {
@@ -55,10 +55,10 @@
           "thumbnail": "https://picsum.photos/seed/github-copilot-0/400/225"
         },
         {
-          "title": "GitHub CopilotでClaude Opus 4.6の提供を開始 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5",
-          "pubDate": "2026-02-12 08:57:15",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNE1teEY5MWxNcEJkdkNfX0wwOGc1Zi1hY0tZbHdiSDdaa0J4ZUQ4clpRVjhOYldNYnZfU01PXzR4RHhFaDhzanpxRXpUQQ?oc=5\" target=\"_blank\">GitHub CopilotでClaude Opus 4.6の提供を開始</a>  CodeZine",
+          "title": "GitHub CopilotがVisual Studio向けの1月アップデートを公開 - CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNmdxZnRJWi1fU25ST0RXY2ptdzA2dGpxX1NlYTI5YVJYbFNRWlhSbmtEMFR0V09YbEl5aTFta3JaZU0yMm1rZUJ0d00wdw?oc=5",
+          "pubDate": "2026-02-10 01:57:19",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yNmdxZnRJWi1fU25ST0RXY2ptdzA2dGpxX1NlYTI5YVJYbFNRWlhSbmtEMFR0V09YbEl5aTFta3JaZU0yMm1rZUJ0d00wdw?oc=5\" target=\"_blank\">GitHub CopilotがVisual Studio向けの1月アップデートを公開</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/github-copilot-1/400/225"
         },
         {
@@ -73,14 +73,14 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5",
           "pubDate": "2026-02-09 09:07:35",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazFMVGtVQkN6N0JxUW5YbW11OWRfWXM0Tk9teENuS0xyWFFGOF90Z0FQQ0dkdkhkbzVxRTUwcjJfTTNGSmJrVndrYzRFbkhHYzdfc1BLLUNmNHZqeUVQYXNQMHVVT1BNSUxv?oc=5\" target=\"_blank\">ターミナルで動作するAIコーディングエージェント「GitHub Copilot CLI」v0.0.406 ほか - ダイジェストニュース</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
         },
         {
           "title": "GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介 - gihyo.jp",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5",
           "pubDate": "2026-01-23 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRXNodnBNcnBucUlxSDhXMUo1UXBqR19fbmlXbjh6TWJuU1lISGNGX2swcGloaC1IV3dyeGZ0U0Q1OWZhcE5TMXNlRWt3S1hvMnVlbDBuT0sxSmNkTHBKSA?oc=5\" target=\"_blank\">GitHub、Copilot SDKをテクニカルプレビューとして発表 ——GitHub Copilot CLIも継続的にアップデートしていることを紹介</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/github-copilot-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/github-copilot-3/400/225"
         }
       ]
     },
@@ -96,31 +96,31 @@
           "thumbnail": "https://picsum.photos/seed/vscode-0/400/225"
         },
         {
+          "title": "NXP マイコン Visual Studio Code 開発ガイド - macnica.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JOENpMEdZNk5qMjJ2R2ptbVBrbjgtbUQtaENaZTNPc1YtWHVISkRxV2tqNUxSZE5neXMyTzBsZ0ZNcUFXUnVIZVZuMmhsVTQ0YWhZd0NsaG9Fd0JvNXBVbGdOZDFUQ2cyVy1TRkI3Tm5XazlxRlVQTg?oc=5",
+          "pubDate": "2026-02-10 04:10:34",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JOENpMEdZNk5qMjJ2R2ptbVBrbjgtbUQtaENaZTNPc1YtWHVISkRxV2tqNUxSZE5neXMyTzBsZ0ZNcUFXUnVIZVZuMmhsVTQ0YWhZd0NsaG9Fd0JvNXBVbGdOZDFUQ2cyVy1TRkI3Tm5XazlxRlVQTg?oc=5\" target=\"_blank\">NXP マイコン Visual Studio Code 開発ガイド</a>  macnica.co.jp",
+          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
+        },
+        {
           "title": "「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充 - 窓の杜",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5",
           "pubDate": "2026-02-05 04:02:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYmlNMUpES0s5UlZqOFlRTFA1SHBRY01wc0ZNQklXWGNybm9TSk93MGNRZzVZclJiVjV0M2dSYUd3Mlpoc3NZaU1mcXF6NmsyZ2wtTF92NHdxZ3diT0hHUlVlRzg1VmpH?oc=5\" target=\"_blank\">「Visual Studio Code」v1.109が公開、マルチエージェント開発の拠点としての機能を拡充</a>  窓の杜",
-          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
         },
         {
           "title": "GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に - Digital PR Platform",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5",
           "pubDate": "2026-02-05 02:33:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAwcUZkdlA1dHNJZXZRZUhtb2ppVVMxU0JTN0pPQV9BdXl5MWNxSmhYeUpPRmRVXzM2dGg3V3lMY3UxaGs?oc=5\" target=\"_blank\">GitHub.comおよびVisual Studio Code上でAnthropicClaudeとOpenAI Codexの利用が可能に</a>  Digital PR Platform",
-          "thumbnail": "https://picsum.photos/seed/vscode-1/400/225"
-        },
-        {
-          "title": "ワークツリーでの複数バックグラウンドエージェント動作⁠ - gihyo.jp",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5",
-          "pubDate": "2025-12-19 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5hTjQ2Vk84NWI0ZW16LTVUbWtrNDhadjExck1SVUNmd2Z5THNrUmtSUGVwREhpMmZFR3NtUjUwd0hvY004ZmRIUG16WVZ1Ql9jYXlwV05vZWhnamZMc1piTDNGWG4xMnBrTEpia1l3?oc=5\" target=\"_blank\">ワークツリーでの複数バックグラウンドエージェント動作⁠</a>  gihyo.jp",
-          "thumbnail": "https://picsum.photos/seed/vscode-4/400/225"
+          "thumbnail": "https://picsum.photos/seed/vscode-2/400/225"
         },
         {
           "title": "【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説 - CodeZine",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5",
-          "pubDate": "2025-08-08 02:21:04",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUWpsUG5LNWw3MFVvUDJMbzliN2xVZzlDRGlCeVVja0dhNlpjMl83UU5Zb0tqSGZHcFFkUUJ2ZWplSGtoSGtBWWpjcWl0YzhjWXplbjJmWQ?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5",
+          "pubDate": "2025-08-08 02:21:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vRjFkS2lDS05OaDZuVi1ZNm8wWkF6Vk1aNHV3U2NtMnc1SExGeVdrc2xnUGZwNWJJaGpxSWIwZVhsRVprWkdyazN0QlRfZWt0eUFlR0dIOA?oc=5\" target=\"_blank\">【Pythonでデータベースを扱おう】Visual Studio Codeを使ったデータベース「SQLite3」を解説</a>  CodeZine",
           "thumbnail": "https://picsum.photos/seed/vscode-3/400/225"
         }
       ]
@@ -132,7 +132,7 @@
         {
           "title": "Kiro で Opus 4.6 が利用可能になりました | Amazon Web Services ブログ - Amazon Web Services (AWS)",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeFJ1MHg2MjdYU29HYkNDVEI1ZTBtNExpSTFhRWVNUjBrWTlya1NFM053YkVOckMzS20tb1JvM0RhOWdJQ0JZM250bWZjbThsN0lmdjRkRV96YjlaU0ZUQQ?oc=5",
-          "pubDate": "2026-02-06 03:48:58",
+          "pubDate": "2026-02-06 08:00:00",
           "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xeFJ1MHg2MjdYU29HYkNDVEI1ZTBtNExpSTFhRWVNUjBrWTlya1NFM053YkVOckMzS20tb1JvM0RhOWdJQ0JZM250bWZjbThsN0lmdjRkRV96YjlaU0ZUQQ?oc=5\" target=\"_blank\">Kiro で Opus 4.6 が利用可能になりました | Amazon Web Services ブログ</a>  Amazon Web Services (AWS)",
           "thumbnail": "https://picsum.photos/seed/kiro-0/400/225"
         },
@@ -178,10 +178,10 @@
           "thumbnail": "https://picsum.photos/seed/antigravity-0/400/225"
         },
         {
-          "title": "Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する - マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5",
-          "pubDate": "2026-01-31 08:00:00",
-          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rT2V3UndEdWNXWFVjb25QWE5RZ0poRUozMWRpakJKWTlfMzJWRUZDU09wMlJqRHN4RVZWOWhFTHpSQnBER1Q3QlNfR3VIWTFUUVgzcUhqeURvX0Qxb05lTW9ZSHo?oc=5\" target=\"_blank\">Google Antigravityでエージェントファースト開発を始めよう(2) エージェントに指示してブックマーク管理アプリを作成する</a>  マイナビニュース",
+          "title": "【新プラン解説】Google Workspace AI拡張アクセス /Ultraアクセスの比較｜上限・注意点を整理 - ソフトバンク",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmJwZDFQT3dRWnNaMW1hbzJ1V2RwUVJKTmZlVlBISWZXcThoUnR4dlp5OG9kZUtZUEticEpPRnkxbkR2UFAwMkt4dGpmT08wY0NGN3lxd3pTZE1mS3R6dXo2MHphRUlOaU1yeGFMU0laSWh4dldUWWZxOGxIWjMwbmtpaktwbXgy?oc=5",
+          "pubDate": "2026-02-12 14:04:02",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmJwZDFQT3dRWnNaMW1hbzJ1V2RwUVJKTmZlVlBISWZXcThoUnR4dlp5OG9kZUtZUEticEpPRnkxbkR2UFAwMkt4dGpmT08wY0NGN3lxd3pTZE1mS3R6dXo2MHphRUlOaU1yeGFMU0laSWh4dldUWWZxOGxIWjMwbmtpaktwbXgy?oc=5\" target=\"_blank\">【新プラン解説】Google Workspace AI拡張アクセス /Ultraアクセスの比較｜上限・注意点を整理</a>  ソフトバンク",
           "thumbnail": "https://picsum.photos/seed/antigravity-3/400/225"
         },
         {
