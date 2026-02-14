@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-02-14T15:25:33.153Z",
+  "fetchedAt": "2026-02-14T21:23:19.967Z",
   "locale": "en",
   "companies": [
     {
       "company": "google",
       "displayName": "Google",
-      "news": []
+      "news": [
+        {
+          "title": "I'm no longer a 'chaos-notetaker,' thanks to a Gemini intervention - Android Police",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2d1eUEzWklqTm9sV0E0NzE2RHJ4STZPcjZhNkc5VHZrRnFodlR3ZmtITzlZVDdzckJFc1dFWkJyUC1lem1rQ0NEY1hrQnk3OUtSZWdGcUJFbE1xb0txTHh3bTV6MlFvR2FCRVFUbDk3TncyY1ozWkRRa19ILXl6V1NhOHlZcmZ3Ym9kZTkxeHEtak0?oc=5",
+          "pubDate": "2026-02-14 16:15:10",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2d1eUEzWklqTm9sV0E0NzE2RHJ4STZPcjZhNkc5VHZrRnFodlR3ZmtITzlZVDdzckJFc1dFWkJyUC1lem1rQ0NEY1hrQnk3OUtSZWdGcUJFbE1xb0txTHh3bTV6MlFvR2FCRVFUbDk3TncyY1ozWkRRa19ILXl6V1NhOHlZcmZ3Ym9kZTkxeHEtak0?oc=5\" target=\"_blank\">I'm no longer a 'chaos-notetaker,' thanks to a Gemini intervention</a>  Android Police",
+          "thumbnail": "https://picsum.photos/seed/google-3/400/225"
+        },
+        {
+          "title": "1 p.m. - Krewe of Gemini prepares to roll ahead of expected storms; KTBS 3 Parade Tracker available - KTBS 3",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMks1N0pfdFY3R2JkRktEbk9OZGtFakVlakU0OWFIeVcySXE2cEVpQ0VadXJkVkNPOEY5WXJQRnZzd2RYbUpDNE0tTldxV0F4MkNRZ0FIR0dXdDhPOHF5T3lCZGtCZmVZTlhJSXBWQlluQVFVY0t6RWdCbDc1UWVpLWlRcHRPdG1mTld1QkVnZ2ZlRUhKbXM0UzNBbUc3QzBGTUd6UTRRc1MyQ3cyZG9SXzlreTc4azRSME5BZWs3MDdTZU5acHcwTFR0ZnVJWUhaamc?oc=5",
+          "pubDate": "2026-02-14 13:00:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMks1N0pfdFY3R2JkRktEbk9OZGtFakVlakU0OWFIeVcySXE2cEVpQ0VadXJkVkNPOEY5WXJQRnZzd2RYbUpDNE0tTldxV0F4MkNRZ0FIR0dXdDhPOHF5T3lCZGtCZmVZTlhJSXBWQlluQVFVY0t6RWdCbDc1UWVpLWlRcHRPdG1mTld1QkVnZ2ZlRUhKbXM0UzNBbUc3QzBGTUd6UTRRc1MyQ3cyZG9SXzlreTc4azRSME5BZWs3MDdTZU5acHcwTFR0ZnVJWUhaamc?oc=5\" target=\"_blank\">1 p.m. - Krewe of Gemini prepares to roll ahead of expected storms; KTBS 3 Parade Tracker available</a>  KTBS 3",
+          "thumbnail": "https://picsum.photos/seed/google-0/400/225"
+        },
+        {
+          "title": "Hackers Are Trying to Copy Gemini via Thousands of AI Prompts, Google Reports - CNET",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3p2SFliZmg5WWRaaVRLWGdwN1hzUlJRbzc0NmQtalVHNi1zbm01Y1JoOWt5emtEM3FiX1c2bm54TDNNNEZtM21KbENVY3ctd28taktjQ2dja08wNHduUlBpTHNaS2ZfbkZ2X3pIX0c3MndkaUlybWdlN0xKX2U2TGozMzl5dG5KaVZsWG1FbkFGN2dLV0NySDQxWUZOUlJaYkhHblhrWUUxMGVMZ056bERTMWVVOHdpdUlvR05NOA?oc=5",
+          "pubDate": "2026-02-12 18:40:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3p2SFliZmg5WWRaaVRLWGdwN1hzUlJRbzc0NmQtalVHNi1zbm01Y1JoOWt5emtEM3FiX1c2bm54TDNNNEZtM21KbENVY3ctd28taktjQ2dja08wNHduUlBpTHNaS2ZfbkZ2X3pIX0c3MndkaUlybWdlN0xKX2U2TGozMzl5dG5KaVZsWG1FbkFGN2dLV0NySDQxWUZOUlJaYkhHblhrWUUxMGVMZ056bERTMWVVOHdpdUlvR05NOA?oc=5\" target=\"_blank\">Hackers Are Trying to Copy Gemini via Thousands of AI Prompts, Google Reports</a>  CNET",
+          "thumbnail": "https://picsum.photos/seed/google-4/400/225"
+        },
+        {
+          "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lcUh2cU1BR3B5RE9uNFN2Ukp3OTZjams1OFJJcUk5MEg1RkFYTjBCSW8tQTFjVVhZd1lIOGZNbFhHMVlVcXBScW9yOHNZdFcwMW9WUHNORDB2dFQzWFNPOTFFZDVTY0ZFQlhDQ2RoR0VEOS1obUEzY3FTdndfWmM?oc=5",
+          "pubDate": "2026-02-12 17:57:00",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1lcUh2cU1BR3B5RE9uNFN2Ukp3OTZjams1OFJJcUk5MEg1RkFYTjBCSW8tQTFjVVhZd1lIOGZNbFhHMVlVcXBScW9yOHNZdFcwMW9WUHNORDB2dFQzWFNPOTFFZDVTY0ZFQlhDQ2RoR0VEOS1obUEzY3FTdndfWmM?oc=5\" target=\"_blank\">Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support</a>  The Hacker News",
+          "thumbnail": "https://picsum.photos/seed/google-2/400/225"
+        },
+        {
+          "title": "GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use - Google Cloud",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWpZbTBEdFlXamE2dGpnbVB1c0xTOUlMQ1ZPRndmcVZlYmZuWmJpLW1Qd0VsVWJxM2lVa0Z5MjB0V0lYbDJZanhTUHJIaEtPb1VCZjE5akhNd1ZqV3dEN0xiVUxXUS1zcVhKVTFiQUZCOHFHbXlTSDRpdlpYR0x6dE1fOThrM1M4RHI1d0c5MXdzaEpJR1gwbFlaenNTcDExUTBfZmdoS3c0SWJuNVdLTlJmSk04OHc?oc=5",
+          "pubDate": "2026-02-12 07:07:46",
+          "description": "\n<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWpZbTBEdFlXamE2dGpnbVB1c0xTOUlMQ1ZPRndmcVZlYmZuWmJpLW1Qd0VsVWJxM2lVa0Z5MjB0V0lYbDJZanhTUHJIaEtPb1VCZjE5akhNd1ZqV3dEN0xiVUxXUS1zcVhKVTFiQUZCOHFHbXlTSDRpdlpYR0x6dE1fOThrM1M4RHI1d0c5MXdzaEpJR1gwbFlaenNTcDExUTBfZmdoS3c0SWJuNVdLTlJmSk04OHc?oc=5\" target=\"_blank\">GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use</a>  Google Cloud",
+          "thumbnail": "https://picsum.photos/seed/google-1/400/225"
+        }
+      ]
     },
     {
       "company": "openai",
